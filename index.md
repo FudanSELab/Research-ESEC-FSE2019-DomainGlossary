@@ -11,7 +11,7 @@ beta3, Tensorflow 1.12, PyTorch 1.0.0. Among them, Deeplearning4j is written in 
 
 There are two part of this RQ:
 
-1. Accuracy of key steps of our approach.
+#### 1. Accuracy of key steps of our approach.
 
 We evaluate the accuracy of term extraction, alias merging, relation identification, explanation extraction, for each step we select 384 samples. We invite three master students who are experts in the domain to examine the accuracy. For each examination two experts independently make the decision based on the related contexts and their agreement on the decision is checked. When there is disagreement on a decision, the third expert gives an additional judgement.
 
@@ -34,11 +34,32 @@ The annotation results are shown in following files:
 [hadoop explanation extraction annotation](./hadoop_explanation_annotation.json)<br>
 [hadoop explanation extraction arbitration](./hadoop_explanation_arbitration.json)<br>
 
-2. Comparison with Arora et al.’s Approach.
+#### 2. Comparison with Arora et al.’s Approach.
+
+Arora et al.’s approach extracts glossary terms and their related terms (i.e., the terms that belong to the same categories), but does not identify concept aliases or relations. Therefore, we can only compare the accuracy of the extraction of glossary terms with the approach. For each target domain we use the same sampling method to randomly select 384 sentences from the corpus of technical documents and ask the experts to annotate the glossary terms that are included in these sentences. For each sentence two experts independently identify the glossary terms in it and their agreement on each identified term is checked. When there is disagreement on an identified term, the third expert gives an additional judgement. These identified terms are used as the golden set. We implement Arora et al.’s approach and use the implementation to extract glossary terms from the corpus of each domain. We then identify the extracted terms that are included in the sampled sentences and treat these terms as the result set of the approach. The result set of our approach is produced in a similar way. Based on the result sets of the two approaches and the golden set, we calculate the precision, recall, and F1-measure (the harmonic mean of precision and recall) of glossary term extraction for the two approaches.
+
+The annotation and arbitration results are shown in following files:
+
+[deep learning](./DL_comparison.csv)<br>
+[hadoop](./hadoop_comparison.csv)
 
 ### RQ2: How does the extracted domain glossary fuse the knowledge from different projects and documents? How does the extracted concepts complement general knowledge base such as WikiPedia?
 
+We further analyze the complementarity with Wikipedia based on the 384 terms sampled in each domain for the evaluation of term extraction (see Section 4.3). For each term confirmed in RQ1, we manually examine Wikipedia to check whether it is included with the same meaning.
+
+The checking result are shown in following files:
+
+[deep learning](./DL_wikipedia.txt)<br>
+[hadoop](./hadoop_wikipedia.txt)
+
 ### RQ3: Can the extracted domain glossary help developers to obtain the required knowledge?
+
+We design an experiment to investigate whether the extracted domain glossary can help to answer real-world developer queries. We select 12 questions from the top 100 voted Stack Overflow questions with the tag “deep learning” or “Hadoop”. These questions are related to domain concepts and can be answered by the documents.
+
+The selected queries, search results before and after query expansion, annotation results are shown in following files:
+
+[deep learning](./DL_wikipedia.txt)<br>
+[hadoop](./hadoop_wikipedia.txt)
 
 
 
