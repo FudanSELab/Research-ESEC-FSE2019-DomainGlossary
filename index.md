@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Domain-specific Glossary Construction
 
-You can use the [editor on GitHub](https://github.com/DomainGlossary/DomainGlossary.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  We post our data of empirical study in this page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  The two subject domains that we choose for the study represent two kinds of technical domains. Deep learning domain includes software libraries that are written in different languages and provide similar functionalities for the development of deep learning applications. Hadoop domain is a software ecosystem that consists of interdependent software systems. 
 
-### Markdown
+  The subject projects we choose for the deep learning domain are three popular deep learning libraries: Deeplearning4j 1.0.0-
+beta3, Tensorflow 1.12, PyTorch 1.0.0. Among them, Deeplearning4j is written in Java, Tensorflow and PyTorch are written in Python. The subject projects we choose for the Hadoop domain are Hadoop 2.9.2, HBase 2.1.0, Hive 2.3.4. Hadoop is a distributed data storage and processing framework based on the MapReduce model. HBase is a distributed database that runs on top of HDFS (Hadoop Distributed File System) and provides Bigtable-like capabilities for Hadoop. Hive provides a SQL-like interface to query data stored in various databases and file systems that integrate with Hadoop. All these three projects are written in Java.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### RQ1  How accurate are the extracted domain concepts, relations, and explanations? Can the approach outperform existing approaches for domain glossary extraction?
 
-```markdown
-Syntax highlighted code block
+There are two part of this RQ:
 
-# Header 1
-## Header 2
-### Header 3
+1) Accuracy of key steps of our approach.
 
-- Bulleted
-- List
+We evaluate the accuracy of term extraction, alias merging, relation identification, explanation extraction, for each step we select 384 samples. We invite three master students who are experts in the domain to examine the accuracy. For each examination two experts independently make the decision based on the related contexts and their agreement on the decision is checked. When there is disagreement on a decision, the third expert gives an additional judgement.
 
-1. Numbered
-2. List
+The annotation results are shown in following files:
 
-**Bold** and _Italic_ and `Code` text
+[deep learning term extraction annotation](https://help.github.com/categories/github-pages-basics/)
+[deep learning term extraction arbitration]
+[deep learning alias merging annotation](https://help.github.com/categories/github-pages-basics/)
+[deep learning alias merging arbitration]
+[deep learning relation identifiction annotation](https://help.github.com/categories/github-pages-basics/)
+[deep learning relation identifiction arbitration]
+[deep learning explanation extraction annotation](https://help.github.com/categories/github-pages-basics/)
+[deep learning explanation extraction arbitration]
+[hadoop term extraction annotation](https://help.github.com/categories/github-pages-basics/)
+[hadoop term extraction arbitration]
+[hadoop alias merging annotation](https://help.github.com/categories/github-pages-basics/)
+[hadoop alias merging arbitration]
+[hadoop relation identifiction annotation](https://help.github.com/categories/github-pages-basics/)
+[hadoop relation identifiction arbitration]
+[hadoop explanation extraction annotation](https://help.github.com/categories/github-pages-basics/)
+[hadoop explanation extraction arbitration]
 
-[Link](url) and ![Image](src)
-```
+2) Comparison with Arora et al.’s Approach.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### RQ2 How does the extracted domain glossary fuse the knowledge from different projects and documents? How does the extracted concepts complement general knowledge base such as WikiPedia?
 
-### Jekyll Themes
+### RQ3 Can the extracted domain glossary help developers to obtain the required knowledge?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DomainGlossary/DomainGlossary.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
