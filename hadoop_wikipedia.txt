@@ -1,296 +1,296 @@
-ACLS
-ACLs
-Amazon Web Services
-Block Pool
-Bloom Filter
-Bloom filter
-Bloom filters
-CPU requests
-Cached list
-Check table
-Chukwa
-Cluster Application
-Cluster size
-Column Family
-Column Statistics
-Compactor
-Composite service
-Coprocessors
-Create Table
-Data Node
-Dist
-Drops table
-Entry instance
-Group entry
-HAR
-HBASE
-HCD
-HDFS Storage
-HDFS storage
-HLL
-HTTP connections
-HTTP verbs
-Hadoop
-Hadoop Distributed File System
-Hbase
-High Availability
-Hive Metastore
-Http address
-Index table
-Input format
-JIRA
-JobID
-Local metastore
-META table
-Map files
-Metrics Subsystem
-Metrics names
-Metrics system
-NLM
-Namenode
-OLTP
-Output table
-PMC
-PMOD
-POJO
-POM
-Partition files
-Protos
-Put requests
-Queue name
-RM
-RPC
-RR
-RRs
-Rack name
-Reference files
-Remote directory
-Retired table
-Rm
-SMB
-Show Table
-Spark cluster
-Storage Policies
-Storage formats
-System table
-TLP
-TRACE level
-Table Scan
-Table descriptor
-Table integrity
-Thrift service
-Write table
-access result
-accessed files
-acls
-admin
-aggregation request
-allocation size
-appender
-associated directory
-attempt times
-auths
-backport
-backports
-batch size
-block level
-bytes token
-cache capacity
-cached block
-caching blocks
-cell value
-cgroup
-checksum type
-client call
-client instance
-client policy
-client scanner
-client token
-cluster identifier
-cluster metrics
-cluster state
-cmdline
-column date
-column descriptor
-column family
-column qualifier
-column references
-column vectors
-columns values
-compactor
-confidence level
-connection configuration
-container name
-coprocessor
-coprocessors
-counter limit
-counter name
-counter names
-crypto
-customer table
-data distribution
-data locality
-data nucleus
-data reads
-data security
-data size
-data statistics
-database name
-database names
-datanode
-dead values
-decimal type
-dependent table
-disk blocks
-disk location
-drop table
-empty memory
-empty response
-encrypted Key
-encryption key
-encryption keys
-encryption status
-encryption zone
-end keys
-entire cluster
-eviction time
-expiry time
-failure condition
-family path
-filter cells
-filter incompatibility
-filter name
-filter pattern
-format table
-fsck
-fsimage format
-group key
-group mapping
-guid
-hdfs
-heap size
-iSQL
-index search
-index table
-input column
-input split
-interval value
-jira
-jsvc
-key range
-key vector
-labels table
-load generator
-local blocks
-local cluster
-local directory
-local rate
-local reads
-local source
-location number
-log4j
-long counter
-lz4
-mapreduce
-master level
-memory caching
-memory requirement
-memory shuffle
-memory systems
-metadata Table
-metrics implementation
-metrics info
-metrics reporting
-metrics tag
-mob files
-mongodb
-network topology
-object pool
-open call
-operation level
-operation type
-optimize number
-output batch
-output fields
-output privileges
-output processor
-output table
-particular block
-particular table
-partition directory
-partition filter
-partition level
-partition name
-partition names
-partition values
-privilege level
-query level
-raw scan
-read pattern
-read performance
-read queue
-read type
-reduced table
-reference files
-regionserver
-remote blocks
-replication queues
-replication service
-request size
-resource contention
-retry attempt
-retry interval
-root location
-root queue
-row keys
-row schema
-schema creation
-security entity
-separate directory
-sequence ID
-service entry
-servlet filter
-short amount
-skewed table
-slave cluster
-snapshot information
-snapshottable directory
-source state
-split request
-split size
-split table
-start code
-storage efficiency
-storage fault
-storage formats
-storage policy
-storage ratio
-store blocks
-store file
-storer
-system location
-system table
-table Properties
-table archive
-table integrity
-table names
-table permissions
-table snapshot
-table types
-task counters
-task number
-temporary table
-thrift server
-time ranges
-timeline store
-tmpfs
-token identifier
-traffic control
-underlying table
-untar
-update request
-virtual memory
-write requests
-writes block
-xattr
-zk
+ACLS T
+ACLs T
+Amazon Web Services T
+Block Pool F
+Bloom Filter T
+Bloom filter T
+Bloom filters T
+CPU requests F
+Cached list F
+Check table F
+Chukwa T
+Cluster Application F
+Cluster size T
+Column Family T
+Column Statistics F
+Compactor T
+Composite service T
+Coprocessors T
+Create Table T
+Data Node F
+Dist F
+Drops table F
+Entry instance F
+Group entry F
+HAR T
+HBASE T
+HCD T
+HDFS Storage T
+HDFS storage T
+HLL T
+HTTP connections F
+HTTP verbs T
+Hadoop Distributed File System T
+Hadoop T
+Hbase T
+High Availability T
+Hive Metastore F
+Http address F
+Index table F
+Input format F
+JIRA T
+JobID F
+Local metastore F
+META table F
+Map files F
+Metrics Subsystem F
+Metrics names F
+Metrics system T
+NLM T
+Namenode F
+OLTP T
+Output table F
+PMC T
+PMOD T
+POJO T
+POM T
+Partition files F
+Protos F
+Put requests F
+Queue name F
+RM F
+RPC T
+RR F
+RRs F
+Rack name F
+Reference files F
+Remote directory F
+Retired table F
+Rm T
+SMB T
+Show Table F
+Spark cluster T
+Storage Policies F
+Storage formats F
+System table F
+TLP T
+TRACE level F
+Table Scan T
+Table descriptor F
+Table integrity F
+Thrift service T
+Write table F
+access result F
+accessed files F
+acls T
+admin T
+aggregation request F
+allocation size F
+appender F
+associated directory F
+attempt times F
+auths F
+backport T
+backports T
+batch size F
+block level T
+bytes token F
+cache capacity F
+cached block F
+caching blocks F
+cell value F
+cgroup T
+checksum type F
+client call F
+client instance F
+client policy F
+client scanner F
+client token F
+cluster identifier F
+cluster metrics F
+cluster state T
+cmdline F
+column date F
+column descriptor F
+column family T
+column qualifier F
+column references F
+column vectors T
+columns values T
+compactor T
+confidence level T
+connection configuration F
+container name F
+coprocessor T
+coprocessors T
+counter limit F
+counter name F
+counter names F
+crypto T
+customer table F
+data distribution F
+data locality F
+data nucleus F
+data reads F
+data security T
+data size F
+data statistics F
+database name F
+database names F
+datanode F
+dead values F
+decimal type T
+dependent table F
+disk blocks F
+disk location F
+drop table F
+empty memory F
+empty response F
+encrypted Key F
+encryption key T
+encryption keys T
+encryption status F
+encryption zone F
+end keys F
+entire cluster F
+eviction time F
+expiry time F
+failure condition F
+family path F
+filter cells F
+filter incompatibility F
+filter name F
+filter pattern F
+format table F
+fsck T
+fsimage format F
+group key T
+group mapping F
+guid T
+hdfs T
+heap size F
+iSQL T
+index search T
+index table F
+input column F
+input split F
+interval value F
+jira T
+jsvc T
+key range F
+key vector F
+labels table F
+load generator F
+local blocks F
+local cluster F
+local directory F
+local rate F
+local reads F
+local source F
+location number F
+log4j T
+long counter F
+lz4 T
+mapreduce T
+master level F
+memory caching T
+memory requirement F
+memory shuffle F
+memory systems F
+metadata Table F
+metrics implementation F
+metrics info F
+metrics reporting F
+metrics tag F
+mob files F
+mongodb T
+network topology T
+object pool F
+open call F
+operation level F
+operation type F
+optimize number F
+output batch F
+output fields F
+output privileges F
+output processor F
+output table F
+particular block F
+particular table F
+partition directory F
+partition filter F
+partition level F
+partition name F
+partition names F
+partition values F
+privilege level T
+query level T
+raw scan F
+read pattern F
+read performance F
+read queue F
+read type F
+reduced table F
+reference files F
+regionserver F
+remote blocks F
+replication queues F
+replication service T
+request size F
+resource contention T
+retry attempt F
+retry interval F
+root location F
+root queue F
+row keys F
+row schema F
+schema creation F
+security entity F
+separate directory F
+sequence ID F
+service entry F
+servlet filter F
+short amount F
+skewed table F
+slave cluster F
+snapshot information F
+snapshottable directory F
+source state F
+split request F
+split size F
+split table F
+start code F
+storage efficiency T
+storage fault F
+storage formats F
+storage policy F
+storage ratio F
+store blocks F
+store file F
+storer F
+system location F
+system table F
+table Properties F
+table archive F
+table integrity F
+table names F
+table permissions F
+table snapshot F
+table types F
+task counters F
+task number F
+temporary table F
+thrift server T
+time ranges F
+timeline store F
+tmpfs T
+token identifier F
+traffic control T
+underlying table F
+untar F
+update request F
+virtual memory T
+write requests F
+writes block F
+xattr T
+zk T
