@@ -58,8 +58,8 @@ We design an experiment to investigate whether the extracted domain glossary can
 
 The selected queries, search results before and after query expansion, annotation results are shown in following files:
 
-[deep learning](./DL_wikipedia.txt)<br>
-[hadoop](./hadoop_wikipedia.txt)
+[deep learning](./DL_usefulness.csv)<br>
+[hadoop](./hadoop_usefulness.csv)
 
 
 
