@@ -1,0 +1,296 @@
+ACLS
+ACLs
+Amazon Web Services
+Block Pool
+Bloom Filter
+Bloom filter
+Bloom filters
+CPU requests
+Cached list
+Check table
+Chukwa
+Cluster Application
+Cluster size
+Column Family
+Column Statistics
+Compactor
+Composite service
+Coprocessors
+Create Table
+Data Node
+Dist
+Drops table
+Entry instance
+Group entry
+HAR
+HBASE
+HCD
+HDFS Storage
+HDFS storage
+HLL
+HTTP connections
+HTTP verbs
+Hadoop
+Hadoop Distributed File System
+Hbase
+High Availability
+Hive Metastore
+Http address
+Index table
+Input format
+JIRA
+JobID
+Local metastore
+META table
+Map files
+Metrics Subsystem
+Metrics names
+Metrics system
+NLM
+Namenode
+OLTP
+Output table
+PMC
+PMOD
+POJO
+POM
+Partition files
+Protos
+Put requests
+Queue name
+RM
+RPC
+RR
+RRs
+Rack name
+Reference files
+Remote directory
+Retired table
+Rm
+SMB
+Show Table
+Spark cluster
+Storage Policies
+Storage formats
+System table
+TLP
+TRACE level
+Table Scan
+Table descriptor
+Table integrity
+Thrift service
+Write table
+access result
+accessed files
+acls
+admin
+aggregation request
+allocation size
+appender
+associated directory
+attempt times
+auths
+backport
+backports
+batch size
+block level
+bytes token
+cache capacity
+cached block
+caching blocks
+cell value
+cgroup
+checksum type
+client call
+client instance
+client policy
+client scanner
+client token
+cluster identifier
+cluster metrics
+cluster state
+cmdline
+column date
+column descriptor
+column family
+column qualifier
+column references
+column vectors
+columns values
+compactor
+confidence level
+connection configuration
+container name
+coprocessor
+coprocessors
+counter limit
+counter name
+counter names
+crypto
+customer table
+data distribution
+data locality
+data nucleus
+data reads
+data security
+data size
+data statistics
+database name
+database names
+datanode
+dead values
+decimal type
+dependent table
+disk blocks
+disk location
+drop table
+empty memory
+empty response
+encrypted Key
+encryption key
+encryption keys
+encryption status
+encryption zone
+end keys
+entire cluster
+eviction time
+expiry time
+failure condition
+family path
+filter cells
+filter incompatibility
+filter name
+filter pattern
+format table
+fsck
+fsimage format
+group key
+group mapping
+guid
+hdfs
+heap size
+iSQL
+index search
+index table
+input column
+input split
+interval value
+jira
+jsvc
+key range
+key vector
+labels table
+load generator
+local blocks
+local cluster
+local directory
+local rate
+local reads
+local source
+location number
+log4j
+long counter
+lz4
+mapreduce
+master level
+memory caching
+memory requirement
+memory shuffle
+memory systems
+metadata Table
+metrics implementation
+metrics info
+metrics reporting
+metrics tag
+mob files
+mongodb
+network topology
+object pool
+open call
+operation level
+operation type
+optimize number
+output batch
+output fields
+output privileges
+output processor
+output table
+particular block
+particular table
+partition directory
+partition filter
+partition level
+partition name
+partition names
+partition values
+privilege level
+query level
+raw scan
+read pattern
+read performance
+read queue
+read type
+reduced table
+reference files
+regionserver
+remote blocks
+replication queues
+replication service
+request size
+resource contention
+retry attempt
+retry interval
+root location
+root queue
+row keys
+row schema
+schema creation
+security entity
+separate directory
+sequence ID
+service entry
+servlet filter
+short amount
+skewed table
+slave cluster
+snapshot information
+snapshottable directory
+source state
+split request
+split size
+split table
+start code
+storage efficiency
+storage fault
+storage formats
+storage policy
+storage ratio
+store blocks
+store file
+storer
+system location
+system table
+table Properties
+table archive
+table integrity
+table names
+table permissions
+table snapshot
+table types
+task counters
+task number
+temporary table
+thrift server
+time ranges
+timeline store
+tmpfs
+token identifier
+traffic control
+underlying table
+untar
+update request
+virtual memory
+write requests
+writes block
+xattr
+zk

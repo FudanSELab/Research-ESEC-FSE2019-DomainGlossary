@@ -1,0 +1,320 @@
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"However, newly added layers can override this learning rate by specifying their own learning rates in the layer builder.
+",1
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"Applies linear cosine decay to the learning rate.
+",1
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"autoclass:: SGD How to adjust Learning Rate --------------------------- :mod:`torch.optim.lr_scheduler` provides several methods to adjust the learning rate based on the number of epochs.
+",0
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"Set the learning rate schedule for a single layer in the network to the specified value.
+",1
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"Cycle schedule Starts at initial learning rate, then linearly increases learning rate until max learning rate is reached, at that point the learning rate is decreased back to initial learning rate.
+",1
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"Set the learning rate and schedule.
+",1
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"It is recommended to use the optimizer in conjunction with: - Gradual learning rate warm-up - Linear learning rate scaling - Poly rule learning rate decay.
+",1
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"Set the learning rate for a single layer in the network to the specified value.
+",1
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"Learning configs (like updaters, learning rate etc) specified with the layer here will be honored.
+",1
+How to set layer-wise learning rate in Tensorflow ?,After Expansion,"Set the learning rate.
+",1
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"Set the learning rate for a single layer in the network to the specified value.
+",1
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"__TABLE__ How to adjust Learning Rate.
+",0
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"Set the learning rate schedule for a single layer in the network to the specified value.
+",1
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"Set the learning rate.
+",1
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"Add layers to the net Usage example: specify a learning rate will set specified learning rate on all layers Note this will also affect the layer that follows the layer specified, unless it is the output layer.
+",1
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"Set the learning rate and schedule.
+",1
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"autoclass:: SGD How to adjust Learning Rate --------------------------- :mod:`torch.optim.lr_scheduler` provides several methods to adjust the learning rate based on the number of epochs.
+",0
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"Set the learning rate for all layers in the network to the specified value.
+",1
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"Layer-wise Adaptive Rate Scaling for large batch training.
+",1
+How to set layer-wise learning rate in Tensorflow ?,Before Expansion,"Set the learning rate schedule for all layers in the network to the specified schedule.
+",1
+Understanding Keras LSTMs,After Expansion,"That same network using LSTMs are sequence-to-sequence autoencoders and are effective at capturing temporal structure.
+",1
+Understanding Keras LSTMs,After Expansion,"Salesforce Research released several packages, including their highlight release of PyTorch-QRNN, a type of RNN that is 2x to 17x faster than standard LSTMs optimized by CuDNN.
+",0
+Understanding Keras LSTMs,After Expansion,"Instead of using dense layers in an autoencoder, you can swap out simple MLPs for LSTMs.
+",1
+Understanding Keras LSTMs,After Expansion,"The difference between them is in size of the LSTMs and the set of hyperparameters used for training.
+",1
+Understanding Keras LSTMs,After Expansion,"To create a compact, fixed-length embedding, we sum up the output of the LSTMs.
+",1
+Understanding Keras LSTMs,After Expansion,"Networks is about LSTMs specifically but also informative about RNNs in general.
+",1
+Understanding Keras LSTMs,After Expansion,"Set True to enable shared cell weights between time and frequency LSTMs.
+",1
+Understanding Keras LSTMs,After Expansion,"The configuration is quite similar to the autoencoders in other tutorials, except layers primarily use LSTMs.
+",1
+Understanding Keras LSTMs,After Expansion,"Stacking multiple LSTMs.
+",0
+Understanding Keras LSTMs,After Expansion,"RNN tutorial: http://deeplearning4j.org/usingrnns.html Bdirectional LSTM layer implementation.
+",0
+Understanding Keras LSTMs,Before Expansion,"See Understanding LSTM Networks for an introduction to recurrent neural networks and LSTMs.
+",1
+Understanding Keras LSTMs,Before Expansion,"Stacking multiple LSTMs.
+",0
+Understanding Keras LSTMs,Before Expansion,"PyTorch Forums Understanding Enropy.
+",0
+Understanding Keras LSTMs,Before Expansion,"Understanding Scope Panic Exceptions.
+",0
+Understanding Keras LSTMs,Before Expansion,"My understanding is that m.log_prob() calls.
+",0
+Understanding Keras LSTMs,Before Expansion,"It assumes a basic understanding of TensorFlow.
+",0
+Understanding Keras LSTMs,Before Expansion,"Publisher's note: Deep Learning with Python introduces the field of deep Keras creator and Google AI researcher Franois Chollet, this book builds your understanding through intuitive explanations and practical examples.
+",0
+Understanding Keras LSTMs,Before Expansion,"It is worth reading and understanding that page first.
+",0
+Understanding Keras LSTMs,Before Expansion,"The configuration is quite similar to the autoencoders in other tutorials, except layers primarily use LSTMs.
+",1
+Understanding Keras LSTMs,Before Expansion,"Set True to enable shared cell weights between time and frequency LSTMs.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"People talk about embedding words in a vector space (action) and about producing word embeddings (things).
+",0
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"We start by getting the embedding of the current word and applying a dropout.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"This method allows you to use pre-built WordVectors model (Word2Vec or GloVe) for ParagraphVectors.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"Computation Graph: Get embedding of current input word.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"The TensorFlow Embedding Projector.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"word2vec Explained: Deriving Mikolov et al.'s Negative-Sampling Word-Embedding Method; Yoav Goldberg and Omer Levy.
+",0
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"Let \(x_w\) be the word embedding as before.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"(1) Is there any word embedding examples using torchtext.vocab?
+",0
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"So a neural word embedding represents a word with numbers.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,After Expansion,"Word2Vec, Doc2vec & GloVe: Neural Word Embeddings for Natural Language Processing.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"Word2Vec, Doc2vec & GloVe: Neural Word Embeddings for Natural Language Processing.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"This method allows you to use pre-built WordVectors model (Word2Vec or GloVe) for ParagraphVectors.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"torchvision.models (train or load pre-trained models).
+",0
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"(1) Is there any word embedding examples using torchtext.vocab?
+",0
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"Uses word vectors from the passed in word2vec model.
+",0
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"So a neural word embedding represents a word with numbers.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"word2vec Explained: Deriving Mikolov et al.'s Negative-Sampling Word-Embedding Method; Yoav Goldberg and Omer Levy.
+",0
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"This method allows you to use pre-built WordVectors model (SkipGram or GloVe) for DBOW sequence learning.
+",1
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"I am implementing a paper on uncertainty estimation and using torch-vision pre-trained model ResNet-18.
+",0
+Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,Before Expansion,"Returns a variable initializer for loading pre-trained embeddings.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"The opposite is the static tool kit, which includes Theano, Keras, TensorFlow, etc.
+",0
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"def optimize_model(): if len(memory) < BATCH_SIZE: return transitions = memory.Before Expansion(BATCH_SIZE) # Transpose the batch (see __URL__ for # detailed explanation).
+",0
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"note:: Channel dim is the 2nd dim of input.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"Channel dim is the 2nd dim of input.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"Fraction of the input units to drop.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"Inputs: input_step: one time step (one word) of input sequence batch; shape=(1, batch_size).
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"Input() is used to instantiate a Keras tensor.
+",0
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"Its shape is (batch_size, units) and its dtype is float32.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"Args: input_shape: Single tuple, TensorShape, or list of shapes, where shapes are tuples, integers, or TensorShapes.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",After Expansion,"Imports an Input layer from Keras.
+",0
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"For instance, for a 2D input with shape (batch_size, input_dim), the output would have shape (batch_size, units).
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"def optimize_model(): if len(memory) < BATCH_SIZE: return transitions = memory.Before Expansion(BATCH_SIZE) # Transpose the batch (see __URL__ for # detailed explanation).
+",0
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"Output shape: nD tensor with shape: (batch_size, ..., units).
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"inputs: A Tensor of shape [batch_size, dim].
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"Its shape is (batch_size, units) and its dtype is float32.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"Manually set dim order for Keras model, i.e.
+",0
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"Channel dim is the 2nd dim of input.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"Fraction of the input units to drop.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"input_shape: Shape of the input as int tuple, excluding the batch size.
+",1
+"Keras input explanation: input_shape, units, batch_size, dim, etc",Before Expansion,"note:: Channel dim is the 2nd dim of input.
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"Sets the weights of the optimizer, from Numpy arrays.
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"Consuming NumPy arrays.
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"What are the differences of the dropout behavior between the eval and training mode?
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"42.] And NumPy operations convert Tensors to numpy arrays automatically [[43.
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"Note: numpy arrays are considered as scalars.
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"For small datasets, use in-memory NumPy arrays to train and evaluate a model.
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"This is the Tensor and numpy format.
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"Note: numpy arrays and strings are considered scalars.
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"The images are 28x28 NumPy arrays, with pixel values ranging between 0 and 255.
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,After Expansion,"__CODE__ (1, 2) The most obvious differences between NumPy arrays and TensorFlow Tensors are: Tensors can be backed by accelerator memory (like GPU, TPU).
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"What are the differences of the dropout behavior between the eval and training mode?
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"__CODE__ (1, 2) The most obvious differences between NumPy arrays and TensorFlow Tensors are: Tensors can be backed by accelerator memory (like GPU, TPU).
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"The images are 28x28 NumPy arrays, with pixel values ranging between 0 and 255.
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"Note: numpy arrays and strings are considered scalars.
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"What should I do?
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"(3) When should I use nn.ModuleList and when should I use nn.Sequential?
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"Unlike mean_squared_error, which is a measure of the differences between corresponding elements of predictions and labels, mean_pairwise_squared_error is a measure of the differences between pairs of corresponding elements of predictions and labels.
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"Note: numpy arrays are considered as scalars.
+",1
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"In the past, we were often asked: ""which backend should I use?"".
+",0
+What are the differences between numpy arrays and matrices? Which one should I use ?general ?,Before Expansion,"The objective_vector parameter should be a numpy array with shape (n,), for which objective_vector[i] = f(w_i).
+",0
+Nearest neighbors in high-dimensional data ?,After Expansion,"nearest: i or j, whichever is nearest.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"Below, we filtered the 100 nearest neighbors of ""politics"" and projected them onto the ""worst"" - ""best"" vector as an x axis.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"The following image shows 101 points selected and ready Selection of the nearest neighbors of ""important"" in a word embedding dataset.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"Clicking on a point causes the right pane to list the nearest neighbors, along with distances to the current point.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"To do so, you can select points in multiple After clicking on a point, its nearest neighbors are also selected.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"Some examples of hyperparameters are 'k' in k-nearest-neighbors and the regularization parameter in Support Vector Machines.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"Query results up to length n nearest neighbors.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"Run a k nearest neighbors search on a NEW data point.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"One common use is to find nearest neighbors.
+",1
+Nearest neighbors in high-dimensional data ?,After Expansion,"Client for the nearest neighbors server.
+",0
+Nearest neighbors in high-dimensional data ?,Before Expansion,"Run a k nearest neighbors search on a NEW data point.
+",1
+Nearest neighbors in high-dimensional data ?,Before Expansion,"Client for the nearest neighbors server.
+",0
+Nearest neighbors in high-dimensional data ?,Before Expansion,"One common use is to find nearest neighbors.
+",1
+Nearest neighbors in high-dimensional data ?,Before Expansion,"Query results up to length n nearest neighbors.
+",1
+Nearest neighbors in high-dimensional data ?,Before Expansion,"Some examples of hyperparameters are 'k' in k-nearest-neighbors and the regularization parameter in Support Vector Machines.
+",1
+Nearest neighbors in high-dimensional data ?,Before Expansion,"Are embeddings high-dimensional or low-dimensional?
+",0
+Nearest neighbors in high-dimensional data ?,Before Expansion,"To do so, you can select points in multiple After clicking on a point, its nearest neighbors are also selected.
+",1
+Nearest neighbors in high-dimensional data ?,Before Expansion,"The following image shows 101 points selected and ready Selection of the nearest neighbors of ""important"" in a word embedding dataset.
+",1
+Nearest neighbors in high-dimensional data ?,Before Expansion,"Clicking on a point causes the right pane to list the nearest neighbors, along with distances to the current point.
+",1
+Nearest neighbors in high-dimensional data ?,Before Expansion,"Below, we filtered the 100 nearest neighbors of ""politics"" and projected them onto the ""worst"" - ""best"" vector as an x axis.
+",1
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"A FlatMapFunction for executing training on DataSets.
+",1
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"Therefore if you have two sets of files for training and validation purposes, you can use a tf.placeholder(tf.string) to represent the filenames, and initialize an iterator from the appropriate filenames: Consuming text data.
+",1
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"Sets the input and labels and returns a score for the prediction This is equivalent to score(DataSet, boolean) with training==false.
+",0
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"Now, configure the model to use an optimizer and a loss function: Create a validation set.
+",0
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"The largest (in this case roughly 80% of the data) is used for training the network, a smaller set (10% here, known as ""validation"") is reserved for evaluation of the accuracy during training, and another set (the last 10%, ""testing"") is used to evaluate the accuracy once after the training is complete.
+",1
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"PyTorch Forums DistributedBefore Expansionr for validation set in ImageNet example.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"The train_model function handles the training and validation of a given model.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"A small multiple of batch_size is a good rule of thumb to prevent that queue from becoming a bottleneck and slowing down training.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"# Data augmentation and normalization for training # Just normalization for validation data_transforms = { 'train': transforms.Compose([ transforms.RandomResizedCrop(input_size), transforms.RandomHorizontalFlip(), transforms.ToTensor(), transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225]) ]), 'val': transforms.Compose([ transforms.Resize(input_size), transforms.CenterCrop(input_size), transforms.ToTensor(), transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225]) ]), } print(""Initializing Datasets and Dataloaders..."") # Create training and validation datasets image_datasets = {x: datasets.ImageFolder(os.path.join(data_dir, x), data_transforms[x]) for x in ['train', 'val']} # Create training and validation dataloaders dataloaders_dict = {x: torch.utils.data.DataLoader(image_datasets[x], batch_size=batch_size, shuffle=True, num_workers=4) for x in ['train', 'val']} # Detect if we have a GPU available device = torch.device(""cuda:0"" if torch.cuda.is_available() else ""cpu"") Initializing Datasets and Dataloaders...
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,After Expansion,"You can pass a dataset iterator with your testing/validation data to an evaluate() method.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"Rule of thumb Use the Gloo backend for distributed CPU training.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"A small multiple of batch_size is a good rule of thumb to prevent that queue from becoming a bottleneck and slowing down training.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"- Rule of thumb - Use the NCCL backend for distributed **GPU** training - Use the Gloo backend for distributed **CPU** training.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"Clips are assigned to training, test, or validation sets based on a hash of their filename, to ensure that the assignments remain steady even as new clips are added and avoid any training samples migrating into the other sets.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"Divide the text into training examples and targets.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"VCTK) into training and testing sets?
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"Result for validation of DataSet and MultiDataSets.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"Sets the input and labels and returns a score for the prediction This is equivalent to score(DataSet, boolean) with training==false.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"First the data is split into training and testing sets.
+",
+Is there a rule-of-thumb for how to divide a dataset into training and validation sets ?,Before Expansion,"Split data into training and test sets.
+",
+What is machine learning ?,After Expansion,"An Introduction to MCMC for Machine Learning.
+",
+What is machine learning ?,After Expansion,"provide an excellent starting point for learning about machine learning.
+",
+What is machine learning ?,After Expansion,"Learn and use machine learning.
+",
+What is machine learning ?,After Expansion,"that provides a technical dive into learning machine learning.
+",
+What is machine learning ?,After Expansion,"Microsoft Azure Azure Machine Learning.
+",
+What is machine learning ?,After Expansion,"Azure Machine Learning Service.
+",
+What is machine learning ?,After Expansion,"Machine Learning Crash Course.
+",
+What is machine learning ?,After Expansion,"Machine Learning Recipes, a video series that introduces basic machine learning concepts with few prerequisites.
+",
+What is machine learning ?,After Expansion,"Machine Learning Crash Course, a course from Google that introduces machine learning concepts.
+",
+What is machine learning ?,After Expansion,"Math for Machine Learning.
+",
+What is machine learning ?,Before Expansion,"Math for Machine Learning.
+",
+What is machine learning ?,Before Expansion,"Machine Learning Crash Course, a course from Google that introduces machine learning concepts.
+",
+What is machine learning ?,Before Expansion,"Machine Learning Recipes, a video series that introduces basic machine learning concepts with few prerequisites.
+",
+What is machine learning ?,Before Expansion,"Azure Machine Learning Service.
+",
+What is machine learning ?,Before Expansion,"Machine Learning Crash Course.
+",
+What is machine learning ?,Before Expansion,"Microsoft Azure Azure Machine Learning.
+",
+What is machine learning ?,Before Expansion,"that provides a technical dive into learning machine learning.
+",
+What is machine learning ?,Before Expansion,"Learn and use machine learning.
+",
+What is machine learning ?,Before Expansion,"Arbiter is part of the DL4J Suite of Machine Learning/Deep Learning tools for the enterprise.
+",
+What is machine learning ?,Before Expansion,"provide an excellent starting point for learning about machine learning.
+",
