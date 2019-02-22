@@ -1,0 +1,4671 @@
+[
+    {
+        "name": "inner loop",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "precision function",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "attention mechanism",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    
+    {
+        "name": "feedforward",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "generator inputs",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Upsampling3D",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "static shape",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "discrete value",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "probability density",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "network storage",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "optimization results",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "probability mass function",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "type tensor",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "linear activation",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sparse indices",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Cross Entropy",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "classification error",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dense Tensors",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Image Transformation",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Accuracy Tensor",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "bias parameter",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Multidimensional indices",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input pipeline",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reconstruction probabilities",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Rectified Linear Unit",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "leakyrelu",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Autoregressive Flow",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sum operator",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "conceptual level",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "normalizing flow",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "update parameters",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "num2",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "maximal number",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "loaded graph",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "GPU nodes",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "human intuition",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "second vertex",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Nesterov",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "linear view",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dense vectors",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "device field",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "identity matrix",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input multiple",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fit function",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Contiguous inputs",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "momentum rate",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fast convergence",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "deep networks",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Post step",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "TBPTT length",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dropout layers",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "indexed values",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "network learn",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output activations",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "preprocess",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reduce index",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "squares problems",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Various function",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "memcpy",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "merged value",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Core Layers",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "mat2",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "cropped tensor",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "attention cell",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training looks",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "initial batch",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Batch Normalization",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "prediction time",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "random scales",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "BackPropagation",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Tensor Methods",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "adder function",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Logistic distribution",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "data loading",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Bucketized column",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "resulting operation",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "PReLU",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output columns",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "variable indices",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "axis argument",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "standard memory",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "outcome matrices",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Premade",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pretrainable layers",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Activation parameter",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Layer Types",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tracking shapes",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "labels source",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "vocabulary values",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Dropout layer",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Boltzmann machines",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "trained word",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "passthrough",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "aeron channel",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "diagonal part",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "network connectivity",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "second tensors",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "bernoulli distribution",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training specification",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "summation index",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "GAN Training",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training steps",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "valid one",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "lower rank",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Google Cloud",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "labels distribution",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "maximum function",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "accuracy statistics",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "BPTT",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "model inputs",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pca",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "TFGAN",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "gamma weight",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "propagation step",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "good approximation",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "optional bias",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "amsgrad",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "recall array",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "oom",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tuple structure",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "bias matrices",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Multiply layer",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "affine parameters",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "mode model",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input weight",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "second aspect",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "GPU Devices",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "distributed storage",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "triplet loss",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "l2 norm",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fail training",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fake batch",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "hyperparameter",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "algorithmic part",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "parent graph",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "normalized text",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "third image",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training sessions",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Matrix multiplication",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Restored model",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "LAPACK",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "PRED",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Recurrent Network",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "termination condition",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Input image",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "average loss",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "unit simplex",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "contrib",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Preprocessing",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "naming inputs",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "full gradient",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Sequence models",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Pathwise",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "feed values",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "NN",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fid",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "RRELU",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "continuing training",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Recht",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Binary Classification",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "masking value",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sspmm",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "convert tensor",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "wave samples",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "minibatch training",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "example number",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "loading embedding",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "activation equal",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "categorical values",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input signal",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "interpolant",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "distribution parameter",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "opencl",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Model Function",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input loss",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input trying",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "collective function",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Scalar sum",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "primary distributions",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Interpolation mode",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Entropy loss",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "graph model",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "image classifier",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "packt",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "continuous distributions",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "updated gradient",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "mean estimate",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "word frequencies",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "multiple series",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "best model",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "real interval",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Export classifier",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Sender rank",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "matching rank",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "recommended number",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "defun",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Time step",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "batch normalization",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "minimum rank",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "name tensor",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "random sequence",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "weight parameter",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pre training",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "auc value",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "squared loss",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Rectified Linear Units",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pooling layers",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "precompute",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "final parameters",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output arrays",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "generic data",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dumped tensor",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Redmon",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "probability distributions",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "square function",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "encoded labels",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Count number",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pairwise",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Data Loading",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Pareto distribution",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Gamma distribution",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "data pipeline",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "weight quantization",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "absolute accuracy",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "feature columns",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "one job",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dropout value",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fixed shape",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "optimizers",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "divison",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input feature",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "round function",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "plot image",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "operation time",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "RF parameters",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "s32",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "evaluation model",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "data manageable",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "convolutional",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "master node",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "CoreML models",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "full graph",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "double column",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "next checkpoint",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "computed gradient",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "allocation point",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Gradient checking",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "compilation process",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "example model",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "mdp",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "squeeze operation",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Xmx",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "maximum shape",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "negative trials",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "logistic distribution",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "convolution window",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "ML model",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "adjusting models",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "data sparsity",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tuple elements",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Parameter Server",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pacman",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "SELU",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "UNK",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "corresponding shapes",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "partial runs",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Bernoulli trials",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "ifft",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pooling ratio",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "counter variable",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Optional tensor",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sampling randomly",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "weighting function",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dimension length",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "label one",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "optional randomization",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sparse features",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dense results",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Add matrix",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Importance sampling",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "evaluate function",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "probability densities",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Random array",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Keras guide",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reduced Tensor",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "visual example",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Probability Mass",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "unigram",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "computation graphs",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "batch elements",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "inconsistent shapes",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "vector element",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "NWC",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "permutation operation",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "supported device",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "deterministic order",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "edge padding",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "TensorRT",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Run inference",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "identity operator",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "building input",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "geometric distribution",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input images",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "bin values",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "binary classifier",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "circular padding",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "arbitrary tensors",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sequential manner",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Density Modeling",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "GPU scenarios",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "series length",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "canonical ordering",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sequence length",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "treebank",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Model Parameters",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "CRF",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "streaming value",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reduction occurs",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "transfer learning",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pipeline optimization",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "normalization part",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Layer normalization",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Weight parameter",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Data normalization",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "generalized contraction",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Real Images",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sample field",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "global ratio",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input layers",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "CuDNNGRU",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "update messages",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "STN",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "unitary operator",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "summary Tensor",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output vertex",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "epsilon values",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Greff",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Bias parameter",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "final batch",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "f1 score",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reduced values",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dmax",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output matrix",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "usually images",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "second loop",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "col2im",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Keras variable",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "total lines",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "polynomial order",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "variance Tensor",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "next data",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "maximum feature",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "positive weight",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "band matrix",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dense component",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "regexp",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "erf",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "train batches",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "best path",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "codomain",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sequential inference",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "unique step",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "small layer",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "max steps",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "restore values",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "collapse dimensions",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Momentum value",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "differential equations",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "column Keys",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "latent values",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "rotation angle",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "known value",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training time",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "distributed trainer",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "actual machine",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "inner loop",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "precision function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "feedforward",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "generator inputs",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Upsampling3D",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "discrete value",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "probability density",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "linear activation",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Cross Entropy",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "classification error",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dense Tensors",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Image Transformation",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input pipeline",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Accuracy Tensor",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "static shape",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "network storage",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "optimization results",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "conceptual level",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reconstruction probabilities",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Rectified Linear Unit",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "leakyrelu",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Autoregressive Flow",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "type tensor",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "probability mass function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "update parameters",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sparse indices",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Multidimensional indices",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "bias parameter",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "normalizing flow",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sum operator",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "GPU nodes",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dense vectors",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "device field",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "human intuition",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "network learn",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "loaded graph",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output activations",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "num2",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "maximal number",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "second vertex",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fit function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Contiguous inputs",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "identity matrix",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "momentum rate",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fast convergence",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "deep networks",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "TBPTT length",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Various function",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "preprocess",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "linear view",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dropout layers",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "memcpy",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "cropped tensor",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "vocabulary values",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "initial batch",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Batch Normalization",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training looks",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "attention cell",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "random scales",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "prediction time",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "labels source",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "data loading",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "mat2",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Activation parameter",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Layer Types",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Premade",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "PReLU",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Logistic distribution",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "adder function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Tensor Methods",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output columns",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "BackPropagation",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Bucketized column",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pretrainable layers",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Core Layers",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tracking shapes",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "outcome matrices",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "variable indices",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "axis argument",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "resulting operation",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "standard memory",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Dropout layer",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Boltzmann machines",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "trained word",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "aeron channel",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "passthrough",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "network connectivity",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "second tensors",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training specification",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "oom",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "recall array",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "TFGAN",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "gamma weight",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "BPTT",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "GAN Training",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Google Cloud",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "labels distribution",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "maximum function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "accuracy statistics",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "model inputs",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pca",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "good approximation",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "propagation step",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "optional bias",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "amsgrad",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "bernoulli distribution",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "summation index",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "valid one",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training steps",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "diagonal part",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "lower rank",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Multiply layer",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "bias matrices",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "PRED",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "LAPACK",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Matrix multiplication",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Recurrent Network",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Input image",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "average loss",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "unit simplex",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "contrib",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "normalized text",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "third image",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tuple structure",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training sessions",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Restored model",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "parent graph",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "hyperparameter",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "algorithmic part",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fake batch",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "mode model",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "second aspect",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "affine parameters",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fail training",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "termination condition",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input weight",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "GPU Devices",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "distributed storage",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "triplet loss",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "l2 norm",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "activation equal",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "wave samples",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "minibatch training",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "example number",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "loading embedding",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "naming inputs",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Preprocessing",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input signal",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Model Function",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "opencl",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "distribution parameter",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input loss",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "interpolant",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sspmm",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "full gradient",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Pathwise",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "NN",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "feed values",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input trying",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Recht",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "continuing training",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "RRELU",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fid",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Sequence models",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "collective function",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "convert tensor",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Binary Classification",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "masking value",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "categorical values",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Interpolation mode",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pre training",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "image classifier",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "graph model",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "squared loss",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "auc value",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Entropy loss",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "continuous distributions",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "weight parameter",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "random sequence",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "name tensor",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "minimum rank",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "batch normalization",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Time step",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "defun",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "recommended number",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "matching rank",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Sender rank",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Export classifier",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "real interval",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "best model",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "word frequencies",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "mean estimate",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "updated gradient",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "primary distributions",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Scalar sum",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "multiple series",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "packt",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Data Loading",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Pareto distribution",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Gamma distribution",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "data pipeline",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "precompute",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Rectified Linear Units",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pooling layers",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "feature columns",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "absolute accuracy",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "weight quantization",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "one job",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "optimizers",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input feature",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "round function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "plot image",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "operation time",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pairwise",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Count number",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "encoded labels",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "square function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "probability distributions",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Redmon",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dumped tensor",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "divison",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "fixed shape",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dropout value",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "final parameters",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output arrays",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "generic data",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "RF parameters",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "data manageable",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "convolutional",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "master node",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "computed gradient",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "next checkpoint",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Gradient checking",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "mdp",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "squeeze operation",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Xmx",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "convolution window",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "example model",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "attention mechanism",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "s32",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "ML model",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "data sparsity",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "logistic distribution",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "negative trials",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "maximum shape",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "compilation process",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "CoreML models",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pacman",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "allocation point",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tuple elements",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Parameter Server",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "full graph",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "double column",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "evaluation model",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "adjusting models",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "probability densities",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Keras guide",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reduced Tensor",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Probability Mass",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "computation graphs",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "batch elements",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "ifft",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pooling ratio",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "visual example",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Random array",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dimension length",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sampling randomly",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "weighting function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Optional tensor",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "counter variable",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "unigram",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Importance sampling",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "SELU",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Bernoulli trials",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "partial runs",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "corresponding shapes",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "UNK",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "evaluate function",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sparse features",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "vector element",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "optional randomization",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "label one",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dense results",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "inconsistent shapes",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Add matrix",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input images",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "geometric distribution",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "building input",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "identity operator",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Run inference",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "TensorRT",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "supported device",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "permutation operation",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "NWC",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "transfer learning",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "canonical ordering",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "GPU scenarios",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Density Modeling",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "CRF",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "arbitrary tensors",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Layer normalization",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "pipeline optimization",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "binary classifier",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "circular padding",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "normalization part",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reduction occurs",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "streaming value",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Model Parameters",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "treebank",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sequence length",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "edge padding",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "deterministic order",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "bin values",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sequential manner",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "series length",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Weight parameter",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Data normalization",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Real Images",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Keras variable",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "total lines",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "polynomial order",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "variance Tensor",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "next data",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output matrix",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "usually images",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "second loop",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "col2im",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "f1 score",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "final batch",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Bias parameter",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Greff",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input layers",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "update messages",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "STN",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "unitary operator",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "summary Tensor",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "output vertex",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "CuDNNGRU",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "generalized contraction",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sample field",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "global ratio",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "epsilon values",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reduced values",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dmax",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "sequential inference",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "regexp",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "positive weight",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "maximum feature",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "codomain",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "erf",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "distributed trainer",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "training time",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "known value",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "unique step",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "small layer",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "max steps",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "rotation angle",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "train batches",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "actual machine",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "best path",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Momentum value",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "collapse dimensions",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "restore values",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "differential equations",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "column Keys",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "latent values",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "dense component",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "band matrix",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Post step",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "input multiple",
+        "score": -2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "merged value",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "indexed values",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "squares problems",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "reduce index",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Nesterov",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "total sum",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "label strings",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "improved stability",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "master procedure",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Xms",
+        "score": 1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "max number",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Surrounding scope",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "real values",
+        "score": -1,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tensor list",
+        "score": 2,
+        "user": "expert2",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "total sum",
+        "score": -2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "label strings",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "improved stability",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "master procedure",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Xms",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "max number",
+        "score": -1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tensor list",
+        "score": 2,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "real values",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Surrounding scope",
+        "score": 1,
+        "user": "expert1",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "weight parameter",
+        "score": 2,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "total sum",
+        "score": -1,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "label strings",
+        "score": 1,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "improved stability",
+        "score": -1,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "master procedure",
+        "score": -1,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Xms",
+        "score": -2,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "max number",
+        "score": -2,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "Surrounding scope",
+        "score": 1,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "real values",
+        "score": 1,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    },
+    {
+        "name": "tensor list",
+        "score": 2,
+        "user": "wangchong",
+        "domain": "deeplearning"
+    }
+]

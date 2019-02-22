@@ -1,0 +1,3074 @@
+[
+    {
+        "startConcept": "cluster directory",
+        "endConcept": "live cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "log replication",
+        "endConcept": "log roll",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "AES",
+        "endConcept": "PAM",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Thrift directory",
+        "endConcept": "shared directory",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "particular prefix",
+        "endConcept": "binary prefix",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "distributed cluster",
+        "endConcept": "actual cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "RDL",
+        "endConcept": "PUT request",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "connection configuration",
+        "endConcept": "connection creation",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "given types",
+        "endConcept": "given info",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "service calls",
+        "endConcept": "service invocation",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "area directory",
+        "endConcept": "Snapshottable Directory",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "partition filter",
+        "endConcept": "partition value",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data world",
+        "endConcept": "data backup",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "storage nodes",
+        "endConcept": "storage systems",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "storage directories",
+        "endConcept": "storage capacity",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "INDEX",
+        "endConcept": "index path",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "schema creation",
+        "endConcept": "row schema",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "QL",
+        "endConcept": "row level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Data capture",
+        "endConcept": "data replication",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Driver code",
+        "endConcept": "common code",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "table refers",
+        "endConcept": "table created",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "source level",
+        "endConcept": "source tables",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "fixed row",
+        "endConcept": "row level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "read type",
+        "endConcept": "read queues",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "index search",
+        "endConcept": "AVG",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "key area",
+        "endConcept": "complete key",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "High availability",
+        "endConcept": "s3a",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Retry caller",
+        "endConcept": "retry attempt",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "JDBM",
+        "endConcept": "ROLLUP",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "service store",
+        "endConcept": "database store",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "column metadata",
+        "endConcept": "ACID",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "real cluster",
+        "endConcept": "actual cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "encryption scheme",
+        "endConcept": "encryption zone",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "transformed row",
+        "endConcept": "row level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "key deletion",
+        "endConcept": "join key",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "metrics record",
+        "endConcept": "record reader",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "DynamoDB",
+        "endConcept": "s3",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "QL",
+        "endConcept": "PTF",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "checksum error",
+        "endConcept": "checksum files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hadoop",
+        "endConcept": "txn",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "web response",
+        "endConcept": "Cluster Web",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "record writer",
+        "endConcept": "input split",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "asf",
+        "endConcept": "dist",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Tablename",
+        "endConcept": "Table instances",
+        "relation": "HAS_A",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "article code",
+        "endConcept": "ngrams",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "single constant",
+        "endConcept": "single compaction",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "service invocation",
+        "endConcept": "RPC",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "write key",
+        "endConcept": "binary key",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "cache entry",
+        "endConcept": "Cache size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "accumulo",
+        "endConcept": "AVRO",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "column order",
+        "endConcept": "input columns",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Task Counters",
+        "endConcept": "delegation token secret manager",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "end keys",
+        "endConcept": "skewed keys",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "specified nodes",
+        "endConcept": "specified metric",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "regular time",
+        "endConcept": "expiry time",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Queue name",
+        "endConcept": "context name",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "encryption algorithm",
+        "endConcept": "encryption scheme",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "output table",
+        "endConcept": "table level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data replicated",
+        "endConcept": "data replication",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "vertex name",
+        "endConcept": "snapshot name",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "disk writes",
+        "endConcept": "disk reads",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "read path",
+        "endConcept": "read queues",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Local Reads",
+        "endConcept": "disk reads",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "udf",
+        "endConcept": "PTF",
+        "relation": "HAS_A",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "eviction time",
+        "endConcept": "script time",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hadoop",
+        "endConcept": "REST",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "PUT",
+        "endConcept": "Variable Substitution",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "length Key",
+        "endConcept": "key part",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "fact table",
+        "endConcept": "Small table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "nameservice",
+        "endConcept": "appId",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "ltt",
+        "endConcept": "Eclipse files",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data local",
+        "endConcept": "LOCAL",
+        "relation": "IS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "commit message",
+        "endConcept": "repos",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "cluster specified",
+        "endConcept": "insecure cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hadoop",
+        "endConcept": "table permission",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Group information",
+        "endConcept": "groups list",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "read queues",
+        "endConcept": "call queue",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Truncate Table",
+        "endConcept": "Table table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "creating cells",
+        "endConcept": "given cell",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hftp",
+        "endConcept": "host files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Thrift service",
+        "endConcept": "Thrift metastore",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "flush cache",
+        "endConcept": "local cache",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "denormalized",
+        "endConcept": "Write records",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "statistic entries",
+        "endConcept": "index entries",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "memory restrictions",
+        "endConcept": "AVG",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "threshold level",
+        "endConcept": "operation level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "script time",
+        "endConcept": "time checks",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Resource capability",
+        "endConcept": "maximum resource",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "DML",
+        "endConcept": "ACID",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "dryrun",
+        "endConcept": "Variable Substitution",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "retry accounting",
+        "endConcept": "Retry policy",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "secure clusters",
+        "endConcept": "yarn cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Table Cardinality",
+        "endConcept": "Table Sample",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "accumulo",
+        "endConcept": "column mapping",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "extant files",
+        "endConcept": "sequence file",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "boot time",
+        "endConcept": "quite time",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "short requests",
+        "endConcept": "Short Circuit",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Latency metrics",
+        "endConcept": "Metrics system",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "directory number",
+        "endConcept": "aggregated number",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "bytes apiece",
+        "endConcept": "byte follows",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "given state",
+        "endConcept": "given Table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "columns values",
+        "endConcept": "partition value",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "discrete value",
+        "endConcept": "interval value",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "row matches",
+        "endConcept": "every row",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Table directory",
+        "endConcept": "table named",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Table Function",
+        "endConcept": "full table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Data consumer",
+        "endConcept": "data lives",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "short version",
+        "endConcept": "service version",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "integer counter",
+        "endConcept": "counter name",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "meta store",
+        "endConcept": "Metadata Store",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "tsv",
+        "endConcept": "orc",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "ssh",
+        "endConcept": "kinit",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "error bounds",
+        "endConcept": "error token",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "single computation",
+        "endConcept": "single patch",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Active Directory",
+        "endConcept": "scratch directory",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "key format",
+        "endConcept": "next key",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "maximal number",
+        "endConcept": "bucket number",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data twice",
+        "endConcept": "data upon",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "compacted files",
+        "endConcept": "checks files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "DAO",
+        "endConcept": "key provider",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hadoop",
+        "endConcept": "NDV",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "maximum delay",
+        "endConcept": "maximum resource",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "LOCAL",
+        "endConcept": "Local memory",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "load information",
+        "endConcept": "lock info",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "compressed value",
+        "endConcept": "compressed format",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Tablename",
+        "endConcept": "Table metadata",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "specfied",
+        "endConcept": "vector length",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "External table",
+        "endConcept": "Tablename",
+        "relation": "IS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "capacity numbers",
+        "endConcept": "customer number",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "skewed table",
+        "endConcept": "Tablename",
+        "relation": "IS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "JPOX",
+        "endConcept": "ORM",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Access restriction",
+        "endConcept": "Data Access",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "confidence level",
+        "endConcept": "global level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "output paths",
+        "endConcept": "output location",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "error rate",
+        "endConcept": "error due",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "discrete value",
+        "endConcept": "Defalt value",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "precision number",
+        "endConcept": "threshold number",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "mountd",
+        "endConcept": "nfsd",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "hfiles",
+        "endConcept": "datafile",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "length Key",
+        "endConcept": "key matches",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "source state",
+        "endConcept": "RUNNING state",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "resource size",
+        "endConcept": "Resource capability",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "side properties",
+        "endConcept": "side call",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "hbase",
+        "endConcept": "replication peers",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Key Version",
+        "endConcept": "encryption key",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "approximate count",
+        "endConcept": "counts row",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "jsvc",
+        "endConcept": "ulimit",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "libtool",
+        "endConcept": "desired size",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "master cluster",
+        "endConcept": "peer cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "given permissions",
+        "endConcept": "given database",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "compares size",
+        "endConcept": "byte size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "initialize time",
+        "endConcept": "Time ranges",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Maximum bandwidth",
+        "endConcept": "maximum percentage",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "local branch",
+        "endConcept": "dedicated directory",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "QL",
+        "endConcept": "filesink",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Palo",
+        "endConcept": "Lipcon",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "block keys",
+        "endConcept": "key part",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "cluster identifier",
+        "endConcept": "cluster status",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "export table",
+        "endConcept": "External table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data per",
+        "endConcept": "data discovery",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "store sizes",
+        "endConcept": "input size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "rows list",
+        "endConcept": "LIST",
+        "relation": "IS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "create call",
+        "endConcept": "table called",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Table Discovery",
+        "endConcept": "Table table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "CREATE TABLE",
+        "endConcept": "whole table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Tablename",
+        "endConcept": "table file",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "system access",
+        "endConcept": "secure access",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "key per",
+        "endConcept": "partition keys",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "large code",
+        "endConcept": "start code",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "snapshot size",
+        "endConcept": "result size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "result size",
+        "endConcept": "Split size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "source tables",
+        "endConcept": "Tablename",
+        "relation": "IS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "metastore key",
+        "endConcept": "start key",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "snapshot directory",
+        "endConcept": "Snapshottable Directory",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Adl",
+        "endConcept": "ipc",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Timeframes",
+        "endConcept": "Scan requests",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "binary tree",
+        "endConcept": "binary key",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "jobid",
+        "endConcept": "input scan",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "moving files",
+        "endConcept": "referenced files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "denormalized",
+        "endConcept": "encryption type",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "http address",
+        "endConcept": "ARN",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "TTLs",
+        "endConcept": "max versions",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "cluster state",
+        "endConcept": "slave cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "smaller level",
+        "endConcept": "dependent table",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "serialized key",
+        "endConcept": "key series",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "hbase",
+        "endConcept": "metrics source",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "step number",
+        "endConcept": "max number",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "key format",
+        "endConcept": "key part",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "access call",
+        "endConcept": "access special",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "output descriptor",
+        "endConcept": "output table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "xattr",
+        "endConcept": "trash directory",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "statistic entries",
+        "endConcept": "cache entry",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "BFS",
+        "endConcept": "time dimension",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "reduced table",
+        "endConcept": "dependent table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "exec call",
+        "endConcept": "create call",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "index entries",
+        "endConcept": "entry size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "table regardless",
+        "endConcept": "table integrity",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "threshold time",
+        "endConcept": "Average Time",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Storage information",
+        "endConcept": "table information",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "filter name",
+        "endConcept": "filter list",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "checksum error",
+        "endConcept": "execution error",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "config",
+        "endConcept": "Variable Substitution",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "insecure cluster",
+        "endConcept": "ACTIVE cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "PPID",
+        "endConcept": "yz",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "count threshold",
+        "endConcept": "bytes count",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "memory caching",
+        "endConcept": "memory per",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Request size",
+        "endConcept": "Split size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "storage based",
+        "endConcept": "storage unit",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "shortcircuit",
+        "endConcept": "delta files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "instant name",
+        "endConcept": "flow name",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "rootdir",
+        "endConcept": "Table Properties",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Metastore filter",
+        "endConcept": "authentication filter",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "comparer",
+        "endConcept": "common code",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "local disk",
+        "endConcept": "delta files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "RTRIM",
+        "endConcept": "perf",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "failure types",
+        "endConcept": "table types",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "next key",
+        "endConcept": "start key",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Restore table",
+        "endConcept": "Tablename",
+        "relation": "IS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "replication rate",
+        "endConcept": "defalt",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "replication number",
+        "endConcept": "max number",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "key element",
+        "endConcept": "key matches",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Split size",
+        "endConcept": "input split",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "maximum download",
+        "endConcept": "maximum versions",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "regular number",
+        "endConcept": "customer number",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "online table",
+        "endConcept": "table exists",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Tablename",
+        "endConcept": "TABLE ARCHIVE",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "delta directory",
+        "endConcept": "storage directories",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Data Nucleus",
+        "endConcept": "Data Encryption",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Heartbeat interval",
+        "endConcept": "interval value",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "ulimit",
+        "endConcept": "commandline",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "high code",
+        "endConcept": "Reusable code",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "aggregate length",
+        "endConcept": "vector length",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "metrics tag",
+        "endConcept": "metrics registry",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "compaction request",
+        "endConcept": "PUT request",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "STRING column",
+        "endConcept": "input columns",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "gang size",
+        "endConcept": "response size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "table source",
+        "endConcept": "source length",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Data capture",
+        "endConcept": "data backup",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Heartbeat interval",
+        "endConcept": "flush interval",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "metrics related",
+        "endConcept": "Latency metrics",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Tablename",
+        "endConcept": "table integrity",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "heap bytes",
+        "endConcept": "byte size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "catalog table",
+        "endConcept": "Tablename",
+        "relation": "IS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hive Metastore",
+        "endConcept": "Tablename",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "column vector",
+        "endConcept": "input columns",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "filesink",
+        "endConcept": "SMB",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "partition number",
+        "endConcept": "partition value",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "ldd",
+        "endConcept": "isql",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Metrics implementation",
+        "endConcept": "metrics registry",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "CORS",
+        "endConcept": "CSRF",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Maximum byte",
+        "endConcept": "heap bytes",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "range request",
+        "endConcept": "PUT request",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "sorted array",
+        "endConcept": "yz",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "rsgroup",
+        "endConcept": "regionserver",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "flush interval",
+        "endConcept": "interval value",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data lives",
+        "endConcept": "row level",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "metric info",
+        "endConcept": "Cluster Information",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Table Sample",
+        "endConcept": "Acid table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "YARN code",
+        "endConcept": "common code",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "input records",
+        "endConcept": "input split",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "compaction state",
+        "endConcept": "snapshot state",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "DECIMAL type",
+        "endConcept": "reporter type",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Web link",
+        "endConcept": "web filters",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "defined name",
+        "endConcept": "internal name",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data encryption key",
+        "endConcept": "encryption algorithm",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "metastore key",
+        "endConcept": "master keys",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "slow cluster",
+        "endConcept": "ACTIVE cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "symmetric key",
+        "endConcept": "key prefix",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "enddate",
+        "endConcept": "key part",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "DataNode",
+        "endConcept": "data generator",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "service entry",
+        "endConcept": "binary service",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Type requested",
+        "endConcept": "Execution Types",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Index code",
+        "endConcept": "index entries",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "output trace",
+        "endConcept": "output duration",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "SMB",
+        "endConcept": "vectorized",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "filter list",
+        "endConcept": "rr",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "capacity cluster",
+        "endConcept": "cluster resources",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "MongoDB",
+        "endConcept": "ssd",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "checkpoint files",
+        "endConcept": "time errors",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "warn level",
+        "endConcept": "table level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hash aggregation",
+        "endConcept": "hash key",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Throttle Type",
+        "endConcept": "read type",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "ACID",
+        "endConcept": "row level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "uncompressed format",
+        "endConcept": "compressed format",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "worker node",
+        "endConcept": "remote cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Unspecified values",
+        "endConcept": "dead values",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "trichotomous value",
+        "endConcept": "Defalt value",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "checks size",
+        "endConcept": "index size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "given label",
+        "endConcept": "access cells",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "peer cluster",
+        "endConcept": "ACTIVE cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "snapshot directory",
+        "endConcept": "directory quota",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "input topology",
+        "endConcept": "input split",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "completed order",
+        "endConcept": "deterministic order",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "long constant",
+        "endConcept": "long comparison",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "cell bytes",
+        "endConcept": "given cell",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "max number",
+        "endConcept": "item number",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hadoop",
+        "endConcept": "quota state",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "access cells",
+        "endConcept": "Scan requests",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "LOCAL DIRECTORY",
+        "endConcept": "local disk",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "live cluster",
+        "endConcept": "slave cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "port search",
+        "endConcept": "index search",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "table basis",
+        "endConcept": "Single Table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "SCP",
+        "endConcept": "slave cluster",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "memory requirement",
+        "endConcept": "memory pressure",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "specified master",
+        "endConcept": "master instance",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "secure access",
+        "endConcept": "secure registries",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "BYTES",
+        "endConcept": "byte per",
+        "relation": "HAS_A",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "History file",
+        "endConcept": "delta files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "single transaction",
+        "endConcept": "single split",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Load Generator",
+        "endConcept": "Policy Generator",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "fetch table",
+        "endConcept": "Tablename",
+        "relation": "IS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data upon",
+        "endConcept": "data backup",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "byte per",
+        "endConcept": "byte size",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "provided bytes",
+        "endConcept": "heap bytes",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "specified root",
+        "endConcept": "root location",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "LOCAL",
+        "endConcept": "local size",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "table snapshot",
+        "endConcept": "Table directory",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Datastore",
+        "endConcept": "ddl",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "vtable",
+        "endConcept": "host2",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Simple time",
+        "endConcept": "acceptance time",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "memory compaction",
+        "endConcept": "memory dedicated",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "reduced table",
+        "endConcept": "table created",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "access levels",
+        "endConcept": "snapshot level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data decompression",
+        "endConcept": "data replication",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data sampled",
+        "endConcept": "data compaction",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "large code",
+        "endConcept": "common code",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data scanned",
+        "endConcept": "data discovery",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "parametrized",
+        "endConcept": "udf",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Resource reserved",
+        "endConcept": "Resource Allocation",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "ddl",
+        "endConcept": "Variable Substitution",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "home path",
+        "endConcept": "output paths",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "hbase",
+        "endConcept": "ipc",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "grouping columns",
+        "endConcept": "output column",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "traffic control",
+        "endConcept": "ultimate control",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "ultimate control",
+        "endConcept": "access levels",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Acid table",
+        "endConcept": "Tablename",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "hex format",
+        "endConcept": "format table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Added time",
+        "endConcept": "time dimension",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "elasped time",
+        "endConcept": "earliest time",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "catalog table",
+        "endConcept": "skewed table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Anonymizer",
+        "endConcept": "input files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Hadoop",
+        "endConcept": "call queue",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "encryption information",
+        "endConcept": "table information",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "store counts",
+        "endConcept": "meta store",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "reported values",
+        "endConcept": "dead values",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "queue order",
+        "endConcept": "replication queue",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "JSP",
+        "endConcept": "auth",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "client scanner",
+        "endConcept": "client service",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "counts row",
+        "endConcept": "actual row",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "DataNode",
+        "endConcept": "Data consumer",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "hbase",
+        "endConcept": "cluster status",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "shared directory",
+        "endConcept": "trash directory",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "timedout",
+        "endConcept": "cron",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "maximum count",
+        "endConcept": "maximum resource",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "timer value",
+        "endConcept": "Defalt value",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "jiras",
+        "endConcept": "dev",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "table basis",
+        "endConcept": "per table",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "antlr",
+        "endConcept": "resolvers",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "POM file",
+        "endConcept": "explicit files",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "global level",
+        "endConcept": "expert level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "good number",
+        "endConcept": "configurable number",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "output compressed",
+        "endConcept": "output recovery",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "total memory",
+        "endConcept": "memory pressure",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "DataNode",
+        "endConcept": "data local",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "table specified",
+        "endConcept": "Table table",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "local copies",
+        "endConcept": "copy file",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "output fields",
+        "endConcept": "output key",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "LOCAL",
+        "endConcept": "local blocks",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data resiliency",
+        "endConcept": "data discovery",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Minimum period",
+        "endConcept": "flush period",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "parse code",
+        "endConcept": "YARN code",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Common Table",
+        "endConcept": "CREATE TABLE",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "filter cells",
+        "endConcept": "Scan filter",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "classpath",
+        "endConcept": "Log4J",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "data reliability",
+        "endConcept": "data backup",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "HTTP Operations",
+        "endConcept": "http address",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Tablename",
+        "endConcept": "table normalization",
+        "relation": "HAS_A",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "disk writes",
+        "endConcept": "Disk usage",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "Recursive version",
+        "endConcept": "max versions",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "internal name",
+        "endConcept": "counter name",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "max sequence",
+        "endConcept": "max versions",
+        "relation": "RELATED_TO",
+        "score": -1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "partition filter",
+        "endConcept": "partition keys",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "bytes referred",
+        "endConcept": "underlying byte",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    },
+    {
+        "startConcept": "machine level",
+        "endConcept": "global level",
+        "relation": "RELATED_TO",
+        "score": 1,
+        "user": "expert",
+        "domain": "hadoop"
+    }
+]
