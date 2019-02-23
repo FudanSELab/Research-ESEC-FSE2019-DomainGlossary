@@ -1,2690 +1,1922 @@
 [
     {
-        "startConcept": "Discrete Fourier Transform",
-        "endConcept": "DFT",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Discrete Fourier Transform",
+        "concept2": "DFT",
+        "correct": true
     },
     {
-        "startConcept": "False Positive",
-        "endConcept": "false positive",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "False Positive",
+        "concept2": "false positive",
+        "correct": true
     },
     {
-        "startConcept": "DET",
-        "endConcept": "Deterministically",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "DET",
+        "concept2": "Deterministically",
+        "correct": false
     },
     {
-        "startConcept": "tensor dimension",
-        "endConcept": "tensor dimensionality",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "tensor dimension",
+        "concept2": "tensor dimensionality",
+        "correct": true
     },
     {
-        "startConcept": "Small gradients",
-        "endConcept": "small gradients",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Small gradients",
+        "concept2": "small gradients",
+        "correct": true
     },
     {
-        "startConcept": "LRN",
-        "endConcept": "local response normalization",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "LRN",
+        "concept2": "local response normalization",
+        "correct": true
     },
     {
-        "startConcept": "Embeddings",
-        "endConcept": "embeddings",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Embeddings",
+        "concept2": "embeddings",
+        "correct": true
     },
     {
-        "startConcept": "Predictive models",
-        "endConcept": "prediction model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Predictive models",
+        "concept2": "prediction model",
+        "correct": true
     },
     {
-        "startConcept": "Numeric Tensor",
-        "endConcept": "numeric Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Numeric Tensor",
+        "concept2": "numeric Tensor",
+        "correct": true
     },
     {
-        "startConcept": "output array",
-        "endConcept": "outputs array",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "output array",
+        "concept2": "outputs array",
+        "correct": true
     },
     {
-        "startConcept": "stdev",
-        "endConcept": "stddev",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "stdev",
+        "concept2": "stddev",
+        "correct": true
     },
     {
-        "startConcept": "Scale Transforms",
-        "endConcept": "scale transformation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Scale Transforms",
+        "concept2": "scale transformation",
+        "correct": true
     },
     {
-        "startConcept": "Keras Models",
-        "endConcept": "Keras models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Keras Models",
+        "concept2": "Keras models",
+        "correct": true
     },
     {
-        "startConcept": "Denoising",
-        "endConcept": "denoising",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Denoising",
+        "concept2": "denoising",
+        "correct": true
     },
     {
-        "startConcept": "cuDNN",
-        "endConcept": "CuDNN",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "cuDNN",
+        "concept2": "CuDNN",
+        "correct": true
     },
     {
-        "startConcept": "Conv2d",
-        "endConcept": "Conv2D",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Conv2d",
+        "concept2": "Conv2D",
+        "correct": true
     },
     {
-        "startConcept": "elems",
-        "endConcept": "elementwise",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "elems",
+        "concept2": "elementwise",
+        "correct": false
     },
     {
-        "startConcept": "discrete Fourier transform",
-        "endConcept": "DFT",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "discrete Fourier transform",
+        "concept2": "DFT",
+        "correct": true
     },
     {
-        "startConcept": "elems",
-        "endConcept": "Elementwise",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "elems",
+        "concept2": "Elementwise",
+        "correct": false
     },
     {
-        "startConcept": "OpenCV",
-        "endConcept": "opencl",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "OpenCV",
+        "concept2": "opencl",
+        "correct": false
     },
     {
-        "startConcept": "Neural networks",
-        "endConcept": "Neural Net",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Neural networks",
+        "concept2": "Neural Net",
+        "correct": true
     },
     {
-        "startConcept": "convolutional layers",
-        "endConcept": "Convolution layer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "convolutional layers",
+        "concept2": "Convolution layer",
+        "correct": true
     },
     {
-        "startConcept": "location parameter",
-        "endConcept": "Location parameter",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "location parameter",
+        "concept2": "Location parameter",
+        "correct": true
     },
     {
-        "startConcept": "Piecewise",
-        "endConcept": "piecewise",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Piecewise",
+        "concept2": "piecewise",
+        "correct": true
     },
     {
-        "startConcept": "negative log",
-        "endConcept": "Negative Log",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "negative log",
+        "concept2": "Negative Log",
+        "correct": true
     },
     {
-        "startConcept": "weight update",
-        "endConcept": "weight updates",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "weight update",
+        "concept2": "weight updates",
+        "correct": true
     },
     {
-        "startConcept": "Network Architectures",
-        "endConcept": "network architecture",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Network Architectures",
+        "concept2": "network architecture",
+        "correct": true
     },
     {
-        "startConcept": "preprocessing",
-        "endConcept": "preprocessed",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "preprocessing",
+        "concept2": "preprocessed",
+        "correct": true
     },
     {
-        "startConcept": "Dense tensor",
-        "endConcept": "dense Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Dense tensor",
+        "concept2": "dense Tensor",
+        "correct": true
     },
     {
-        "startConcept": "Scalar value",
-        "endConcept": "scalar values",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Scalar value",
+        "concept2": "scalar values",
+        "correct": true
     },
     {
-        "startConcept": "preprocessors",
-        "endConcept": "preprocessing",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "preprocessors",
+        "concept2": "preprocessing",
+        "correct": false
     },
     {
-        "startConcept": "Linear Regression",
-        "endConcept": "Linear regression",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Linear Regression",
+        "concept2": "Linear regression",
+        "correct": true
     },
     {
-        "startConcept": "Logistic distributions",
-        "endConcept": "Logistic distribution",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Logistic distributions",
+        "concept2": "Logistic distribution",
+        "correct": true
     },
     {
-        "startConcept": "Distribution parameter",
-        "endConcept": "distribution parameter",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Distribution parameter",
+        "concept2": "distribution parameter",
+        "correct": true
     },
     {
-        "startConcept": "nvidia",
-        "endConcept": "NVIDIA",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "nvidia",
+        "concept2": "NVIDIA",
+        "correct": true
     },
     {
-        "startConcept": "dense Tensors",
-        "endConcept": "Dense Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "dense Tensors",
+        "concept2": "Dense Tensor",
+        "correct": true
     },
     {
-        "startConcept": "dimensional Tensor",
-        "endConcept": "dimensional Tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "dimensional Tensor",
+        "concept2": "dimensional Tensors",
+        "correct": true
     },
     {
-        "startConcept": "GPU memory",
-        "endConcept": "GPU Memory",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "GPU memory",
+        "concept2": "GPU Memory",
+        "correct": true
     },
     {
-        "startConcept": "base distribution",
-        "endConcept": "Base distribution",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "base distribution",
+        "concept2": "Base distribution",
+        "correct": true
     },
     {
-        "startConcept": "Conda",
-        "endConcept": "conda",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Conda",
+        "concept2": "conda",
+        "correct": true
     },
     {
-        "startConcept": "sparse Tensors",
-        "endConcept": "Sparse Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "sparse Tensors",
+        "concept2": "Sparse Tensor",
+        "correct": true
     },
     {
-        "startConcept": "linear index",
-        "endConcept": "Linear indices",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "linear index",
+        "concept2": "Linear indices",
+        "correct": true
     },
     {
-        "startConcept": "squares problems",
-        "endConcept": "squares problem",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "squares problems",
+        "concept2": "squares problem",
+        "correct": true
     },
     {
-        "startConcept": "point communication",
-        "endConcept": "point communcation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "point communication",
+        "concept2": "point communcation",
+        "correct": true
     },
     {
-        "startConcept": "label tensors",
-        "endConcept": "labels Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "label tensors",
+        "concept2": "labels Tensor",
+        "correct": true
     },
     {
-        "startConcept": "Sequence Learning",
-        "endConcept": "Sequence learning",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Sequence Learning",
+        "concept2": "Sequence learning",
+        "correct": true
     },
     {
-        "startConcept": "Network Training",
-        "endConcept": "network training",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Network Training",
+        "concept2": "network training",
+        "correct": true
     },
     {
-        "startConcept": "parameter ratio",
-        "endConcept": "Parameter Ratio",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "parameter ratio",
+        "concept2": "Parameter Ratio",
+        "correct": true
     },
     {
-        "startConcept": "perform evaluation",
-        "endConcept": "Perform evaluation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "perform evaluation",
+        "concept2": "Perform evaluation",
+        "correct": true
     },
     {
-        "startConcept": "gradient square",
-        "endConcept": "gradient squared",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "gradient square",
+        "concept2": "gradient squared",
+        "correct": true
     },
     {
-        "startConcept": "stochastic gradient",
-        "endConcept": "Stochastic gradient",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "stochastic gradient",
+        "concept2": "Stochastic gradient",
+        "correct": true
     },
     {
-        "startConcept": "matrix product",
-        "endConcept": "Matrix product",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "matrix product",
+        "concept2": "Matrix product",
+        "correct": true
     },
     {
-        "startConcept": "Gamma function",
-        "endConcept": "gamma function",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Gamma function",
+        "concept2": "gamma function",
+        "correct": true
     },
     {
-        "startConcept": "Input columns",
-        "endConcept": "input columns",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Input columns",
+        "concept2": "input columns",
+        "correct": true
     },
     {
-        "startConcept": "input multiple",
-        "endConcept": "input multiples",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "input multiple",
+        "concept2": "input multiples",
+        "correct": true
     },
     {
-        "startConcept": "Integer columns",
-        "endConcept": "integer columns",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Integer columns",
+        "concept2": "integer columns",
+        "correct": true
     },
     {
-        "startConcept": "Regularizers",
-        "endConcept": "Regularizer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Regularizers",
+        "concept2": "Regularizer",
+        "correct": true
     },
     {
-        "startConcept": "model variable",
-        "endConcept": "model variables",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model variable",
+        "concept2": "model variables",
+        "correct": true
     },
     {
-        "startConcept": "resulting tensor",
-        "endConcept": "result Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "resulting tensor",
+        "concept2": "result Tensor",
+        "correct": true
     },
     {
-        "startConcept": "Bidirectional layer",
-        "endConcept": "Bidirectional Layer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Bidirectional layer",
+        "concept2": "Bidirectional Layer",
+        "correct": true
     },
     {
-        "startConcept": "hyperparameters",
-        "endConcept": "Hyperparameter",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "hyperparameters",
+        "concept2": "Hyperparameter",
+        "correct": true
     },
     {
-        "startConcept": "Cudnn",
-        "endConcept": "CUDNN",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Cudnn",
+        "concept2": "CUDNN",
+        "correct": true
     },
     {
-        "startConcept": "Restart training",
-        "endConcept": "Restarting training",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Restart training",
+        "concept2": "Restarting training",
+        "correct": true
     },
     {
-        "startConcept": "resume training",
-        "endConcept": "resuming training",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "resume training",
+        "concept2": "resuming training",
+        "correct": true
     },
     {
-        "startConcept": "sequence labels",
-        "endConcept": "sequence label",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "sequence labels",
+        "concept2": "sequence label",
+        "correct": true
     },
     {
-        "startConcept": "DNN",
-        "endConcept": "deep neural network",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "DNN",
+        "concept2": "deep neural network",
+        "correct": true
     },
     {
-        "startConcept": "Exponential distributions",
-        "endConcept": "exponential distribution",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Exponential distributions",
+        "concept2": "exponential distribution",
+        "correct": true
     },
     {
-        "startConcept": "overfit",
-        "endConcept": "Overfitting",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "overfit",
+        "concept2": "Overfitting",
+        "correct": true
     },
     {
-        "startConcept": "lstm",
-        "endConcept": "LSTMs",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "lstm",
+        "concept2": "LSTMs",
+        "correct": true
     },
     {
-        "startConcept": "Network outputs",
-        "endConcept": "network output",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Network outputs",
+        "concept2": "network output",
+        "correct": true
     },
     {
-        "startConcept": "mini batches",
-        "endConcept": "mini batch",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "mini batches",
+        "concept2": "mini batch",
+        "correct": true
     },
     {
-        "startConcept": "preprocessing",
-        "endConcept": "preprocess",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "preprocessing",
+        "concept2": "preprocess",
+        "correct": true
     },
     {
-        "startConcept": "tf",
-        "endConcept": "Tf",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "tf",
+        "concept2": "Tf",
+        "correct": true
     },
     {
-        "startConcept": "network learn",
-        "endConcept": "network learnt",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "network learn",
+        "concept2": "network learnt",
+        "correct": true
     },
     {
-        "startConcept": "Dk",
-        "endConcept": "dK",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Dk",
+        "concept2": "dK",
+        "correct": true
     },
     {
-        "startConcept": "model training",
-        "endConcept": "Model training",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model training",
+        "concept2": "Model training",
+        "correct": true
     },
     {
-        "startConcept": "Input pre",
-        "endConcept": "input pre",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Input pre",
+        "concept2": "input pre",
+        "correct": true
     },
     {
-        "startConcept": "applies dropout",
-        "endConcept": "Applies Dropout",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "applies dropout",
+        "concept2": "Applies Dropout",
+        "correct": true
     },
     {
-        "startConcept": "batch tensor",
-        "endConcept": "batch Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "batch tensor",
+        "concept2": "batch Tensor",
+        "correct": true
     },
     {
-        "startConcept": "dimension tensor",
-        "endConcept": "dimensional Tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "dimension tensor",
+        "concept2": "dimensional Tensors",
+        "correct": true
     },
     {
-        "startConcept": "Machine Learning",
-        "endConcept": "machine learning",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Machine Learning",
+        "concept2": "machine learning",
+        "correct": true
     },
     {
-        "startConcept": "moving averages",
-        "endConcept": "moving average",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "moving averages",
+        "concept2": "moving average",
+        "correct": true
     },
     {
-        "startConcept": "save model",
-        "endConcept": "saved model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "save model",
+        "concept2": "saved model",
+        "correct": true
     },
     {
-        "startConcept": "inputs Tensors",
-        "endConcept": "Input tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "inputs Tensors",
+        "concept2": "Input tensors",
+        "correct": true
     },
     {
-        "startConcept": "convolution2d",
-        "endConcept": "Convolution2D",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "convolution2d",
+        "concept2": "Convolution2D",
+        "correct": true
     },
     {
-        "startConcept": "Scalar value",
-        "endConcept": "Scalar Value",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Scalar value",
+        "concept2": "Scalar Value",
+        "correct": true
     },
     {
-        "startConcept": "multiple models",
-        "endConcept": "multiple modes",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "multiple models",
+        "concept2": "multiple modes",
+        "correct": false
     },
     {
-        "startConcept": "stochastic gradient descent",
-        "endConcept": "SGD",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "stochastic gradient descent",
+        "concept2": "SGD",
+        "correct": true
     },
     {
-        "startConcept": "RMSE",
-        "endConcept": "root mean squared error",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "RMSE",
+        "concept2": "root mean squared error",
+        "correct": true
     },
     {
-        "startConcept": "Model Parameters",
-        "endConcept": "model parameters",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Model Parameters",
+        "concept2": "model parameters",
+        "correct": true
     },
     {
-        "startConcept": "clip value",
-        "endConcept": "clipping value",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "clip value",
+        "concept2": "clipping value",
+        "correct": true
     },
     {
-        "startConcept": "Sequential model",
-        "endConcept": "sequential model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Sequential model",
+        "concept2": "sequential model",
+        "correct": true
     },
     {
-        "startConcept": "cell types",
-        "endConcept": "cell type",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "cell types",
+        "concept2": "cell type",
+        "correct": true
     },
     {
-        "startConcept": "global steps",
-        "endConcept": "global step",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "global steps",
+        "concept2": "global step",
+        "correct": true
     },
     {
-        "startConcept": "gradient tensors",
-        "endConcept": "gradient tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "gradient tensors",
+        "concept2": "gradient tensor",
+        "correct": true
     },
     {
-        "startConcept": "label tensor",
-        "endConcept": "labels tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "label tensor",
+        "concept2": "labels tensors",
+        "correct": true
     },
     {
-        "startConcept": "training mode",
-        "endConcept": "Training models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "training mode",
+        "concept2": "Training models",
+        "correct": true
     },
     {
-        "startConcept": "openmp",
-        "endConcept": "openMPI",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "openmp",
+        "concept2": "openMPI",
+        "correct": false
     },
     {
-        "startConcept": "RRELU",
-        "endConcept": "Rectified linear units",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "RRELU",
+        "concept2": "Rectified linear units",
+        "correct": false
     },
     {
-        "startConcept": "conv2d",
-        "endConcept": "Conv2D",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "conv2d",
+        "concept2": "Conv2D",
+        "correct": true
     },
     {
-        "startConcept": "categorical distribution",
-        "endConcept": "Categorical distributions",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "categorical distribution",
+        "concept2": "Categorical distributions",
+        "correct": true
     },
     {
-        "startConcept": "bias tensors",
-        "endConcept": "Bias tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "bias tensors",
+        "concept2": "Bias tensor",
+        "correct": true
     },
     {
-        "startConcept": "Boltzmann Machine",
-        "endConcept": "Boltzmann machines",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Boltzmann Machine",
+        "concept2": "Boltzmann machines",
+        "correct": true
     },
     {
-        "startConcept": "gradient update",
-        "endConcept": "gradient updates",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "gradient update",
+        "concept2": "gradient updates",
+        "correct": true
     },
     {
-        "startConcept": "features arrays",
-        "endConcept": "features array",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "features arrays",
+        "concept2": "features array",
+        "correct": true
     },
     {
-        "startConcept": "momentum value",
-        "endConcept": "Momentum value",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "momentum value",
+        "concept2": "Momentum value",
+        "correct": true
     },
     {
-        "startConcept": "Distributed communication",
-        "endConcept": "distributed communication",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Distributed communication",
+        "concept2": "distributed communication",
+        "correct": true
     },
     {
-        "startConcept": "computed gradient",
-        "endConcept": "computing gradients",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "computed gradient",
+        "concept2": "computing gradients",
+        "correct": true
     },
     {
-        "startConcept": "log probabilities",
-        "endConcept": "log probability",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "log probabilities",
+        "concept2": "log probability",
+        "correct": true
     },
     {
-        "startConcept": "Categorical distributions",
-        "endConcept": "Categorical distribution",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Categorical distributions",
+        "concept2": "Categorical distribution",
+        "correct": true
     },
     {
-        "startConcept": "dynamic Shape",
-        "endConcept": "dynamic shape",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "dynamic Shape",
+        "concept2": "dynamic shape",
+        "correct": true
     },
     {
-        "startConcept": "bias tensor",
-        "endConcept": "bias tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "bias tensor",
+        "concept2": "bias tensors",
+        "correct": true
     },
     {
-        "startConcept": "runs training",
-        "endConcept": "Run training",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "runs training",
+        "concept2": "Run training",
+        "correct": true
     },
     {
-        "startConcept": "preprocessed",
-        "endConcept": "preprocess",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "preprocessed",
+        "concept2": "preprocess",
+        "correct": true
     },
     {
-        "startConcept": "outcome matrices",
-        "endConcept": "outcome matrix",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "outcome matrices",
+        "concept2": "outcome matrix",
+        "correct": true
     },
     {
-        "startConcept": "gradient tensors",
-        "endConcept": "gradients tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "gradient tensors",
+        "concept2": "gradients tensor",
+        "correct": true
     },
     {
-        "startConcept": "model output",
-        "endConcept": "model outputs",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model output",
+        "concept2": "model outputs",
+        "correct": true
     },
     {
-        "startConcept": "categorical column",
-        "endConcept": "categorical columns",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "categorical column",
+        "concept2": "categorical columns",
+        "correct": true
     },
     {
-        "startConcept": "Sparse Tensor",
-        "endConcept": "Sparse tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Sparse Tensor",
+        "concept2": "Sparse tensors",
+        "correct": true
     },
     {
-        "startConcept": "matrix ops",
-        "endConcept": "matrix operations",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "matrix ops",
+        "concept2": "matrix operations",
+        "correct": true
     },
     {
-        "startConcept": "reinforcement learning",
-        "endConcept": "RL",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "reinforcement learning",
+        "concept2": "RL",
+        "correct": true
     },
     {
-        "startConcept": "negative sampling",
-        "endConcept": "Negative Sampling",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "negative sampling",
+        "concept2": "Negative Sampling",
+        "correct": true
     },
     {
-        "startConcept": "inputs Tensors",
-        "endConcept": "inputs tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "inputs Tensors",
+        "concept2": "inputs tensor",
+        "correct": true
     },
     {
-        "startConcept": "optional randomization",
-        "endConcept": "optional randomisation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "optional randomization",
+        "concept2": "optional randomisation",
+        "correct": true
     },
     {
-        "startConcept": "Theano",
-        "endConcept": "theano",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Theano",
+        "concept2": "theano",
+        "correct": true
     },
     {
-        "startConcept": "Scalar tensor",
-        "endConcept": "Scalar Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Scalar tensor",
+        "concept2": "Scalar Tensor",
+        "correct": true
     },
     {
-        "startConcept": "maxpool2d",
-        "endConcept": "MaxPool2d",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "maxpool2d",
+        "concept2": "MaxPool2d",
+        "correct": true
     },
     {
-        "startConcept": "sequence steps",
-        "endConcept": "sequence step",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "sequence steps",
+        "concept2": "sequence step",
+        "correct": true
     },
     {
-        "startConcept": "Android devices",
-        "endConcept": "Android device",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Android devices",
+        "concept2": "Android device",
+        "correct": true
     },
     {
-        "startConcept": "Weight normalization",
-        "endConcept": "weight norms",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Weight normalization",
+        "concept2": "weight norms",
+        "correct": true
     },
     {
-        "startConcept": "SVM",
-        "endConcept": "svm",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "SVM",
+        "concept2": "svm",
+        "correct": true
     },
     {
-        "startConcept": "optim",
-        "endConcept": "Optimizer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "optim",
+        "concept2": "Optimizer",
+        "correct": true
     },
     {
-        "startConcept": "integer labels",
-        "endConcept": "integer label",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "integer labels",
+        "concept2": "integer label",
+        "correct": true
     },
     {
-        "startConcept": "Anton",
-        "endConcept": "anton",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Anton",
+        "concept2": "anton",
+        "correct": true
     },
     {
-        "startConcept": "model scores",
-        "endConcept": "model score",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model scores",
+        "concept2": "model score",
+        "correct": true
     },
     {
-        "startConcept": "Tensor operations",
-        "endConcept": "tensor operation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Tensor operations",
+        "concept2": "tensor operation",
+        "correct": true
     },
     {
-        "startConcept": "score function",
-        "endConcept": "score functions",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "score function",
+        "concept2": "score functions",
+        "correct": true
     },
     {
-        "startConcept": "score functions",
-        "endConcept": "Score function",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "score functions",
+        "concept2": "Score function",
+        "correct": true
     },
     {
-        "startConcept": "random Shard",
-        "endConcept": "random shard",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "random Shard",
+        "concept2": "random shard",
+        "correct": true
     },
     {
-        "startConcept": "Tensor arguments",
-        "endConcept": "tensor arguments",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Tensor arguments",
+        "concept2": "tensor arguments",
+        "correct": true
     },
     {
-        "startConcept": "ow",
-        "endConcept": "oW",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "ow",
+        "concept2": "oW",
+        "correct": true
     },
     {
-        "startConcept": "Euclidean distance",
-        "endConcept": "euclidean distance",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Euclidean distance",
+        "concept2": "euclidean distance",
+        "correct": true
     },
     {
-        "startConcept": "Keras model",
-        "endConcept": "Keras Models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Keras model",
+        "concept2": "Keras Models",
+        "correct": true
     },
     {
-        "startConcept": "confusion matrix",
-        "endConcept": "confusion Matrix",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "confusion matrix",
+        "concept2": "confusion Matrix",
+        "correct": true
     },
     {
-        "startConcept": "Random Seed",
-        "endConcept": "random seeds",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Random Seed",
+        "concept2": "random seeds",
+        "correct": true
     },
     {
-        "startConcept": "fake images",
-        "endConcept": "Fake images",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "fake images",
+        "concept2": "Fake images",
+        "correct": true
     },
     {
-        "startConcept": "computational process",
-        "endConcept": "Computational processes",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "computational process",
+        "concept2": "Computational processes",
+        "correct": true
     },
     {
-        "startConcept": "input Input",
-        "endConcept": "input input",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "input Input",
+        "concept2": "input input",
+        "correct": true
     },
     {
-        "startConcept": "diagonal matrix",
-        "endConcept": "diagonal matrices",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "diagonal matrix",
+        "concept2": "diagonal matrices",
+        "correct": true
     },
     {
-        "startConcept": "Objective function",
-        "endConcept": "objective function",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Objective function",
+        "concept2": "objective function",
+        "correct": true
     },
     {
-        "startConcept": "training pipelines",
-        "endConcept": "training pipeline",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "training pipelines",
+        "concept2": "training pipeline",
+        "correct": true
     },
     {
-        "startConcept": "Rotated image",
-        "endConcept": "rotated image",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Rotated image",
+        "concept2": "rotated image",
+        "correct": true
     },
     {
-        "startConcept": "Training parameters",
-        "endConcept": "training parameters",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Training parameters",
+        "concept2": "training parameters",
+        "correct": true
     },
     {
-        "startConcept": "attention vectors",
-        "endConcept": "attention vector",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "attention vectors",
+        "concept2": "attention vector",
+        "correct": true
     },
     {
-        "startConcept": "resulting tensor",
-        "endConcept": "result tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "resulting tensor",
+        "concept2": "result tensor",
+        "correct": true
     },
     {
-        "startConcept": "Cuda",
-        "endConcept": "cuda",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Cuda",
+        "concept2": "cuda",
+        "correct": true
     },
     {
-        "startConcept": "image classification",
-        "endConcept": "Image Classification",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "image classification",
+        "concept2": "Image Classification",
+        "correct": true
     },
     {
-        "startConcept": "Parameter Spaces",
-        "endConcept": "parameter space",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Parameter Spaces",
+        "concept2": "parameter space",
+        "correct": true
     },
     {
-        "startConcept": "GPU Memory",
-        "endConcept": "gpu memory",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "GPU Memory",
+        "concept2": "gpu memory",
+        "correct": true
     },
     {
-        "startConcept": "int16",
-        "endConcept": "INT16",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "int16",
+        "concept2": "INT16",
+        "correct": true
     },
     {
-        "startConcept": "attention mechanism",
-        "endConcept": "Attention Mechanism",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "attention mechanism",
+        "concept2": "Attention Mechanism",
+        "correct": true
     },
     {
-        "startConcept": "Exponential distributions",
-        "endConcept": "Exponential distribution",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Exponential distributions",
+        "concept2": "Exponential distribution",
+        "correct": true
     },
     {
-        "startConcept": "SimpleRNN",
-        "endConcept": "SimpleCNN",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "SimpleRNN",
+        "concept2": "SimpleCNN",
+        "correct": false
     },
     {
-        "startConcept": "Global step",
-        "endConcept": "global step",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Global step",
+        "concept2": "global step",
+        "correct": true
     },
     {
-        "startConcept": "Average precision",
-        "endConcept": "average precision",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Average precision",
+        "concept2": "average precision",
+        "correct": true
     },
     {
-        "startConcept": "updated vectors",
-        "endConcept": "update vector",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "updated vectors",
+        "concept2": "update vector",
+        "correct": true
     },
     {
-        "startConcept": "loss function",
-        "endConcept": "Loss Function",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "loss function",
+        "concept2": "Loss Function",
+        "correct": true
     },
     {
-        "startConcept": "model training",
-        "endConcept": "models trained",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model training",
+        "concept2": "models trained",
+        "correct": true
     },
     {
-        "startConcept": "proguard",
-        "endConcept": "Proguard",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "proguard",
+        "concept2": "Proguard",
+        "correct": true
     },
     {
-        "startConcept": "Nested structure",
-        "endConcept": "nested structures",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Nested structure",
+        "concept2": "nested structures",
+        "correct": true
     },
     {
-        "startConcept": "Linear Models",
-        "endConcept": "Linear model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Linear Models",
+        "concept2": "Linear model",
+        "correct": true
     },
     {
-        "startConcept": "Mnist model",
-        "endConcept": "MNIST model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Mnist model",
+        "concept2": "MNIST model",
+        "correct": true
     },
     {
-        "startConcept": "training loop",
-        "endConcept": "Training loop",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "training loop",
+        "concept2": "Training loop",
+        "correct": true
     },
     {
-        "startConcept": "gaussian noise",
-        "endConcept": "Gaussian noise",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "gaussian noise",
+        "concept2": "Gaussian noise",
+        "correct": true
     },
     {
-        "startConcept": "convolution operations",
-        "endConcept": "convolution operation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "convolution operations",
+        "concept2": "convolution operation",
+        "correct": true
     },
     {
-        "startConcept": "mode loss",
-        "endConcept": "model loss",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "mode loss",
+        "concept2": "model loss",
+        "correct": true
     },
     {
-        "startConcept": "Huber loss",
-        "endConcept": "huber loss",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Huber loss",
+        "concept2": "huber loss",
+        "correct": true
     },
     {
-        "startConcept": "triangular matrix",
-        "endConcept": "triangular matrices",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "triangular matrix",
+        "concept2": "triangular matrices",
+        "correct": true
     },
     {
-        "startConcept": "Input tensors",
-        "endConcept": "input Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Input tensors",
+        "concept2": "input Tensor",
+        "correct": true
     },
     {
-        "startConcept": "unstacking",
-        "endConcept": "unstack",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "unstacking",
+        "concept2": "unstack",
+        "correct": true
     },
     {
-        "startConcept": "output Tensor",
-        "endConcept": "output tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "output Tensor",
+        "concept2": "output tensor",
+        "correct": true
     },
     {
-        "startConcept": "mean values",
-        "endConcept": "mean value",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "mean values",
+        "concept2": "mean value",
+        "correct": true
     },
     {
-        "startConcept": "reliability diagram",
-        "endConcept": "Reliability diagram",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "reliability diagram",
+        "concept2": "Reliability diagram",
+        "correct": true
     },
     {
-        "startConcept": "image classifier",
-        "endConcept": "Image Classifier",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "image classifier",
+        "concept2": "Image Classifier",
+        "correct": true
     },
     {
-        "startConcept": "eps",
-        "endConcept": "evaluation process",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "eps",
+        "concept2": "evaluation process",
+        "correct": false
     },
     {
-        "startConcept": "ELUs",
-        "endConcept": "Exponential Linear Units",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "ELUs",
+        "concept2": "Exponential Linear Units",
+        "correct": true
     },
     {
-        "startConcept": "output layer",
-        "endConcept": "Output Layer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "output layer",
+        "concept2": "Output Layer",
+        "correct": true
     },
     {
-        "startConcept": "input features",
-        "endConcept": "Input features",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "input features",
+        "concept2": "Input features",
+        "correct": true
     },
     {
-        "startConcept": "random variable",
-        "endConcept": "random variables",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "random variable",
+        "concept2": "random variables",
+        "correct": true
     },
     {
-        "startConcept": "cumulative sum",
-        "endConcept": "Cumulative sum",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "cumulative sum",
+        "concept2": "Cumulative sum",
+        "correct": true
     },
     {
-        "startConcept": "Model Function",
-        "endConcept": "model function",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Model Function",
+        "concept2": "model function",
+        "correct": true
     },
     {
-        "startConcept": "subfolder",
-        "endConcept": "subfolders",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "subfolder",
+        "concept2": "subfolders",
+        "correct": true
     },
     {
-        "startConcept": "Geometric distribution",
-        "endConcept": "geometric distribution",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Geometric distribution",
+        "concept2": "geometric distribution",
+        "correct": true
     },
     {
-        "startConcept": "Pearson correlation coefficient",
-        "endConcept": "pearson correlation coefficient",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Pearson correlation coefficient",
+        "concept2": "pearson correlation coefficient",
+        "correct": true
     },
     {
-        "startConcept": "continuous vector",
-        "endConcept": "continuous vectors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "continuous vector",
+        "concept2": "continuous vectors",
+        "correct": true
     },
     {
-        "startConcept": "inputs tensor",
-        "endConcept": "input tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "inputs tensor",
+        "concept2": "input tensors",
+        "correct": true
     },
     {
-        "startConcept": "distribution parameters",
-        "endConcept": "Distribution parameter",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "distribution parameters",
+        "concept2": "Distribution parameter",
+        "correct": true
     },
     {
-        "startConcept": "float numbers",
-        "endConcept": "float number",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "float numbers",
+        "concept2": "float number",
+        "correct": true
     },
     {
-        "startConcept": "inputs shape",
-        "endConcept": "input shapes",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "inputs shape",
+        "concept2": "input shapes",
+        "correct": true
     },
     {
-        "startConcept": "batch norm",
-        "endConcept": "Batch normalization",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "batch norm",
+        "concept2": "Batch normalization",
+        "correct": true
     },
     {
-        "startConcept": "sigmoid activation",
-        "endConcept": "Sigmoid activation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "sigmoid activation",
+        "concept2": "Sigmoid activation",
+        "correct": true
     },
     {
-        "startConcept": "mask arrays",
-        "endConcept": "mask array",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "mask arrays",
+        "concept2": "mask array",
+        "correct": true
     },
     {
-        "startConcept": "run training",
-        "endConcept": "Run Training",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "run training",
+        "concept2": "Run Training",
+        "correct": true
     },
     {
-        "startConcept": "multiple GPU",
-        "endConcept": "Multiple GPU",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "multiple GPU",
+        "concept2": "Multiple GPU",
+        "correct": true
     },
     {
-        "startConcept": "reduced dimensions",
-        "endConcept": "reducing dimensions",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "reduced dimensions",
+        "concept2": "reducing dimensions",
+        "correct": true
     },
     {
-        "startConcept": "pca",
-        "endConcept": "PCA",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "pca",
+        "concept2": "PCA",
+        "correct": true
     },
     {
-        "startConcept": "VGG19",
-        "endConcept": "VGG",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "VGG19",
+        "concept2": "VGG",
+        "correct": false
     },
     {
-        "startConcept": "float types",
-        "endConcept": "floating type",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "float types",
+        "concept2": "floating type",
+        "correct": true
     },
     {
-        "startConcept": "normal distributions",
-        "endConcept": "Normal distributions",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "normal distributions",
+        "concept2": "Normal distributions",
+        "correct": true
     },
     {
-        "startConcept": "training loops",
-        "endConcept": "Training loop",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "training loops",
+        "concept2": "Training loop",
+        "correct": true
     },
     {
-        "startConcept": "true labels",
-        "endConcept": "true label",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "true labels",
+        "concept2": "true label",
+        "correct": true
     },
     {
-        "startConcept": "Gradient normalization",
-        "endConcept": "gradient normalization",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Gradient normalization",
+        "concept2": "gradient normalization",
+        "correct": true
     },
     {
-        "startConcept": "Gaussian kernel",
-        "endConcept": "gaussian kernel",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Gaussian kernel",
+        "concept2": "gaussian kernel",
+        "correct": true
     },
     {
-        "startConcept": "log probabilities",
-        "endConcept": "Log probability",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "log probabilities",
+        "concept2": "Log probability",
+        "correct": true
     },
     {
-        "startConcept": "Cudnn",
-        "endConcept": "CuDNN",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Cudnn",
+        "concept2": "CuDNN",
+        "correct": true
     },
     {
-        "startConcept": "Model Trained",
-        "endConcept": "model trains",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Model Trained",
+        "concept2": "model trains",
+        "correct": true
     },
     {
-        "startConcept": "evaluation mode",
-        "endConcept": "evaluation model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "evaluation mode",
+        "concept2": "evaluation model",
+        "correct": true
     },
     {
-        "startConcept": "trained model",
-        "endConcept": "train models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "trained model",
+        "concept2": "train models",
+        "correct": true
     },
     {
-        "startConcept": "hidden state",
-        "endConcept": "hidden states",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "hidden state",
+        "concept2": "hidden states",
+        "correct": true
     },
     {
-        "startConcept": "output activations",
-        "endConcept": "output activation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "output activations",
+        "concept2": "output activation",
+        "correct": true
     },
     {
-        "startConcept": "integer Tensor",
-        "endConcept": "integer tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "integer Tensor",
+        "concept2": "integer tensor",
+        "correct": true
     },
     {
-        "startConcept": "Sequential Model",
-        "endConcept": "sequential models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Sequential Model",
+        "concept2": "sequential models",
+        "correct": true
     },
     {
-        "startConcept": "conv1",
-        "endConcept": "Conv1d",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "conv1",
+        "concept2": "Conv1d",
+        "correct": false
     },
     {
-        "startConcept": "model evaluation",
-        "endConcept": "Model evaluation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model evaluation",
+        "concept2": "Model evaluation",
+        "correct": true
     },
     {
-        "startConcept": "Batch Normalization",
-        "endConcept": "batch normalization",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Batch Normalization",
+        "concept2": "batch normalization",
+        "correct": true
     },
     {
-        "startConcept": "ELU",
-        "endConcept": "Exponential Linear Unit",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "ELU",
+        "concept2": "Exponential Linear Unit",
+        "correct": true
     },
     {
-        "startConcept": "matrix norms",
-        "endConcept": "matrix norm",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "matrix norms",
+        "concept2": "matrix norm",
+        "correct": true
     },
     {
-        "startConcept": "continuous feature",
-        "endConcept": "Continuous features",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "continuous feature",
+        "concept2": "Continuous features",
+        "correct": true
     },
     {
-        "startConcept": "model checkpoint",
-        "endConcept": "model checkpoints",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model checkpoint",
+        "concept2": "model checkpoints",
+        "correct": true
     },
     {
-        "startConcept": "compute log",
-        "endConcept": "Compute log",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "compute log",
+        "concept2": "Compute log",
+        "correct": true
     },
     {
-        "startConcept": "Long columns",
-        "endConcept": "Long column",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Long columns",
+        "concept2": "Long column",
+        "correct": true
     },
     {
-        "startConcept": "Input Sequences",
-        "endConcept": "input sequences",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Input Sequences",
+        "concept2": "input sequences",
+        "correct": true
     },
     {
-        "startConcept": "Shape functions",
-        "endConcept": "shape function",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Shape functions",
+        "concept2": "shape function",
+        "correct": true
     },
     {
-        "startConcept": "CuDNNGRU",
-        "endConcept": "CuDNN",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "CuDNNGRU",
+        "concept2": "CuDNN",
+        "correct": false
     },
     {
-        "startConcept": "F1 Score",
-        "endConcept": "F1 score",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "F1 Score",
+        "concept2": "F1 score",
+        "correct": true
     },
     {
-        "startConcept": "logits Tensor",
-        "endConcept": "logits tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "logits Tensor",
+        "concept2": "logits tensor",
+        "correct": true
     },
     {
-        "startConcept": "weight update",
-        "endConcept": "Weight updates",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "weight update",
+        "concept2": "Weight updates",
+        "correct": true
     },
     {
-        "startConcept": "weights matrix",
-        "endConcept": "Weight matrix",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "weights matrix",
+        "concept2": "Weight matrix",
+        "correct": true
     },
     {
-        "startConcept": "learning algorithms",
-        "endConcept": "Learning Algorithm",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "learning algorithms",
+        "concept2": "Learning Algorithm",
+        "correct": true
     },
     {
-        "startConcept": "input key",
-        "endConcept": "input keys",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "input key",
+        "concept2": "input keys",
+        "correct": true
     },
     {
-        "startConcept": "dense tensors",
-        "endConcept": "dense Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "dense tensors",
+        "concept2": "dense Tensor",
+        "correct": true
     },
     {
-        "startConcept": "neural networks",
-        "endConcept": "Neural network",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "neural networks",
+        "concept2": "Neural network",
+        "correct": true
     },
     {
-        "startConcept": "convolutional layers",
-        "endConcept": "Convolutional layers",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "convolutional layers",
+        "concept2": "Convolutional layers",
+        "correct": true
     },
     {
-        "startConcept": "generative models",
-        "endConcept": "Generative Model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "generative models",
+        "concept2": "Generative Model",
+        "correct": true
     },
     {
-        "startConcept": "Tensor types",
-        "endConcept": "tensor types",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Tensor types",
+        "concept2": "tensor types",
+        "correct": true
     },
     {
-        "startConcept": "model training",
-        "endConcept": "Model Trained",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model training",
+        "concept2": "Model Trained",
+        "correct": true
     },
     {
-        "startConcept": "tensor result",
-        "endConcept": "Tensor result",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "tensor result",
+        "concept2": "Tensor result",
+        "correct": true
     },
     {
-        "startConcept": "Loading Models",
-        "endConcept": "loading model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Loading Models",
+        "concept2": "loading model",
+        "correct": true
     },
     {
-        "startConcept": "binary classifier",
-        "endConcept": "Binary Classifiers",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "binary classifier",
+        "concept2": "Binary Classifiers",
+        "correct": true
     },
     {
-        "startConcept": "convolution operations",
-        "endConcept": "Convolution operation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "convolution operations",
+        "concept2": "Convolution operation",
+        "correct": true
     },
     {
-        "startConcept": "calculating gradients",
-        "endConcept": "calculate gradients",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "calculating gradients",
+        "concept2": "calculate gradients",
+        "correct": true
     },
     {
-        "startConcept": "float tensors",
-        "endConcept": "float tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "float tensors",
+        "concept2": "float tensor",
+        "correct": true
     },
     {
-        "startConcept": "False Negative",
-        "endConcept": "Fn",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "False Negative",
+        "concept2": "Fn",
+        "correct": true
     },
     {
-        "startConcept": "variable updates",
-        "endConcept": "variable update",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "variable updates",
+        "concept2": "variable update",
+        "correct": true
     },
     {
-        "startConcept": "input mask",
-        "endConcept": "Input mask",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "input mask",
+        "concept2": "Input mask",
+        "correct": true
     },
     {
-        "startConcept": "multiclass",
-        "endConcept": "Multiclass",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "multiclass",
+        "concept2": "Multiclass",
+        "correct": true
     },
     {
-        "startConcept": "Optimization algorithm",
-        "endConcept": "optimization algorithms",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Optimization algorithm",
+        "concept2": "optimization algorithms",
+        "correct": true
     },
     {
-        "startConcept": "single layer",
-        "endConcept": "Single Layer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "single layer",
+        "concept2": "Single Layer",
+        "correct": true
     },
     {
-        "startConcept": "ROC curves",
-        "endConcept": "ROC curve",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "ROC curves",
+        "concept2": "ROC curve",
+        "correct": true
     },
     {
-        "startConcept": "autoencoder",
-        "endConcept": "Autoencoders",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "autoencoder",
+        "concept2": "Autoencoders",
+        "correct": true
     },
     {
-        "startConcept": "recurrent Network",
-        "endConcept": "recurrent network",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "recurrent Network",
+        "concept2": "recurrent network",
+        "correct": true
     },
     {
-        "startConcept": "long column",
-        "endConcept": "Long columns",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "long column",
+        "concept2": "Long columns",
+        "correct": true
     },
     {
-        "startConcept": "plz",
-        "endConcept": "Plz",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "plz",
+        "concept2": "Plz",
+        "correct": true
     },
     {
-        "startConcept": "labels tensor",
-        "endConcept": "label tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "labels tensor",
+        "concept2": "label tensor",
+        "correct": true
     },
     {
-        "startConcept": "Compute gradients",
-        "endConcept": "computes gradients",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Compute gradients",
+        "concept2": "computes gradients",
+        "correct": true
     },
     {
-        "startConcept": "convolutional neural networks",
-        "endConcept": "CNN",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "convolutional neural networks",
+        "concept2": "CNN",
+        "correct": true
     },
     {
-        "startConcept": "network learn",
-        "endConcept": "Network Learning",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "network learn",
+        "concept2": "Network Learning",
+        "correct": true
     },
     {
-        "startConcept": "Model saved",
-        "endConcept": "model saver",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Model saved",
+        "concept2": "model saver",
+        "correct": true
     },
     {
-        "startConcept": "calculating loss",
-        "endConcept": "calculate loss",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "calculating loss",
+        "concept2": "calculate loss",
+        "correct": true
     },
     {
-        "startConcept": "Language modeling",
-        "endConcept": "language modeling",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Language modeling",
+        "concept2": "language modeling",
+        "correct": true
     },
     {
-        "startConcept": "dropout layers",
-        "endConcept": "Dropout layers",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "dropout layers",
+        "concept2": "Dropout layers",
+        "correct": true
     },
     {
-        "startConcept": "BackPropagation",
-        "endConcept": "backpropagation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "BackPropagation",
+        "concept2": "backpropagation",
+        "correct": true
     },
     {
-        "startConcept": "Sequence models",
-        "endConcept": "sequence models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Sequence models",
+        "concept2": "sequence models",
+        "correct": true
     },
     {
-        "startConcept": "gated Recurrent Unit",
-        "endConcept": "gated recurrent unit",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "gated Recurrent Unit",
+        "concept2": "gated recurrent unit",
+        "correct": true
     },
     {
-        "startConcept": "output tensors",
-        "endConcept": "Output Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "output tensors",
+        "concept2": "Output Tensor",
+        "correct": true
     },
     {
-        "startConcept": "reduced sum",
-        "endConcept": "reduce sum",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "reduced sum",
+        "concept2": "reduce sum",
+        "correct": true
     },
     {
-        "startConcept": "layer input",
-        "endConcept": "layer Input",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "layer input",
+        "concept2": "layer Input",
+        "correct": true
     },
     {
-        "startConcept": "temporal convolution",
-        "endConcept": "Temporal convolution",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "temporal convolution",
+        "concept2": "Temporal convolution",
+        "correct": true
     },
     {
-        "startConcept": "distributed model",
-        "endConcept": "distributed mode",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "distributed model",
+        "concept2": "distributed mode",
+        "correct": true
     },
     {
-        "startConcept": "resample",
-        "endConcept": "Resample",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "resample",
+        "concept2": "Resample",
+        "correct": true
     },
     {
-        "startConcept": "features dimension",
-        "endConcept": "feature dimension",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "features dimension",
+        "concept2": "feature dimension",
+        "correct": true
     },
     {
-        "startConcept": "higher rank",
-        "endConcept": "Higher ranks",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "higher rank",
+        "concept2": "Higher ranks",
+        "correct": true
     },
     {
-        "startConcept": "gpus",
-        "endConcept": "GPUs",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "gpus",
+        "concept2": "GPUs",
+        "correct": true
     },
     {
-        "startConcept": "gradient norm",
-        "endConcept": "Gradient normalization",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "gradient norm",
+        "concept2": "Gradient normalization",
+        "correct": true
     },
     {
-        "startConcept": "Uniform distribution",
-        "endConcept": "Uniform distributions",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Uniform distribution",
+        "concept2": "Uniform distributions",
+        "correct": true
     },
     {
-        "startConcept": "Controls behavior",
-        "endConcept": "controls behavior",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Controls behavior",
+        "concept2": "controls behavior",
+        "correct": true
     },
     {
-        "startConcept": "native operation",
-        "endConcept": "Native operation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "native operation",
+        "concept2": "Native operation",
+        "correct": true
     },
     {
-        "startConcept": "Multiple Layers",
-        "endConcept": "Multiply layer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Multiple Layers",
+        "concept2": "Multiply layer",
+        "correct": true
     },
     {
-        "startConcept": "Build models",
-        "endConcept": "build models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Build models",
+        "concept2": "build models",
+        "correct": true
     },
     {
-        "startConcept": "dense Tensors",
-        "endConcept": "dense tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "dense Tensors",
+        "concept2": "dense tensor",
+        "correct": true
     },
     {
-        "startConcept": "Pytorch",
-        "endConcept": "pytorch",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Pytorch",
+        "concept2": "pytorch",
+        "correct": true
     },
     {
-        "startConcept": "hyperparameters",
-        "endConcept": "Hyperparameters",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "hyperparameters",
+        "concept2": "Hyperparameters",
+        "correct": true
     },
     {
-        "startConcept": "evaluation results",
-        "endConcept": "evaluation result",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "evaluation results",
+        "concept2": "evaluation result",
+        "correct": true
     },
     {
-        "startConcept": "pooling layers",
-        "endConcept": "pooling layer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "pooling layers",
+        "concept2": "pooling layer",
+        "correct": true
     },
     {
-        "startConcept": "float Tensors",
-        "endConcept": "float tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "float Tensors",
+        "concept2": "float tensor",
+        "correct": true
     },
     {
-        "startConcept": "Sequence classification",
-        "endConcept": "sequence classification",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Sequence classification",
+        "concept2": "sequence classification",
+        "correct": true
     },
     {
-        "startConcept": "minibatch tensors",
-        "endConcept": "minibatch tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "minibatch tensors",
+        "concept2": "minibatch tensor",
+        "correct": true
     },
     {
-        "startConcept": "multivariate normal",
-        "endConcept": "multivariate Normal",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "multivariate normal",
+        "concept2": "multivariate Normal",
+        "correct": true
     },
     {
-        "startConcept": "inputs tensor",
-        "endConcept": "input Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "inputs tensor",
+        "concept2": "input Tensor",
+        "correct": true
     },
     {
-        "startConcept": "Sequence Models",
-        "endConcept": "sequence models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Sequence Models",
+        "concept2": "sequence models",
+        "correct": true
     },
     {
-        "startConcept": "time steps",
-        "endConcept": "time step",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "time steps",
+        "concept2": "time step",
+        "correct": true
     },
     {
-        "startConcept": "ger",
-        "endConcept": "GER",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "ger",
+        "concept2": "GER",
+        "correct": true
     },
     {
-        "startConcept": "resulting shape",
-        "endConcept": "result shape",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "resulting shape",
+        "concept2": "result shape",
+        "correct": true
     },
     {
-        "startConcept": "l1",
-        "endConcept": "L1",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "l1",
+        "concept2": "L1",
+        "correct": true
     },
     {
-        "startConcept": "bias variable",
-        "endConcept": "biases variable",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "bias variable",
+        "concept2": "biases variable",
+        "correct": true
     },
     {
-        "startConcept": "CPU kernel",
-        "endConcept": "CPU kernels",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "CPU kernel",
+        "concept2": "CPU kernels",
+        "correct": true
     },
     {
-        "startConcept": "alignment mode",
-        "endConcept": "Alignment modes",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "alignment mode",
+        "concept2": "Alignment modes",
+        "correct": true
     },
     {
-        "startConcept": "output tensor",
-        "endConcept": "Output tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "output tensor",
+        "concept2": "Output tensor",
+        "correct": true
     },
     {
-        "startConcept": "blas",
-        "endConcept": "Blas",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "blas",
+        "concept2": "Blas",
+        "correct": true
     },
     {
-        "startConcept": "mean square",
-        "endConcept": "mean squared",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "mean square",
+        "concept2": "mean squared",
+        "correct": true
     },
     {
-        "startConcept": "RReLU",
-        "endConcept": "Rectified linear units",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "RReLU",
+        "concept2": "Rectified linear units",
+        "correct": false
     },
     {
-        "startConcept": "training hook",
-        "endConcept": "training hooks",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "training hook",
+        "concept2": "training hooks",
+        "correct": true
     },
     {
-        "startConcept": "linear stack",
-        "endConcept": "Linear stack",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "linear stack",
+        "concept2": "Linear stack",
+        "correct": true
     },
     {
-        "startConcept": "learnable parameter",
-        "endConcept": "Learnable Parameters",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "learnable parameter",
+        "concept2": "Learnable Parameters",
+        "correct": true
     },
     {
-        "startConcept": "Wishart distributions",
-        "endConcept": "Wishart distribution",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Wishart distributions",
+        "concept2": "Wishart distribution",
+        "correct": true
     },
     {
-        "startConcept": "transfer models",
-        "endConcept": "transfer model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "transfer models",
+        "concept2": "transfer model",
+        "correct": true
     },
     {
-        "startConcept": "Dropout layer",
-        "endConcept": "dropout layer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Dropout layer",
+        "concept2": "dropout layer",
+        "correct": true
     },
     {
-        "startConcept": "Loading Networks",
-        "endConcept": "loading network",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Loading Networks",
+        "concept2": "loading network",
+        "correct": true
     },
     {
-        "startConcept": "model training",
-        "endConcept": "models training",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model training",
+        "concept2": "models training",
+        "correct": true
     },
     {
-        "startConcept": "Batch Normalization",
-        "endConcept": "Batch normalization",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Batch Normalization",
+        "concept2": "Batch normalization",
+        "correct": true
     },
     {
-        "startConcept": "relu",
-        "endConcept": "ReLU",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "relu",
+        "concept2": "ReLU",
+        "correct": true
     },
     {
-        "startConcept": "Regularizers",
-        "endConcept": "regularizer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Regularizers",
+        "concept2": "regularizer",
+        "correct": true
     },
     {
-        "startConcept": "GRU",
-        "endConcept": "Gated Recurrent Unit",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "GRU",
+        "concept2": "Gated Recurrent Unit",
+        "correct": true
     },
     {
-        "startConcept": "tensor matrix",
-        "endConcept": "Tensor matrix",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "tensor matrix",
+        "concept2": "Tensor matrix",
+        "correct": true
     },
     {
-        "startConcept": "output Tensor",
-        "endConcept": "Output tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "output Tensor",
+        "concept2": "Output tensor",
+        "correct": true
     },
     {
-        "startConcept": "Training model",
-        "endConcept": "training models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Training model",
+        "concept2": "training models",
+        "correct": true
     },
     {
-        "startConcept": "tensor arguments",
-        "endConcept": "tensor argument",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "tensor arguments",
+        "concept2": "tensor argument",
+        "correct": true
     },
     {
-        "startConcept": "Perceptrons",
-        "endConcept": "perceptron",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Perceptrons",
+        "concept2": "perceptron",
+        "correct": true
     },
     {
-        "startConcept": "sequential model",
-        "endConcept": "sequential models",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "sequential model",
+        "concept2": "sequential models",
+        "correct": true
     },
     {
-        "startConcept": "batch normalization",
-        "endConcept": "batch norms",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "batch normalization",
+        "concept2": "batch norms",
+        "correct": true
     },
     {
-        "startConcept": "Implementation Model",
-        "endConcept": "Implementation mode",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Implementation Model",
+        "concept2": "Implementation mode",
+        "correct": true
     },
     {
-        "startConcept": "beta1",
-        "endConcept": "Beta1",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "beta1",
+        "concept2": "Beta1",
+        "correct": true
     },
     {
-        "startConcept": "Recurrent Neural Networks",
-        "endConcept": "Recurrent Neural Network",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Recurrent Neural Networks",
+        "concept2": "Recurrent Neural Network",
+        "correct": true
     },
     {
-        "startConcept": "Contrib",
-        "endConcept": "contrib",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Contrib",
+        "concept2": "contrib",
+        "correct": true
     },
     {
-        "startConcept": "Final state",
-        "endConcept": "final state",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Final state",
+        "concept2": "final state",
+        "correct": true
     },
     {
-        "startConcept": "Mean absolute error",
-        "endConcept": "MAE",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Mean absolute error",
+        "concept2": "MAE",
+        "correct": true
     },
     {
-        "startConcept": "Regressor",
-        "endConcept": "regressors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Regressor",
+        "concept2": "regressors",
+        "correct": true
     },
     {
-        "startConcept": "log probability",
-        "endConcept": "Log probability",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "log probability",
+        "concept2": "Log probability",
+        "correct": true
     },
     {
-        "startConcept": "Deep Neural Network",
-        "endConcept": "deep neural network",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Deep Neural Network",
+        "concept2": "deep neural network",
+        "correct": true
     },
     {
-        "startConcept": "shaped Tensor",
-        "endConcept": "shape Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "shaped Tensor",
+        "concept2": "shape Tensor",
+        "correct": true
     },
     {
-        "startConcept": "aeron channel",
-        "endConcept": "Aeron channel",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "aeron channel",
+        "concept2": "Aeron channel",
+        "correct": true
     },
     {
-        "startConcept": "value Tensor",
-        "endConcept": "values tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "value Tensor",
+        "concept2": "values tensor",
+        "correct": true
     },
     {
-        "startConcept": "Lapack",
-        "endConcept": "lapack",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Lapack",
+        "concept2": "lapack",
+        "correct": true
     },
     {
-        "startConcept": "data sample",
-        "endConcept": "data samples",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "data sample",
+        "concept2": "data samples",
+        "correct": true
     },
     {
-        "startConcept": "oW",
-        "endConcept": "ow",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "oW",
+        "concept2": "ow",
+        "correct": true
     },
     {
-        "startConcept": "input function",
-        "endConcept": "input functions",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "input function",
+        "concept2": "input functions",
+        "correct": true
     },
     {
-        "startConcept": "MNIST data",
-        "endConcept": "Mnist data",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "MNIST data",
+        "concept2": "Mnist data",
+        "correct": true
     },
     {
-        "startConcept": "Input Node",
-        "endConcept": "input nodes",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Input Node",
+        "concept2": "input nodes",
+        "correct": true
     },
     {
-        "startConcept": "Embedding",
-        "endConcept": "embedding",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Embedding",
+        "concept2": "embedding",
+        "correct": true
     },
     {
-        "startConcept": "device strings",
-        "endConcept": "device string",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "device strings",
+        "concept2": "device string",
+        "correct": true
     },
     {
-        "startConcept": "scalar tensor",
-        "endConcept": "scalar tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "scalar tensor",
+        "concept2": "scalar tensors",
+        "correct": true
     },
     {
-        "startConcept": "inputs Tensor",
-        "endConcept": "Input Tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "inputs Tensor",
+        "concept2": "Input Tensor",
+        "correct": true
     },
     {
-        "startConcept": "Model function",
-        "endConcept": "Model Function",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Model function",
+        "concept2": "Model Function",
+        "correct": true
     },
     {
-        "startConcept": "standard deviations",
-        "endConcept": "standard deviation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "standard deviations",
+        "concept2": "standard deviation",
+        "correct": true
     },
     {
-        "startConcept": "building model",
-        "endConcept": "Building model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "building model",
+        "concept2": "Building model",
+        "correct": true
     },
     {
-        "startConcept": "Spatial dropout",
-        "endConcept": "spatial dropout",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Spatial dropout",
+        "concept2": "spatial dropout",
+        "correct": true
     },
     {
-        "startConcept": "Multiply layer",
-        "endConcept": "Multiple Layers",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Multiply layer",
+        "concept2": "Multiple Layers",
+        "correct": true
     },
     {
-        "startConcept": "count Number",
-        "endConcept": "Count number",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "count Number",
+        "concept2": "Count number",
+        "correct": true
     },
     {
-        "startConcept": "output dimensionality",
-        "endConcept": "output dimensions",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "output dimensionality",
+        "concept2": "output dimensions",
+        "correct": true
     },
     {
-        "startConcept": "one Tensor",
-        "endConcept": "one tensor",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "one Tensor",
+        "concept2": "one tensor",
+        "correct": true
     },
     {
-        "startConcept": "model replicas",
-        "endConcept": "model replication",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "model replicas",
+        "concept2": "model replication",
+        "correct": true
     },
     {
-        "startConcept": "NDim",
-        "endConcept": "ndim",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "NDim",
+        "concept2": "ndim",
+        "correct": true
     },
     {
-        "startConcept": "network learned",
-        "endConcept": "network learning",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "network learned",
+        "concept2": "network learning",
+        "correct": true
     },
     {
-        "startConcept": "computation graph",
-        "endConcept": "Computation Graphs",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "computation graph",
+        "concept2": "Computation Graphs",
+        "correct": true
     },
     {
-        "startConcept": "col2im",
-        "endConcept": "Col2Im",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "col2im",
+        "concept2": "Col2Im",
+        "correct": true
     },
     {
-        "startConcept": "attention mechanisms",
-        "endConcept": "attention mechanism",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "attention mechanisms",
+        "concept2": "attention mechanism",
+        "correct": true
     },
     {
-        "startConcept": "Distributed Evaluation",
-        "endConcept": "distributed evaluation",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Distributed Evaluation",
+        "concept2": "distributed evaluation",
+        "correct": true
     },
     {
-        "startConcept": "Rectified linear unit",
-        "endConcept": "Rectified linear units",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Rectified linear unit",
+        "concept2": "Rectified linear units",
+        "correct": true
     },
     {
-        "startConcept": "pooling layer",
-        "endConcept": "pooling layers",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "pooling layer",
+        "concept2": "pooling layers",
+        "correct": true
     },
     {
-        "startConcept": "dimensional tensor",
-        "endConcept": "dimensional Tensors",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "dimensional tensor",
+        "concept2": "dimensional Tensors",
+        "correct": true
     },
     {
-        "startConcept": "softmax",
-        "endConcept": "SoftMax",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "softmax",
+        "concept2": "SoftMax",
+        "correct": true
     },
     {
-        "startConcept": "lapack",
-        "endConcept": "LAPACK",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "lapack",
+        "concept2": "LAPACK",
+        "correct": true
     },
     {
-        "startConcept": "reconstruction probability",
-        "endConcept": "Reconstruction Probability",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "reconstruction probability",
+        "concept2": "Reconstruction Probability",
+        "correct": true
     },
     {
-        "startConcept": "true label",
-        "endConcept": "True labels",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "true label",
+        "concept2": "True labels",
+        "correct": true
     },
     {
-        "startConcept": "Linear layer",
-        "endConcept": "Linear layers",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Linear layer",
+        "concept2": "Linear layers",
+        "correct": true
     },
     {
-        "startConcept": "Graph Visualization",
-        "endConcept": "graph visualization",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Graph Visualization",
+        "concept2": "graph visualization",
+        "correct": true
     },
     {
-        "startConcept": "Recurrent neural networks",
-        "endConcept": "recurrent neural networks",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Recurrent neural networks",
+        "concept2": "recurrent neural networks",
+        "correct": true
     },
     {
-        "startConcept": "RDDs",
-        "endConcept": "RDD",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "RDDs",
+        "concept2": "RDD",
+        "correct": true
     },
     {
-        "startConcept": "Activation Layer",
-        "endConcept": "activation layer",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Activation Layer",
+        "concept2": "activation layer",
+        "correct": true
     },
     {
-        "startConcept": "Rectified linear units",
-        "endConcept": "rrelu",
-        "score": -1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Rectified linear units",
+        "concept2": "rrelu",
+        "correct": false
     },
     {
-        "startConcept": "Model inputs",
-        "endConcept": "Model Inputs",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "Model inputs",
+        "concept2": "Model Inputs",
+        "correct": true
     },
     {
-        "startConcept": "padding value",
-        "endConcept": "padding values",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "padding value",
+        "concept2": "padding values",
+        "correct": true
     },
     {
-        "startConcept": "pretrained models",
-        "endConcept": "pretrained model",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "pretrained models",
+        "concept2": "pretrained model",
+        "correct": true
     },
     {
-        "startConcept": "ProGuard",
-        "endConcept": "proguard",
-        "score": 1,
-        "user": "expert",
-        "domain": "deeplearning"
+        "concept1": "ProGuard",
+        "concept2": "proguard",
+        "correct": true
     }
 ]

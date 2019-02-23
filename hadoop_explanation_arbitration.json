@@ -7,18 +7,14 @@
             "Index at which the RM Delegation Token ids will be split so that the delegation token znodes stored in the zookeeper RM state store will be stored as two different znodes (parent-child).",
             "It contains one znode per peer cluster (if 5 slave clusters, 5 znodes are created), and each of these contain a queue of WALs to process."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Findbugs",
         "explanation": [
             "Findbugs is used to detect common bugs pattern."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Service Instance",
@@ -31,9 +27,7 @@
             "Each Hadoop Service instance must be configured with its Kerberos principal and keytab file location.",
             "The service instance could not be created: 57."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Heap usage",
@@ -42,27 +36,21 @@
             "As a result, the actual heap usage of the memstore before being flushed may increase by up to 100%.",
             "Heap usage emulator is designed in such a way that it only emulates at specific progress boundaries of the task."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Execution Types",
         "explanation": [
             "If there are available resources, the execution of the container starts immediately, irrespective of its execution type."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "access token",
         "explanation": [
             "Obtain the access token that should be added to https connection's header."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "fsck",
@@ -73,54 +61,42 @@
             "The output of hdfs fsck now also contains information about decommissioning replicas.",
             "hdfs fsck <path> // only show decommission state hdfs fsck <path> -maintenance // include maintenance state \u00a9 2018 Apache Software Foundation - Privacy Policy."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Partition cluster",
         "explanation": [
             "Partition cluster - each node can be assigned one label, so the cluster will be divided to several smaller disjoint partitions."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "ACID",
         "explanation": [
             "Utility method for ACID to normalize logging info."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "row group",
         "explanation": [
             "In a row group (rows having the same key), rows are also sorted by their tags."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "node cluster",
         "explanation": [
             "Here is an example basic configuration for a distributed ten node cluster: * The nodes are named example0, example1, etc., through node example9 in this example."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "output paths",
         "explanation": [
             "Thus the output of the job is: < Bye, 1> < Goodbye, 1> < Hadoop, 2> < Hello, 2> The main method specifies various facets of the job, such as the input/output paths (passed via the command line), key/value types, input/output formats etc., in the Job."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "referenced files",
@@ -129,45 +105,35 @@
             "Those reference files are cleaned gradually by compactions, so that the region will stop referring to its parents files, and can be split further.",
             "The reference file is used just like a regular data file, but only half of the records are considered."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Cluster Nodes",
         "explanation": [
             "If your cluster nodes use OS X, see the section, SSH: Setting up Remote Desktop and Enabling Self-Login on the Hadoop wiki."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "metainfo",
         "explanation": [
             "However, every time your cluster starts, META is scanned to ensure that it does not need to be converted."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "info key",
         "explanation": [
             "The info key is a string but value can be any object."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "deprecated name",
         "explanation": [
             "If name is deprecated or there is a deprecated name associated to it, it sets the value to both names."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "YARN",
@@ -198,9 +164,7 @@
             "If the resource is a tgz, zip, or jar - you can have YARN unzip it.",
             "DEFAULT : While submitting a job, if the user is not specifying priority, YARN has the capability to pick the default priority as per its config."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "blocks size",
@@ -212,45 +176,35 @@
             "The default blocks size prior to this change was 64MB.",
             "-p[rbugp] Preserve status r: replication number b: block size u: user g: group p: permission -p alone is equivalent to -prbugp."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "checksum type",
         "explanation": [
             "The checksum type is automatically inferred by issuing a read of the first byte of each block."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "colname",
         "explanation": [
             "colname indicates the column on which to sample each row in the table."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "service state",
         "explanation": [
             "The service state is checked before the operation begins."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "read error",
         "explanation": [
             "If the configuration is false, read errors are treated similar to connection errors."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "NULL",
@@ -258,18 +212,14 @@
             "The NULL in the union should be silently removed.",
             "NOT NULL is not inferred on UNIQUE and needs to be explicitly declared."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "reinitialization",
         "explanation": [
             "Once the reinitialization has been committed, It cannot be rolled back."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table descriptor",
@@ -277,18 +227,14 @@
             "Check that the table descriptor for the snapshot is a valid table descriptor.",
             "Construct a table descriptor by cloning the descriptor passed as a parameter."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "side files",
         "explanation": [
             "When file permissions are thwarted, unlike \"side files\", there are no standard tools that can expose the protected credentials - even with the password known."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Namit",
@@ -298,18 +244,14 @@
             "I think Namit meant this in reference to the design option of using a single database and using scripts for quota management.",
             "Carl raised concerns about potential dependency creep preventing future Hive refactoring, and Namit Jain proposed reworking the approach to restrict it to pre/post-analysis hooks (limiting the dependencies exposed) rather than full-blown analyzer pluggability+subclassing."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "part files",
         "explanation": [
             "All output part files are created regardless of whether the corresponding task has output."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Specified key",
@@ -318,9 +260,7 @@
             "Determines wether a specified key belongs to this filter.",
             "Invariant: nothing happens if the specified key does not belong to this counter Bloom filter."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "YARN service",
@@ -328,18 +268,14 @@
             "The YARN service registry is built on top of Apache Zookeeper.",
             "Any YARN service intended to run for an extended period of time must have a strategy for renewing credentials."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "protobuf",
         "explanation": [
             "Convert a protobuf token into a rpc token and set its service."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "ALTER",
@@ -347,45 +283,35 @@
             "ALTER TABLE ADD|REPLACE COLUMNS with CASCADE command changes the columns of a table's metadata, and cascades the same change to all the partition metadata.",
             "However, ALTER INDEX requires an index name that was created with lowercase letters (see HIVE-2752)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "SMB",
         "explanation": [
             "SMB joins are used wherever the tables are sorted and bucketed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "datafile",
         "explanation": [
             "All files in the filesystem are migrated by re-writing the block metadata - no datafiles are touched."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "JDO",
         "explanation": [
             "Java Data Objects (JDO) is a standard way to access persistent data in databases, using plain old Java objects (POJO) to represent persistent data."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "batch key",
         "explanation": [
             "Generate optimized results when entire batch key is repeated and it matched the hash map."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Snapshottable Directory",
@@ -393,54 +319,42 @@
             "If there are snapshots in a snapshottable directory, the directory can be neither deleted nor renamed before all the snapshots are deleted.",
             "A snapshottable directory is able to accommodate 65,536 simultaneous snapshots."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "step number",
         "explanation": [
             "Each step is labeled with its step number."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Scan filter",
         "explanation": [
             "This makes this filter unsuitable as a Scan filter."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "start time",
         "explanation": [
             "Suppose time T is the rolling upgrade start time and the upgrade is terminated by downgrade."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Remote directory",
         "explanation": [
             "The remote directory for the jobs is remote/a and the local directory for storing output is local/output."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Registry service",
         "explanation": [
             "Registry service properties: The registry must be highly available."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "flow name",
@@ -448,36 +362,28 @@
             "If the flow context is not specified, defaults are supplied for these attributes: Flow name: the YARN application name (or the application id if the name is not set).",
             "user, flow name and run id are not mandatory but if specified in query param can preclude the need for an additional operation to fetch flow context information based on cluster and app id."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "group mapping",
         "explanation": [
             "The groups of a user is determined by a group mapping service provider."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Backticked names",
         "explanation": [
             "Backticked names are interpreted as regular expressions."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "artifact directory",
         "explanation": [
             "On certain Jenkins machines, the artifact directory sometimes gets deleted from outside the test-patch script."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "whole table",
@@ -485,45 +391,35 @@
             "Each compaction task handles 1 partition (or whole table if the table is unpartitioned).",
             "for a query of type: select expr from T where limit 100; Most probably, the whole table T need not be scanned."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "batch mutation",
         "explanation": [
             "This will be called for every batch mutation operation happening at the server."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "dependent table",
         "explanation": [
             "The dependent table does not have a location."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "resource value",
         "explanation": [
             "This method assumes resource value is positive."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "root location",
         "explanation": [
             "By default, this means the root location is stored at /hbase/root-region-server."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "YARN application",
@@ -533,18 +429,14 @@
             "YARN supports a rudimentary registry which allows YARN Application Masters to register a web URL and an IPC address.",
             "To execute code in the cluster, a YARN application must: A list of files in the cluster's filesystem to be \"localized\"."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "specified procedure",
         "explanation": [
             "The specified procedure was executed, and the new state should be written to the store."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "column family",
@@ -569,36 +461,28 @@
             "Per Column Family keys facilitate low impact incremental key rotation and reduce the scope of any external leak of key material.",
             "Column Family time ranges take precedence over the global time range."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "scheduler state",
         "explanation": [
             "Fair Scheduler state dumps can potentially generate large amount of log data."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Minimum period",
         "explanation": [
             "Minimum period of time (in milliseconds) to keep metadata (may only be applied when a prune command is manually run)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "bucket number",
         "explanation": [
             "This is similar to hash bucketing currently, where the bucket number determines the file number."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table named",
@@ -609,9 +493,7 @@
             "* * rowID : a string identification the statistic to be gathered, possibly the table name + the partition specs.",
             "No regular-expression or wildcard support is present; all table names must be explicitly listed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "s3a",
@@ -630,9 +512,7 @@
             "If a region is not configured, S3A will assume that it is in the same region as the S3 bucket.",
             "This is the default: S3A does not need to be configured."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "auth",
@@ -644,18 +524,14 @@
             "Hadoop Auth also supports additional authentication mechanisms on the client and the server side via 2 simple interfaces.",
             "If the auths contain secrets, you may instead specify a path to a file, prefixed with the '@' symbol, and the value of this configuration will be loaded from within."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "permission values",
         "explanation": [
             "The exact permission values in the new child's access ACL are subject to filtering by the mode parameter."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "serialized value",
@@ -663,27 +539,21 @@
             "All serialized values are 9 bytes in length.",
             "All serialized values are 5 bytes in length."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "leveldb",
         "explanation": [
             "Default leveldb read cache size if no configuration is specified."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "output results",
         "explanation": [
             "At the same time, some output results need to be formed in the overflow batch."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "tasktracker",
@@ -691,9 +561,7 @@
             "Get the tasktracker expiry interval for the cluster.",
             "of task failures exceeds this, the tasktracker is blacklisted for this job."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Heartbeat messages",
@@ -701,9 +569,7 @@
             "Heartbeat checks occur during the processing of scans to determine whether or not the server should stop scanning in order to send back a heartbeat message to the client.",
             "Heartbeat messages are used to keep the client-server connection alive during long running scans."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Storage Type",
@@ -719,9 +585,7 @@
             "These storage types are used sequentially for successive block replicas.",
             "The storage type quota is a hard limit on the usage of specific storage type (SSD, DISK, ARCHIVE) by files in the tree rooted at the directory."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Inodes",
@@ -729,9 +593,7 @@
             "Inodes record the file type (regular file or directory) and the list of blocks.",
             "For a single file /dir1/file1 which takes two blocks of storage, the file structure in S3 would be something like this: / /dir1 /dir1/file1 block-6415776850131549260 block-3026438247347758425 Inodes start with a leading /, while blocks are prefixed with block-."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "PMC",
@@ -744,27 +606,21 @@
             "PMC members, please read this WIP doc on policy voting for a release candidate, Release Policy.",
             "Contributors often ask Hive PMC members the question, \"What do I need to do in order to become a committer?\" The simple (though frustrating) answer to this question is, \"If you want to become a committer, behave like a committer.\" If you follow this advice, then rest assured that the PMC will notice, and committership will seek you out rather than the other way around."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "filter name",
         "explanation": [
             "The filter name must be a single word."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "accumulo",
         "explanation": [
             "Accumulo doc on how to contribute and develop is also good read to understand development workflow."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "udf",
@@ -787,27 +643,21 @@
             "If set to empty, then treated as wildcard character \u2013 all UDFs will be allowed.",
             "This UDF accepts arbitrary number of String arguments, so we use String[]."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "JobTracker",
         "explanation": [
             "Jobtracker was modified to cleanup reservations created on tasktracker nodes to support high RAM jobs, when the nodes are blacklisted."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "column vector",
         "explanation": [
             "Bytes column vectors allow a by reference entry to bytes."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Queue name",
@@ -815,27 +665,21 @@
             "In the examples below, <queue> is the queue name.",
             "Name of the queue to which jobs will be submitted, if no queue name is mentioned."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "show table",
         "explanation": [
             "SHOW TABLE EXTENDED will list information for all tables matching the given regular expression."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "old format",
         "explanation": [
             "If the value is not specified, old format fsimage will not be saved in checkpoint."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "jobid",
@@ -845,9 +689,7 @@
             "JobID consists of two parts.",
             "JOBID is set by the framework."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "jvms",
@@ -861,18 +703,14 @@
             "Make sure you don't swap, the JVM never behaves well under swapping.",
             "If the JVM does not support this length, the command will fail."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "memory estimation",
         "explanation": [
             "However, memory estimation could be tricky especially considering interned string."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Batch size",
@@ -881,18 +719,14 @@
             "The rule of thumb is that, the smaller the number of cells out of sync (lower probability of finding a diff), larger batch size values can be determined.",
             "During hive streaming connection creation, transaction batch size can be specified via builder API."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "bucket name",
         "explanation": [
             "The same bucket name can be used for all tests."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Table Properties",
@@ -900,9 +734,7 @@
             "All the table properties/parameters will be that of table that was used in EXPORT to generate the archive.",
             "The advantage of this over external tables is that all the table properties (bucketing/sorting/list bucketing) for the underlying tables are used."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "STRING column",
@@ -910,9 +742,7 @@
             "The standard output of the user script will be treated as TAB-separated STRING columns, any cell containing only \\N will be re-interpreted as a NULL, and then the resulting STRING column will be cast to the data type specified in the table declaration in the usual way.",
             "If your STRING column contains tabs, an identity transformer will not give you back what you started with!"
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table state",
@@ -920,18 +750,14 @@
             "Set table state to provided.",
             "Table locking from master prevents concurrent schema modifications to corrupt table state."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "given cell",
         "explanation": [
             "Deep clones the given cell if the cell supports deep cloning."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "ZooKeeper",
@@ -939,9 +765,7 @@
             "Zookeeper has a default limit of 1MB/node.",
             "If using a setup with multiple KMS instances, 'zookeeper' should be used."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table called",
@@ -949,9 +773,7 @@
             "For this example, assume that a table called normal exists with a single double column called val, containing a large number of random number drawn from the standard normal distribution.",
             "hive> CREATE TABLE invites (foo INT, bar STRING) PARTITIONED BY (ds STRING); creates a table called invites with two columns and a partition column called ds."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "DataNode",
@@ -981,18 +803,14 @@
             "When all the Namenodes finish decommissioning a Datanode, the Datanode is considered decommissioned.",
             "Datanode will report to all the nameservices in this list."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Cache size",
         "explanation": [
             "This is very useful specially when the Cache size requirement is high."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Row Format",
@@ -1000,18 +818,14 @@
             "The delimited row format specifies how the rows are stored in the hive table.",
             "A native SerDe is used if ROW FORMAT is not specified or ROW FORMAT DELIMITED is specified."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Table Scan",
         "explanation": [
             "But, more things will be added here as table scan is invoked as part of local work."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "space quota",
@@ -1023,9 +837,7 @@
             "The space quota is a hard limit on the number of bytes used by files in the tree rooted at that directory.",
             "In some cases, it may be desirable for the space quota to not be automatically deleted."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "CREATE TABLE",
@@ -1034,90 +846,70 @@
             "Insert, select, create table, drop table, create database, add partition, drop partition have been tested.",
             "hive> CREATE TABLE invites (foo INT, bar STRING) PARTITIONED BY (ds STRING); creates a table called invites with two columns and a partition column called ds."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "prefix tree",
         "explanation": [
             "Prefix Tree may be appropriate for applications that have high block cache hit ratios."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table restore",
         "explanation": [
             "When a table restore operation starts, a two-step process is initiated."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "cluster replication",
         "explanation": [
             "Replication to secondary region replicas works over standard inter-cluster replication."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "finish time",
         "explanation": [
             "Because job finish time will include the job scheduling overhead."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "protoc",
         "explanation": [
             "Protos are hosted by the module that makes use of them."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "input table",
         "explanation": [
             "The other input tables will be recognize as the small tables during the execution stage and these tables need to be held in the memory."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "split request",
         "explanation": [
             "A region split request is enqueued if the policy recommends it."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "meta store",
         "explanation": [
             "NOTE: \u2022 Meta Store would need to answer queries with in clauses."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "key request",
         "explanation": [
             "If the key is not specified, the default expiry duration specified in the sas-key request takes effect."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "bloom filter",
@@ -1140,9 +932,7 @@
             "Bloom filters need to be rebuilt upon deletion, so may not be appropriate in environments with a large number of deletions.",
             "Bloom filter blocks and index blocks (we call these \"inline blocks\") become interspersed with data blocks, and as a side effect we can no longer rely on the difference between block offsets to determine data block length, as it was done in version 1."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table links",
@@ -1152,45 +942,35 @@
             "If we assume that it's possible to make this change then from a quota management standpoint I don't think the table links makes quota management easier.",
             "I don't think table links make this process atomic, and as I mentioned above the process of maintaining this linked set of partitions actually seems easier if you use views instead."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Pradeep",
         "explanation": [
             "Pradeep Kamath gave an update on progress with Howl."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "client service",
         "explanation": [
             "intra-cluster traffic between two services may be routed over a private interface but the client service looked up its public hostname."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "wait period",
         "explanation": [
             "Such wait period gives RM a chance to settle down resyncing with NMs in the cluster on recovery, before assigning new containers to applications."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "bucket size",
         "explanation": [
             "Bucket size is 1 / error rate."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Distcp",
@@ -1208,99 +988,77 @@
             "When DistCp -update is used with object stores, generally only the modification time and length of the individual files are compared, not any checksums.",
             "DistCp can be used to upload data."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "given types",
         "explanation": [
             "Check if the given type is numeric."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "source row",
         "explanation": [
             "In this case the source row would never appear in the results."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "LLAP",
         "explanation": [
             "Obviously, LLAP level of support depends on each individual execution engine (starting with Tez)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "storage capacity",
         "explanation": [
             "Archival Storage is a solution to decouple growing storage capacity from compute capacity."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "keyspace",
         "explanation": [
             "Also, if you are pre-splitting regions and all your data is still winding up in a single region even though your keys aren't monotonically increasing, confirm that your keyspace actually works with the split strategy."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "given principal",
         "explanation": [
             "Get the grant information of roles the given principal belongs to."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "index size",
         "explanation": [
             "This is optimized for point-lookups in the case where a value typically occurs more than once in nearby rows; the index size is kept small since there are many fewer blocks than rows."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "skewed keys",
         "explanation": [
             "The skewed keys in A are only read and processed by the Mapper, and not sent to the reducer."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "high latency",
         "explanation": [
             "This can cause high latency in job submission as well as incur some AWS network transmission costs."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Typed bytes",
         "explanation": [
             "Typed bytes are sequences of bytes in which the first byte is a type code."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "edit files",
@@ -1308,27 +1066,21 @@
             "In case there is some problem with hadoop cluster and the edits file is corrupted it is possible to save at least part of the edits file that is correct.",
             "One edit file may contain several transactions (edits)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "DN",
         "explanation": [
             "This setting controls how much DN volumes are allowed to differ in terms of bytes of free disk space before they are considered imbalanced."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "data discovery",
         "explanation": [
             "The second functionality, data discovery, enables users to discover and explore relevant and specific data in the warehouse."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "WAL",
@@ -1345,9 +1097,7 @@
             "Already-processed WALs are stored in /hbase/oldWALs/ and corrupt WALs are stored in /hbase/.corrupt/ for examination.",
             "The WAL can be replayed for a set of tables or all tables, and a timerange can be provided (in milliseconds)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "specified table",
@@ -1356,18 +1106,14 @@
             "Checks if the specified table exists.",
             "Suspend the procedure if the specified table is already locked."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "NPE",
         "explanation": [
             "NPE occurred in the following cases - a blacklisted tracker is either decommissioned or expires."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "YARN resource",
@@ -1375,27 +1121,21 @@
             "The YARN Resource Manager gets a new token for the node managers, if needed.",
             "YARN Resource Managers (RMs) and Node Managers (NMs) co-operate to execute the user's application with the identity and hence access rights of that user."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "webapps",
         "explanation": [
             "If only a host is provided as the value, the webapp will be served on a random port."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Resource reserved",
         "explanation": [
             "Resource reserved for the allocation."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Login",
@@ -1405,36 +1145,28 @@
             "Did the login happen via ticket cache.",
             "This method assumes that login had happened already."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "HEAD",
         "explanation": [
             "GET,POST,HEAD Comma separated list of headers that are allowed for web services needing cross-origin (CORS) support."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Variable Substitution",
         "explanation": [
             "All paths must be absolute and no environment variable substitution will be performed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Bloom information",
         "explanation": [
             "Bloom information from the cell is retrieved."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Column name",
@@ -1450,9 +1182,7 @@
             "(Initially, all column names are allowed.).",
             "Value can be \"none\" or \"column\".column: Column names can contain any Unicode character."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table created",
@@ -1460,9 +1190,7 @@
             "If a table created using the PARTITIONED BY clause, a query can do partition pruning and scan only a fraction of the table relevant to the partitions specified by the query.",
             "The table created by CTAS is atomic, meaning that the table is not seen by other users until all the query results are populated."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "service entry",
@@ -1470,9 +1198,7 @@
             "If the service entry is found, the client should attempt to communicate with the AM on its channel.",
             "If the registered service entry cannot be found, the container MAY do one of: exit."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table definition",
@@ -1480,36 +1206,28 @@
             "Called before a new table definition is added to the metastore during CREATE TABLE.",
             "Called before a table definition is removed from the metastore during DROP TABLE."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "delta directory",
         "explanation": [
             "For every transaction batch a delta directory will be created which will impact when compaction will trigger."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "MVCC",
         "explanation": [
             "Set the mvcc read point to -1 which means do not use it."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "temp table",
         "explanation": [
             "This has to be done after the temp table is populated and all necessary Partition objects exist in the metastore."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Column Statistics",
@@ -1519,9 +1237,7 @@
             "However, the base column statistics is not cached and needs to fetch from SQL database everytime needed.",
             "Basic and column statistics can have one of the following states COMPLETE, PARTIAL, NONE."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "compressed block",
@@ -1529,9 +1245,7 @@
             "Compressed blocks can be jumped over without first having to be decompressed for scanning.",
             "Each compressed block requires one compression/decompression codec for I/O."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "mob files",
@@ -1541,27 +1255,21 @@
             "Checks whether the referenced mob file exists.",
             "The MOB file name uses only the date part of the file creation time in it."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "destination directories",
         "explanation": [
             "When a file is renamed, its modification time is not changed, but the source and destination directories have their modification times updated."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Health Checker",
         "explanation": [
             "The health checker script is not supposed to give ERROR if only some of the local disks become bad."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table coprocessor",
@@ -1569,9 +1277,7 @@
             "In this version, the coprocessor is loaded dynamically (table coprocessor for the flowrun table).",
             "If 'false' (disabled), any table coprocessor attributes in table descriptors will be ignored."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "failovers",
@@ -1579,27 +1285,21 @@
             "Even if automatic failover is configured, you may initiate a manual failover using the same hdfs haadmin command.",
             "RM Failover Recovering previous active-RM's state."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "storage statistics",
         "explanation": [
             "Stores global storage statistics objects."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "filter operates",
         "explanation": [
             "When only include patterns are specified, the filter operates in the white listing mode, where only matched sources are included."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "fileSystem",
@@ -1614,36 +1314,28 @@
             "If the operations are interrupted, the filesystem is left in an intermediate state.",
             "Filesystem commands which list permission and user/group details, usually simulate these details."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "key part",
         "explanation": [
             "The key part of the cell is taken for comparison which includes row, family, qualifier, timestamp and type."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Cluster connection",
         "explanation": [
             "Cluster connection to be shared by services."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Active Directory",
         "explanation": [
             "Azure Active Directory (Azure AD) is Microsoft's multi-tenant cloud based directory and identity management service."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "hbase",
@@ -1653,9 +1345,7 @@
             "The hbase:meta table (previously called .META.) keeps a list of all regions in the system.",
             "Here are others that you may have to take into account: The hbase:meta table is forced into the block cache and have the in-memory priority which means that they are harder to evict."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Memstore",
@@ -1666,9 +1356,7 @@
             "When it is enabled, memstores will step allocate memory in MSLAB 2MB chunks even if the memstore has zero or just a few small elements.",
             "For write-heavy workload, memstore fraction can be increased in configuration at the expense of block cache; this will also allow one to have more regions."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Hadoop",
@@ -1742,99 +1430,77 @@
             "If set, Hadoop will attempt to resolve group names from this attribute, instead of making the second LDAP query to get group objects.",
             "Typically, Hadoop resolves a user's group names by making two LDAP queries: the first query gets the user object, and the second query uses the user's Distinguished Name to find the groups."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Load Generator",
         "explanation": [
             "The Synthetic Load Generator complements the extensive nature of SLS-native and RUMEN traces, by providing a distribution-driven generation of load."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "max count",
         "explanation": [
             "There are lazily created buffers and the count is the max count to be pooled."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "memory copy",
         "explanation": [
             "Indicates which memory copy is used in building cell."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "auth method",
         "explanation": [
             "Note: This auth method is suitable for running interactive tools, but will not work for jobs submitted to a cluster."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Javadocs",
         "explanation": [
             "Javadoc warnings are checked during precommit."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "results list",
         "explanation": [
             "The results list can contain expressions based on the input columns and also the matched Path."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "byte range",
         "explanation": [
             "Limits the byte range upto a specified value."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "rr",
         "explanation": [
             "When the read pattern is a random row read load and each of the rows are smaller in size compared to this 64 KB, try reducing this."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Timeframes",
         "explanation": [
             "Timeframes can be expressed in the following units: sec, min, hour, day."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Storage accounts",
         "explanation": [
             "A storage account may have multiple containers."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "PUT request",
@@ -1843,108 +1509,84 @@
             "The put request will be buffered by its corresponding buffer queue.",
             "Put requests are used to modify the scheduler configuration."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "foreign keys",
         "explanation": [
             "All foreign keys for a particular table can be fetched by passing null for the last two arguments."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "input scan",
         "explanation": [
             "Configure input scan with proper ranges, iterators, and columns based on serde properties for Hive table."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "intermediate files",
         "explanation": [
             "The intermediate files in the temporary directory will not be cleaned up."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Predicate Pushdown",
         "explanation": [
             "Predicate pushdown is a term borrowed from relational databases even though for Hive it is predicate pushup."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Data moved",
         "explanation": [
             "Data moved to the .Trash directory can be purged using the expunge command."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "every row",
         "explanation": [
             "every row gets its own set of rows to process the UDAF on."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "row matches",
         "explanation": [
             "A row matches if it has the same tag names and values as record, but it may also have additional tags."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "http methods",
         "explanation": [
             "Possible values are: false: All HTTP methods are permitted - GET/PUT/POST/DELETE."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "given scan",
         "explanation": [
             "Checks whether the given scan passes the Bloom filter (if present)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Templeton name",
         "explanation": [
             "The Templeton name is taken from a character in the award-winning children's novel Charlotte's Web, by E."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "index information",
         "explanation": [
             "The metadata and index information can be cached even for data that is not currently cached."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "input keys",
@@ -1952,9 +1594,7 @@
             "Input keys and values are swapped.",
             "Input keys must not be altered."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "storage policies",
@@ -1964,27 +1604,21 @@
             "To set storage type quota on a directory, storage policies must be configured on the directory in order to allow files to be stored in different storage types according to the storage policy.",
             "More formally, a storage policy consists of the following fields: Policy ID."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "reduced table",
         "explanation": [
             "The reduced table is then joined on c."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "ASCII",
         "explanation": [
             "ASCII code for 'A'."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "DynamoDB",
@@ -1992,9 +1626,7 @@
             "See DynamoDB documents for more information.",
             "The IO load of clients of the (shared) DynamoDB table was exceeded."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "jiras",
@@ -2008,27 +1640,21 @@
             "This JIRA makes following change: Change Router metrics context from 'router' to 'dfs'.",
             "This jira changes the default block size to 128MB."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "system directory",
         "explanation": [
             "The mapred system directory generated by HOD is cleaned up at cluster deallocation time."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Cluster topology",
         "explanation": [
             "Cluster topology is used as follows : To reconstruct the splits and make sure that the distances/latencies seen in the actual run are modeled correctly."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "appId",
@@ -2051,45 +1677,35 @@
             "If the app cannot use the container or wants to give up the container then it can release them.",
             "So even after the remove request the app must be prepared to receive an allocation for the previous request even after the remove request."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "leaf level",
         "explanation": [
             "Intermediate levels can only be present if leaf level blocks are present Optionally, version 2 leaf levels, stored in the non%root format inline with data blocks."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "table write",
         "explanation": [
             "Get the table write Ids that are valid for the current transaction."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "created directory",
         "explanation": [
             "Newly created directories have no associated quota."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table file",
         "explanation": [
             "External table files can be accessed and managed by processes outside of Hive."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "block pool",
@@ -2099,18 +1715,14 @@
             "A Block Pool is a set of blocks that belong to a single namespace.",
             "When a Namenode/namespace is deleted, the corresponding block pool at the Datanodes is deleted."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "changed files",
         "explanation": [
             "Otherwise, changed files may be missed/copied too often."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "slave node",
@@ -2118,27 +1730,21 @@
             "One node will be used as the master and as such the cluster will have 9 slave nodes.",
             "Slave nodes then use this reader context to read data."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "metrics related",
         "explanation": [
             "The following metrics have been removed: Metrics related to the Distributed Log Replay feature are no longer present."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "data tens",
         "explanation": [
             "Rewriting the same data tens of times is the last thing you want."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Big table",
@@ -2148,9 +1754,7 @@
             "Columns that are identified from small table has following characteristics: \u2022 Column is the other side of predicate in the join condition and Big Table column is identified as a target for partition pruning.",
             "During the probe phase, the big table S is scanned sequentially and for each row of S, the hash table is probed for matching rows."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "key series",
@@ -2158,9 +1762,7 @@
             "The key series will be positioned to the beginning.",
             "The key series is logically indexed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "master cluster",
@@ -2168,27 +1770,21 @@
             "The master cluster relies on randomization to attempt to balance the stream of replication on the slave clusters.",
             "So if the master cluster crashes, the slave cluster may not have the newest data."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "RDD",
         "explanation": [
             "While RDD extension seems easy in Scala, this can be challenging as Spark's Java APIs lack such capability."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "access keys",
         "explanation": [
             "The access key is a secret that protects access to your storage account."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Secret manager",
@@ -2196,18 +1792,14 @@
             "The secret manager is responsible for generating and accepting the password for each token.",
             "Setting to true always allows the DT secret manager to be used, even if security is disabled."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "vaidya",
         "explanation": [
             "Introduced Vaidya rule based performance diagnostic tool for Map/Reduce jobs."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Cache files",
@@ -2218,9 +1810,7 @@
             "The cache files are checked at the client side for public/private access on the file system, and that information is passed in the configuration.",
             "Cached file metadata (or overrides as the case may be)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "cache entry",
@@ -2228,9 +1818,7 @@
             "If successful the cache entry will be set to valid status and be usable for cached queries.",
             "Wait for the cache entry to go from PENDING to VALID status."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Rowkey",
@@ -2239,9 +1827,7 @@
             "The rowkey [hostname][log-event][timestamp] is a candidate if there is a large-ish number of hosts to spread the writes and reads across the keyspace.",
             "In the Hostname In The Rowkey Lead Position example, it might look like this: Composite Rowkey With Hashes: [MD5 hash of hostname] = 16 bytes."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Cloudera",
@@ -2250,18 +1836,14 @@
             "Cloudera will take the lead on that.",
             "Cloudera will host the next meeting."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Hortonworks",
         "explanation": [
             "Alan said that Hortonworks would like to contribute to this, and is interested in collaborating with others on it."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "snapshot file",
@@ -2269,9 +1851,7 @@
             "The snapshot should not be deleted while there are jobs reading from snapshot files.",
             "Blocks in datanodes are not copied: the snapshot files record the block list and the file size."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Region state",
@@ -2279,27 +1859,21 @@
             "Region state is distributed and hard to reason about and test.",
             "Let a region state have some vintage before we act on it (one second currently)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "HTTP verbs",
         "explanation": [
             "They also strive for simple non-POSIX APIs: the HTTP verbs are the operations allowed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Time ranges",
         "explanation": [
             "The WAL can be replayed for a set of tables or all tables, and a time range can be provided (in milliseconds)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "drop table",
@@ -2307,9 +1881,7 @@
             "DROP TABLE removes metadata and data for this table.",
             "Insert, select, create table, drop table, create database, add partition, drop partition have been tested."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "classpath",
@@ -2318,9 +1890,7 @@
             "If named by a String, then the classpath is examined for a file with that name.",
             "Classpath is usually the first problem."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "exit codes",
@@ -2330,9 +1900,7 @@
             "If unsuccessful, exit codes are.",
             "Exit code when a control-C, kill -3, signal was picked up: 3."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "side cache",
@@ -2340,27 +1908,21 @@
             "Both client side and server side cache needs to be a singleton and shared within the JVM.",
             "In the worst case, the caller may get up to (server-side cache size + client-side cache size) number of old EEKs, or until both caches expire."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "lock table",
         "explanation": [
             "Set table state to provided but only if table in specified states Caller should lock table on write."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "RDL",
         "explanation": [
             "If the RDL is different, the reservation will be rejected, and the request will be unsuccessful."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "rdbms",
@@ -2370,9 +1932,7 @@
             "An RDBMS can scale well, but only up to a point - specifically, the size of a single database server - and for the best performance requires specialized hardware and storage devices.",
             "Whether the RDBMS has restrictions on IN list size (explicit, or poor perf-based)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "max number",
@@ -2380,9 +1940,7 @@
             "Defines the max number of applications could be fetched using REST API or application history protocol and shown in timeline This property should never be set to false.",
             "Defines the max number of applications could be fetched using REST API or application history protocol and shown in timeline server web ui."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "RPC",
@@ -2401,9 +1959,7 @@
             "If the RPC threw an exception, the source will retry 10 times before trying to find a different sink.",
             "If the RPC was successful, the source determines whether the current file has been emptied or it contains more data which needs to be read."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Data Encryption",
@@ -2411,27 +1967,21 @@
             "Get the current working directory of the Trash Policy This API does not work with files deleted from encryption zone when HDFS data encryption at rest feature is enabled as rename file between encryption zones or encryption zone and non-encryption zone is not allowed.",
             "Data encryption is required by a number of different government, financial, and regulatory entities."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "rpc call",
         "explanation": [
             "When the feature is enabled, RPC server will no longer block on the processing of RPC requests when RPC call queue is full."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "capacity numbers",
         "explanation": [
             "</description> Attempting to perform more IO than the capacity requested simply throttles the IO; small capacity numbers are recommended when initially experimenting with S3Guard."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "block file",
@@ -2440,9 +1990,7 @@
             "If a block file is specified, we will compute the checksums from the block file, and save it to the specified output metadata file.",
             "Only use as a last measure, and when you are 100% certain the block file is good."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "struct",
@@ -2454,45 +2002,35 @@
             "A Struct may be used as a member of another Struct.",
             "The set of fields this struct contains, along with convenience methods for finding and manipulating them."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "threshold number",
         "explanation": [
             "When threshold number of the nodemanager-local-directories or threshold number of the nodemanager-log-directories become bad."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "deserializer",
         "explanation": [
             "In each task (mapper/reducer) the deserializer associated with the table or intermediate outputs is used to read the rows from HDFS files and these are passed through the associated operator tree."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "output table",
         "explanation": [
             "Checks if the output table exists and is enabled."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "complete row",
         "explanation": [
             "If the version you specified when deleting a row is larger than the version of any value in the row, then you can consider the complete row to be deleted."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "nameNode",
@@ -2508,45 +2046,35 @@
             "If set to false, the Namenode uses the traditional synchronous edit logs.",
             "Any Namenode in the cluster can be used to access this web page."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "unrecognized value",
         "explanation": [
             "An unrecognized value was silently assumed to mean authentication."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "group key",
         "explanation": [
             "If the grouping key is a superset of the bucketing and sorting keys of the underlying table in the same order, the group by can be be performed on the map-side completely."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "input files",
         "explanation": [
             "'LOCAL' signifies that the input file is on the local file system."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Acid table",
         "explanation": [
             "External tables cannot be made ACID tables since the changes on external tables are beyond the control of the compactor (HIVE-13175).Reading/writing to an ACID table from a non-ACID session is not allowed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "txn",
@@ -2554,36 +2082,28 @@
             "For implicit txn, the stmt that triggered/started the txn is the first statement.",
             "Each statement writing data within a multi statement txn should have a unique WriteId."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Table instances",
         "explanation": [
             "Table instances are not thread-safe."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "consistency level",
         "explanation": [
             "Consistency defines the expected consistency level for an operation."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "maximum download",
         "explanation": [
             "Get the current maximum download bandwidth."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Plugins",
@@ -2594,36 +2114,28 @@
             "The plugin can decide how two keys are joined.",
             "If not, click Available Plugins, select it, and click Install."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "log directories",
         "explanation": [
             "Fixed a bug in tasklog servlet which displayed wrong error message about job ACLs - an access control error instead of the expected log files gone error - after task logs directory is deleted."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "given Table",
         "explanation": [
             "Check whether the given table is contained in a sync replication peer which can pass the state checker."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "CPU",
         "explanation": [
             "Once resources (CPU, memory, etc.) have been obtained from YARN for a specific workload, the execution engine can choose to delegate these resources to LLAP, or to launch Hive executors in separate processes."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "startcode",
@@ -2631,18 +2143,14 @@
             "The startcode distinguishes restarted servers on same hostname and port (startcode is usually timestamp of server startup).",
             "What to use if no startcode supplied."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "LZ4",
         "explanation": [
             "LZ4 support is bundled with Hadoop."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "LCE",
@@ -2653,9 +2161,7 @@
             "When the LCE launches a YARN container to execute in a Docker container, the application can specify the Docker image to be used.",
             "If running in non-secure mode, by default, the LCE runs all jobs as user \"nobody\"."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "KFS",
@@ -2663,9 +2169,7 @@
             "KFS has been replaced by QFS (HADOOP-8885).",
             "Kosmos FS (KFS) is no longer maintained and Hadoop support has been removed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "data block",
@@ -2679,9 +2183,7 @@
             "Smaller blocks are good for random access, but require more memory to hold the block index, and may be slower to create (because we must flush the compressor stream at the conclusion of each data block, which leads to an FS I/O flush).",
             "If the DATA blocks fit inside fscache, this alternative may make sense when access is completely random across a very large dataset."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "History file",
@@ -2691,27 +2193,21 @@
             "Parses history file and calls call back functions.",
             "The job history file at this path may or may not be existing depending on the job completion state."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "specified nodes",
         "explanation": [
             "Creates the specified node, iff the node does not exist."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "submission code",
         "explanation": [
             "If \"disabled\" is specified then the job submission code will not use the shared cache."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "data nodes",
@@ -2722,9 +2218,7 @@
             "The Data Nodes will flush in-memory data to disk asynchronously thus removing expensive disk IO and checksum computations from the performance-sensitive IO path, hence we call such writes Lazy Persist writes.",
             "Following a scheduled reboot, one data node began exhibiting unusual behavior."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "sequence file",
@@ -2733,18 +2227,14 @@
             "Text files require an extension, whereas others, like sequence files, do not.",
             "When two sequence files, which have same Key type but different Value types, are mapped out to reduce, multiple Value types is not allowed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "encryption algorithm",
         "explanation": [
             "Encryption algorithm and key used."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "CSRF",
@@ -2752,9 +2242,7 @@
             "In this case, CSRF is not a potential attack vector, so the prevention is not enforced.",
             "If the incoming User-Agent matches any of these regular expressions, then the request is considered to be sent by a browser, and therefore CSRF prevention is enforced."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "ipc",
@@ -2762,18 +2250,14 @@
             "Address where the localizer IPC is.",
             "Address where the collector service IPC is."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "lock time",
         "explanation": [
             "Lock times out on master: Can happen because of network issues, GC pauses, etc."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "StoreFile size",
@@ -2781,36 +2265,28 @@
             "Archived Storefile Size is the Storefile size in Archive.",
             "Shared Storefile Size is the Storefile size shared between snapshots and active tables."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "replication count",
         "explanation": [
             "The replication count of all files is \"1\"."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "metric info",
         "explanation": [
             "More metrics info can see Router RPC Metrics and State Store Metrics."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Container request",
         "explanation": [
             "The execution types are the following: GUARANTEED - this container is guaranteed to start its execution, once the corresponding start container request is received by an NM."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Hash aggregation",
@@ -2818,36 +2294,28 @@
             "Hash aggregation is an optimization in hive to reduce the number of rows shuffled between map and reduce stage.",
             "The number of rows emitted from map-side will vary if hash aggregation is enabled throughout execution or disabled."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "text value",
         "explanation": [
             "Text Encoding Each text value begins with a single byte of 0x33 and ends with a single byte of 0x00."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "mutation request",
         "explanation": [
             "Controls whether a mutation request is allowed."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "tag list",
         "explanation": [
             "Whether the tag list has a mob reference tag."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Compactor",
@@ -2855,45 +2323,35 @@
             "A compactor is a compaction algorithm associated a given policy.",
             "When the compactor kicks in, these delta files get rewritten into read- and storage-optimized ORC format (enable dictionary encoding, indexes and compression)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "column types",
         "explanation": [
             "Things can go wrong if the bucketing column type is different during the insert and on read, or if you manually cluster by a value that's different from the table definition."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "destination cluster",
         "explanation": [
             "Create tables with the same names and column families on both the source and destination clusters, so that the destination cluster knows where to store data it will receive."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "max period",
         "explanation": [
             "Also note that the configured max period must be divisible by the recurrence expression if expressed as a long."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "PTF",
         "explanation": [
             "PTFs are black boxes, we assume all columns are needed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "gpg",
@@ -2901,9 +2359,7 @@
             "In case the GPG is not-available, cluster operations will continue as of the last time the GPG published policies, and while a long-term unavailability might mean some of the desirable properties of balance, optimal cluster utilization and global invariants might drift away, compute and access to data will not be compromised.",
             "The GPG operates continuously but out-of-band from all cluster operations, and provide us with a unique vantage point, that allows to enforce global invariants, affect load balancing, trigger draining of sub-clusters that will undergo maintenance, etc."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "NN",
@@ -2913,9 +2369,7 @@
             "To perform a rollback of an upgrade, both NNs should first be shut down.",
             "Rather, this NN will immediately enter the active state, perform an upgrade of its local storage dirs, and also perform an upgrade of the shared edit log."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Prasad",
@@ -2923,9 +2377,7 @@
             "Prasad pointed out that in the future, for materialized views, we may need the view definition to be tracked at the partition level as well, so that when we change the view definition, we don't have to discard existing materialized partitions if the new view result can be derived from the old one.",
             "Update 30-Dec-2009: Prasad pointed out that even without supporting materialized views, it may be necessary to provide users with metadata about data dependencies between views and underlying table partitions so that users can avoid seeing inconsistent results during the window when not all partitions have been refreshed with the latest data."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table exists",
@@ -2937,18 +2389,14 @@
             "Throw an exception if the table exists on peer cluster but descriptors are not same.",
             "If the region is not set, verify that the table exists in the same region as the bucket being used."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "column list",
         "explanation": [
             "The PARTITIONED BY clause may be used to specify a subset of the table's partitioning columns (this column list may be empty to indicate that the index spans all partitions of the table)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "root directory",
@@ -2956,9 +2404,7 @@
             "The root directory, \"/\", is always a directory, and cannot be overwritten by a file write operation.",
             "The root directory, \"/\", always exists, and cannot be renamed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "output key",
@@ -2967,108 +2413,84 @@
             "The map output keys of the above Map/Reduce job normally have four fields separated by \".\".",
             "In this case, the map output key will consist of fields 6, 5, 1, 2, and 3."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "checksum verification",
         "explanation": [
             "Checksum verification by HDFS will be internally disabled on hfile streams when this flag is set."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "selected directory",
         "explanation": [
             "If the selected directory does not exist, an attempt is made to create it."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table access",
         "explanation": [
             "Once created, table access is via an instance of Table."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "AMRM",
         "explanation": [
             "Get the AMRM token of the application."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "jstack",
         "explanation": [
             "jstack is one of the most important tools when trying to figure out what a java process is doing apart from looking at the logs."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "reported values",
         "explanation": [
             "If the directory does not have a quota set, the reported values are none and inf."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Trace values",
         "explanation": [
             "Trace values retrived from the database."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "input Paths",
         "explanation": [
             "If any input path points to an empty table or partition a dummy file in the scratch dir is instead created and added to the list."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Table Creation",
         "explanation": [
             "Unpartitioned tables effectively have one default partition that must be created at table creation time."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "memory limits",
         "explanation": [
             "Now, different memory limits can be set for map and reduce tasks of a job, in MB."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "log roll",
         "explanation": [
             "Sync slots after log roll failed, abort."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "scratch directory",
@@ -3076,9 +2498,7 @@
             "If the lock is available, the scratch directory will be cleared.",
             "hive --service cleardanglingscratchdir [-r] [-v] [-s scratchdir] -r dry-run mode, which produces a list on console -v verbose mode, which prints extra debugging information The tool tests if a scratch directory is in use, and if not, will remove it."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Metadata Store",
@@ -3089,27 +2509,21 @@
             "Object stores with cached metadata databases (for example: AWS S3 with an in-memory or a DynamoDB metadata store) may have timestamps generated from the local system clock, rather than that of the service.",
             "A DynamoDB metadata store can be initialized with additional parameters pertaining to Provisioned Throughput: Example 1."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "column keys",
         "explanation": [
             "While rows and column keys are expressed as bytes, the version is specified using a long integer."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Retry times",
         "explanation": [
             "This places a limit even if the retry times and interval limit, combined with the backoff policy, result in a long retry period."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Load Balancer",
@@ -3117,27 +2531,21 @@
             "The Master runs several background threads: Periodically, and when there are no regions in transition, a load balancer will run and move regions around to balance the cluster's load.",
             "The Load Balancer ensures that the region replicas are not co-hosted in the same region servers and also in the same rack (if possible)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Field numbers",
         "explanation": [
             "Field numbers are cheap and changing and reusing is not a good idea."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "empty key",
         "explanation": [
             "If the first character on a line is the separator, empty key is assumed, and the whole line is the value (due to a bug this was not the case)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "memory compaction",
@@ -3146,18 +2554,14 @@
             "No memory compaction, when size threshold is exceeded data is flushed to disk.",
             "In-memory compaction works best when high data churn; overwrites or over-versions can be eliminated while the data is still in memory."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "specified master",
         "explanation": [
             "Wait for the specified master to stop."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "config",
@@ -3175,18 +2579,14 @@
             "This config can take values from 0 to 4.",
             "If this config is true, only pushed down filters remain in the operator tree, and the original filter is removed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "RUNNING state",
         "explanation": [
             "Beyond all the groundwork that has been done in Phase 1 to ensure the persistency of application state and reload that state on recovery, Phase 2 primarily focuses on re-constructing the entire running state of YARN cluster, the majority of which is the state of the central scheduler inside RM which keeps track of all containers' life-cycle, applications' headroom and resource requests, queues' resource usage etc."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "INDEX",
@@ -3194,18 +2594,14 @@
             "An index can be dropped at any time with DROP INDEX.",
             "However, ALTER INDEX requires an index name that was created with lowercase letters (see HIVE-2752)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "separate table",
         "explanation": [
             "If you leave it unset/empty, a separate table will be created for each S3 bucket you access, and that bucket's name will be used for the name of the DynamoDB table."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "TEZ",
@@ -3214,9 +2610,7 @@
             "Tez allows for small datasets to be handled entirely in memory, while no such optimization is available in map-reduce.",
             "Also Tez does not restrict the job to be only Map followed by Reduce; this implies all of the query execution can be done in a single job without having to cross job boundaries."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "WASB",
@@ -3226,9 +2620,7 @@
             "WASB passes User-Agent header to the Azure back-end.",
             "The Azure Blob Storage file system (WASB) now includes optional support for use of the append API by a single writer on a path."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "relative path",
@@ -3239,18 +2631,14 @@
             "Relative paths can be used.",
             "Relative paths path Resolves to [Y'][path]."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table permission",
         "explanation": [
             "Updates the internal table permissions cache for specified table."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "storage locations",
@@ -3258,9 +2646,7 @@
             "Then, if one storage location is corrupt, you can read the metadata from one of the other storage locations.",
             "A datanode storage location /grid/dn/disk0 on DISK should be configured with [DISK]file:///grid/dn/disk0 A datanode storage location /grid/dn/archive0 on ARCHIVE should be configured with [ARCHIVE]file:///grid/dn/archive0 The default storage type of a datanode storage location will be DISK if it does not have a storage type tagged explicitly."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "AVG",
@@ -3269,9 +2655,7 @@
             "On the other hand avg would have an evaluator only for the double type.",
             "The avg, min, or max can also be used."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Alter table",
@@ -3280,54 +2664,42 @@
             "For eg: alter table Tdependent add partition (ds='1') depends on table T1 partition (ds='1'); Something that can be achieved by external tables currently.",
             "By signaling an error via this message, the table is left in a good state and the incorrect value can be corrected with a call to alter table T set TBLPROPERTIES."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "sequence ID",
         "explanation": [
             "If the sequence of the last edit is greater than or equal to the sequence ID included in the file name, it is clear that all writes from the edit file have been completed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "TTLs",
         "explanation": [
             "Cell TTLs are submitted as an attribute on mutation requests (Appends, Increments, Puts, etc.) using Mutation#setTTL."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Retry policy",
         "explanation": [
             "If \"false\", retry policy is turned off."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Procedure code",
         "explanation": [
             "Execute may be called multiple times in the case of failure or restart, so Procedure code must be idempotent yielding the same result each time it run."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Task Counters",
         "explanation": [
             "Counters holds per job/task counters, defined either by the Map-Reduce framework or applications."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "local copies",
@@ -3335,45 +2707,35 @@
             "This local copy is required to display on the webui.",
             "Your local copy of Hive should work by running build/dist/bin/hive from the Hive root directory, and you should have some tables of data loaded into your local instance for testing whatever UDAF you have in mind."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "column reference",
         "explanation": [
             "In such cases the column references are replaced by the corresponding expression in the input data."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "cache value",
         "explanation": [
             "Higher caching values will enable faster scanners but will use more memory."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "equi",
         "explanation": [
             "Rule that merges a join with multijoin/join children if the equi compared the same set of input columns."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "cached block",
         "explanation": [
             "The cached blocks map is a hash map which uses chained hashing."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "slave cluster",
@@ -3383,9 +2745,7 @@
             "If a slave cluster does run out of room, or is inaccessible for other reasons, it throws an error and the master retains the WAL and retries the replication at intervals.",
             "It is expected that the slave cluster has storage capacity to hold the replicated data, as well as any data it is responsible for ingesting."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "output column",
@@ -3393,27 +2753,21 @@
             "All the input parameters and output column types are string.",
             "In this variation, column information is ordered by the output column number."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Output pairs",
         "explanation": [
             "Output pairs need not be of the same types as input pairs."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "right level",
         "explanation": [
             "The right level of parallelism for maps seems to be around 10-100 maps per-node, although it has been set up to 300 maps for very cpu-light map tasks."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "object store",
@@ -3425,9 +2779,7 @@
             "Different object store clients may support these commands: do consult the documentation and test against the target store.",
             "Smaller values results in faster test runs, especially when the object store is a long way away."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "encryption zone",
@@ -3438,9 +2790,7 @@
             "To comply with the above rule, each encryption zone has its own .Trash directory under the \"zone directory\".",
             "When the entire encryption zone is deleted, the \"zone directory\" will be moved to the .Trash directory under the user's home directory."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "entire row",
@@ -3449,18 +2799,14 @@
             "If true, the entire row will be skipped if the column is not found.",
             "Otherwise, if the column is found, the entire row will be emitted only if the value passes."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "client scanner",
         "explanation": [
             "A client scanner for a region opened for read-only on the client side."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "write request",
@@ -3468,45 +2814,35 @@
             "If issued against a non-decommissioing data node, all current writers will be stopped, but new write requests will continue to be served.",
             "As write requests are handled by the region server, they accumulate in an in-memory storage system called the memstore."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Forrest",
         "explanation": [
             "To commit documentation changes you must have Forrest installed and the forrest executable on your $PATH."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "connection creation",
         "explanation": [
             "Streaming connection creation, begin/commit/abort transactions, write and close has to be called in the same thread."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "ORDER",
         "explanation": [
             "Update 30-Dec-2009: Based on feedback in JIRA, ORDER BY is important as forward-looking to materialized views."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Data capture",
         "explanation": [
             "Data capture boundaries should coincide with activity boundaries."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "asf",
@@ -3514,27 +2850,21 @@
             "The Apache Software Foundation defines generic guidelines for what it means to be a committer.",
             "See ASF board reporting for more information."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "mvn",
         "explanation": [
             "Clean the checkout dir $ mvn clean $ git clean -f -x -d."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "root value",
         "explanation": [
             "The root value is prepended to all registry paths so as to create the absolute path."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table already",
@@ -3543,27 +2873,21 @@
             "-o (Optional) Overwrites the target table for the restore if the table already exists.",
             "Throw an exception if the table already has replication enabled on any of the column families."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "puzzle files",
         "explanation": [
             "Puzzle files have a line per a row and columns separated by spaces."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "owner name",
         "explanation": [
             "If an owner is specified, that owner name overrides that of the caller."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "service definition",
@@ -3571,9 +2895,7 @@
             "A reference to this service would use the rackspaceuk service name: Because the public endpoint is used, if this service definition is used within the London datacenter, all accesses will be billed at the public upload/download rates, irrespective of where the Hadoop cluster is.",
             "This service definition is for use in a Hadoop cluster deployed within Rackspace's US infrastructure."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Rm",
@@ -3604,63 +2926,49 @@
             "The RM shall publish a Release Plan on the dev@hive list stating the branch from which they intend to make a Release Candidate, at least one week before they do so.",
             "The RM runs as a trusted user, and people visiting that web address will treat it, and links it provides to them as trusted, when in reality the AM is running as a non-trusted user, and the links it gives to the RM could point to anything malicious or otherwise."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "input trace",
         "explanation": [
             "Both generation of Distributed Cache files and emulation of Distributed Cache load are disabled if: input trace comes from the standard input-stream instead of file, or."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Max precision",
         "explanation": [
             "Max precision guaranteed to fit into a long."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "heap sizes",
         "explanation": [
             "As the heap size is increased, the operation rate linearly increases."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "output duration",
         "explanation": [
             "Folding essentially means that the output duration of the resulting trace is fixed and job timelines are adjusted to respect the final output duration."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "entire cluster",
         "explanation": [
             "Thus if you have 2 regions for 16GB data, on a 20 node machine your data will be concentrated on just a few machines - nearly the entire cluster will be idle."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "http policy",
         "explanation": [
             "When the deprecated configuration properties are still configured, currently http policy is decided based on the following rules: 1."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "input split",
@@ -3668,9 +2976,7 @@
             "Get the input split for this map.",
             "Get the size of the split, so that the input splits can be sorted by size."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Hftp",
@@ -3683,18 +2989,14 @@
             "HFTP can now serve a specific byte range from a file.",
             "HFTP is primarily useful if you have multiple HDFS clusters with different versions and you need to move data from one to another."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "input rows",
         "explanation": [
             "Map outputs table rows IF the input row has columns that have content."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Httpclient",
@@ -3704,27 +3006,21 @@
             "HttpFS can be used to access data in HDFS using HTTP utilities (such as curl and wget) and HTTP libraries Perl from other languages than Java.",
             "This HTTP Cookie has an expiration time, after which it will trigger a new authentication sequence."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "completion time",
         "explanation": [
             "Remove the sentinels that are marked as finished and the completion time has exceeded the removal timeout."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "DROP",
         "explanation": [
             "DROP TABLE removes metadata and data for this table."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Row keys",
@@ -3736,9 +3032,7 @@
             "However, poorly designed row keys are a common source of hotspotting.",
             "Your first schema is \"tall\": each row represents one value for one user, and so there are many rows in the table for each user; the row key is user + valueid, and there would be (presumably) a single column qualifier that means \"the value\"."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "delta files",
@@ -3748,18 +3042,14 @@
             "When the compactor kicks in, these delta files get rewritten into read- and storage-optimized ORC format (enable dictionary encoding, indexes and compression).",
             "An acid delta file is created for each combination partition, and bucket id (a single write id is implied)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Metrics system",
         "explanation": [
             "A default metrics system is provided to marshal metrics from sources to sinks based on (per source/sink) configuration options."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table quotas",
@@ -3767,36 +3057,28 @@
             "When a table with a quota exists in a namespace with a quota, the table quota takes priority over the namespace quota.",
             "Because there is no table quota on 'ns1:t1', this table can grow up to 100TB, but only if 'ns1:t2' and 'ns1:t3' have a usage of zero bytes."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Write number",
         "explanation": [
             "Write number and whether write has completed given out at start of a write transaction."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "column level",
         "explanation": [
             "In order to accurately compute the average row size, column level statistics is required."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "header byte",
         "explanation": [
             "It uses 0x38 as the header byte, and is terminated by 0x00 in the DESCENDING case."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "deleted files",
@@ -3804,9 +3086,7 @@
             "Furthermore, the deleted files will continue to incur storage costs.",
             "Deleted files will remain encrypted and they will be moved to a \".Trash\" subdirectory under the root of the encryption zone, prefixed by $USER/current."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Hadoop distributed file system",
@@ -3874,18 +3154,14 @@
             "HDFS applications need a write-once-read-many access model for files.",
             "HDFS now can choose to append data to a new block instead of end of the last partial block."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "root queue",
         "explanation": [
             "All queues in the system are children of the root queue."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "xattr",
@@ -3899,45 +3175,35 @@
             "Determination of whether raw.* namespace xattrs are preserved is independent of the -p (preserve) flag.",
             "This xattr is also write-once, and cannot be removed once set."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "row schema",
         "explanation": [
             "The new Row Schema can only be a subset of this TS schema."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "MYSQL",
         "explanation": [
             "However, many DBMS's ignore this rule; for example, MySQL allows ORDER BY, but ignores it in the case where it is superceded by an ORDER BY in the query."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "trash directory",
         "explanation": [
             "Deleted delete/test2 We can see now that the Trash directory contains only file test1."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "kill request",
         "explanation": [
             "If it's already running, a kill request will be sent to it."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "todo",
@@ -3949,9 +3215,7 @@
             "TODO: this method is relied upon by custom input formats to set jobconf properties.",
             "The client should only hold one open transaction at any given time (TODO: enforce this)."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "Tablename",
@@ -3961,143 +3225,111 @@
             "ALTER TABLE ADD|REPLACE COLUMNS with CASCADE command changes the columns of a table's metadata, and cascades the same change to all the partition metadata.",
             "DB and TABLENAME are DOT-separated."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "NLM",
         "explanation": [
             "NLM is not supported so mount option \"nolock\" is needed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "mmaped",
         "explanation": [
             "mmaped files also use virtual address space."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "skewed table",
         "explanation": [
             "The table will be a skewed table."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "network topology",
         "explanation": [
             "The network topology of the cluster would determine the number of components in the network path."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "end store",
         "explanation": [
             "The back end store is responsible for maintaining and persisting metadata about the shared cache."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "specified lock",
         "explanation": [
             "Called when the specified lock has failed."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     },
     {
         "concept": "metric names",
         "explanation": [
             "All metrics names start with capitals."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "time errors",
         "explanation": [
             "If a compile time or run time error occurs that appears related to vectorization, please file a Hive JIRA."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "table integrity",
         "explanation": [
             "Table integrity problems can require repairs that deal with overlaps."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Corrupted Files",
         "explanation": [
             "Corrupt files should probably be removed."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "optimal value",
         "explanation": [
             "The optimal value depends on the jobs characteristics, the cluster configuration and the target utilization."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "output recovery",
         "explanation": [
             "If task output recovery is supported, job restart can be done more efficiently."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Key Version",
         "explanation": [
             "Because keys can be rolled, a key can have multiple key versions, where each key version has its own key material (the actual secret bytes used during encryption and decryption)."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "arbitrary names",
         "explanation": [
             "There is no notion of a directory; arbitrary names can be assigned to objects \u2014 within the limitations of the naming scheme imposed by the service's provider."
         ],
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": true
     },
     {
         "concept": "Table table",
         "explanation": [
             "Error \"DynamoDB table TABLE does not exist in region REGION; auto-creation is turned off\"."
         ],
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "useful": false
     }
 ]

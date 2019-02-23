@@ -1,2306 +1,1538 @@
 [
     {
         "name": "WebUI",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "table snapshot",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "read queue",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "cloned list",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "mapreduce",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Column Statistics",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "rmr",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "JIRA",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "network topology",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "attempt times",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "virtual memory",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "HBASE",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "jsvc",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "HDFS storage",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "client instance",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "request size",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "JobID",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "columns values",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "split size",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "batch size",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "temporary table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Bloom Filter",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "jira",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "column vectors",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "total memory",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "data locality",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "storage formats",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Thrift service",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "split table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "OLTP",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "encryption zone",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Retired table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "operation type",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "object pool",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "read performance",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "local blocks",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Table descriptor",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "High Availability",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "row keys",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "local directory",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "POJO",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "replication service",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "caching blocks",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "single table",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "store blocks",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "aggregation request",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "block level",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "partition level",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "RRs",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "client call",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "PMOD",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "table Properties",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "table permissions",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Table Scan",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "column family",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "storage fault",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "replication queues",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "read type",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Hadoop Distributed File System",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "client scanner",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "remote blocks",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "data size",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "cache capacity",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Compactor",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "table integrity",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "partition values",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "input column",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "instance name",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "decimal type",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "fsck",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "key range",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "start code",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "checksum type",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "reference files",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "thrift server",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "snapshot information",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Composite service",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "counter name",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "encryption key",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "root queue",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "system table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "RM",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "filter name",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "output table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "table types",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "SMB",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "task number",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "partition name",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "filter pattern",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "input split",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "write requests",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "cluster metrics",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "writes block",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "local cluster",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "column references",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Metrics system",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "filter cells",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "mob files",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "skewed table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "bytes token",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Input format",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "schema creation",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "store file",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "short amount",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "slave cluster",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "backport",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "heap size",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "partition filter",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "HCD",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "admin",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "container name",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Queue name",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "client token",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "crypto",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "token identifier",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Webapp",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "warn level",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Column Family",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Bloom filters",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "data paths",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "update request",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "metadata Table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "interval value",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "encryption keys",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "metrics info",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "tmpfs",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "mmaped",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Drops table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Rack name",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "eviction time",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "counter names",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "column descriptor",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Request size",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Entry instance",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "output processor",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "ACLs",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Write table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "xattr",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "traffic control",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "allocation size",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "storage policy",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "sequence ID",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "structs",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "database name",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "source state",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "rows list",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Hadoop",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "long counter",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "output privileges",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "table names",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "filter incompatibility",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "load generator",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "META table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "raw scan",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "underlying table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "partition names",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Map files",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Hbase",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "acls",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "particular block",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "HDFS Storage",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Check table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "data sizes",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "access result",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "TLP",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "appender",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "client policy",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "failure info",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "local reads",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "table named",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "cgroup",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "retry interval",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "database names",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Local metastore",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "log4j",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "PMC",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Spark cluster",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "partition directory",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "column date",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "retry period",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Amazon Web Services",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "System table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "query level",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Table integrity",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "cmdline",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Block Pool",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "HAR",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "cluster state",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Output table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Bloom filter",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "snapshottable directory",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "memory systems",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "cached block",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "drop table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "data distribution",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "format table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "regionserver",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "hdfs",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "column qualifier",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Storefile size",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "cell value",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "key vector",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "reduced table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Coprocessors",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "service entry",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "RR",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "counter limit",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Create Table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "dependent table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "compactor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "disk location",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "group key",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "separate directory",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "accessed files",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Metrics Subsystem",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "HLL",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "untar",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "encrypted Key",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "entire cluster",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Partition files",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "index search",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "security entity",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "coprocessors",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "key definition",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "BYTES code",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "timer value",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Aggr",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "path array",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Github",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "time errors",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Cloudera",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "s3",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "checks size",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "key retrieval",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "bytes apiece",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "data age",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "meetup",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "passed list",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "analysis time",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "encoded values",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "serializers",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "double colon",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "serialized values",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Apriori",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "operation level",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Hive Metastore",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "encryption status",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "system location",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "mongodb",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Data Node",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "source control",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "max time",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "location number",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Chukwa",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "open call",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "storage efficiency",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "iSQL",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "QA",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "time vector",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Try store",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "end keys",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Meetup",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "CPU requests",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "TRACE level",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "implemenation",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "master level",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "local rate",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "row schema",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "simple array",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "connection configuration",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Namenode",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Rm",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "labels table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "data security",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "memory per",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "max count",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "dead values",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "coprocessor",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "mockito",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "storage ratio",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "group mapping",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "sorting order",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "customer table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "index table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "memory requirement",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Eclipse files",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "data reads",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "local source",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "output batch",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "memory shuffle",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "storer",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "longer time",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "failure condition",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "error property",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "LOCAL",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "time ranges",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "metrics reporting",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "cluster identifier",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "long amount",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "table exists",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "read pattern",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "particular table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "common code",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "split request",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Cluster size",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Protos",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "disk blocks",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "scala",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "metrics implementation",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "inline code",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "root location",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "equal number",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "guid",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "timeline store",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "RPC",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "given database",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "lz4",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "local branch",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "project files",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Storage Policies",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "confidence level",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Http address",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Added time",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "associated directory",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Reference files",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "task counters",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "writes keys",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "table regardless",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Max length",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "memory caching",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Group entry",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "table archive",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "ACLS",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "positive rate",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Cluster Application",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "data statistics",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "datanode",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "metrics tag",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "optimize number",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "short size",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "output fields",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "mutable number",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "POM",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "imply order",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "heap bytes",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Script time",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Index table",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "dbname",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "del files",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Cached list",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "servlet filter",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "LIST code",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Validation code",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "HTTP verbs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "mmapped",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "checkstyle",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "cluster specified",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "NLM",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "pull request",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Put requests",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "empty response",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "data accessed",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "Remote directory",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "total values",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "resource contention",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "privilege level",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Dist",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "empty memory",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "given rows",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "data nucleus",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Metrics names",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Show Table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Storage formats",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "HTTP connections",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "expiry time",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "zk",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Backported",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "family path",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "fsimage format",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "retry attempt",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "Single Table",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     },
     {
         "name": "backports",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "auths",
-        "score": 2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": true
     },
     {
         "name": "splittable",
-        "score": -2,
-        "user": "expert",
-        "domain": "hadoop"
+        "correct": false
     }
 ]

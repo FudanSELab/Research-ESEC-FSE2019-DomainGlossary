@@ -1,2690 +1,1922 @@
 [
     {
-        "startConcept": "jira",
-        "endConcept": "Jira",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "jira",
+        "concept2": "Jira",
+        "correct": true
     },
     {
-        "startConcept": "ACL",
-        "endConcept": "ACLs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "ACL",
+        "concept2": "ACLs",
+        "correct": true
     },
     {
-        "startConcept": "split size",
-        "endConcept": "Split size",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "split size",
+        "concept2": "Split size",
+        "correct": true
     },
     {
-        "startConcept": "JIRAs",
-        "endConcept": "JIRA",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "JIRAs",
+        "concept2": "JIRA",
+        "correct": true
     },
     {
-        "startConcept": "ACL",
-        "endConcept": "Acls",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "ACL",
+        "concept2": "Acls",
+        "correct": true
     },
     {
-        "startConcept": "rr",
-        "endConcept": "RR",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "rr",
+        "concept2": "RR",
+        "correct": true
     },
     {
-        "startConcept": "dfs",
-        "endConcept": "DFS",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "dfs",
+        "concept2": "DFS",
+        "correct": true
     },
     {
-        "startConcept": "time range",
-        "endConcept": "time ranges",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "time range",
+        "concept2": "time ranges",
+        "correct": true
     },
     {
-        "startConcept": "conf",
-        "endConcept": "Conf",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "conf",
+        "concept2": "Conf",
+        "correct": true
     },
     {
-        "startConcept": "Coprocessors",
-        "endConcept": "Coprocessor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Coprocessors",
+        "concept2": "Coprocessor",
+        "correct": true
     },
     {
-        "startConcept": "coprocessors",
-        "endConcept": "Coprocessor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "coprocessors",
+        "concept2": "Coprocessor",
+        "correct": true
     },
     {
-        "startConcept": "column prefix",
-        "endConcept": "column prefixes",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column prefix",
+        "concept2": "column prefixes",
+        "correct": true
     },
     {
-        "startConcept": "ssh",
-        "endConcept": "SSH",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "ssh",
+        "concept2": "SSH",
+        "correct": true
     },
     {
-        "startConcept": "table permissions",
-        "endConcept": "table permission",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table permissions",
+        "concept2": "table permission",
+        "correct": true
     },
     {
-        "startConcept": "system table",
-        "endConcept": "System table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "system table",
+        "concept2": "System table",
+        "correct": true
     },
     {
-        "startConcept": "Bloom filter",
-        "endConcept": "Bloom Filters",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Bloom filter",
+        "concept2": "Bloom Filters",
+        "correct": true
     },
     {
-        "startConcept": "acl",
-        "endConcept": "ACLs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "acl",
+        "concept2": "ACLs",
+        "correct": true
     },
     {
-        "startConcept": "CONF",
-        "endConcept": "Conf",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "CONF",
+        "concept2": "Conf",
+        "correct": true
     },
     {
-        "startConcept": "rpc call",
-        "endConcept": "RPC call",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "rpc call",
+        "concept2": "RPC call",
+        "correct": true
     },
     {
-        "startConcept": "table names",
-        "endConcept": "table named",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table names",
+        "concept2": "table named",
+        "correct": true
     },
     {
-        "startConcept": "metrics2",
-        "endConcept": "Metrics2",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metrics2",
+        "concept2": "Metrics2",
+        "correct": true
     },
     {
-        "startConcept": "creating Table",
-        "endConcept": "Create Table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "creating Table",
+        "concept2": "Create Table",
+        "correct": true
     },
     {
-        "startConcept": "committer",
-        "endConcept": "committers",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "committer",
+        "concept2": "committers",
+        "correct": true
     },
     {
-        "startConcept": "SSD",
-        "endConcept": "ssd",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "SSD",
+        "concept2": "ssd",
+        "correct": true
     },
     {
-        "startConcept": "store files",
-        "endConcept": "Store file",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "store files",
+        "concept2": "Store file",
+        "correct": true
     },
     {
-        "startConcept": "encryption key",
-        "endConcept": "encryption keys",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "encryption key",
+        "concept2": "encryption keys",
+        "correct": true
     },
     {
-        "startConcept": "table descriptors",
-        "endConcept": "table descriptor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table descriptors",
+        "concept2": "table descriptor",
+        "correct": true
     },
     {
-        "startConcept": "storage policy",
-        "endConcept": "storage policies",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "storage policy",
+        "concept2": "storage policies",
+        "correct": true
     },
     {
-        "startConcept": "Configs",
-        "endConcept": "conf",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Configs",
+        "concept2": "conf",
+        "correct": true
     },
     {
-        "startConcept": "Protobuf",
-        "endConcept": "protobuf",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Protobuf",
+        "concept2": "protobuf",
+        "correct": true
     },
     {
-        "startConcept": "jdo",
-        "endConcept": "JDO",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "jdo",
+        "concept2": "JDO",
+        "correct": true
     },
     {
-        "startConcept": "coprocessors",
-        "endConcept": "coprocessor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "coprocessors",
+        "concept2": "coprocessor",
+        "correct": true
     },
     {
-        "startConcept": "rr",
-        "endConcept": "RRs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "rr",
+        "concept2": "RRs",
+        "correct": true
     },
     {
-        "startConcept": "UGI",
-        "endConcept": "ugi",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "UGI",
+        "concept2": "ugi",
+        "correct": true
     },
     {
-        "startConcept": "column statistics",
-        "endConcept": "Column Statistics",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column statistics",
+        "concept2": "Column Statistics",
+        "correct": true
     },
     {
-        "startConcept": "Mapreduce",
-        "endConcept": "mapred",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Mapreduce",
+        "concept2": "mapred",
+        "correct": false
     },
     {
-        "startConcept": "Object Store",
-        "endConcept": "object store",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Object Store",
+        "concept2": "object store",
+        "correct": true
     },
     {
-        "startConcept": "Timeline store",
-        "endConcept": "timeline store",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Timeline store",
+        "concept2": "timeline store",
+        "correct": true
     },
     {
-        "startConcept": "metrics system",
-        "endConcept": "Metrics system",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metrics system",
+        "concept2": "Metrics system",
+        "correct": true
     },
     {
-        "startConcept": "retry policy",
-        "endConcept": "Retry policy",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "retry policy",
+        "concept2": "Retry policy",
+        "correct": true
     },
     {
-        "startConcept": "storage policy",
-        "endConcept": "Storage Policy",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "storage policy",
+        "concept2": "Storage Policy",
+        "correct": true
     },
     {
-        "startConcept": "Block size",
-        "endConcept": "block size",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Block size",
+        "concept2": "block size",
+        "correct": true
     },
     {
-        "startConcept": "Bloom filters",
-        "endConcept": "Bloom Filters",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Bloom filters",
+        "concept2": "Bloom Filters",
+        "correct": true
     },
     {
-        "startConcept": "column names",
-        "endConcept": "columns names",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column names",
+        "concept2": "columns names",
+        "correct": true
     },
     {
-        "startConcept": "Column Statistics",
-        "endConcept": "Column statistics",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column Statistics",
+        "concept2": "Column statistics",
+        "correct": true
     },
     {
-        "startConcept": "acls",
-        "endConcept": "Acls",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "acls",
+        "concept2": "Acls",
+        "correct": true
     },
     {
-        "startConcept": "HBASE",
-        "endConcept": "hbase",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "HBASE",
+        "concept2": "hbase",
+        "correct": true
     },
     {
-        "startConcept": "Bloom filter",
-        "endConcept": "Bloom Filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Bloom filter",
+        "concept2": "Bloom Filter",
+        "correct": true
     },
     {
-        "startConcept": "RPC",
-        "endConcept": "RPCs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "RPC",
+        "concept2": "RPCs",
+        "correct": true
     },
     {
-        "startConcept": "bloom filters",
-        "endConcept": "Bloom Filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "bloom filters",
+        "concept2": "Bloom Filter",
+        "correct": true
     },
     {
-        "startConcept": "appender",
-        "endConcept": "Appender",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "appender",
+        "concept2": "Appender",
+        "correct": true
     },
     {
-        "startConcept": "Hadoop",
-        "endConcept": "hadoop",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Hadoop",
+        "concept2": "hadoop",
+        "correct": true
     },
     {
-        "startConcept": "jobid",
-        "endConcept": "JobID",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "jobid",
+        "concept2": "JobID",
+        "correct": true
     },
     {
-        "startConcept": "RDBMS",
-        "endConcept": "rdbms",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "RDBMS",
+        "concept2": "rdbms",
+        "correct": true
     },
     {
-        "startConcept": "UDF",
-        "endConcept": "udf",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "UDF",
+        "concept2": "udf",
+        "correct": true
     },
     {
-        "startConcept": "data node",
-        "endConcept": "data nodes",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data node",
+        "concept2": "data nodes",
+        "correct": true
     },
     {
-        "startConcept": "table scan",
-        "endConcept": "Table Scan",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table scan",
+        "concept2": "Table Scan",
+        "correct": true
     },
     {
-        "startConcept": "Bloom filters",
-        "endConcept": "Bloom filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Bloom filters",
+        "concept2": "Bloom filter",
+        "correct": true
     },
     {
-        "startConcept": "storage formats",
-        "endConcept": "storage format",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "storage formats",
+        "concept2": "storage format",
+        "correct": true
     },
     {
-        "startConcept": "table integrity",
-        "endConcept": "Table integrity",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table integrity",
+        "concept2": "Table integrity",
+        "correct": true
     },
     {
-        "startConcept": "memory state",
-        "endConcept": "memory states",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "memory state",
+        "concept2": "memory states",
+        "correct": true
     },
     {
-        "startConcept": "NNs",
-        "endConcept": "NN",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "NNs",
+        "concept2": "NN",
+        "correct": true
     },
     {
-        "startConcept": "bloom filter",
-        "endConcept": "bloom filters",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "bloom filter",
+        "concept2": "bloom filters",
+        "correct": true
     },
     {
-        "startConcept": "S3",
-        "endConcept": "s3",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "S3",
+        "concept2": "s3",
+        "correct": true
     },
     {
-        "startConcept": "SVN",
-        "endConcept": "svn",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "SVN",
+        "concept2": "svn",
+        "correct": true
     },
     {
-        "startConcept": "CONF",
-        "endConcept": "configs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "CONF",
+        "concept2": "configs",
+        "correct": true
     },
     {
-        "startConcept": "UDFs",
-        "endConcept": "udf",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "UDFs",
+        "concept2": "udf",
+        "correct": true
     },
     {
-        "startConcept": "metric names",
-        "endConcept": "metrics names",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metric names",
+        "concept2": "metrics names",
+        "correct": true
     },
     {
-        "startConcept": "Output table",
-        "endConcept": "output table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Output table",
+        "concept2": "output table",
+        "correct": true
     },
     {
-        "startConcept": "output paths",
-        "endConcept": "output path",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "output paths",
+        "concept2": "output path",
+        "correct": true
     },
     {
-        "startConcept": "Amazon Web Services",
-        "endConcept": "AWS",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Amazon Web Services",
+        "concept2": "AWS",
+        "correct": true
     },
     {
-        "startConcept": "storage type",
-        "endConcept": "storage types",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "storage type",
+        "concept2": "storage types",
+        "correct": true
     },
     {
-        "startConcept": "Data Size",
-        "endConcept": "Data size",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Data Size",
+        "concept2": "Data size",
+        "correct": true
     },
     {
-        "startConcept": "table properties",
-        "endConcept": "table property",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table properties",
+        "concept2": "table property",
+        "correct": true
     },
     {
-        "startConcept": "Avro",
-        "endConcept": "avro",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Avro",
+        "concept2": "avro",
+        "correct": true
     },
     {
-        "startConcept": "jira",
-        "endConcept": "JIRA",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "jira",
+        "concept2": "JIRA",
+        "correct": true
     },
     {
-        "startConcept": "Compactor",
-        "endConcept": "compactor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Compactor",
+        "concept2": "compactor",
+        "correct": true
     },
     {
-        "startConcept": "partition names",
-        "endConcept": "partition name",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "partition names",
+        "concept2": "partition name",
+        "correct": true
     },
     {
-        "startConcept": "Committer",
-        "endConcept": "committer",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Committer",
+        "concept2": "committer",
+        "correct": true
     },
     {
-        "startConcept": "Accumulo",
-        "endConcept": "accumulo",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Accumulo",
+        "concept2": "accumulo",
+        "correct": true
     },
     {
-        "startConcept": "Coprocessors",
-        "endConcept": "coprocessor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Coprocessors",
+        "concept2": "coprocessor",
+        "correct": true
     },
     {
-        "startConcept": "acls",
-        "endConcept": "ACLs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "acls",
+        "concept2": "ACLs",
+        "correct": true
     },
     {
-        "startConcept": "mapreduce",
-        "endConcept": "mapred",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "mapreduce",
+        "concept2": "mapred",
+        "correct": true
     },
     {
-        "startConcept": "output directory",
-        "endConcept": "output directories",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "output directory",
+        "concept2": "output directories",
+        "correct": true
     },
     {
-        "startConcept": "metadata store",
-        "endConcept": "Metadata Store",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metadata store",
+        "concept2": "Metadata Store",
+        "correct": true
     },
     {
-        "startConcept": "storage policies",
-        "endConcept": "Storage Policy",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "storage policies",
+        "concept2": "Storage Policy",
+        "correct": true
     },
     {
-        "startConcept": "container request",
-        "endConcept": "Container request",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "container request",
+        "concept2": "Container request",
+        "correct": true
     },
     {
-        "startConcept": "selected files",
-        "endConcept": "select files",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "selected files",
+        "concept2": "select files",
+        "correct": true
     },
     {
-        "startConcept": "Record reader",
-        "endConcept": "record reader",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Record reader",
+        "concept2": "record reader",
+        "correct": true
     },
     {
-        "startConcept": "zookeeper",
-        "endConcept": "Zookeeper",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "zookeeper",
+        "concept2": "Zookeeper",
+        "correct": true
     },
     {
-        "startConcept": "SLF4J",
-        "endConcept": "slf4j",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "SLF4J",
+        "concept2": "slf4j",
+        "correct": true
     },
     {
-        "startConcept": "memory state",
-        "endConcept": "Memory state",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "memory state",
+        "concept2": "Memory state",
+        "correct": true
     },
     {
-        "startConcept": "acls",
-        "endConcept": "acl",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "acls",
+        "concept2": "acl",
+        "correct": true
     },
     {
-        "startConcept": "writables",
-        "endConcept": "Writables",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "writables",
+        "concept2": "Writables",
+        "correct": true
     },
     {
-        "startConcept": "Input format",
-        "endConcept": "input format",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Input format",
+        "concept2": "input format",
+        "correct": true
     },
     {
-        "startConcept": "Column Family",
-        "endConcept": "column family",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column Family",
+        "concept2": "column family",
+        "correct": true
     },
     {
-        "startConcept": "column reference",
-        "endConcept": "column references",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column reference",
+        "concept2": "column references",
+        "correct": true
     },
     {
-        "startConcept": "input split",
-        "endConcept": "input splits",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "input split",
+        "concept2": "input splits",
+        "correct": true
     },
     {
-        "startConcept": "Table descriptor",
-        "endConcept": "table descriptor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Table descriptor",
+        "concept2": "table descriptor",
+        "correct": true
     },
     {
-        "startConcept": "column statistics",
-        "endConcept": "Column statistics",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column statistics",
+        "concept2": "Column statistics",
+        "correct": true
     },
     {
-        "startConcept": "Bloom Filters",
-        "endConcept": "Bloom Filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Bloom Filters",
+        "concept2": "Bloom Filter",
+        "correct": true
     },
     {
-        "startConcept": "Token cache",
-        "endConcept": "token cache",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Token cache",
+        "concept2": "token cache",
+        "correct": true
     },
     {
-        "startConcept": "Structs",
-        "endConcept": "structs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Structs",
+        "concept2": "structs",
+        "correct": true
     },
     {
-        "startConcept": "acls",
-        "endConcept": "ACL",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "acls",
+        "concept2": "ACL",
+        "correct": true
     },
     {
-        "startConcept": "Put request",
-        "endConcept": "PUT request",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Put request",
+        "concept2": "PUT request",
+        "correct": true
     },
     {
-        "startConcept": "Composite service",
-        "endConcept": "composite service",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Composite service",
+        "concept2": "composite service",
+        "correct": true
     },
     {
-        "startConcept": "Hadoop Distributed File System",
-        "endConcept": "HDFS",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Hadoop Distributed File System",
+        "concept2": "HDFS",
+        "correct": true
     },
     {
-        "startConcept": "hive metastore",
-        "endConcept": "Hive metastore",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "hive metastore",
+        "concept2": "Hive metastore",
+        "correct": true
     },
     {
-        "startConcept": "coprocessors",
-        "endConcept": "Coprocessors",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "coprocessors",
+        "concept2": "Coprocessors",
+        "correct": true
     },
     {
-        "startConcept": "Column names",
-        "endConcept": "columns names",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column names",
+        "concept2": "columns names",
+        "correct": true
     },
     {
-        "startConcept": "Hadoop Distributed File System",
-        "endConcept": "hdfs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Hadoop Distributed File System",
+        "concept2": "hdfs",
+        "correct": true
     },
     {
-        "startConcept": "Admin",
-        "endConcept": "ADMIN",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Admin",
+        "concept2": "ADMIN",
+        "correct": true
     },
     {
-        "startConcept": "bloom filters",
-        "endConcept": "Bloom Filters",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "bloom filters",
+        "concept2": "Bloom Filters",
+        "correct": true
     },
     {
-        "startConcept": "retry caller",
-        "endConcept": "Retry caller",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "retry caller",
+        "concept2": "Retry caller",
+        "correct": true
     },
     {
-        "startConcept": "UDFs",
-        "endConcept": "UDF",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "UDFs",
+        "concept2": "UDF",
+        "correct": true
     },
     {
-        "startConcept": "column qualifier",
-        "endConcept": "column qualifiers",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column qualifier",
+        "concept2": "column qualifiers",
+        "correct": true
     },
     {
-        "startConcept": "Partition values",
-        "endConcept": "partition values",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Partition values",
+        "concept2": "partition values",
+        "correct": true
     },
     {
-        "startConcept": "HBASE",
-        "endConcept": "Hbase",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "HBASE",
+        "concept2": "Hbase",
+        "correct": true
     },
     {
-        "startConcept": "Configs",
-        "endConcept": "CONF",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Configs",
+        "concept2": "CONF",
+        "correct": true
     },
     {
-        "startConcept": "request size",
-        "endConcept": "Request size",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "request size",
+        "concept2": "Request size",
+        "correct": true
     },
     {
-        "startConcept": "Decimal type",
-        "endConcept": "decimal type",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Decimal type",
+        "concept2": "decimal type",
+        "correct": true
     },
     {
-        "startConcept": "Memory state",
-        "endConcept": "memory states",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Memory state",
+        "concept2": "memory states",
+        "correct": true
     },
     {
-        "startConcept": "table quotas",
-        "endConcept": "table quota",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table quotas",
+        "concept2": "table quota",
+        "correct": true
     },
     {
-        "startConcept": "counter name",
-        "endConcept": "counter names",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "counter name",
+        "concept2": "counter names",
+        "correct": true
     },
     {
-        "startConcept": "Hive Metastore",
-        "endConcept": "Hive metastore",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Hive Metastore",
+        "concept2": "Hive metastore",
+        "correct": true
     },
     {
-        "startConcept": "column names",
-        "endConcept": "Column names",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column names",
+        "concept2": "Column names",
+        "correct": true
     },
     {
-        "startConcept": "output keys",
-        "endConcept": "output key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "output keys",
+        "concept2": "output key",
+        "correct": true
     },
     {
-        "startConcept": "metric info",
-        "endConcept": "metrics info",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metric info",
+        "concept2": "metrics info",
+        "correct": true
     },
     {
-        "startConcept": "store file",
-        "endConcept": "Store file",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "store file",
+        "concept2": "Store file",
+        "correct": true
     },
     {
-        "startConcept": "plugin",
-        "endConcept": "Plugin",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "plugin",
+        "concept2": "Plugin",
+        "correct": true
     },
     {
-        "startConcept": "cgroups",
-        "endConcept": "cgroup",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "cgroups",
+        "concept2": "cgroup",
+        "correct": true
     },
     {
-        "startConcept": "create table",
-        "endConcept": "Create Table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "create table",
+        "concept2": "Create Table",
+        "correct": true
     },
     {
-        "startConcept": "ACL",
-        "endConcept": "acl",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "ACL",
+        "concept2": "acl",
+        "correct": true
     },
     {
-        "startConcept": "Cache pool",
-        "endConcept": "cache pool",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Cache pool",
+        "concept2": "cache pool",
+        "correct": true
     },
     {
-        "startConcept": "RR",
-        "endConcept": "RRs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "RR",
+        "concept2": "RRs",
+        "correct": true
     },
     {
-        "startConcept": "conf",
-        "endConcept": "CONF",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "conf",
+        "concept2": "CONF",
+        "correct": true
     },
     {
-        "startConcept": "ql",
-        "endConcept": "query level",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "ql",
+        "concept2": "query level",
+        "correct": false
     },
     {
-        "startConcept": "admin",
-        "endConcept": "ADMIN",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "admin",
+        "concept2": "ADMIN",
+        "correct": true
     },
     {
-        "startConcept": "client policy",
-        "endConcept": "Client policy",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "client policy",
+        "concept2": "Client policy",
+        "correct": true
     },
     {
-        "startConcept": "jira",
-        "endConcept": "JIRAs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "jira",
+        "concept2": "JIRAs",
+        "correct": true
     },
     {
-        "startConcept": "bloom filters",
-        "endConcept": "Bloom filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "bloom filters",
+        "concept2": "Bloom filter",
+        "correct": true
     },
     {
-        "startConcept": "acl",
-        "endConcept": "Acls",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "acl",
+        "concept2": "Acls",
+        "correct": true
     },
     {
-        "startConcept": "database names",
-        "endConcept": "database name",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "database names",
+        "concept2": "database name",
+        "correct": true
     },
     {
-        "startConcept": "configs",
-        "endConcept": "configration",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "configs",
+        "concept2": "configration",
+        "correct": true
     },
     {
-        "startConcept": "configs",
-        "endConcept": "Configs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "configs",
+        "concept2": "Configs",
+        "correct": true
     },
     {
-        "startConcept": "hfiles",
-        "endConcept": "hfile",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "hfiles",
+        "concept2": "hfile",
+        "correct": true
     },
     {
-        "startConcept": "xdoc",
-        "endConcept": "xdocs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "xdoc",
+        "concept2": "xdocs",
+        "correct": true
     },
     {
-        "startConcept": "protoc",
-        "endConcept": "Protos",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "protoc",
+        "concept2": "Protos",
+        "correct": false
     },
     {
-        "startConcept": "Metrics Subsystem",
-        "endConcept": "metrics subsystem",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Metrics Subsystem",
+        "concept2": "metrics subsystem",
+        "correct": true
     },
     {
-        "startConcept": "Corrupted Files",
-        "endConcept": "corrupt files",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Corrupted Files",
+        "concept2": "corrupt files",
+        "correct": true
     },
     {
-        "startConcept": "github",
-        "endConcept": "Github",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "github",
+        "concept2": "Github",
+        "correct": true
     },
     {
-        "startConcept": "failure info",
-        "endConcept": "Failure info",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "failure info",
+        "concept2": "Failure info",
+        "correct": true
     },
     {
-        "startConcept": "data size",
-        "endConcept": "Data Size",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data size",
+        "concept2": "Data Size",
+        "correct": true
     },
     {
-        "startConcept": "Storage account",
-        "endConcept": "Storage Account",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Storage account",
+        "concept2": "Storage Account",
+        "correct": true
     },
     {
-        "startConcept": "JobID",
-        "endConcept": "JOBID",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "JobID",
+        "concept2": "JOBID",
+        "correct": true
     },
     {
-        "startConcept": "dist",
-        "endConcept": "Dist",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "dist",
+        "concept2": "Dist",
+        "correct": true
     },
     {
-        "startConcept": "Appender",
-        "endConcept": "appenders",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Appender",
+        "concept2": "appenders",
+        "correct": true
     },
     {
-        "startConcept": "backported",
-        "endConcept": "backport",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "backported",
+        "concept2": "backport",
+        "correct": true
     },
     {
-        "startConcept": "s3a",
-        "endConcept": "S3a",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "s3a",
+        "concept2": "S3a",
+        "correct": true
     },
     {
-        "startConcept": "Data Encryption",
-        "endConcept": "Data encryption",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Data Encryption",
+        "concept2": "Data encryption",
+        "correct": true
     },
     {
-        "startConcept": "input directories",
-        "endConcept": "input directory",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "input directories",
+        "concept2": "input directory",
+        "correct": true
     },
     {
-        "startConcept": "add value",
-        "endConcept": "Add value",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "add value",
+        "concept2": "Add value",
+        "correct": true
     },
     {
-        "startConcept": "bloom filter",
-        "endConcept": "Bloom filters",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "bloom filter",
+        "concept2": "Bloom filters",
+        "correct": true
     },
     {
-        "startConcept": "ADL",
-        "endConcept": "adl",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "ADL",
+        "concept2": "adl",
+        "correct": true
     },
     {
-        "startConcept": "customer number",
-        "endConcept": "Customer number",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "customer number",
+        "concept2": "Customer number",
+        "correct": true
     },
     {
-        "startConcept": "tarball",
-        "endConcept": "Tarball",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "tarball",
+        "concept2": "Tarball",
+        "correct": true
     },
     {
-        "startConcept": "High availability",
-        "endConcept": "high availability",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "High availability",
+        "concept2": "high availability",
+        "correct": true
     },
     {
-        "startConcept": "reserved memory",
-        "endConcept": "RMs",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "reserved memory",
+        "concept2": "RMs",
+        "correct": false
     },
     {
-        "startConcept": "TEZ",
-        "endConcept": "tez",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "TEZ",
+        "concept2": "tez",
+        "correct": true
     },
     {
-        "startConcept": "ADMIN",
-        "endConcept": "admins",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "ADMIN",
+        "concept2": "admins",
+        "correct": true
     },
     {
-        "startConcept": "metrics source",
-        "endConcept": "Metrics Sources",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metrics source",
+        "concept2": "Metrics Sources",
+        "correct": true
     },
     {
-        "startConcept": "confs",
-        "endConcept": "configuraiton",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "confs",
+        "concept2": "configuraiton",
+        "correct": true
     },
     {
-        "startConcept": "Configs",
-        "endConcept": "Conf",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Configs",
+        "concept2": "Conf",
+        "correct": true
     },
     {
-        "startConcept": "log directories",
-        "endConcept": "Log directory",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "log directories",
+        "concept2": "Log directory",
+        "correct": true
     },
     {
-        "startConcept": "aws",
-        "endConcept": "Amazon Web Services",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "aws",
+        "concept2": "Amazon Web Services",
+        "correct": true
     },
     {
-        "startConcept": "Table alias",
-        "endConcept": "table alias",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Table alias",
+        "concept2": "table alias",
+        "correct": true
     },
     {
-        "startConcept": "backport",
-        "endConcept": "backports",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "backport",
+        "concept2": "backports",
+        "correct": true
     },
     {
-        "startConcept": "Admins",
-        "endConcept": "Admin",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Admins",
+        "concept2": "Admin",
+        "correct": true
     },
     {
-        "startConcept": "RR",
-        "endConcept": "random row",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "RR",
+        "concept2": "random row",
+        "correct": false
     },
     {
-        "startConcept": "given token",
-        "endConcept": "given Token",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "given token",
+        "concept2": "given Token",
+        "correct": true
     },
     {
-        "startConcept": "Backports",
-        "endConcept": "backports",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Backports",
+        "concept2": "backports",
+        "correct": true
     },
     {
-        "startConcept": "Ugi",
-        "endConcept": "ugi",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Ugi",
+        "concept2": "ugi",
+        "correct": true
     },
     {
-        "startConcept": "log directories",
-        "endConcept": "log directory",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "log directories",
+        "concept2": "log directory",
+        "correct": true
     },
     {
-        "startConcept": "webapp",
-        "endConcept": "Webapp",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "webapp",
+        "concept2": "Webapp",
+        "correct": true
     },
     {
-        "startConcept": "Log4j",
-        "endConcept": "log4j",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Log4j",
+        "concept2": "log4j",
+        "correct": true
     },
     {
-        "startConcept": "PUT request",
-        "endConcept": "puts request",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "PUT request",
+        "concept2": "puts request",
+        "correct": true
     },
     {
-        "startConcept": "Table alias",
-        "endConcept": "table aliases",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Table alias",
+        "concept2": "table aliases",
+        "correct": true
     },
     {
-        "startConcept": "Log4J",
-        "endConcept": "Log4j",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Log4J",
+        "concept2": "Log4j",
+        "correct": true
     },
     {
-        "startConcept": "compressed blocks",
-        "endConcept": "Compressed blocks",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "compressed blocks",
+        "concept2": "Compressed blocks",
+        "correct": true
     },
     {
-        "startConcept": "table links",
-        "endConcept": "table link",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table links",
+        "concept2": "table link",
+        "correct": true
     },
     {
-        "startConcept": "fetch table",
-        "endConcept": "Fetch table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "fetch table",
+        "concept2": "Fetch table",
+        "correct": true
     },
     {
-        "startConcept": "Expert level",
-        "endConcept": "expert level",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Expert level",
+        "concept2": "expert level",
+        "correct": true
     },
     {
-        "startConcept": "Typed bytes",
-        "endConcept": "typed bytes",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Typed bytes",
+        "concept2": "typed bytes",
+        "correct": true
     },
     {
-        "startConcept": "full table",
-        "endConcept": "Full table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "full table",
+        "concept2": "Full table",
+        "correct": true
     },
     {
-        "startConcept": "lzop",
-        "endConcept": "Lzop",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "lzop",
+        "concept2": "Lzop",
+        "correct": true
     },
     {
-        "startConcept": "Column Names",
-        "endConcept": "Column names",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column Names",
+        "concept2": "Column names",
+        "correct": true
     },
     {
-        "startConcept": "Column Qualifier",
-        "endConcept": "CQ",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column Qualifier",
+        "concept2": "CQ",
+        "correct": true
     },
     {
-        "startConcept": "yarn registry",
-        "endConcept": "Yarn Registry",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "yarn registry",
+        "concept2": "Yarn Registry",
+        "correct": true
     },
     {
-        "startConcept": "Backports",
-        "endConcept": "Backport",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Backports",
+        "concept2": "Backport",
+        "correct": true
     },
     {
-        "startConcept": "Predicate Pushdown",
-        "endConcept": "predicate pushdown",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Predicate Pushdown",
+        "concept2": "predicate pushdown",
+        "correct": true
     },
     {
-        "startConcept": "existing table",
-        "endConcept": "existing Table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "existing table",
+        "concept2": "existing Table",
+        "correct": true
     },
     {
-        "startConcept": "Jiras",
-        "endConcept": "JIRAs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Jiras",
+        "concept2": "JIRAs",
+        "correct": true
     },
     {
-        "startConcept": "row key",
-        "endConcept": "Row Keys",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "row key",
+        "concept2": "Row Keys",
+        "correct": true
     },
     {
-        "startConcept": "znode",
-        "endConcept": "Znode",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "znode",
+        "concept2": "Znode",
+        "correct": true
     },
     {
-        "startConcept": "Primary Filter",
-        "endConcept": "Primary filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Primary Filter",
+        "concept2": "Primary filter",
+        "correct": true
     },
     {
-        "startConcept": "error rate",
-        "endConcept": "Error rate",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "error rate",
+        "concept2": "Error rate",
+        "correct": true
     },
     {
-        "startConcept": "Group information",
-        "endConcept": "group information",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Group information",
+        "concept2": "group information",
+        "correct": true
     },
     {
-        "startConcept": "JIRA",
-        "endConcept": "Jiras",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "JIRA",
+        "concept2": "Jiras",
+        "correct": true
     },
     {
-        "startConcept": "specified table",
-        "endConcept": "Specify table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "specified table",
+        "concept2": "Specify table",
+        "correct": true
     },
     {
-        "startConcept": "corrupted files",
-        "endConcept": "corrupt files",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "corrupted files",
+        "concept2": "corrupt files",
+        "correct": true
     },
     {
-        "startConcept": "bucket size",
-        "endConcept": "Bucket size",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "bucket size",
+        "concept2": "Bucket size",
+        "correct": true
     },
     {
-        "startConcept": "table t1",
-        "endConcept": "TABLE T1",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table t1",
+        "concept2": "TABLE T1",
+        "correct": true
     },
     {
-        "startConcept": "apps",
-        "endConcept": "appID",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "apps",
+        "concept2": "appID",
+        "correct": false
     },
     {
-        "startConcept": "cache value",
-        "endConcept": "caching values",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "cache value",
+        "concept2": "caching values",
+        "correct": true
     },
     {
-        "startConcept": "JDOQL",
-        "endConcept": "jdo",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "JDOQL",
+        "concept2": "jdo",
+        "correct": false
     },
     {
-        "startConcept": "large clusters",
-        "endConcept": "large cluster",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "large clusters",
+        "concept2": "large cluster",
+        "correct": true
     },
     {
-        "startConcept": "Data Blocks",
-        "endConcept": "DATA blocks",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Data Blocks",
+        "concept2": "DATA blocks",
+        "correct": true
     },
     {
-        "startConcept": "large cluster",
-        "endConcept": "Large Clusters",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "large cluster",
+        "concept2": "Large Clusters",
+        "correct": true
     },
     {
-        "startConcept": "Master Key",
-        "endConcept": "master key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Master Key",
+        "concept2": "master key",
+        "correct": true
     },
     {
-        "startConcept": "Data locality",
-        "endConcept": "data locality",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Data locality",
+        "concept2": "data locality",
+        "correct": true
     },
     {
-        "startConcept": "primary filters",
-        "endConcept": "primary filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "primary filters",
+        "concept2": "primary filter",
+        "correct": true
     },
     {
-        "startConcept": "input rows",
-        "endConcept": "input row",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "input rows",
+        "concept2": "input row",
+        "correct": true
     },
     {
-        "startConcept": "odbc",
-        "endConcept": "ODBC",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "odbc",
+        "concept2": "ODBC",
+        "correct": true
     },
     {
-        "startConcept": "given list",
-        "endConcept": "given List",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "given list",
+        "concept2": "given List",
+        "correct": true
     },
     {
-        "startConcept": "Bloom filters",
-        "endConcept": "Bloom Filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Bloom filters",
+        "concept2": "Bloom Filter",
+        "correct": true
     },
     {
-        "startConcept": "libtool",
-        "endConcept": "libs",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "libtool",
+        "concept2": "libs",
+        "correct": false
     },
     {
-        "startConcept": "entry size",
-        "endConcept": "Entry size",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "entry size",
+        "concept2": "Entry size",
+        "correct": true
     },
     {
-        "startConcept": "Encrypted Key",
-        "endConcept": "encrypted key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Encrypted Key",
+        "concept2": "encrypted key",
+        "correct": true
     },
     {
-        "startConcept": "Log directory",
-        "endConcept": "log directory",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Log directory",
+        "concept2": "log directory",
+        "correct": true
     },
     {
-        "startConcept": "LZO",
-        "endConcept": "Lzo",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "LZO",
+        "concept2": "Lzo",
+        "correct": true
     },
     {
-        "startConcept": "Time ranges",
-        "endConcept": "time ranges",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Time ranges",
+        "concept2": "time ranges",
+        "correct": true
     },
     {
-        "startConcept": "table directories",
-        "endConcept": "table directory",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table directories",
+        "concept2": "table directory",
+        "correct": true
     },
     {
-        "startConcept": "Side Encryption",
-        "endConcept": "side encryption",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Side Encryption",
+        "concept2": "side encryption",
+        "correct": true
     },
     {
-        "startConcept": "table basis",
-        "endConcept": "Table basis",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table basis",
+        "concept2": "Table basis",
+        "correct": true
     },
     {
-        "startConcept": "Bloom block",
-        "endConcept": "Bloom Block",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Bloom block",
+        "concept2": "Bloom Block",
+        "correct": true
     },
     {
-        "startConcept": "larger table",
-        "endConcept": "largest table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "larger table",
+        "concept2": "largest table",
+        "correct": true
     },
     {
-        "startConcept": "Tablename",
-        "endConcept": "tablename",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Tablename",
+        "concept2": "tablename",
+        "correct": true
     },
     {
-        "startConcept": "RM",
-        "endConcept": "RMs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "RM",
+        "concept2": "RMs",
+        "correct": true
     },
     {
-        "startConcept": "Input key",
-        "endConcept": "Input keys",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Input key",
+        "concept2": "Input keys",
+        "correct": true
     },
     {
-        "startConcept": "data lake",
-        "endConcept": "Data Lake",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data lake",
+        "concept2": "Data Lake",
+        "correct": true
     },
     {
-        "startConcept": "retry interval",
-        "endConcept": "Retry interval",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "retry interval",
+        "concept2": "Retry interval",
+        "correct": true
     },
     {
-        "startConcept": "column family",
-        "endConcept": "Column family",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column family",
+        "concept2": "Column family",
+        "correct": true
     },
     {
-        "startConcept": "output key",
-        "endConcept": "output Key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "output key",
+        "concept2": "output Key",
+        "correct": true
     },
     {
-        "startConcept": "metrics instance",
-        "endConcept": "Metrics instance",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metrics instance",
+        "concept2": "Metrics instance",
+        "correct": true
     },
     {
-        "startConcept": "Index table",
-        "endConcept": "index table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Index table",
+        "concept2": "index table",
+        "correct": true
     },
     {
-        "startConcept": "ORC",
-        "endConcept": "Orc",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "ORC",
+        "concept2": "Orc",
+        "correct": true
     },
     {
-        "startConcept": "Drops table",
-        "endConcept": "Drop Table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Drops table",
+        "concept2": "Drop Table",
+        "correct": true
     },
     {
-        "startConcept": "large table",
-        "endConcept": "larger table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "large table",
+        "concept2": "larger table",
+        "correct": true
     },
     {
-        "startConcept": "Ugi",
-        "endConcept": "UGI",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Ugi",
+        "concept2": "UGI",
+        "correct": true
     },
     {
-        "startConcept": "short order",
-        "endConcept": "sorting order",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "short order",
+        "concept2": "sorting order",
+        "correct": false
     },
     {
-        "startConcept": "IRB",
-        "endConcept": "irbrc",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "IRB",
+        "concept2": "irbrc",
+        "correct": false
     },
     {
-        "startConcept": "Primary filters",
-        "endConcept": "Primary Filter",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Primary filters",
+        "concept2": "Primary Filter",
+        "correct": true
     },
     {
-        "startConcept": "Cluster topology",
-        "endConcept": "cluster topology",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Cluster topology",
+        "concept2": "cluster topology",
+        "correct": true
     },
     {
-        "startConcept": "rr",
-        "endConcept": "Random row",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "rr",
+        "concept2": "Random row",
+        "correct": false
     },
     {
-        "startConcept": "Input splits",
-        "endConcept": "input splits",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Input splits",
+        "concept2": "input splits",
+        "correct": true
     },
     {
-        "startConcept": "Store files",
-        "endConcept": "store files",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Store files",
+        "concept2": "store files",
+        "correct": true
     },
     {
-        "startConcept": "Rm",
-        "endConcept": "reserved memory",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Rm",
+        "concept2": "reserved memory",
+        "correct": false
     },
     {
-        "startConcept": "load files",
-        "endConcept": "loads files",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "load files",
+        "concept2": "loads files",
+        "correct": true
     },
     {
-        "startConcept": "irc",
-        "endConcept": "IRC",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "irc",
+        "concept2": "IRC",
+        "correct": true
     },
     {
-        "startConcept": "QL",
-        "endConcept": "query level",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "QL",
+        "concept2": "query level",
+        "correct": false
     },
     {
-        "startConcept": "cluster nodes",
-        "endConcept": "Cluster Node",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "cluster nodes",
+        "concept2": "Cluster Node",
+        "correct": true
     },
     {
-        "startConcept": "Column qualifiers",
-        "endConcept": "cq",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column qualifiers",
+        "concept2": "cq",
+        "correct": true
     },
     {
-        "startConcept": "Capacity Unit",
-        "endConcept": "capacity unit",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Capacity Unit",
+        "concept2": "capacity unit",
+        "correct": true
     },
     {
-        "startConcept": "Data Locality",
-        "endConcept": "data locality",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Data Locality",
+        "concept2": "data locality",
+        "correct": true
     },
     {
-        "startConcept": "table created",
-        "endConcept": "TABLE creates",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "table created",
+        "concept2": "TABLE creates",
+        "correct": true
     },
     {
-        "startConcept": "data size",
-        "endConcept": "data sizes",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data size",
+        "concept2": "data sizes",
+        "correct": true
     },
     {
-        "startConcept": "partition value",
-        "endConcept": "Partition values",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "partition value",
+        "concept2": "Partition values",
+        "correct": true
     },
     {
-        "startConcept": "Column Family",
-        "endConcept": "column families",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column Family",
+        "concept2": "column families",
+        "correct": true
     },
     {
-        "startConcept": "zk",
-        "endConcept": "Zk",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "zk",
+        "concept2": "Zk",
+        "correct": true
     },
     {
-        "startConcept": "slave node",
-        "endConcept": "Slave nodes",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "slave node",
+        "concept2": "Slave nodes",
+        "correct": true
     },
     {
-        "startConcept": "master keys",
-        "endConcept": "Master Key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "master keys",
+        "concept2": "Master Key",
+        "correct": true
     },
     {
-        "startConcept": "Heartbeat messages",
-        "endConcept": "heartbeat messages",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Heartbeat messages",
+        "concept2": "heartbeat messages",
+        "correct": true
     },
     {
-        "startConcept": "Backported",
-        "endConcept": "backported",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Backported",
+        "concept2": "backported",
+        "correct": true
     },
     {
-        "startConcept": "Backport",
-        "endConcept": "backports",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Backport",
+        "concept2": "backports",
+        "correct": true
     },
     {
-        "startConcept": "metrics names",
-        "endConcept": "metric name",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metrics names",
+        "concept2": "metric name",
+        "correct": true
     },
     {
-        "startConcept": "local directories",
-        "endConcept": "local directory",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "local directories",
+        "concept2": "local directory",
+        "correct": true
     },
     {
-        "startConcept": "Scala",
-        "endConcept": "scala",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Scala",
+        "concept2": "scala",
+        "correct": true
     },
     {
-        "startConcept": "start time",
-        "endConcept": "Start time",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "start time",
+        "concept2": "Start time",
+        "correct": true
     },
     {
-        "startConcept": "Retry Count",
-        "endConcept": "retry count",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Retry Count",
+        "concept2": "retry count",
+        "correct": true
     },
     {
-        "startConcept": "gpg",
-        "endConcept": "GPG",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "gpg",
+        "concept2": "GPG",
+        "correct": true
     },
     {
-        "startConcept": "Conf",
-        "endConcept": "confs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Conf",
+        "concept2": "confs",
+        "correct": true
     },
     {
-        "startConcept": "RM",
-        "endConcept": "rm",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "RM",
+        "concept2": "rm",
+        "correct": true
     },
     {
-        "startConcept": "Storage Policies",
-        "endConcept": "storage policy",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Storage Policies",
+        "concept2": "storage policy",
+        "correct": true
     },
     {
-        "startConcept": "jiras",
-        "endConcept": "jira",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "jiras",
+        "concept2": "jira",
+        "correct": true
     },
     {
-        "startConcept": "Table read",
-        "endConcept": "table read",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Table read",
+        "concept2": "table read",
+        "correct": true
     },
     {
-        "startConcept": "export table",
-        "endConcept": "Export table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "export table",
+        "concept2": "Export table",
+        "correct": true
     },
     {
-        "startConcept": "checksum verification",
-        "endConcept": "Checksum verification",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "checksum verification",
+        "concept2": "Checksum verification",
+        "correct": true
     },
     {
-        "startConcept": "PUT Request",
-        "endConcept": "puts request",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "PUT Request",
+        "concept2": "puts request",
+        "correct": true
     },
     {
-        "startConcept": "Cluster Replication",
-        "endConcept": "Cluster replication",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Cluster Replication",
+        "concept2": "Cluster replication",
+        "correct": true
     },
     {
-        "startConcept": "JNs",
-        "endConcept": "Job names",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "JNs",
+        "concept2": "Job names",
+        "correct": false
     },
     {
-        "startConcept": "CONF",
-        "endConcept": "confs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "CONF",
+        "concept2": "confs",
+        "correct": true
     },
     {
-        "startConcept": "Replication System",
-        "endConcept": "replication system",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Replication System",
+        "concept2": "replication system",
+        "correct": true
     },
     {
-        "startConcept": "metric info",
-        "endConcept": "Metrics information",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metric info",
+        "concept2": "Metrics information",
+        "correct": true
     },
     {
-        "startConcept": "tsv",
-        "endConcept": "TSV",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "tsv",
+        "concept2": "TSV",
+        "correct": true
     },
     {
-        "startConcept": "active state",
-        "endConcept": "Active state",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "active state",
+        "concept2": "Active state",
+        "correct": true
     },
     {
-        "startConcept": "Put request",
-        "endConcept": "put request",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Put request",
+        "concept2": "put request",
+        "correct": true
     },
     {
-        "startConcept": "META table",
-        "endConcept": "meta table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "META table",
+        "concept2": "meta table",
+        "correct": true
     },
     {
-        "startConcept": "DN",
-        "endConcept": "database names",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "DN",
+        "concept2": "database names",
+        "correct": true
     },
     {
-        "startConcept": "rm",
-        "endConcept": "RMs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "rm",
+        "concept2": "RMs",
+        "correct": true
     },
     {
-        "startConcept": "Existing Table",
-        "endConcept": "existing Table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Existing Table",
+        "concept2": "existing Table",
+        "correct": true
     },
     {
-        "startConcept": "configs",
-        "endConcept": "configuraiton",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "configs",
+        "concept2": "configuraiton",
+        "correct": true
     },
     {
-        "startConcept": "repo",
-        "endConcept": "Repos",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "repo",
+        "concept2": "Repos",
+        "correct": true
     },
     {
-        "startConcept": "znode",
-        "endConcept": "znodes",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "znode",
+        "concept2": "znodes",
+        "correct": true
     },
     {
-        "startConcept": "storage descriptors",
-        "endConcept": "storage descriptor",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "storage descriptors",
+        "concept2": "storage descriptor",
+        "correct": true
     },
     {
-        "startConcept": "open call",
-        "endConcept": "Open call",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "open call",
+        "concept2": "Open call",
+        "correct": true
     },
     {
-        "startConcept": "data local",
-        "endConcept": "Data Locality",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data local",
+        "concept2": "Data Locality",
+        "correct": true
     },
     {
-        "startConcept": "High Availability",
-        "endConcept": "high availability",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "High Availability",
+        "concept2": "high availability",
+        "correct": true
     },
     {
-        "startConcept": "appender",
-        "endConcept": "appenders",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "appender",
+        "concept2": "appenders",
+        "correct": true
     },
     {
-        "startConcept": "output key",
-        "endConcept": "Output Key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "output key",
+        "concept2": "Output Key",
+        "correct": true
     },
     {
-        "startConcept": "Storage type",
-        "endConcept": "Storage Types",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Storage type",
+        "concept2": "Storage Types",
+        "correct": true
     },
     {
-        "startConcept": "column families",
-        "endConcept": "Column family",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column families",
+        "concept2": "Column family",
+        "correct": true
     },
     {
-        "startConcept": "Mapreduce",
-        "endConcept": "mapreduce",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Mapreduce",
+        "concept2": "mapreduce",
+        "correct": true
     },
     {
-        "startConcept": "Memory store",
-        "endConcept": "memory store",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Memory store",
+        "concept2": "memory store",
+        "correct": true
     },
     {
-        "startConcept": "max number",
-        "endConcept": "Max number",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "max number",
+        "concept2": "Max number",
+        "correct": true
     },
     {
-        "startConcept": "asf",
-        "endConcept": "ASF",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "asf",
+        "concept2": "ASF",
+        "correct": true
     },
     {
-        "startConcept": "slave nodes",
-        "endConcept": "Slave nodes",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "slave nodes",
+        "concept2": "Slave nodes",
+        "correct": true
     },
     {
-        "startConcept": "blocks size",
-        "endConcept": "block sizes",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "blocks size",
+        "concept2": "block sizes",
+        "correct": true
     },
     {
-        "startConcept": "Metadata store",
-        "endConcept": "metadata store",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Metadata store",
+        "concept2": "metadata store",
+        "correct": true
     },
     {
-        "startConcept": "group information",
-        "endConcept": "group info",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "group information",
+        "concept2": "group info",
+        "correct": true
     },
     {
-        "startConcept": "Session identifier",
-        "endConcept": "session identifier",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Session identifier",
+        "concept2": "session identifier",
+        "correct": true
     },
     {
-        "startConcept": "input keys",
-        "endConcept": "Input key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "input keys",
+        "concept2": "Input key",
+        "correct": true
     },
     {
-        "startConcept": "Protobufs",
-        "endConcept": "Protobuf",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Protobufs",
+        "concept2": "Protobuf",
+        "correct": true
     },
     {
-        "startConcept": "data generator",
-        "endConcept": "Data generated",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data generator",
+        "concept2": "Data generated",
+        "correct": true
     },
     {
-        "startConcept": "data generator",
-        "endConcept": "data generated",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data generator",
+        "concept2": "data generated",
+        "correct": true
     },
     {
-        "startConcept": "Input key",
-        "endConcept": "input key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Input key",
+        "concept2": "input key",
+        "correct": true
     },
     {
-        "startConcept": "Column Qualifier",
-        "endConcept": "column qualifiers",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column Qualifier",
+        "concept2": "column qualifiers",
+        "correct": true
     },
     {
-        "startConcept": "Retry times",
-        "endConcept": "retry times",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Retry times",
+        "concept2": "retry times",
+        "correct": true
     },
     {
-        "startConcept": "Rm",
-        "endConcept": "RM",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Rm",
+        "concept2": "RM",
+        "correct": true
     },
     {
-        "startConcept": "data block",
-        "endConcept": "Data Block",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data block",
+        "concept2": "Data Block",
+        "correct": true
     },
     {
-        "startConcept": "jvms",
-        "endConcept": "JVM",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "jvms",
+        "concept2": "JVM",
+        "correct": true
     },
     {
-        "startConcept": "Tablename",
-        "endConcept": "TABLE",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Tablename",
+        "concept2": "TABLE",
+        "correct": false
     },
     {
-        "startConcept": "column family",
-        "endConcept": "column families",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column family",
+        "concept2": "column families",
+        "correct": true
     },
     {
-        "startConcept": "Httpclient",
-        "endConcept": "httpclient",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Httpclient",
+        "concept2": "httpclient",
+        "correct": true
     },
     {
-        "startConcept": "mockito",
-        "endConcept": "Mockito",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "mockito",
+        "concept2": "Mockito",
+        "correct": true
     },
     {
-        "startConcept": "node cluster",
-        "endConcept": "Node Cluster",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "node cluster",
+        "concept2": "Node Cluster",
+        "correct": true
     },
     {
-        "startConcept": "QA",
-        "endConcept": "qa",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "QA",
+        "concept2": "qa",
+        "correct": true
     },
     {
-        "startConcept": "configuraiton",
-        "endConcept": "configration",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "configuraiton",
+        "concept2": "configration",
+        "correct": true
     },
     {
-        "startConcept": "Store files",
-        "endConcept": "store file",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Store files",
+        "concept2": "store file",
+        "correct": true
     },
     {
-        "startConcept": "deleted files",
-        "endConcept": "Deleted files",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "deleted files",
+        "concept2": "Deleted files",
+        "correct": true
     },
     {
-        "startConcept": "Plugins",
-        "endConcept": "plugins",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Plugins",
+        "concept2": "plugins",
+        "correct": true
     },
     {
-        "startConcept": "Column Families",
-        "endConcept": "column families",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column Families",
+        "concept2": "column families",
+        "correct": true
     },
     {
-        "startConcept": "column level",
-        "endConcept": "Column level",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "column level",
+        "concept2": "Column level",
+        "correct": true
     },
     {
-        "startConcept": "jira",
-        "endConcept": "Jiras",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "jira",
+        "concept2": "Jiras",
+        "correct": true
     },
     {
-        "startConcept": "Uploader",
-        "endConcept": "uploader",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Uploader",
+        "concept2": "uploader",
+        "correct": true
     },
     {
-        "startConcept": "asf",
-        "endConcept": "Apache Software Foundation",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "asf",
+        "concept2": "Apache Software Foundation",
+        "correct": true
     },
     {
-        "startConcept": "Partition size",
-        "endConcept": "partition size",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Partition size",
+        "concept2": "partition size",
+        "correct": true
     },
     {
-        "startConcept": "access keys",
-        "endConcept": "access key",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "access keys",
+        "concept2": "access key",
+        "correct": true
     },
     {
-        "startConcept": "output results",
-        "endConcept": "output result",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "output results",
+        "concept2": "output result",
+        "correct": true
     },
     {
-        "startConcept": "maximum resource",
-        "endConcept": "maximum resources",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "maximum resource",
+        "concept2": "maximum resources",
+        "correct": true
     },
     {
-        "startConcept": "Alter Table",
-        "endConcept": "ALTER TABLE",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Alter Table",
+        "concept2": "ALTER TABLE",
+        "correct": true
     },
     {
-        "startConcept": "TaskID",
-        "endConcept": "taskid",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "TaskID",
+        "concept2": "taskid",
+        "correct": true
     },
     {
-        "startConcept": "oozie",
-        "endConcept": "Oozie",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "oozie",
+        "concept2": "Oozie",
+        "correct": true
     },
     {
-        "startConcept": "Max time",
-        "endConcept": "max time",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Max time",
+        "concept2": "max time",
+        "correct": true
     },
     {
-        "startConcept": "retry attempt",
-        "endConcept": "retry attempts",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "retry attempt",
+        "concept2": "retry attempts",
+        "correct": true
     },
     {
-        "startConcept": "Column Level",
-        "endConcept": "column level",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column Level",
+        "concept2": "column level",
+        "correct": true
     },
     {
-        "startConcept": "MySQL",
-        "endConcept": "MYSQL",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "MySQL",
+        "concept2": "MYSQL",
+        "correct": true
     },
     {
-        "startConcept": "slave nodes",
-        "endConcept": "slave node",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "slave nodes",
+        "concept2": "slave node",
+        "correct": true
     },
     {
-        "startConcept": "Heap usage",
-        "endConcept": "heap usage",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Heap usage",
+        "concept2": "heap usage",
+        "correct": true
     },
     {
-        "startConcept": "random row",
-        "endConcept": "RRs",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "random row",
+        "concept2": "RRs",
+        "correct": false
     },
     {
-        "startConcept": "storage systems",
-        "endConcept": "storage system",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "storage systems",
+        "concept2": "storage system",
+        "correct": true
     },
     {
-        "startConcept": "Column qualifiers",
-        "endConcept": "column qualifier",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Column qualifiers",
+        "concept2": "column qualifier",
+        "correct": true
     },
     {
-        "startConcept": "resource requests",
-        "endConcept": "Resource Request",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "resource requests",
+        "concept2": "Resource Request",
+        "correct": true
     },
     {
-        "startConcept": "creating table",
-        "endConcept": "Create table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "creating table",
+        "concept2": "Create table",
+        "correct": true
     },
     {
-        "startConcept": "puts request",
-        "endConcept": "put request",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "puts request",
+        "concept2": "put request",
+        "correct": true
     },
     {
-        "startConcept": "Cache pool",
-        "endConcept": "Cache pools",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Cache pool",
+        "concept2": "Cache pools",
+        "correct": true
     },
     {
-        "startConcept": "task counters",
-        "endConcept": "Task counters",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "task counters",
+        "concept2": "Task counters",
+        "correct": true
     },
     {
-        "startConcept": "Compare key",
-        "endConcept": "compare keys",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Compare key",
+        "concept2": "compare keys",
+        "correct": true
     },
     {
-        "startConcept": "partition key",
-        "endConcept": "partition keys",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "partition key",
+        "concept2": "partition keys",
+        "correct": true
     },
     {
-        "startConcept": "cluster ID",
-        "endConcept": "cluster identifier",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "cluster ID",
+        "concept2": "cluster identifier",
+        "correct": true
     },
     {
-        "startConcept": "master info",
-        "endConcept": "Master Info",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "master info",
+        "concept2": "Master Info",
+        "correct": true
     },
     {
-        "startConcept": "Webapp",
-        "endConcept": "webapps",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Webapp",
+        "concept2": "webapps",
+        "correct": true
     },
     {
-        "startConcept": "conf",
-        "endConcept": "configs",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "conf",
+        "concept2": "configs",
+        "correct": true
     },
     {
-        "startConcept": "cluster replication",
-        "endConcept": "Cluster replication",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "cluster replication",
+        "concept2": "Cluster replication",
+        "correct": true
     },
     {
-        "startConcept": "data local",
-        "endConcept": "DATA LOCAL",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data local",
+        "concept2": "DATA LOCAL",
+        "correct": true
     },
     {
-        "startConcept": "metrics source",
-        "endConcept": "metrics sources",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "metrics source",
+        "concept2": "metrics sources",
+        "correct": true
     },
     {
-        "startConcept": "largest table",
-        "endConcept": "large table",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "largest table",
+        "concept2": "large table",
+        "correct": true
     },
     {
-        "startConcept": "Local directory",
-        "endConcept": "local directories",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Local directory",
+        "concept2": "local directories",
+        "correct": true
     },
     {
-        "startConcept": "Storage Types",
-        "endConcept": "storage types",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Storage Types",
+        "concept2": "storage types",
+        "correct": true
     },
     {
-        "startConcept": "data block",
-        "endConcept": "DATA blocks",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "data block",
+        "concept2": "DATA blocks",
+        "correct": true
     },
     {
-        "startConcept": "remote blocks",
-        "endConcept": "remote block",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "remote blocks",
+        "concept2": "remote block",
+        "correct": true
     },
     {
-        "startConcept": "Data block",
-        "endConcept": "Data Block",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "Data block",
+        "concept2": "Data Block",
+        "correct": true
     },
     {
-        "startConcept": "JIRAs",
-        "endConcept": "Jira",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "JIRAs",
+        "concept2": "Jira",
+        "correct": true
     },
     {
-        "startConcept": "partition keys",
-        "endConcept": "Partition keys",
-        "score": 1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "partition keys",
+        "concept2": "Partition keys",
+        "correct": true
     },
     {
-        "startConcept": "dfs",
-        "endConcept": "dfsadmin",
-        "score": -1,
-        "user": "expert",
-        "domain": "hadoop"
+        "concept1": "dfs",
+        "concept2": "dfsadmin",
+        "correct": false
     }
 ]
