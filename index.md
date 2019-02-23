@@ -15,24 +15,24 @@ There are two part of this RQ:
 
 We evaluate the accuracy of term extraction, alias merging, relation identification, explanation extraction, for each step we select 384 samples. We invite three master students who are experts in the domain to examine the accuracy. For each examination two experts independently make the decision based on the related contexts and their agreement on the decision is checked. When there is disagreement on a decision, the third expert gives an additional judgement.
 
-The annotation results are shown in following files:
+The annotation results after arbitration are shown in following files:
 
-[deep learning term extraction annotation](./deeplearning_term_annotation.json)<br>
-[deep learning term extraction arbitration](./deeplearning_term_arbitration.json)<br>
-[deep learning alias merging annotation](./deeplearning_fusion_annotation.json)<br>
-[deep learning alias merging arbitration](./deeplearning_fusion_arbitration.json)<br>
-[deep learning relation identifiction annotation](./deeplearning_relation_annotation.json)<br>
-[deep learning relation identifiction arbitration](./deeplearning_relation_arbitration.json)<br>
-[deep learning explanation extraction annotation](./deeplearning_explanation_annotation.json)<br>
-[deep learning explanation extraction arbitration](./deeplearning_explanation_arbitration.json)<br>
-[hadoop term extraction annotation](./hadoop_term_annotation.json)<br>
-[hadoop term extraction arbitration](./hadoop_term_arbitration.json)<br>
-[hadoop alias merging annotation](./hadoop_fusion_annotation.json)<br>
-[hadoop alias merging arbitration](./hadoop_fusion_arbitration.json)<br>
-[hadoop relation identifiction annotation](./hadoop_relation_annotation.json)<br>
-[hadoop relation identifiction arbitration](./hadoop_relation_arbitration.json)<br>
-[hadoop explanation extraction annotation](./hadoop_explanation_annotation.json)<br>
-[hadoop explanation extraction arbitration](./hadoop_explanation_arbitration.json)<br>
+
+[deep learning term extraction](./deeplearning_term_arbitration.json)<br>
+[hadoop term extraction](./hadoop_term_arbitration.json)<br>
+In the json file, there are two fields: "term" and "correct", which means the selected terms and whether they are correct concepts.
+
+[deep learning alias merging](./deeplearning_fusion_arbitration.json)<br>
+[hadoop alias merging](./hadoop_fusion_arbitration.json)<br>
+In the json file, there are three fields: "concept1", "concept2" and "correct", which means the selected term pairs and whether they are correct alias pairs.
+
+[deep learning relation identifiction](./deeplearning_relation_arbitration.json)<br>
+[hadoop relation identifiction](./hadoop_relation_arbitration.json)<br>
+In the json file, there are four fields: "startConcept", "endConcept", "relation" and "correct", which means the selected relation triples and whether they are correct relations.
+
+[deep learning explanation extraction](./deeplearning_explanation_arbitration.json)<br>
+[hadoop explanation extraction](./hadoop_explanation_arbitration.json)<br>
+In the json file, there are three fields: "concept", "expanation" and "useful", which means the selected concepts and their explanation and whether the explanations are useful.
 
 #### 2. Comparison with Arora et al.’s Approach.
 
@@ -41,7 +41,8 @@ Arora et al.’s approach extracts glossary terms and their related terms (i.e.,
 The annotation and arbitration results are shown in following files:
 
 [deep learning](./DL_comparison.csv)<br>
-[hadoop](./hadoop_comparison.csv)
+[hadoop](./hadoop_comparison.csv)<br>
+There are five columns in the csv files: "sentence", "our approach", "Arore's approach" and "human annotation", which mean the selected sentences, the concepts extracted by our approach (the terms surrouded by "<" and ">" represent alias sets), the concepts extracted by Arore's approach and concepts annotated by expert.
 
 ### RQ2: How does the extracted domain glossary fuse the knowledge from different projects and documents? How does the extracted concepts complement general knowledge base such as WikiPedia?
 
@@ -50,7 +51,8 @@ We further analyze the complementarity with Wikipedia based on the 384 terms sam
 The checking result are shown in following files:
 
 [deep learning](./DL_wikipedia.txt)<br>
-[hadoop](./hadoop_wikipedia.txt)
+[hadoop](./hadoop_wikipedia.txt)<br>
+The txt files record the terms labelled as real glossary terms and whether they are included in Wikipedia ("T" in the end of a line means a term is in Wikipedia and "F" means not).
 
 ### RQ3: Can the extracted domain glossary help developers to obtain the required knowledge?
 
@@ -60,6 +62,7 @@ The selected queries, search results before and after query expansion, annotatio
 
 [deep learning](./DL_usefulness.csv)<br>
 [hadoop](./hadoop_usefulness.csv)
+There are four columns in the csv files: "query", "before and after expansion", "sentences" and "is related", which mean the selected queries, whether the queries are expended, search result and whether the sentences are related to the queries (annotated by expert).
 
 
 
