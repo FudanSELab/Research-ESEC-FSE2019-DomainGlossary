@@ -61,8 +61,8 @@ We design an experiment to investigate whether the extracted domain glossary can
 The selected queries, search results before and after query expansion, annotation results are shown in following files:
 
 [deep learning](./DL_usefulness.csv)<br>
-[hadoop](./hadoop_usefulness.csv)
-There are four columns in the csv files: "query", "before and after expansion", "sentences" and "is related", which mean the selected queries, whether the queries are expended, search result and whether the sentences are related to the queries (annotated by expert).
+[hadoop](./hadoop_usefulness.csv)<br>
+There are four columns in the csv files: "query", "before or after expansion", "sentences" and "is related", which mean the selected queries, whether the queries are expended, search result and whether the sentences are related to the queries (annotated by expert).
 
 
 
