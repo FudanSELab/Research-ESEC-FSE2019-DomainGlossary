@@ -7,14 +7,14 @@ We post the result of our approach and the data used in empirical study of paper
 The two subject domains that we choose for the study represent two kinds of technical domains. Deep learning domain includes software libraries that are written in different languages and provide similar functionalities for the development of deep learning applications. Hadoop domain is a software ecosystem that consists of interdependent software systems. 
 
 The subject projects we choose for the deep learning domain are three popular deep learning libraries:<br>
-Deeplearning4j 1.0.0-beta3 (https://deeplearning4j.org/, https://github.com/deeplearning4j/deeplearning4j/)<br>
-Tensorflow 1.12 (https://www.tensorflow.org/, https://github.com/tensorflow/tensorflow)<br>
-PyTorch 1.0.0 (https://pytorch.org/, https://github.com/pytorch/pytorch)<br>
+Deeplearning4j 1.0.0-beta3 ([website](https://deeplearning4j.org/), [source code](https://github.com/deeplearning4j/deeplearning4j/))<br>
+Tensorflow 1.12 ([website](https://www.tensorflow.org/), [source code](https://github.com/tensorflow/tensorflow))<br>
+PyTorch 1.0.0 ([website](https://pytorch.org/), [source code](https://github.com/pytorch/pytorch))<br>
 
 The subject projects we choose for the Hadoop domain are:<br>
-Hadoop 2.9.2 (http://hadoop.apache.org/, https://github.com/apache/hadoop)<br>
-HBase 2.1.0 (http://hbase.apache.org/, https://github.com/apache/hive)<br>
-Hive 2.3.4 (http://hive.apache.org/, https://github.com/apache/hbase)<br>
+Hadoop 2.9.2 ([website](http://hadoop.apache.org/), [source code](https://github.com/apache/hadoop))<br>
+HBase 2.1.0 ([website](http://hbase.apache.org/), [source code](https://github.com/apache/hive))<br>
+Hive 2.3.4 ([website](http://hive.apache.org/), [source code](https://github.com/apache/hbase))<br>
 
 ## 2. Results of Approach
 The results of our approach are devided into 4 parts: term extraction, alias merging, relation identification and explanation extraction.
