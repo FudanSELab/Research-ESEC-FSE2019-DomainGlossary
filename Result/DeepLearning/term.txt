@@ -1,0 +1,7116 @@
+ACGAN
+AFAIK
+AIS
+AIS data
+AOT
+ARFF
+ASGD
+AUC
+AUPRC
+AVG
+AVX
+AWS
+Absolute Difference loss
+Absolute sum
+Absolute tolerance
+Accuracy Tensor
+Accurate Computation
+Activation Functions
+Activation Layer
+Activation Layers
+Activation function
+Activation functions
+Activation layer
+Activation parameter
+Adadelta
+Adagrad
+Adam algorithm
+Adam optimizer
+Adamax
+Adaptive Gradients
+Adaptive Probabilities
+Add layer
+Add matrix
+AddN
+Adjust contrast
+Advanced Activations
+Advanced Indexing
+Adversarial training
+Algorithmic Engineering
+Alignment modes
+Allocation mode
+Alpha Dropout
+Alpha dropout
+Analysis Explained
+Android development
+Android device
+Android devices
+Annotation Step
+Anomaly Detection
+Anomaly detection
+Another tensor
+Anton
+Application Step
+Applied element
+Applies Dropout
+Applies element
+Applies normalization
+Argmax
+Argmin
+Array format
+Asynchronous parameters
+Atan2
+Atrous convolution
+Attention Decoder
+Attention Layer
+Attention Mechanism
+Attention mechanism
+Attn
+Audio Recognition
+Auto correlation
+Autoencoder
+Autoencoders
+Autograd
+Automatic Differentiation
+Automatic differentiation
+Automatic variable
+Autoregressive Density
+Autoregressive Flow
+Autoregressive distribution
+Autoregressive distributions
+Average Pooling
+Average layer
+Average loss
+Average pooling
+Average precision
+Average recall
+Avg
+BFGS
+BLAS
+BPTT
+BTW
+Back Propagation
+Backend
+Backends
+Backprop
+Backpropagation
+Backup node
+Backward computation
+Bahdanau
+Baroni
+Base distribution
+Basic loop
+Basic sampling
+Batch Normalization
+Batch elements
+Batch norm
+Batch normalization
+Batch shape
+Batched matrix
+Batching tensors
+Bayesian computation
+Bazel
+Bellman equation
+Bengio
+Bernoulli Bernoulli
+Bernoulli distribution
+Bernoulli distributions
+Bernoulli trial
+Bernoulli trials
+Bessel function
+Beta distributed
+Beta distribution
+Beta1
+Bias parameter
+Bias tensor
+Bias vector
+Bidirectional Layer
+Bidirectional layer
+Bigtable
+Binary Classification
+Binary Classifiers
+Binary Encoding
+Binary matrix
+Binary model
+Binary tensor
+Binomial Probabilities
+Binomial distribution
+Binomial distributions
+Blas
+Blocking point
+Boltzmann Machine
+Boltzmann Machines
+Boltzmann machines
+Bool
+Bounding Boxes
+Bounding boxes
+Bregman
+Btw
+Bucketized column
+Build System
+Build models
+Building model
+CBOW
+CELU
+CIDR
+CIFAR
+CMU
+CNN
+CNN3D
+CNNs
+CPU
+CPU architecture
+CPU architectures
+CPU backend
+CPU copy
+CPU cores
+CPU device
+CPU devices
+CPU host
+CPU kernel
+CPU kernels
+CPU memory
+CPU mode
+CPU one
+CPU performance
+CPU tensors
+CPU version
+CRF
+CRFs
+CS231n
+CS321n
+CSC
+CUDA
+CUDNN
+Caffe
+Caffe2
+Calculate Loss
+Calculate activation
+Calculate gradients
+Calculate padding
+Carlo approximation
+Categorical column
+Categorical columns
+Categorical distribution
+Categorical distributions
+Categorical features
+Categorical vocabulary
+Cauchy
+Center Loss
+Cepstral
+Chatbot
+Chi2
+Cholesky
+Cifar data
+Classification logits
+Classification loss
+Classification statistics
+Classifier Calibration
+Client communication
+Clips values
+Clojure
+Cloud Detection
+Cloud Partners
+Cluster nodes
+Cnn
+Colab
+Collapse operation
+Collective functions
+Column vector
+Complete Model
+Complex128
+Composable
+Computation Graph
+Computation Graphs
+Computation flow
+Computational processes
+Compute Engine
+Compute activations
+Compute edge
+Compute gradients
+Compute log
+Compute number
+Compute score
+Computes dropout
+Computing log
+Concentration parameter
+Concrete Distribution
+Conda
+Conditional Accumulators
+Conduct learning
+Confusion Matrix
+Confusion matrix
+Conjugate Gradient
+Connectionist Temporal Classification
+Constant Tensor
+Constant distribution
+Constrained Optimization
+Constraint function
+Content Loss
+Contiguous inputs
+Continuous Features
+Continuous columns
+Continuous features
+Contrastive Training
+Contrib
+Controls behavior
+Controls model
+Conv
+Conv1D
+Conv1d
+Conv2D
+Conv2d
+Conv3D
+Conv3d
+Conversion Transforms
+Converted image
+Converts value
+Convolution dimensionality
+Convolution layer
+Convolution layers
+Convolution operation
+Convolution2D
+Convolutional
+Convolutional layers
+Coordinate function
+Copies data
+Copies tensor
+Copy model
+Core Layers
+CoreML models
+Cosine distance
+Cosine similarity
+Count number
+Covariate Shift
+Create gradient
+Create input
+Created matrix
+Critic Algorithm
+Cropped image
+Cropping layer
+Cropping1D
+Cropping2D
+Cropping3D
+Cross Entropy
+CuBLAS
+CuDNN
+CuDNNGRU
+CuDNNLSTM
+Cublas
+Cuda
+Cudnn
+CudnnRNN
+Cumulative product
+Cumulative sum
+CycleGAN training
+D1
+DBOW
+DCGAN
+DDPG
+DET
+DFT
+DFT2
+DNN
+DOT
+DOT format
+DQN
+Data Loading
+Data Parallel
+Data Parallelism
+Data Science
+Data Training
+Data Transformation
+Data augmentation
+Data dependencies
+Data loading
+Data normalization
+Data parallel
+Data parallelism
+Data pipeline
+Data processing
+Data replication
+Data set
+Dataflow
+Dataframe
+Dataset
+Datasets
+Decoding function
+Deconvolution
+Deep Belief
+Deep Learning
+Deep Network
+Deep Neural Networks
+Deep learning
+Deeplearning layer
+Delving Deep
+Delving deep
+Denoising
+Dense Layer
+Dense Tensor
+Dense Word
+Dense layer
+Dense layers
+Dense tensor
+Density Estimation
+Density Modeling
+Depthwise
+Dequeue
+Desired interpolation
+Deterministic distribution
+Deterministic mode
+Deterministically
+Device Placement
+Device index
+Device memory
+Diagonal matrix
+Dilated Convolutions
+Dirichlet
+Discounting factor
+Discrete Cosine
+Discrete Fourier Transform
+Discrete Random
+Discrete parameter
+Discriminator Loss
+Distance functions
+Distance metric
+Distributed Applications
+Distributed Data
+Distributed Evaluation
+Distributed Master
+Distributed Representations
+Distributed Trainer
+Distributed Training
+Distributed communication
+Distributed error
+Distributed training
+Distribution parameter
+Distribution parameters
+Distribution sample
+Distribution strategy
+Distributions shapes
+Divergence loss
+Division operation
+Dk
+Dot layer
+Double column
+Double columns
+Download data
+Dropout functions
+Dropout layer
+Dropout layers
+Dropout2d
+Dual Coordinate
+Dual Optimization
+E5
+EC2
+ELU
+ELUs
+ETL
+Eager mode
+Early Stopping
+Early stopping
+Effective padding
+Eigenvectors
+Einstein sum
+Einstein summation
+Elementwise
+Embedding Layers
+Embedding layer
+Embedding matrix
+Embeddings
+Encoding function
+English word
+Entropy loss
+Epsilon value
+Estimation Algorithm
+Estimator model
+Estimator models
+Estimators program
+Euclidean distance
+Euclidean norm
+Evaluable
+Evaluated values
+Evaluation metrics
+Expected inputs
+Explicit padding
+Exploding gradients
+Exponential Linear Unit
+Exponential Linear Units
+Exponential distributed
+Exponential distribution
+Exponential distributions
+Exponential linear
+Exponential moving
+Export classifier
+F1 Score
+F1 score
+FFT
+FGSM
+FID
+FN
+FP16
+FP32
+FP8
+FULL
+FULL model
+Fake images
+False Alarm
+False Negative
+False Positive
+False Shape
+False negative
+False negatives
+False positive
+False values
+False weights
+Fast Gradient
+Feature Columns
+Feature Mapping
+Feature columns
+Feature matrix
+Feature tensors
+Feature weights
+Final batch
+Final state
+Finetuning
+Fixed coefficient
+Fixed ratio
+Float column
+Float columns
+Float weight
+Float32
+Fn
+Forums distributed
+Forward features
+Four Tensor
+Fourier Transform
+Fourier transform
+Frechet
+Frobenius norm
+Frontend
+Ftrl
+Full examples
+Functional Model
+GAN
+GAN Training
+GAN step
+GAN training
+GANs
+GCE
+GCP
+GDN
+GER
+GGT
+GMM
+GPU
+GPU Acceleration
+GPU Devices
+GPU Memory
+GPU acceleration
+GPU activity
+GPU application
+GPU applications
+GPU available
+GPU case
+GPU collective
+GPU compute
+GPU context
+GPU device
+GPU devices
+GPU executions
+GPU kernel
+GPU location
+GPU machines
+GPU memory
+GPU mode
+GPU model
+GPU nodes
+GPU operations
+GPU optimized
+GPU scenarios
+GPU slow
+GPU support
+GPU systems
+GPU tensors
+GPU trainer
+GPU training
+GPU usage
+GPU version
+GPUS
+GPUs
+GRU
+GRU cell
+Gama function
+Gamma Distribution
+Gamma distributed
+Gamma distribution
+Gamma function
+Gated Recurrent Unit
+Gating Gradients
+Gaussian Noise
+Gaussian distribution
+Gaussian dropout
+Gaussian filter
+Gaussian kernel
+Gaussian mixture
+Gaussian noise
+Gaussian patterns
+Gaussian process
+Gaussians
+Generalized Normalization
+Generate weights
+Generates values
+Generative Adversarial
+Generative Adversarial Networks
+Generative Model
+Geometric distribution
+Geometric distributions
+Github
+Global Vectors
+Global step
+Gloo
+Good values
+Goodfellow
+Google Cloud
+Google cloud
+Google model
+Got error
+Gpu
+Gradient Aggregation
+Gradient Computation
+Gradient averaging
+Gradient checking
+Gradient normalization
+Gradient optimization
+Gradient tapes
+Gradle
+Gram training
+Graph Visualization
+Graph level
+Graphviz
+GravesLSTM layer
+Grayscale
+Greff
+GridRNN
+Group Normalization
+Group tensors
+Grt
+Gumbel
+HDF5
+HDF5 format
+HDFS
+HLO
+HTK
+HW
+HWC
+Hadamard
+Hadoop
+Hamming distance
+Hamming window
+Handling images
+Hann window
+Hard sigmoid
+Hardtanh
+Hasim
+Hermite
+Hermitian matrix
+Hermitian spectrum
+Hessian matrices
+Hessian matrix
+Hidden Layers
+Hidden layers
+Hidden output
+Higher ranks
+Highest memory
+Hochreiter
+Huber Loss
+Huber loss
+Hurwitz
+Hyperparameter
+Hyperparameters
+ICML
+IDCT
+IDFT
+IGDN
+INT16
+INT32
+INT8
+IOT
+Identification System
+Identification layer
+Identity matrix
+Image Adjustments
+Image Classification
+Image Classifier
+Image Compression
+Image Generation
+Image Recognition
+Image Segmentation
+Image Transformation
+Image classification
+Image grid
+Image tensor
+Image warping
+Implementation Model
+Implementation mode
+Importance sampling
+Inception distance
+Inception graph
+Inception model
+Inception networks
+Increments number
+Independent distribution
+Indices matrix
+Infiniband
+InfoQ
+Initial input
+Injective
+Input Exercises
+Input Node
+Input Pre
+Input Sequences
+Input Tensor
+Input activations
+Input arrays
+Input columns
+Input features
+Input function
+Input image
+Input images
+Input layer
+Input mask
+Input matrix
+Input pipeline
+Input points
+Input pre
+Input samples
+Input shape
+Input tensor
+Input tensors
+Input vertices
+Input weight
+Input1
+Input2
+Instance Normalization
+Instance Type
+Instance type
+Integer Tensor
+Integer column
+Integer columns
+Interpolation mode
+Interrupt training
+Invalid device
+Inverse Discrete
+IoT
+Iris Data
+Iris classification
+Iris data
+Iris problem
+JDKs
+JIT
+Jaccard
+Jaccard similarity
+Jacobian
+Jacobian matrix
+Jacq
+Jang
+Jascha
+JavaRDD
+Jcuda
+Jozefowicz
+KL
+KL Divergence
+KL divergence
+KMP
+Kaggle
+Keras Model
+Keras Models
+Keras activation
+Keras constraints
+Keras function
+Keras guide
+Keras layer
+Keras layers
+Keras model
+Keras models
+Keras session
+Keras tensor
+Keras tensors
+Keras variable
+Keras version
+Kernel Methods
+Kingma
+Korrine
+Kotlin
+Kronecker product
+Kryo
+Kth
+Kullback
+Kumaraswamy
+Kumaraswamy distribution
+L1
+L1 Loss
+L1 loss
+L1 norm
+L2
+L2 Loss
+L2 loss
+L2 norm
+LARS
+LBFGS
+LFW
+LLVM
+LMDB
+LRN
+LSH
+LSTM
+LSTM cell
+LSTM model
+LSTMs
+LTS
+Label data
+Labels Tensor
+Labels shape
+Lagrange multipliers
+Lambda layer
+Language Modeling
+Language Models
+Language modeling
+Lapack
+Laplace distributed
+Laplace distribution
+Laplace distributions
+Laplacian level
+Laplacian pyramid
+Latent Semantic
+Layer Activations
+Layer Normalization
+Layer Parameters
+Layer Types
+Layer name
+Layer normalization
+Learnable Parameters
+Learning Algorithm
+Learning Rate
+Learning Rates
+Learning Representations
+Learning example
+Learning phase
+Learning rate
+Least Squares
+Least squares
+Level1
+Level2
+Levenshtein distance
+Linear Algebra
+Linear Models
+Linear Operator
+Linear Regression
+Linear algebra
+Linear function
+Linear functions
+Linear indices
+Linear layer
+Linear layers
+Linear linear
+Linear model
+Linear module
+Linear regression
+Linear stack
+Linear view
+Linear views
+List length
+List values
+Load Training
+Load distribution
+Load graph
+Load model
+Load multiple
+Load tensor
+Loading Model
+Loading Models
+Loading Networks
+Loading data
+Local Layers
+Local transform
+Location parameter
+Log entropy
+Log probabilities
+Log probability
+Logistic Distribution
+Logistic Regression
+Logistic distribution
+Logistic distributions
+Logistic regression
+Long - Short Term Memory
+Long column
+Long columns
+Loop Nest
+Loss Function
+Loss Functions
+Loss computation
+Loss function
+Loss functions
+Loss scale
+Loss tensor
+Lpalce distribution
+Luong
+Luong attention
+MAE
+MAF
+MC2
+MCC
+MDP
+MFCC
+MFCCs
+MIN
+MIN value
+MKL
+MKV
+ML algorithms
+ML model
+ML models
+MLN
+MLP
+MNIST
+MNIST data
+MNIST model
+MPI
+MSE
+MTGP
+Machine Learning
+Machine Translation
+Machine learning
+Maddison
+Mahalanobis distance
+Main evaluation
+Manhattan distance
+Manual device
+MapDB
+Markdown
+Markov Chains
+Mask shape
+Master node
+Mathematical Society
+Mathematical operation
+Matlab
+Matrix Factorization
+Matrix Multiplication
+Matrix multiplication
+Matrix multiply
+Matrix product
+Matrix property
+Matrix transpose
+Max Pooling
+Max Pumperla
+Max number
+Max operation
+Max pooling
+Maximum function
+Maximum layer
+Maximum sentence
+Mean Absolute
+Mean Absolute Error
+Mean Squared
+Mean Squared Error
+Mean absolute error
+Mean squared error
+Means clustering
+Merge layer
+Merging Tensor
+Mesh Mode
+Min operation
+Min value
+Mini batch
+Minimum function
+Minimum layer
+Minimum learning
+Minimum resolution
+Mixed Precision
+Mixture Density
+Mixture distribution
+Mnist data
+Mnist model
+Mnist network
+Model Deployment
+Model Files
+Model Function
+Model Inputs
+Model Parameters
+Model Performance
+Model Persistence
+Model Results
+Model Score
+Model Trained
+Model Training
+Model Work
+Model definition
+Model evaluation
+Model function
+Model inputs
+Model output
+Model prediction
+Model quality
+Model saved
+Model state
+Model training
+Models built
+Modern Normalizing
+Module Parameters
+Momentum value
+Monte Carlo
+Multi part
+Multiclass
+Multidimensional indices
+Multilabel
+Multinomial distribution
+Multiple GPU
+Multiple Inputs
+Multiple Layers
+Multiple inputs
+Multiple outputs
+Multiple sequence
+Multiplies matrix
+Multiply layer
+Multiply matrix
+Multiprocessing error
+Multiscale Computers
+Multivariate Normal
+Mx1x2
+N1
+NAS
+NAS cell
+NCCL
+NCDHW
+NCE
+NCHW
+NCW
+NDHWC
+NHWC
+NLL
+NLP
+NLP models
+NLTK
+NN
+NPE
+NVCC
+NVP
+NWC
+Nadam
+Nal
+Native operation
+Negative Binomial
+Negative Log
+Negative Sampling
+Negative log
+Negative parameters
+Negative slope
+Nested structure
+Nesterov
+Net model
+Network Architectures
+Network Latency
+Network Learning
+Network Training
+Network outputs
+Networks Tutorial
+Neural Architecture Search
+Neural Computation
+Neural Net
+Neural Network
+Neural Networks
+Neural Transfer
+Neural net
+Neural network
+Neural networks
+Node node
+Noise Layers
+Noise Ratio
+Non negative
+None elements
+None result
+None shape
+Normal batch
+Normal distribution
+Normal distributions
+Normalization Layers
+Normalization function
+Normalization layers
+Normalized Tensor
+Normalizing data
+Numeric Tensor
+Numeric threshold
+Numerical gradient
+Numerical optimization
+Numpy
+Nvidia
+Nx1
+Nyquist frequency
+OMP
+ONNX
+OOM
+OOV
+Objective Functions
+Objective function
+One tensor
+Online Learning
+Oord
+Op
+OpenBLAS
+OpenCV
+OpenMP
+OpenMPI
+OpenNLP
+Operating Characteristic
+Operation copy
+Operation type
+Operations Normalization
+Optimization Algorithm
+Optimization algorithm
+Optimizer
+Optimizers
+Optional Tensor
+Optional Variable
+Optional center
+Optional constraint
+Optional count
+Optional device
+Optional filter
+Optional graph
+Optional inverse
+Optional list
+Optional message
+Optional name
+Optional padding
+Optional scope
+Optional shape
+Optional tensor
+Optional transform
+Optional tuple
+Optional variable
+Orthogonal distribution
+Outer product
+Output Layer
+Output Layers
+Output Shape
+Output Tensor
+Output array
+Output arrays
+Output layer
+Output layers
+Output lists
+Output logs
+Output shape
+Output strings
+Output tensor
+Outputs true
+Overfitting
+PCA
+PCIe
+PDE
+PEP8
+PMF
+POJO
+PR curve
+PRED
+PRNGs
+PReLU
+PSNR
+Padded image
+Padding layers
+Pairwise
+Parallel Training
+Parallel arrays
+Parameter Averaging
+Parameter Ratio
+Parameter Server
+Parameter Spaces
+Parameter servers
+Parametrized
+Pareto distribution
+Participation Counts
+Partitioner
+Partitions data
+Passthrough
+Pathwise
+Peak Signal
+Pearson Correlation
+Pearson Correlation Coefficient
+Pearson correlation coefficient
+Penrose inverse
+Perceptron
+Perceptrons
+Perform evaluation
+Performance Models
+Piecewise
+Plotting results
+Plz
+Poisson
+Poisson distribution
+Polynomial decay
+Pooling Layer
+Pooling Layers
+Pooling functions
+Pooling layer
+Pooling layers
+Pooling ratio
+Pooling2D
+Popular models
+Post step
+Predicted values
+Predictive models
+Prefetch
+Prefetching
+Preloaded data
+Premade
+Prepare Data
+Prepare data
+Prepare sample
+Preprocess
+Preprocessed
+Preprocessing
+Pretraining
+Print gradients
+Probability Mass
+Probability code
+Probability coding
+Probability density
+Probability distributions
+Probs
+Processed data
+Processing gradients
+Processing inputs
+Profile model
+Proguard
+Proximal Stochastic
+Py3
+Pytorch
+QR
+QR decomposition
+Quantization interval
+Quantized Distribution
+Quickstart
+RBF
+RBMs
+RDD
+RDDs
+RDMA
+RELU
+RELU6
+RF parameters
+RFFM
+RFFT
+RL
+RMS
+RMSE
+RNN
+RNN cell
+RNNs
+ROC
+ROC Curve
+ROC calculation
+ROC curve
+ROC curves
+RPCs
+RRELU
+RReLU
+RSE
+Random Field
+Random Fourier
+Random Search
+Random Seed
+Random Tensors
+Random array
+Random methods
+Random normal
+Random sampling
+Random seed
+Random sequence
+Randomization seed
+Randomly sample
+ReLU
+Real Images
+Real data
+Real images
+RealNVP
+Recall curve
+Recall curves
+Recall rate
+Recht
+Rectified Linear
+Rectified Linear Unit
+Rectified Linear Units
+Rectified linear unit
+Rectified linear units
+Recurrent Layers
+Recurrent Network
+Recurrent Neural Networks
+Recurrent Unit
+Recurrent computations
+Recurrent dropout
+Recurrent instance
+Recurrent layers
+Recurrent neural networks
+Redmon
+Reduce function
+Reduce learning
+Regexp
+Regression Data
+Regression Examples
+Regressor
+Regularizer
+Regularizers
+Reinforcement Learning
+Relative tolerance
+Reliability diagram
+Relu
+Remap
+Removes dimensions
+Removes name
+Replicated training
+Representation Learning
+Required image
+Resample
+Resampling
+Rescaled image
+Reshaping distribution
+Residual plot
+Restart training
+Restarting training
+Restore graph
+Restored model
+Reverse division
+Reverse subtraction
+Riba
+Riemann sum
+Riemann summation
+Rnn
+Roadmap
+Root folder
+Root value
+Rotated image
+Row vector
+Rprop
+Run Evaluation
+Run Multiple
+Run Training
+Run batch
+Run images
+Run inference
+Run training
+Running Estimators
+SBT
+SELU
+SGD
+SGDR
+SGDW
+SIRDS
+SNE
+SQSS
+SRU
+SRU cell
+SSD
+SSIM
+STFT
+STL
+STN
+SUM
+SVD
+SVDF
+SVHN
+SVI
+SVM
+SVMs
+Sample Adversarial
+Sample shape
+Samples elements
+Sampling Algorithms
+Save distribution
+Scala
+Scalability ratio
+Scalar SUM
+Scalar Tensor
+Scalar Value
+Scalar float
+Scalar inputs
+Scalar integer
+Scalar multiplication
+Scalar subtraction
+Scalar sum
+Scalar tensor
+Scalar value
+Scale Transforms
+Scale parameter
+Scaling factor
+Scope name
+Score function
+Script function
+SeLU
+Sender rank
+Separable convolution
+Seq2seq
+Sequence Classification
+Sequence Learning
+Sequence Models
+Sequence Network
+Sequence classification
+Sequence features
+Sequence index
+Sequence layer
+Sequence learning
+Sequence lengths
+Sequence models
+Sequential Model
+Sequential model
+Sequential models
+Sequential module
+Shannon Entropy
+Shannon entropy
+Shape functions
+Shape inference
+Shape manipulation
+Shape tuple
+Shape vector
+Shard function
+Shared name
+Sigmoid activation
+Sigmoid loss
+Signal guide
+Simple Model
+Simple function
+Simple point
+SimpleCNN
+SimpleRNN
+Single Layer
+Single example
+Single step
+Single training
+Singular Value
+Singular values
+Sinh
+Slice function
+Small gradients
+Small model
+Snedecor distribution
+Sobel filter
+Softmax
+Softmax2d
+Softmin
+Softplus
+Softsign
+Source rank
+Spark cluster
+Spark distribution
+Spark function
+Spark training
+Sparse Tensor
+Sparse features
+Sparse functions
+Sparse gradients
+Sparse layers
+Sparse tensors
+Spatial Transformer
+Spatial convolution
+Spectral operators
+Spectrogram data
+Split data
+Split elements
+Split sequences
+Square function
+Square matrices
+Squared Error
+Squares loss
+Stabilization function
+Stackoverflow
+Standard deviation
+Standard memory
+StarGAN
+Started guide
+State dropout
+Static Graphs
+Static shapes
+Step function
+Stereogram
+Stochastic Gradient Descent
+Stochastic Neighbor
+Stochastic Optimization
+Stochastic dual
+Stochastic gradient
+Stop conditions
+Stop training
+Stop value
+Stops learning
+StudentT
+Style algorithm
+Subtract layer
+Summary Tensor
+Supervised Learning
+TANH
+TBPTT
+TBPTT length
+TDR
+TF
+TFDBG
+TFGAN
+TFT
+TFTS
+TFX
+THNN
+THP
+TOCO
+TODO
+TPU
+TPU Tensor
+TPU cluster
+TPU device
+TPU devices
+TPU distribution
+TPU evaluation
+TPU job
+TPU model
+TPU name
+TPU system
+TPU topology
+TPU training
+TPUs
+TRAIN
+TRAIN mode
+TSNE
+TSV
+Tailweight parameter
+Tanh
+Task Learning
+Task Network
+Temporal convolution
+Tensor Along
+Tensor Methods
+Tensor Processing
+Tensor Shapes
+Tensor Values
+Tensor along
+Tensor arguments
+Tensor arrays
+Tensor computation
+Tensor computing
+Tensor contraction
+Tensor data
+Tensor denominator
+Tensor diagonal
+Tensor division
+Tensor format
+Tensor image
+Tensor index
+Tensor input
+Tensor inputs
+Tensor manipulation
+Tensor matrix
+Tensor methods
+Tensor name
+Tensor numerator
+Tensor operations
+Tensor operator
+Tensor output
+Tensor reference
+Tensor result
+Tensor shapes
+Tensor type
+Tensor types
+Tensor value
+Tensor values
+Tensor vector
+TensorRT
+Tensordot
+Tensorflow
+Text Classification
+Text classification
+Tf
+Theano
+Threshold location
+Thx
+Time Series
+Time column
+Time columns
+Time series
+Time step
+Toe state
+Toe status
+TopK
+Total loss
+Total sum
+Total variance
+Train generator
+Trainable
+Trained Model
+Trained network
+Training Data
+Training Epochs
+Training Guides
+Training Training
+Training continues
+Training guide
+Training iterations
+Training loop
+Training loss
+Training model
+Training models
+Training parameters
+Training processes
+Training samples
+Training statistics
+Training workflows
+Trajectory Clustering
+Transfer Learning
+Transfer learning
+Transform diagonal
+Transforms vectors
+TriL
+Triangular matrix
+True Model
+True labels
+True negatives
+True positives
+Truncated Normal Distribution
+U32
+UGRNN
+UIMA
+UINT8
+UNK
+URDF
+Ubuntu
+Udacity
+Uniform distribution
+Uniform distributions
+Unstack
+Update layer
+Update rule
+Updates Histogram
+Upper boundary
+Upper triangle
+Upsample
+Upsampling
+Upsampling1D
+Upsampling2D
+Upsampling3D
+V1/V2
+VAE
+VBN
+VCTK
+VDM
+VGG
+VGG11
+VGG16
+VGG19
+VSMs
+Validate dimensions
+Validated type
+Validation accuracy
+Value storage
+Values vector
+Variable Resolution
+Variable inputs
+Variable node
+Variable nodes
+Variable tensors
+Variable vector
+Variant tensor
+Variational
+Various function
+Vector Formats
+Vector Machines
+Vector Representations
+Vector distributions
+Vector representations
+Vectorization
+Vectorized
+Virginica
+Vision functions
+Vision layers
+Visual Programming
+Visual Studio
+VisualVM
+Visualizing Learning
+Viterbi
+Viz
+WALS
+WRT
+Wasserstein distance
+Weight Decay
+Weight Normalization
+Weight decay
+Weight matrix
+Weight normalization
+Weight parameter
+Weight updates
+Weighted loss
+Weighted mean
+Weighted sum
+Wishart distribution
+Wishart distributions
+Woodbury matrix
+Word2vec
+Wrapped inputs
+XLA
+Xcode
+Xms
+Xmx
+YUV
+Zero gradients
+Zero padding
+Zoph
+abs value
+absolute accuracy
+absolute difference
+absolute error
+absolute mean
+absolute positions
+absolute scope
+absolute tolerance
+absolute weights
+academic literature
+accelerated computing
+access model
+accidental seed
+accordion element
+account statistics
+accumulated gradients
+accumulation operation
+accuracy calculation
+accuracy evaluation
+accuracy function
+accuracy monitoring
+accuracy score
+accuracy statistics
+accurate models
+acos
+acosh
+acquires shape
+action list
+activated feature
+activation array
+activation equal
+activation frequency
+activation function
+activation functions
+activation gradients
+activation matrix
+activation value
+activation values
+activations array
+actor gradient
+actual batch
+actual computation
+actual device
+actual label
+actual lengths
+actual machine
+actual training
+adagrad
+adaptive gradients
+adaptive step
+adb
+addbmm
+addcdiv
+addcmul
+adder function
+additive factor
+addmm
+addmv
+adi
+adjacent pooling
+adjoint
+adjoints
+adjustable dimensions
+adjusted image
+adjusted tensor
+adjusting models
+adpative step
+advanced indexing
+advanced model
+advanced models
+advanced operations
+adversarial classification
+adversarial loss
+adversarial training
+aeron channel
+aeron channels
+aeron context
+affine layers
+affine map
+affine matrices
+affine parameters
+aggregate gradients
+aggregate values
+aggregated loss
+aggregation process
+aggressive type
+aka linear
+aka scalar
+alarm rate
+alexnet
+algorithmic core
+algorithmic part
+alias input
+alignment mode
+alloc
+allocation mode
+allocation model
+allocation operation
+allocation point
+allocation unit
+allreduce algorithm
+alpha dropout
+alternating convolutions
+amsgrad
+analysis engine
+analysis sample
+analytic knowledge
+analytical gradients
+anchor images
+angle value
+anomalous trajectories
+anomaly detection
+another Tensor
+another tensor
+anton
+applied computation
+applied element
+applies dropout
+applies element
+applies normalization
+apply activation
+apply decay
+apply dropout
+apply normalization
+applying inverse
+applying layer
+approximate distribution
+approximate duality
+approximation approach
+approximation term
+arange
+arbitrary classifier
+arbitrary dimension
+arbitrary dimensions
+arbitrary labels
+arbitrary list
+arbitrary matrix
+arbitrary name
+arbitrary tensors
+area interpolation
+argmax
+argmin
+argsort
+argument diagonal
+argument shape
+argument tensors
+array activations
+array dimension
+array dimensions
+array format
+array shape
+array shapes
+arrow Tensor
+arrow columns
+arrow type
+art model
+artificial inputs
+artificial neuron
+asd
+asinh
+aspect ratios
+assigned cluster
+assignment operation
+assignment values
+associated list
+associated name
+associated step
+assuming matrix
+asynch
+asynchronous GPU
+asynchronous training
+atan
+atan2
+atanh
+atol
+atrous convolution
+attention cell
+attention decoder
+attention distribution
+attention distributions
+attention layer
+attention mechanism
+attention mechanisms
+attention module
+attention outputs
+attention vector
+attention vectors
+attention weights
+attention window
+auc value
+autodiff
+autoencoder
+autoencoders
+autogenerated
+autograd
+automated number
+automatic dependencies
+automatic differentiation
+automatic input
+automatic join
+automatic kernel
+automatic mechanism
+automatic name
+automatic procedure
+automatic rank
+automatic termination
+autoregressive
+autoregressive flow
+autoregressive model
+autotuning
+auxiliary entropy
+auxiliary name
+auxiliary nodes
+average AUC
+average discriminator
+average error
+average frequency
+average gradient
+average loss
+average output
+average pooling
+average popularity
+average precision
+average rate
+average recall
+average score
+average sentence
+average statistics
+average time
+average worker
+averaged dimensions
+averaged false
+averaged parameters
+averaging calculation
+averaging frequency
+averaging parameters
+averaging training
+avg
+avoids name
+axis argument
+axis dimension
+axis dimensions
+axis number
+back propagation
+backend
+backends
+background process
+backprop
+backpropagation
+backticks
+backward Function
+backward cell
+backward computation
+backward correlation
+backward function
+backward graph
+backward networks
+backward operation
+backward process
+backwards function
+bad behavior
+bad data
+baddbmm
+band matrix
+base distribution
+based False
+based checkpoint
+based dimensions
+based function
+based models
+basedir
+baseline data
+baseline model
+baseline steps
+baseline value
+basic training
+basic understanding
+basically learning
+batch Tensor
+batch algorithm
+batch axis
+batch come
+batch dimension
+batch dimensions
+batch distribution
+batch element
+batch elements
+batch entries
+batch entry
+batch index
+batch length
+batch matrices
+batch matrix
+batch mean
+batch member
+batch message
+batch norm
+batch normalization
+batch normalizations
+batch normalized
+batch norms
+batch operation
+batch prediction
+batch queue
+batch rank
+batch sample
+batch shape
+batch shapes
+batch slowly
+batch state
+batch statistics
+batch tensor
+batch transformation
+batch transformations
+batch value
+batch values
+batch variable
+batch variance
+batch vector
+batch version
+batched diagonal
+batched inference
+batched input
+batched inputs
+batched inverse
+batched matrix
+batched sequences
+batched tensors
+batches parameter
+batching transformation
+beam search
+behavior Dropout
+behind padding
+behind tensor
+belief network
+bernoulli distribution
+bernoulli trial
+best model
+best models
+best path
+best score
+beta Tensor
+beta distribution
+beta function
+beta integral
+beta parameter
+beta parameters
+beta value
+beta weight
+beta1
+better results
+bfloat16
+bias array
+bias centering
+bias correction
+bias graphs
+bias matrices
+bias parameter
+bias parameters
+bias shape
+bias tensor
+bias tensors
+bias term
+bias variable
+bias vector
+bias weights
+biases variable
+bicubic
+bid value
+big data
+big feature
+big number
+bigtable
+bijective
+bilinear interpolation
+bilinear transformation
+bin values
+binary case
+binary classification
+binary classifier
+binary classifiers
+binary dropout
+binary labels
+binary matrix
+binary metrics
+binary potentials
+binary prediction
+binary scores
+binary state
+binary tree
+binary vector
+bincount
+binned values
+binomial distribution
+bit index
+black image
+blank labels
+blas
+blocking function
+bmm
+bool
+bools
+border values
+bottom pixel
+bound constraints
+bound index
+bound indices
+bound one
+bound values
+boundary detection
+bounding boxes
+bounds positions
+box integration
+boxes tensor
+bptt
+broadcast dimension
+broadcast dimensions
+broadcast shape
+broadcast step
+broadcastable dimension
+broadcasted dimensions
+broadcasted shape
+broadcasting dimension
+broadcasting dimensions
+broadcasting matrix
+btrifact
+btriunpack
+bucket result
+bucket values
+buil
+build models
+build system
+building conditions
+building data
+building graphs
+building input
+building layers
+building model
+building process
+built batch
+caching device
+calculate gradients
+calculate loss
+calculate sum
+calculated gradients
+calculated mean
+calculated shape
+calculating gradients
+calculating loss
+calculating top
+calculation early
+calculation errors
+call matrix
+call operator
+called hidden
+calling distribution
+calling list
+candidate cell
+candidate generator
+canonical ordering
+capacitance matrix
+capacity elements
+capture state
+cart left
+cast operation
+cat image
+categorical column
+categorical columns
+categorical distribution
+categorical feature
+categorical features
+categorical identity
+categorical input
+categorical representation
+categorical terms
+categorical value
+categorical values
+categorical vocabulary
+cauchy
+ccache
+ceiling function
+celeba directory
+cell clipping
+cell function
+cell inputs
+cell state
+cell type
+cell types
+celu
+center loss
+centerX
+central crop
+central goal
+central region
+central result
+central unit
+certain shape
+certain statistics
+cflags
+chain rule
+channel dimension
+channel image
+channel instructions
+channel representation
+channel values
+channels dimension
+channels dimensions
+character frequency
+chatbot
+chatbot model
+checkpoint data
+checkpoint directory
+checkpoint format
+checkpoint name
+checkpoint number
+checkpoint path
+checkpoint state
+checkpoint value
+checkpointing
+chief worker
+cholesky
+cholesterol level
+cifar10
+circulant
+circulant matrix
+circular mode
+circular padding
+clamping range
+classes Tensor
+classification difference
+classification error
+classification evaluation
+classification head
+classification loss
+classification matrix
+classification models
+classification network
+classification one
+classification performance
+classification prediction
+classification problem
+classification problems
+classification report
+classification signature
+classification statistics
+classification task
+classification tasks
+classifier Estimators
+classifier distance
+classifier score
+classifier trained
+classifier tutorial
+classnames
+clip norm
+clip value
+clipped Tensor
+clipped gradient
+clipping function
+clipping operation
+clipping ratio
+clipping value
+closest bound
+closest cluster
+closest integer
+cloud storage
+cluster Nodes
+cluster center
+cluster centers
+cluster indices
+cluster memory
+cluster modes
+cluster node
+cluster nodes
+clustering algorithm
+clustering loss
+cmake
+cmdline
+cnn
+coarse parameter
+coded vectors
+codomain
+coefficients moving
+coeffs
+col2im
+colab
+collapse dimensions
+collect statistics
+collective function
+collective operation
+color channels
+color saturation
+colorbar
+column Keys
+column analysis
+column axis
+column batches
+column conditions
+column count
+column dimension
+column embedding
+column equal
+column factor
+column factors
+column indices
+column reduction
+column separator
+column sweep
+column transform
+column vector
+column vectors
+column vocab
+column1
+column2
+columns tensor
+columns value
+combination feature
+combinatorial coefficient
+combined shape
+combined tensor
+combined value
+come vector
+coming gradient
+common shape
+communication patterns
+comp graph
+comparison array
+compat
+compatible shape
+compilation process
+complete index
+complete model
+complex Tensor
+complex architecture
+complex conjugation
+complex frequency
+complex graphs
+complex input
+complex intrinsic
+complex methods
+complex model
+complex modulus
+complex networks
+complex pipeline
+complex processing
+complex relationships
+complex sequence
+complex transformation
+complex transformations
+complex vector
+complex128
+complicated network
+complicated node
+component tensor
+componentwise
+composable
+composed shape
+composing layers
+composite distribution
+compound conditions
+compound distribution
+compression statistics
+computation device
+computation differed
+computation graph
+computation graphs
+computation history
+computation layer
+computation layers
+computation leads
+computation nodes
+computation replicas
+computation results
+computation shape
+computation time
+computational cost
+computational efficiency
+computational graph
+computational graphs
+computational power
+computational process
+computational semantics
+computational time
+computations involving
+compute activations
+compute capabilities
+compute cluster
+compute correlation
+compute derivatives
+compute devices
+compute diagonal
+compute distribution
+compute gradient
+compute gradients
+compute inputs
+compute log
+compute mean
+compute mode
+compute moving
+compute nodes
+compute norms
+compute output
+compute predicted
+compute predictions
+compute shift
+compute time
+compute vector
+compute weighted
+computed Variable
+computed gradient
+computed gradients
+computed index
+computed loss
+computed mean
+computes gradients
+computes mean
+computing architecture
+computing batches
+computing entropy
+computing gradients
+computing iterations
+computing machines
+computing mean
+computing multilinear
+concat
+concatenated Tensor
+concatenated result
+concentration parameters
+concentration values
+conceptual level
+concrete examples
+concrete shape
+concrete terms
+concurrent action
+cond
+conda
+condition tensor
+conditional accumulator
+conditional distribution
+conditional reduction
+conditional replacement
+conditional statement
+confidence value
+configs
+configuraiton
+configured probability
+confusion Matrix
+confusion matrix
+conjugate symmetry
+connected Network
+connected components
+connected layer
+connected layers
+connected network
+connected tensor
+connection structure
+connection weights
+consistency loss
+constant Tensor
+constant beta
+constant development
+constant distribution
+constant length
+constant memory
+constant module
+constant multiplier
+constant rank
+constant result
+constant scalar
+constant tensor
+constant term
+constant vector
+constrained optimization
+constrained problem
+constrained update
+constraint function
+constraint functions
+constructable
+constructing data
+construtor
+content distance
+context window
+contiguous tensor
+continue training
+continuing training
+continuous distributions
+continuous feature
+continuous features
+continuous function
+continuous parameter
+continuous parameters
+continuous signal
+continuous training
+continuous value
+continuous vector
+continuous vectors
+contracted Tensor
+contracted dimensions
+contracting dimension
+contracting dimensions
+contrastive loss
+contrib
+control dependencies
+control dependency
+control edges
+control inputs
+control outputs
+control variable
+controls behavior
+controls number
+conv
+conv layers
+conv1
+conv1d
+conv2
+conv2d
+conv3d
+convergence problems
+conversion transform
+convert Tensor
+convert tensor
+convex combination
+convolution algorithms
+convolution arithmetic
+convolution dimensionality
+convolution implementation
+convolution kernels
+convolution layer
+convolution layers
+convolution mode
+convolution operation
+convolution operations
+convolution operator
+convolution parameters
+convolution rows
+convolution weight
+convolution window
+convolution2d
+convolutional
+convolutional layers
+convolutional neural network
+convolutional neural networks
+cooccurrence
+cooccurrences list
+coordinate value
+copies data
+copy distribution
+copy elements
+copying data
+core batch
+core part
+cores value
+correct device
+correct dropout
+correct format
+correct gradients
+correct name
+correct predictions
+correct rank
+correct shape
+correct weights
+correlation average
+correlation coefficient
+correlation computation
+correlation score
+corresponding Tensor
+corresponding bound
+corresponding dimension
+corresponding dimensions
+corresponding evaluation
+corresponding examples
+corresponding shapes
+corresponding tensor
+corresponding tensors
+corrupted data
+corrupted state
+cosine distance
+cosine part
+cosine similarity
+cost array
+cost function
+count samples
+count sequence
+counter epochs
+counter function
+counter parallel
+counter variable
+counting statistics
+counts steps
+coupling layer
+covariance matrices
+covariance matrix
+covariance type
+cpp
+cpu cores
+cpu memory
+critical problem
+critical step
+cron
+crop window
+cropped image
+cropped tensor
+cropping dimension
+cropping layer
+cross entropy
+cross entropy loss
+crossed column
+crossed columns
+crossed feature
+cs231n
+cuBLAS
+cuDNN
+cube function
+cublas
+cuda
+cudnn
+cumprod
+cumsum
+cumulative computation
+cumulative distribution
+cumulative probability
+cumulative product
+cumulative sum
+curated list
+curve type
+curve values
+custom layer
+custom op
+customizable number
+d1
+dK
+dW
+dask
+data Tensors
+data Training
+data access
+data anyway
+data augmentation
+data axbc
+data compatibility
+data copy
+data count
+data dependencies
+data dependency
+data dependent
+data directories
+data distribution
+data examples
+data exploration
+data fetcher
+data frame
+data generator
+data history
+data indefinitely
+data later
+data layouts
+data linearly
+data loading
+data manageable
+data meaning
+data module
+data moved
+data movement
+data normalization
+data normalizers
+data outputs
+data parallel
+data parallelism
+data pipeline
+data pipelines
+data pointers
+data processing
+data quickly
+data region
+data retention
+data retrieved
+data samples
+data science
+data scientists
+data sequentially
+data set
+data sparsity
+data splits
+data tensor
+data tracking
+data transform
+data transformations
+data transmission
+data vectors
+data version
+data versions
+data yielded
+database type
+dataflow
+dataflow graph
+dataframe
+datapoint
+dataset
+datasets
+debug tensor
+decay computation
+decay exponentially
+decay factor
+decay function
+decay value
+decision process
+declaring tensor
+decoder layer
+decoder layers
+decoder name
+decoding iterations
+decoding step
+deconvolution
+decreasing frequency
+decreasing length
+dedicated GPU
+deep NLP
+deep learning
+deep model
+deep models
+deep net
+deep network
+deep networks
+deep neural network
+deep neural networks
+deeper layers
+definitive list
+defs
+defun
+degenerate dimension
+degenerate dimensions
+degree node
+degree nodes
+delayed weights
+deletion operation
+delimited data
+delta extraction
+demuxer
+denoising
+dense Matrix
+dense Tensor
+dense Tensors
+dense approach
+dense behavior
+dense column
+dense columns
+dense component
+dense elements
+dense embedding
+dense feature
+dense features
+dense flow
+dense input
+dense labels
+dense layer
+dense layers
+dense level
+dense matrix
+dense multiplication
+dense one
+dense option
+dense output
+dense representation
+dense results
+dense shape
+dense tensor
+dense tensors
+dense type
+dense vector
+dense vectors
+densenet121
+density function
+density ratio
+density unit
+dependency graph
+dependent values
+deploy model
+deploy models
+deps
+depth dimension
+depth dimensions
+depth operation
+depth values
+depthwise
+dequeue
+desactivate
+descending list
+described tensor
+designated device
+desired dimensions
+desired label
+desired normalization
+desired seed
+destination graph
+det
+detailed shape
+detection model
+detection threshold
+determine number
+deterministic evaluation
+deterministic function
+deterministic order
+deterministic ordering
+deterministically
+dev1
+device capability
+device data
+device device
+device field
+device function
+device index
+device memory
+device names
+device pair
+device path
+device scope
+device side
+device spec
+device strings
+device systems
+device tag
+device tensor
+device type
+device value
+device values
+df
+df1
+df2
+diag
+diagflat
+diagonal covariance
+diagonal elements
+diagonal matrices
+diagonal matrix
+diagonal part
+diagonal tensor
+diagonal term
+diagonal vector
+dialog models
+diffeomorphic
+difference operation
+difference quotient
+difference step
+differential equation
+differential equations
+differential function
+differential functions
+differentiated function
+digamma
+dilated convolution
+dilated convolutions
+dilation arguments
+dilation factor
+dilation rate
+dilation rates
+dim Tensor
+dim value
+dim1
+dim2
+dimenional array
+dimension length
+dimension number
+dimension tensor
+dimension value
+dimensional Normal
+dimensional Tensor
+dimensional Tensors
+dimensional batch
+dimensional case
+dimensional data
+dimensional distribution
+dimensional feature
+dimensional input
+dimensional locations
+dimensional loss
+dimensional matrices
+dimensional mismatch
+dimensional outputs
+dimensional padding
+dimensional projections
+dimensional shapes
+dimensional space
+dimensional tensor
+dimensional tensors
+dimth dimension
+direct array
+directed graph
+disabling gradient
+discrete Fourier transform
+discrete distribution
+discrete input
+discrete numerical
+discrete random
+discrete staircase
+discrete states
+discrete value
+discretization count
+discretization error
+discretized
+discriminator function
+discriminator loss
+discriminator model
+discriminator steps
+disk location
+displaying data
+distance bound
+distance loss
+distance measure
+distance metric
+distance weights
+distinct models
+distortion power
+distributed category
+distributed communication
+distributed computation
+distributed confidence
+distributed data
+distributed devices
+distributed environment
+distributed evaluation
+distributed execution
+distributed function
+distributed functions
+distributed group
+distributed groups
+distributed inference
+distributed inputs
+distributed job
+distributed manner
+distributed master
+distributed mode
+distributed model
+distributed module
+distributed network
+distributed numbers
+distributed one
+distributed parameters
+distributed performance
+distributed points
+distributed process
+distributed processes
+distributed processing
+distributed sessions
+distributed storage
+distributed synchronization
+distributed tasks
+distributed trainer
+distributed training
+distributed variable
+distribution functions
+distribution learned
+distribution models
+distribution parameter
+distribution parameters
+distribution root
+distribution type
+distribution types
+distribution vectors
+divergence Loss
+divergence loss
+division operation
+divison
+dmax
+dnn
+doc count
+domain prediction
+domain theorem
+dominant part
+dot format
+dot product
+double Tensor
+double column
+double comparisons
+double matrices
+double scalar
+double tensor
+double tensors
+double vector
+double weights
+doubling algorithm
+downsample
+downsampling
+downscaling
+dqn
+drawn samples
+drop control
+drop probability
+dropout layer
+dropout layers
+dropout probabilities
+dropout probability
+dropout rate
+dropout technique
+dropout value
+dropout2d
+dtype
+dtypes
+dummy data
+dummy dimension
+dummy tensors
+dump data
+dump directory
+dump root
+dumped tensor
+duplicate data
+duplicate models
+dx1
+dx2
+dy1
+dy2
+dynamic Shape
+dynamic calculation
+dynamic condition
+dynamic decoding
+dynamic graph
+dynamic shape
+dynamic shapes
+dynamicaly
+dz
+eager mode
+early experimentation
+early gradients
+early stopping
+early termination
+edge effect
+edge information
+edge list
+edge number
+edge padding
+edge values
+effecive
+eig
+eigen decomposition
+eigen value
+eigen values
+eigenvectors
+einsum
+either Tensor
+either device
+either steps
+elastic difference
+elementwise
+elems
+ellipsis dimensions
+elu
+embedding column
+embedding columns
+embedding data
+embedding dimension
+embedding dimensions
+embedding layer
+embedding matrix
+embedding parameters
+embedding results
+embedding tensors
+embedding values
+embedding variable
+embedding vector
+embedding vectors
+embedding weights
+embeddings
+empty Tensor
+empty features
+empty rows
+empty tensor
+empty values
+encoded image
+encoded labels
+encoder layer
+encoder layers
+encoder model
+encoder name
+encoding vector
+end product
+end range
+energies tensor
+energy term
+engineering function
+enough rate
+entire layer
+entire matrix
+entire path
+entire sample
+entire tensor
+entire variable
+entropy introduced
+entropy loss
+entropy term
+entropy value
+entry index
+epoch count
+epoch indices
+eps
+epsilon input
+epsilon value
+epsilon values
+equal dimensions
+equal number
+equal rank
+equal results
+equal shape
+equal shapes
+equivalent function
+equivalent integer
+equivalent location
+erf
+erfc
+erfinv
+error batch
+error calculation
+error correction
+error free
+error log
+error normalized
+error points
+error propagation
+error rates
+error score
+error text
+error trying
+estimated values
+estimated variance
+euclidean distance
+evaluate call
+evaluate function
+evaluate model
+evaluation approaches
+evaluation batch
+evaluation call
+evaluation classes
+evaluation data
+evaluation function
+evaluation graph
+evaluation labels
+evaluation loop
+evaluation metrics
+evaluation mode
+evaluation model
+evaluation networks
+evaluation process
+evaluation result
+evaluation results
+evaluation run
+evaluation stages
+evaluation statistics
+evaluation step
+evaluation steps
+evaluation workers
+event dimensions
+event distribution
+event shape
+exact calculation
+exact dimensions
+exact inverse
+exact loss
+exact parameter
+exact process
+example data
+example graph
+example images
+example inputs
+example model
+example number
+example path
+example sequence
+example tensor
+execute operation
+executing training
+execution engine
+execution graph
+execution guide
+execution turned
+exogenous features
+expanded dimensions
+expanded distribution
+expanded shape
+expanding columns
+expected inputs
+expected shape
+expected sum
+exploding gradient
+exploding gradients
+exponential decay
+exponential distribution
+exponential linear
+exponential moving
+external errors
+external list
+external model
+extra dimension
+extra layer
+extra step
+extract data
+f1 score
+f32
+facial recognition
+factor matrix
+fail training
+failed node
+failure rate
+fake batch
+fake data
+fake images
+fake label
+false models
+false negative
+false negatives
+false positive
+false positives
+fast convergence
+fast reply
+fast response
+fast solution
+faster training
+fatal signal
+fault tolerance
+fault tolerant
+fc1
+feature Tensors
+feature array
+feature arrays
+feature column
+feature columns
+feature cross
+feature data
+feature dimension
+feature group
+feature indices
+feature information
+feature list
+feature matrix
+feature type
+feature vector
+feature vectors
+features argument
+features array
+features arrays
+features axis
+features columns
+features dimension
+features vector
+featurized data
+feed values
+feedforward
+feeding inputs
+fetch list
+ffmpeg
+fft
+fid
+field number
+fifth column
+filename1
+filepath
+fill value
+filled array
+filled tensor
+filter Tensor
+filter algorithm
+filter data
+filter dimensions
+filter element
+filter step
+filter tensor
+filter tensors
+filtered sequence
+final accuracy
+final activation
+final batch
+final binary
+final calculation
+final dimension
+final divide
+final entry
+final epoch
+final evaluation
+final gradient
+final layer
+final loss
+final model
+final name
+final network
+final nodes
+final ordering
+final parameters
+final prediction
+final signal
+final state
+final step
+final variable
+final window
+finetuning
+finite amount
+finite difference
+fit function
+fit operation
+fitting data
+five layers
+fixed batch
+fixed dimension
+fixed feature
+fixed graph
+fixed grid
+fixed memory
+fixed order
+fixed rank
+fixed shape
+fixed threshold
+fixed time
+fixed window
+flat array
+flat indices
+flat list
+flat vector
+flattened arrays
+flattened input
+flattened representation
+flattened sequence
+flattened tensor
+flattening order
+flip mode
+flipped image
+float Tensor
+float Tensors
+float beta
+float column
+float model
+float multiplier
+float number
+float numbers
+float scalar
+float tensor
+float tensors
+float types
+float vector
+float weights
+float16
+float32
+floating numbers
+floating type
+floor function
+flow Tensor
+flow boundary
+fmod
+fn
+fnr
+foldl
+foldr
+form matrices
+form one
+forward activations
+forward algorithm
+forward call
+forward domain
+forward examples
+forward function
+forward functions
+forward graph
+forward inference
+forward layer
+forward loop
+forward model
+forward network
+forward networks
+forward operation
+forward step
+forward transformation
+forward variable
+forward variables
+fourth dimensions
+fp16
+fpr
+frac
+frame length
+free functions
+freq
+frequency counting
+frequency intensities
+frequency spectrum
+frequency value
+frequency weight
+frequency weights
+frequent values
+front optimization
+frontend
+froot
+frozen graph
+frozen layer
+frozen layers
+full Indexing
+full batch
+full cross
+full data
+full epoch
+full example
+full features
+full gradient
+full graph
+full grid
+full input
+full loss
+full model
+full rank
+full sequences
+full statistics
+full update
+full variable
+full window
+fully connected
+fully connected layer
+function interface
+functional layer
+functional layers
+functional model
+functional transform
+functor
+fundamental flag
+fundamental type
+fundamental unit
+gRPC
+gain value
+gamma Tensor
+gamma distribution
+gamma function
+gamma parameter
+gamma weight
+garcon
+gate bias
+gate weights
+gated Recurrent Unit
+gated recurrent unit
+gather values
+gaussian distribution
+gaussian functions
+gaussian kernel
+gaussian mixture
+gaussian noise
+gbar
+gdn
+gemm
+general function
+general matrix
+general operation
+general point
+general quantization
+general solution
+generalization performance
+generalized contraction
+generalized eigenvalues
+generalized version
+generate function
+generating data
+generating layer
+generating time
+generative adversarial
+generative chatbot
+generative model
+generative models
+generator input
+generator inputs
+generator loss
+generator output
+generator queue
+generator steps
+generic Tensor
+generic condition
+generic data
+generic distribution
+generic regression
+geoip
+geometric distribution
+geqrf
+ger
+github
+gitter
+global batch
+global flow
+global index
+global list
+global mean
+global norm
+global pooling
+global rank
+global ratio
+global step
+global steps
+glove model
+glu
+gnuplot
+good accuracy
+good approximation
+good examples
+good models
+good prediction
+good results
+good start
+gpu
+gpu device
+gpu memory
+gpu nodes
+gpu support
+gpus
+gradient Methods
+gradient accumulators
+gradient averaging
+gradient behavior
+gradient calculation
+gradient calculations
+gradient checking
+gradient clipping
+gradient comparisons
+gradient computated
+gradient computation
+gradient computed
+gradient descent
+gradient descents
+gradient equal
+gradient error
+gradient flattening
+gradient formula
+gradient function
+gradient implementation
+gradient methods
+gradient noise
+gradient norm
+gradient normalization
+gradient op
+gradient operation
+gradient outputs
+gradient penalty
+gradient square
+gradient squared
+gradient step
+gradient tape
+gradient tapes
+gradient tensor
+gradient tensors
+gradient terms
+gradient update
+gradient updates
+gradient values
+gradient variable
+gradients clipping
+gradients computed
+gradients point
+gradients tensor
+gradients updates
+gradle
+gram Model
+gram matrix
+gram model
+gram product
+graph computation
+graph data
+graph element
+graph elements
+graph function
+graph mode
+graph model
+graph node
+graph nodes
+graph operation
+graph proto
+graph structure
+graph vectors
+gray image
+grayscale
+grayscaled
+great idea
+great learning
+greater length
+grid point
+ground truth
+group normalization
+group path
+groupname
+groups layers
+growing list
+gru cell
+h5py
+hacky
+hadoop
+half line
+half type
+hamming distance
+hand function
+handling training
+hanged process
+hard error
+hard sigmoid
+hardtanh
+hasher name
+hdf5
+hdfs
+headed models
+hermitian
+hidden consists
+hidden dimension
+hidden distribution
+hidden input
+hidden inputs
+hidden layer
+hidden layers
+hidden output
+hidden state
+hidden states
+hidden surface
+hidden unit
+hidden units
+hidden weights
+hierarchical order
+high dimension
+high padding
+high score
+higher Tensor
+higher dimension
+higher memory
+higher rank
+highest frequency
+highest probability
+highest results
+hinge loss
+histogram structure
+historical state
+holdout data
+horizontal array
+horizontal graph
+hot Tensor
+hot columns
+hot encoding
+hot feature
+hot labels
+hot matrix
+hot representation
+hot tensor
+hot vector
+hot vectors
+hour window
+hspmm
+huber loss
+hue channel
+huge gradients
+huge network
+human brain
+human intuition
+human labor
+hundred steps
+hyper parameter
+hyper parameters
+hyperparameter
+hyperparameters
+hyperthreading
+hypothesis sequences
+i1e
+ideal amount
+ideal value
+identical behavior
+identical length
+identical name
+identical rank
+identical state
+identity matrices
+identity matrix
+identity operator
+identity tensor
+identity values
+idx
+ifconfig
+ifft
+im2col
+image Tensor
+image activations
+image batch
+image bounds
+image classification
+image classifier
+image compression
+image domain
+image grid
+image localization
+image mode
+image model
+image projective
+image randomly
+image recognition
+image result
+image results
+image segmentation
+image tensor
+image transformations
+image transforms
+imagenet
+images tensor
+images total
+img1
+img2
+immediate error
+importance sampling
+improved stability
+inbound layer
+inbound layers
+inbound nodes
+incoming weights
+incomplete batch
+inconsistent shapes
+incorrect number
+incorrect shapes
+increasing elements
+increment number
+increment values
+incremental behavior
+increments number
+independent distributions
+independent input
+independent layers
+independent sample
+independent samples
+independent scaling
+index element
+index tensor
+index vector
+indexed values
+indexing operation
+indexing tensors
+indicator column
+indicator columns
+indicator function
+individual GPU
+individual dimension
+individual dimensions
+individual examples
+individual graph
+individual layer
+individual matrix
+induced vector
+inference features
+inference mode
+inference operation
+inference phase
+inference results
+inference step
+inferred shape
+inferred shapes
+inferred vector
+infinity norm
+infs
+initial alignment
+initial attentions
+initial batch
+initial bias
+initial cell
+initial coordination
+initial encoding
+initial entropy
+initial entry
+initial gradient
+initial gradients
+initial hidden
+initial input
+initial iterations
+initial learning
+initial matrix
+initial model
+initial module
+initial network
+initial observation
+initial one
+initial ones
+initial shape
+initial startup
+initial states
+initial step
+initial variance
+initial vector
+initial weight
+initial weights
+initiate training
+inits
+injective
+ink data
+inner dimension
+inner layer
+inner list
+inner loop
+inner model
+inner sum
+innermost dimension
+innermost matrix
+inp
+inplace
+input Examples
+input Input
+input Tensor
+input Tensors
+input Variables
+input activation
+input activations
+input arrays
+input batch
+input batches
+input channel
+input channels
+input columns
+input constraints
+input desired
+input details
+input dictionary
+input dimension
+input dimensions
+input dropout
+input embedding
+input example
+input examples
+input exception
+input feature
+input features
+input filled
+input filters
+input flag
+input function
+input functions
+input gate
+input gradient
+input image
+input images
+input index
+input indices
+input input
+input key
+input keys
+input labels
+input layer
+input layers
+input list
+input loss
+input mask
+input matrices
+input matrix
+input mean
+input mini
+input models
+input multiple
+input multiples
+input names
+input network
+input node
+input nodes
+input operand
+input pipeline
+input pipelines
+input pixels
+input planes
+input points
+input pre
+input projection
+input queues
+input range
+input rank
+input ranks
+input receivers
+input records
+input resolution
+input row
+input rows
+input samples
+input scalar
+input schema
+input section
+input sentence
+input sentences
+input sequences
+input shape
+input shapes
+input signal
+input signature
+input slice
+input space
+input spatial
+input specs
+input split
+input statistics
+input steps
+input strategy
+input stride
+input summaries
+input tags
+input tensor
+input tensors
+input trying
+input variable
+input variables
+input vector
+input vertex
+input vertices
+input weight
+input window
+input words
+input1
+input2
+inputs Batch
+inputs Tensors
+inputs array
+inputs batch
+inputs data
+inputs flow
+inputs rank
+inputs shape
+inputs shapes
+inputs tensor
+inputs tensors
+inputs tuple
+inputs values
+insertion indices
+insignificant amount
+installation loop
+instance normalization
+instance type
+int16
+int32
+int8
+integer Tensor
+integer column
+integer columns
+integer count
+integer distributions
+integer interval
+integer label
+integer labels
+integer list
+integer multiple
+integer scalar
+integer tensor
+integer tensors
+integer vector
+integration better
+integration process
+integration result
+intensity distribution
+interactive node
+intermediate layers
+intermediate model
+intermediate tensors
+intermediate value
+internal tensor
+interop
+interpolant
+interpolation mode
+interpretting
+interval indices
+interval level
+intrinsic conditioning
+intrinsic parameters
+inv
+invalid graphs
+invalid inputs
+invalid shape
+inverse discrete
+inverse domain
+inverse functions
+inverse gamma
+inverse permutation
+inverse scale
+inversion process
+inverted dropout
+inverted index
+invocation probability
+iostream
+irfft
+iris data
+iris directory
+irregular intervals
+isfinite
+isinf
+isnan
+iterative training
+iters
+jaccard
+jacobian
+jacobian matrix
+jacq
+jit
+jitter saturation
+jittered image
+jobz
+join examples
+jth
+junit
+kaggle
+keras layers
+keras model
+keras models
+keras version
+kernel elements
+kernel function
+kernel matrix
+kernel points
+kernel tensor
+key tensors
+keypoint
+kmeans
+known rank
+known shape
+known value
+kth
+l1
+l1 norm
+l2
+l2 norm
+label Tensors
+label binary
+label classes
+label classification
+label column
+label data
+label equality
+label field
+label format
+label list
+label name
+label names
+label numbers
+label one
+label problems
+label regression
+label smoothing
+label strings
+label tensor
+label tensors
+label vector
+label weight
+labeled point
+labels Tensor
+labels argument
+labels arguments
+labels array
+labels arrays
+labels dimension
+labels distribution
+labels input
+labels nearest
+labels shape
+labels source
+labels tensor
+labels tensors
+labels vector
+lambda layer
+language modeling
+language models
+lapack
+laplace distribution
+large batch
+large batches
+large corpora
+large degree
+large elements
+large feature
+large graphs
+large images
+large input
+large inputs
+large machine
+large messages
+large models
+large networks
+large sequences
+large tensor
+large tensors
+large text
+larger array
+larger batch
+larger checkpoint
+larger clusters
+larger indices
+larger matrix
+larger networks
+larger step
+larger tensor
+larger variable
+larger variance
+largest interval
+latent semantic
+latent state
+latent values
+latent vector
+latter behavior
+layer Input
+layer batch
+layer index
+layer input
+layer inputs
+layer name
+layer normalization
+layer parameters
+layer type
+layer types
+layer weights
+layer1
+lcc
+ldflags
+lead dimension
+leading dimensions
+leaf Tensors
+leaf parameter
+leaf parameters
+leaf variable
+leakyrelu
+leaning model
+learn classifier
+learnable bias
+learnable parameter
+learnable parameters
+learnable temperature
+learnable weights
+learned array
+learned models
+learned parameters
+learning algorithm
+learning algorithms
+learning andreiliphd
+learning behavior
+learning capability
+learning category
+learning level
+learning models
+learning parameters
+learning paulsteven
+learning phase
+learning process
+learning progress
+learning rate
+learning rate decay
+learning rate decrease
+learning rates
+learning workflow
+learning workloads
+least rank
+least squares
+left Methods
+left boundary
+left data
+left memory
+left multiplication
+left node
+left value
+leftmost dimensions
+length multiple
+length rank
+length sequences
+length training
+lengths tensor
+lerp
+level abstraction
+level intuitive
+level normalization
+level seed
+level systems
+libgomp
+libjpeg
+libsvm
+life graph
+likelihood loss
+likelihood operation
+line content
+line tutorial
+linear Independent
+linear activation
+linear activations
+linear algebra
+linear approximation
+linear classifier
+linear equations
+linear estimator
+linear function
+linear functions
+linear index
+linear indexing
+linear indices
+linear interpolation
+linear layer
+linear layers
+linear memory
+linear model
+linear models
+linear network
+linear operation
+linear operator
+linear operators
+linear outputs
+linear policy
+linear prediction
+linear predictions
+linear projection
+linear region
+linear regression
+linear scale
+linear scaling
+linear stack
+linear system
+linear term
+linear transformation
+linear transformations
+linear unit
+linear view
+linguistic data
+link function
+link line
+little counterintuitive
+little frustrated
+lltm
+lmdb
+load Parallelism
+load function
+load functions
+load model
+load multiple
+load operation
+load parameters
+load process
+load status
+load steps
+load training
+load weights
+loaded graph
+loaded model
+loading code
+loading data
+loading embedding
+loading graph
+loading graphs
+loading model
+loading models
+loading network
+loading part
+loading rows
+loading weights
+loads data
+loc Tensor
+local Translation
+local directory
+local features
+local graph
+local rank
+local response normalization
+local seed
+local servers
+local statistics
+local step
+local steps
+local task
+local tensor
+local training
+locally connected
+location parameter
+log data
+log determinant
+log directory
+log elements
+log factorial
+log likelihood
+log normalizing
+log potentials
+log probabilities
+log probability
+log sigmoid
+log softmax
+log space
+log value
+log1p
+log1pexp
+log2
+logarithm function
+logcosh
+logdet
+logdir
+logging step
+logical analogies
+logical core
+logical shape
+logical sum
+logistic distribution
+logistic loss
+logistic regression
+logit
+logits Tensor
+logits function
+logits layer
+logits shape
+logits tensor
+logspace
+logsumexp
+long column
+long matrix
+longest sequence
+looking curve
+loop body
+loop condition
+loop counter
+loop derivative
+loop iterations
+loop nest
+loop state
+loop variable
+loop variables
+loss Methods
+loss Tensor
+loss applied
+loss calculated
+loss comparisons
+loss component
+loss computation
+loss criterion
+loss data
+loss definition
+loss element
+loss fields
+loss function
+loss functions
+loss go
+loss layer
+loss module
+loss problem
+loss really
+loss reduction
+loss reported
+loss scale
+loss score
+loss shape
+loss summaries
+loss tensor
+loss tensors
+loss value
+loss values
+loss weights
+losses dimension
+low accuracy
+low padding
+low probabilities
+low rank
+low values
+low volume
+lower boundary
+lower frequency
+lower latency
+lower memory
+lower performance
+lower range
+lower rank
+lower triangle
+lower triangular
+lrn
+lstm
+lucene
+lxtGH
+machine failures
+machine learning
+machine training
+machine translation
+magnitude values
+main channel
+main column
+main diagonal
+main graph
+main group
+manip
+manipulating tensors
+manual call
+manual manipulation
+manual variable
+many Tensor
+many steps
+many tensor
+map dimensions
+map function
+map node
+map structure
+map transformation
+mapped indices
+mapping tensor
+maps Tensor
+margin constant
+markdown
+mask array
+mask arrays
+mask shape
+mask tensor
+masking layers
+masking value
+mass function
+master GPU
+master branch
+master node
+master procedure
+mat1
+mat2
+matching length
+matching rank
+matching shapes
+matching type
+mathematical components
+mathematical operation
+matlab
+matmul
+matplotlib
+matrix Tensor
+matrix addition
+matrix columns
+matrix determinant
+matrix equations
+matrix exponential
+matrix factorization
+matrix implied
+matrix inverse
+matrix logarithm
+matrix manipulations
+matrix matrix
+matrix multiplication
+matrix multiplies
+matrix multiply
+matrix norm
+matrix norms
+matrix operation
+matrix operations
+matrix ops
+matrix product
+matrix property
+matrix rank
+matrix subtraction
+matrix transpose
+matrix unchanged
+max capacity
+max depth
+max element
+max index
+max mode
+max norm
+max norms
+max number
+max operation
+max pooling
+max scaling
+max steps
+max time
+max values
+maximal number
+maximal values
+maximum absolute
+maximum count
+maximum device
+maximum factor
+maximum feature
+maximum function
+maximum index
+maximum indices
+maximum norm
+maximum parallelism
+maximum popularity
+maximum rank
+maximum scoring
+maximum sentence
+maximum shape
+maximum suppression
+maximum vocabulary
+maxpool2d
+mdp
+mean Tensor
+mean absolute
+mean absolute error
+mean estimate
+mean function
+mean intersection
+mean magnitudes
+mean number
+mean operation
+mean semantic
+mean square
+mean square error
+mean squared
+mean squared error
+mean value
+mean values
+mean vector
+mean vectors
+mean weight
+median value
+mel
+memcpy
+memory length
+mental model
+merged result
+merged tensor
+merged value
+mesh mode
+meshgrid
+metric function
+metric functions
+metric names
+metric value
+middle dimension
+migration guide
+miminum values
+min operation
+min value
+mini batch
+mini batches
+minibatch Tensor
+minibatch dimension
+minibatch elements
+minibatch tensor
+minibatch tensors
+minibatch training
+minimax
+minimization problem
+minimize loss
+minimize true
+minimum bounds
+minimum function
+minimum learning
+minimum length
+minimum norm
+minimum operation
+minimum range
+minimum rank
+minimum threshold
+minlength
+minor dimension
+mirrored values
+mirrored variable
+mixed Tensors
+mixed precision
+mixing probabilities
+mixture density
+mixture distribution
+mixture model
+mixture probabilities
+mkl
+mnist
+mobile device
+mobile devices
+mobile systems
+mode function
+mode loss
+mode model
+mode value
+model True
+model accuracy
+model architectures
+model argument
+model attempts
+model based
+model building
+model checkpoint
+model checkpoints
+model cloning
+model code
+model components
+model configurations
+model construction
+model copy
+model created
+model creation
+model debugging
+model definition
+model detects
+model developers
+model development
+model estimator
+model evaluation
+model evaluator
+model every
+model export
+model fails
+model faster
+model feeding
+model files
+model formats
+model forward
+model frequently
+model function
+model graph
+model heads
+model improves
+model individually
+model inferences
+model information
+model initialization
+model input
+model inputs
+model involves
+model knows
+model learning
+model learns
+model let
+model loaded
+model locally
+model longer
+model loss
+model metrics
+model modes
+model operates
+model output
+model outputs
+model outside
+model parallel
+model parallelism
+model parameter
+model parameters
+model path
+model performance
+model performed
+model performs
+model periodically
+model predictions
+model predicts
+model producers
+model progressed
+model protobufs
+model pruning
+model relies
+model repeatedly
+model replica
+model replicas
+model replication
+model repository
+model results
+model robust
+model saved
+model saver
+model score
+model scores
+model spec
+model stands
+model state
+model stop
+model stops
+model topology
+model trained
+model trainer
+model training
+model trains
+model types
+model variable
+model variables
+model weights
+model works
+model zoo
+model1
+model2
+models mean
+models progress
+models trained
+models training
+modulus operation
+moment correlation
+momentum rate
+momentum value
+monitor data
+monitor memory
+monitor similarity
+monitor training
+monitoring data
+monotonic function
+morphological dilation
+morphological features
+move data
+move nodes
+move result
+move tensors
+moving average
+moving averages
+moving column
+moving data
+moving mean
+moving statistics
+moving variance
+moving window
+mpirun
+mtimes
+multi array
+multi core
+multi dimensional
+multi input
+multi label
+multi layer
+multi nodes
+multi word
+multiclass
+multilabel
+multilayer
+multimodal distributions
+multinomial distribution
+multiple Examples
+multiple GPU
+multiple Integer
+multiple array
+multiple authors
+multiple axes
+multiple batches
+multiple checkpoints
+multiple column
+multiple consequent
+multiple cores
+multiple countries
+multiple critical
+multiple cycles
+multiple dependencies
+multiple devices
+multiple domains
+multiple edges
+multiple encoder
+multiple epochs
+multiple evaluation
+multiple examples
+multiple features
+multiple gradients
+multiple graphs
+multiple heads
+multiple images
+multiple independent
+multiple indices
+multiple inputs
+multiple integer
+multiple iterations
+multiple jobs
+multiple layers
+multiple machines
+multiple measurements
+multiple models
+multiple modes
+multiple numerical
+multiple outputs
+multiple queue
+multiple replicas
+multiple retries
+multiple sequences
+multiple series
+multiple sessions
+multiple shapes
+multiple tensors
+multiple topics
+multiple towers
+multiple transforms
+multiple workers
+multiplication algorithm
+multiplication operation
+multiplicative coefficient
+multiplicative noise
+multiplicative scaling
+multiplied matrices
+multiplying scale
+multitask learning
+multivariate Normal
+multivariate distributions
+multivariate normal
+multivariate series
+mutiple values
+mutual information
+muxer
+mvlgamma
+mvn
+name tensor
+named function
+named functions
+named job
+naming inputs
+naming sequence
+native operation
+natural exponential
+natural language processing
+natural left
+natural log
+natural number
+natural parameters
+nccl
+nd2
+ndarray
+ndarrays
+ndf
+ndims
+ndv
+near feature
+nearest clusters
+nearest neighbors
+negative axis
+negative correlation
+negative count
+negative determinant
+negative edge
+negative example
+negative exists
+negative factor
+negative log
+negative means
+negative samples
+negative sampling
+negative scalar
+negative section
+negative slope
+negative sum
+negative trials
+negative words
+neighbor points
+neither name
+nested combination
+nested graph
+nested parameter
+nested range
+nested sequences
+nested structure
+nested structures
+nested tuple
+nesterov
+network Input
+network architecture
+network architectures
+network configurations
+network connectivity
+network convergence
+network criterion
+network graph
+network input
+network issues
+network layers
+network learn
+network learned
+network learning
+network learnt
+network output
+network outputs
+network performing
+network processing
+network security
+network state
+network storage
+network traffic
+network trained
+network training
+network weights
+networks tutorial
+neural Tensor
+neural architecture
+neural layers
+neural net
+neural nets
+neural network
+neural networks
+neural tensor
+neural transfer
+neural vocoder
+neutral type
+new axis
+newb
+next calculation
+next cell
+next channel
+next checkpoint
+next data
+next image
+next index
+next layer
+next nodes
+next order
+next states
+ngpu
+ngrams
+nn
+nn module
+nnnnn
+nnz
+node goes
+node labels
+node node
+node1
+noise distribution
+noise patterns
+noisy example
+non decreasing
+non edge
+non negative
+non tensor
+nonlinear models
+nonlinearity function
+norm constraints
+norm degree
+norm distance
+norm problem
+norm regularization
+normal Variable
+normal Variables
+normal arrays
+normal convolution
+normal development
+normal distribution
+normal distributions
+normal implementation
+normal noise
+normal numbers
+normal options
+normal pattern
+normal scalar
+normalization applied
+normalization constant
+normalization dimension
+normalization issues
+normalization layer
+normalization methods
+normalization part
+normalization statistics
+normalization strategies
+normalization strategy
+normalization values
+normalization window
+normalize data
+normalized Tensor
+normalized amplitude
+normalized array
+normalized copy
+normalized image
+normalized inputs
+normalized model
+normalized tensor
+normalized text
+normalized vectors
+normalized weights
+normalizing constant
+normalizing flow
+normalizing labels
+npairs loss
+nrow
+ntc
+ntuple
+nuclear norm
+nullptr
+num1
+num2
+numbers log
+numel
+numeric Tensor
+numeric column
+numeric differences
+numeric tensor
+numerical columns
+numerical data
+numerical feature
+numerical gradient
+numerical instabilities
+numerical issues
+numerical precision
+numerical properties
+numerical range
+numerical ranges
+numerical rank
+numerical stability
+numerical values
+numpy
+nvcc
+nvidia
+nvprof
+nvtx
+oW
+objective function
+objective functions
+objective learning
+occurrence count
+occurring values
+old GPU
+old behavior
+old graph
+old inputs
+old matrix
+old models
+older checkpoint
+older model
+one GPU
+one Graph
+one Tensor
+one accordion
+one batch
+one caveat
+one chart
+one checkpoint
+one computer
+one contracting
+one detail
+one epoch
+one feature
+one fine
+one forward
+one gate
+one go
+one gradient
+one ground
+one head
+one hot
+one inbound
+one job
+one kernel
+one label
+one larger
+one loads
+one mapped
+one metric
+one minds
+one minibatch
+one minority
+one network
+one operand
+one operating
+one partition
+one platform
+one prediction
+one probability
+one queue
+one rank
+one replica
+one run
+one scalar
+one site
+one storage
+one subtle
+one suggested
+one tensor
+one tick
+one title
+one tower
+one training
+one transform
+one values
+one vector
+one weight
+one word
+onesided
+online computation
+online training
+onnx
+onto CPU
+onto tensors
+oom
+op
+op type
+opJ
+open node
+open problem
+openMPI
+openblas
+opencl
+openmp
+operand shape
+operation Motivation
+operation time
+operation type
+opposite similarity
+optim
+optimal batches
+optimal value
+optimality
+optimiser
+optimizable
+optimization algorithm
+optimization algorithms
+optimization functions
+optimization problem
+optimization results
+optimization routines
+optimization runner
+optimization step
+optimization techniques
+optimizer
+optimizers
+optional Tensor
+optional bias
+optional cell
+optional conditioning
+optional device
+optional float
+optional inputs
+optional list
+optional randomisation
+optional randomization
+optional scope
+optional shape
+optional tensor
+optional variable
+optional weight
+orange line
+orgqr
+original column
+original columns
+original device
+original element
+original matrix
+original model
+original parameters
+original shape
+original tensor
+ormqr
+orthogonal columns
+orthogonal decomposition
+orthogonal distribution
+orthogonal matrix
+orthogonal normalization
+orthogonal rows
+orthonormal
+outcome matrices
+outcome matrix
+outcome vectors
+outer dimension
+outer list
+outer operation
+outer product
+outermost axis
+outlining number
+output Tensor
+output Tensors
+output activation
+output activations
+output arguments
+output array
+output arrays
+output batch
+output classification
+output column
+output columns
+output dependencies
+output depth
+output details
+output diagonal
+output dimension
+output dimensionality
+output dimensions
+output dropout
+output elements
+output feature
+output features
+output fields
+output filters
+output functions
+output histogram
+output image
+output index
+output integers
+output interval
+output keys
+output labels
+output layer
+output layers
+output masking
+output matrices
+output matrix
+output model
+output names
+output networks
+output neurons
+output node
+output nodes
+output predictions
+output projection
+output range
+output rate
+output result
+output sentence
+output sequence
+output shape
+output shapes
+output sides
+output slice
+output spatial
+output split
+output steps
+output strategies
+output strategy
+output stride
+output strings
+output structure
+output symbols
+output tensor
+output tensors
+output training
+output type
+output units
+output validation
+output value
+output variable
+output vector
+output vectors
+output vertex
+output vertices
+output zeros
+outputs Tensors
+outputs argument
+outputs array
+outputs tensor
+overall amount
+overall batch
+overall computation
+overall data
+overall model
+overall variance
+overfit
+overfitting
+overlap values
+overlapping parameter
+overlaps tensor
+overridden shape
+ow
+p2p
+packt
+pacman
+padded elements
+padded image
+padded tensor
+padding algorithm
+padding argument
+padding arrays
+padding dimension
+padding layer
+padding mode
+padding modes
+padding number
+padding type
+padding value
+padding values
+pair mean
+pairwise
+pam
+pandas data
+paper Learning
+parallel inputs
+parallel learning
+parallel region
+parallel threads
+parallel training
+parallel version
+parallelism model
+param
+parameter averaging
+parameter devices
+parameter gradients
+parameter graphs
+parameter groups
+parameter histograms
+parameter information
+parameter loc
+parameter ratio
+parameter search
+parameter server
+parameter servers
+parameter shapes
+parameter space
+parameter spaces
+parameter synchronization
+parameter table
+parameter tensor
+parameter update
+parameter updates
+parameter upper
+parameter vector
+parameterized distribution
+parameterized graph
+parameterized model
+parameters concentration
+parameters values
+parametric constraints
+parametrized
+parent graph
+partial derivative
+partial derivatives
+partial differential
+partial execution
+partial forward
+partial inverse
+partial list
+partial run
+partial runs
+partial updates
+participating device
+particular cluster
+particular devices
+particular dimension
+particular examples
+particular layer
+particular problem
+particular shape
+particular step
+particular worker
+partition function
+partition number
+partitioner
+partitioners
+partitioning information
+partitioning strategy
+pass shape
+passing dimensions
+passthrough
+pathwise
+pca
+pcc
+pearson correlation coefficient
+penalize length
+per device
+per layer
+per step
+percentile value
+perceptron
+perceptrons
+perform dropout
+perform evaluation
+perform operation
+perform training
+performance computing
+performance distribution
+performance results
+performing computation
+performing evaluation
+performing feature
+performing model
+performs function
+permutation indices
+permutation matrix
+permutation operation
+permutation results
+permuted dimensions
+persistable
+persistence level
+persistent state
+persistent tensor
+perturbations start
+perturbed image
+physical checkpoint
+piecewise
+piecewise linear
+pip3
+pipeline optimization
+pixel convolution
+pixel flow
+pixel images
+pixel positions
+place operation
+place tensor
+placeholder operation
+placeholder tensor
+placeholder tensors
+plain mode
+plane convolution
+plot image
+plotting results
+plotting statistics
+plz
+pmf
+point Tensor
+point addition
+point collectives
+point communcation
+point communication
+point comparison
+point division
+point error
+point graph
+point index
+point indexes
+point quantization
+point scalar
+point tree
+points tensor
+poisson
+poisson distribution
+pojo
+policy gradient
+policy network
+polygamma
+polygonal data
+polynomial decay
+polynomial factors
+polynomial order
+pool2d
+pooling dimensions
+pooling filter
+pooling layer
+pooling layers
+pooling modes
+pooling operation
+pooling ratio
+pooling regions
+pooling sequence
+pooling type
+pooling window
+poor cluster
+poor result
+popular model
+popularity nodes
+portion shape
+positive cloud
+positive correlation
+positive count
+positive definite
+positive diagonals
+positive elements
+positive error
+positive event
+positive examples
+positive function
+positive images
+positive labels
+positive skew
+positive weight
+positive weights
+possible number
+post noise
+post training
+post update
+postgres
+potrf
+potrs
+power function
+powerful models
+pprof
+pre computed
+pre process
+pre processing
+pre processor
+pre train
+pre training
+pre update
+preactivation values
+preceding function
+precision array
+precision complex
+precision data
+precision format
+precision function
+precision matrix
+precision recall
+precompute
+preconditioner
+preconditioners
+pred
+predicted classes
+predicted label
+predicted labels
+predicted outputs
+predicted probabilities
+predicted probability
+predicted values
+predicted vector
+predicted word
+prediction algorithm
+prediction array
+prediction batch
+prediction call
+prediction error
+prediction errors
+prediction graph
+prediction head
+prediction labels
+prediction model
+prediction output
+prediction part
+prediction probabilities
+prediction probability
+prediction rule
+prediction task
+prediction time
+predictions arguments
+predictions dictionary
+predictions negative
+predictions parameter
+predictions tensors
+predictive performance
+predictive power
+preds
+prefetch
+prefetching
+prelu
+premade
+prepare data
+preprint
+preprocess
+preprocessed
+preprocessing
+preprocessors
+prerelease
+prespecified number
+pretrainable layers
+pretrained model
+pretrained models
+pretrained network
+pretraining
+prevent numerical
+previous approach
+previous batch
+previous epoch
+previous image
+previous layer
+previous layers
+previous steps
+primal loss
+primary distributions
+primitive operation
+prior distribution
+prior probability
+prob
+probabilistic interpretation
+probabilistic model
+probability densities
+probability density
+probability density function
+probability distribution
+probability distributions
+probability function
+probability functions
+probability histogram
+probability mass
+probability mass function
+probability matrix
+probability predictions
+probelm
+probs
+proce
+process cluster
+process termination
+processable
+processed data
+processed vector
+processing batches
+processing indices
+processing path
+processing queue
+processing speed
+processing steps
+processing units
+produce device
+product name
+product operation
+profile step
+profiling mode
+proguard
+projected factors
+projected value
+projection layer
+projection matrices
+projection matrix
+propagation step
+proper data
+proper shape
+proto file
+protobuf
+protos
+pruned structure
+pruning functions
+pseudo function
+pseudo inverse
+pstrf
+ptrblck
+pure function
+pybind11
+pytorch
+qr
+quad elements
+quadratic equation
+quantile
+quantiles
+quantized models
+quantized training
+quantized type
+queue element
+quickdraw
+quickstart
+radius parameters
+ragged matrix
+ragged vector
+randint
+randn
+random Fourier
+random Shard
+random Tensors
+random accuracy
+random array
+random batch
+random batches
+random behavior
+random crop
+random data
+random factor
+random field
+random gradients
+random index
+random inputs
+random integers
+random matrix
+random noise
+random normal
+random one
+random operations
+random outcome
+random perturbations
+random port
+random postfix
+random projection
+random projections
+random records
+random sample
+random sampling
+random scales
+random search
+random seed
+random seeds
+random selection
+random sequence
+random shape
+random shard
+random shuffling
+random tensor
+random transformations
+random variable
+random variables
+random variation
+random vector
+random walk
+random walks
+random weights
+randomized algorithm
+randomized transform
+randomly sample
+randomness seed
+range inputs
+rank Tensor
+rank Tensors
+rank approximation
+rank array
+rank arrays
+rank loss
+rank shape
+rank tensors
+rank-1
+rank-2
+rastered
+rate parameter
+rate parameters
+rate signal
+raw features
+raw tensor
+rdd
+re2
+read image
+read tensor
+real batch
+real convolution
+real data
+real distribution
+real environment
+real environments
+real image
+real images
+real interval
+real label
+real labels
+real matrix
+real multi
+real numbers
+real outcomes
+real person
+real shape
+real tasks
+real type
+real usage
+real valued
+real values
+real word
+real words
+reasonable name
+recall array
+recall curve
+recall curves
+recall function
+recall values
+received tensor
+receiver tensor
+receiving process
+recent checkpoint
+recent model
+recod
+recognition network
+recognition systems
+recommended number
+reconstructed data
+reconstructed images
+reconstruction distribution
+reconstruction distributions
+reconstruction error
+reconstruction function
+reconstruction probabilities
+reconstruction probability
+rectified linear
+rectified linear unit
+recurrent Network
+recurrent cell
+recurrent dropout
+recurrent layer
+recurrent layers
+recurrent network
+recurrent networks
+recurrent neural network
+recurrent neural networks
+recurrent unit
+recurrent weights
+recursive structure
+reduce batch
+reduce function
+reduce index
+reduce learning
+reduce number
+reduce product
+reduce sum
+reduce training
+reduced Tensor
+reduced array
+reduced dimensions
+reduced indices
+reduced memory
+reduced sum
+reduced tensor
+reduced values
+reducing dimensions
+reduction algo
+reduction index
+reduction mode
+reduction occurs
+reduction ratio
+reduction results
+redundant shapes
+ref tensor
+reference batch
+regexp
+regexs
+regression algorithms
+regression evaluation
+regression head
+regression labels
+regression metric
+regression model
+regression performance
+regression problem
+regression problems
+regression score
+regressive model
+regressor
+regressors
+regularization arguments
+regularization factor
+regularization loss
+regularization losses
+regularization multiplier
+regularization parameters
+regularization penalty
+regularization term
+regularizer
+regularizers
+reinforcement algorithm
+reinforcement learning
+rejection probabilities
+rejection sampling
+relationship column
+relative accuracy
+relative error
+relative probability
+relative similarity
+relative tolerance
+release process
+releases shape
+reliability curve
+reliability diagram
+reliability weights
+relu
+relu6
+remaining dimensions
+remap
+remapped
+remote case
+remote development
+remote devices
+remote graph
+remote task
+removing examples
+renorm
+reparameterized sample
+repartition data
+repeat factor
+repeat transformation
+replaced Tensors
+replica index
+replica training
+replicated mode
+repmat
+repo
+report device
+reporting frequency
+representation learning
+representing data
+repro
+required parameter
+resample
+resampler
+resampling
+residual layer
+residual layers
+residual network
+residual parameters
+residual plot
+residual sum
+resnet
+resnet18
+resnet50
+resolution model
+respective shape
+restart training
+restore values
+restored model
+result Tensor
+result nodes
+result shape
+result tensor
+resulting Tensor
+resulting behavior
+resulting dimensions
+resulting directory
+resulting operation
+resulting shape
+resulting tensor
+resulting transformation
+resulting variable
+resume training
+resuming training
+retain probability
+returing
+reverse flag
+reverse subtraction
+reverse transformation
+reversible layers
+reversing dimensions
+rfft
+right device
+right examples
+right node
+right number
+right value
+rightmost dimension
+rightmost dimensions
+ring order
+rint
+rmsprop
+rnn
+roadmap
+robin balancing
+roc curve
+rollout sampling
+root folder
+root mean squared error
+rotated image
+rotated tensor
+rotating matrices
+rotation angle
+rough guide
+round function
+rounded numbers
+rrelu
+rsqrt
+rth
+run evaluation
+run inference
+run multiple
+run training
+running Properties
+running average
+running averages
+running estimates
+running example
+running graphs
+running inference
+running mean
+running models
+running predict
+running sample
+running standard
+running tally
+running time
+running training
+runs training
+runtime shape
+s32
+sample approximation
+sample batch
+sample covariance
+sample dimension
+sample field
+sample inputs
+sample likelihood
+sample one
+sample outputs
+sampled classes
+samples dimension
+sampling decoder
+sampling distribution
+sampling function
+sampling probability
+sampling randomly
+sampling seed
+sampling vectors
+save model
+save models
+save multiple
+save path
+saveable
+saved checkpoint
+saved model
+saved value
+savefile
+saver state
+saving data
+saving models
+scala
+scalable models
+scalar Tensor
+scalar Tensors
+scalar Variable
+scalar addition
+scalar angle
+scalar denominator
+scalar distributions
+scalar division
+scalar element
+scalar float
+scalar inputs
+scalar integer
+scalar loss
+scalar min
+scalar multiplication
+scalar numeric
+scalar operation
+scalar operations
+scalar outputs
+scalar pad
+scalar product
+scalar scalar
+scalar shape
+scalar strings
+scalar subtraction
+scalar sum
+scalar summary
+scalar tensor
+scalar tensors
+scalar threshold
+scalar type
+scalar value
+scalar valued
+scalar values
+scalar variable
+scalar weight
+scale argument
+scale arguments
+scale example
+scale gradients
+scale matrices
+scale matrix
+scale posterior
+scale scale
+scale shear
+scale transformation
+scale variable
+scale variables
+scaling factor
+scaling parameters
+scatter function
+scatter occurs
+scatter operation
+scatter phase
+scatter plot
+scope name
+score calculation
+score calculator
+score examples
+score function
+score functions
+score values
+scoring sequence
+script function
+search state
+second array
+second aspect
+second axis
+second batch
+second copy
+second dimension
+second dimensions
+second distribution
+second loop
+second output
+second tensors
+second trick
+second tuple
+second vertex
+seed entropy
+segfaults
+segmentation task
+segmentation tasks
+select function
+select tensors
+selected column
+selected device
+selected directory
+selected tensor
+self Tensor
+self tensor
+selu
+semantic information
+semantic name
+semantic relation
+semantic segmentation
+semantic similarity
+sending state
+sensitivity value
+sent tensor
+sentence labels
+sentence length
+sentence lengths
+sentence tensor
+sepal length
+separable convolution
+separable filters
+separate GPU
+seq2seq
+sequence Layout
+sequence alignment
+sequence architectures
+sequence batch
+sequence classification
+sequence columns
+sequence condition
+sequence dimension
+sequence examples
+sequence expansion
+sequence features
+sequence index
+sequence inputs
+sequence label
+sequence labels
+sequence learning
+sequence length
+sequence lengths
+sequence model
+sequence models
+sequence one
+sequence order
+sequence step
+sequence steps
+sequence tasks
+sequence tensor
+sequence time
+sequences left
+sequential data
+sequential features
+sequential inference
+sequential input
+sequential manner
+sequential model
+sequential models
+serialized tensor
+serializers
+series length
+serving graph
+sessionID
+sgv
+sgv1
+shallow structure
+shallow tree
+shape Shape
+shape Tensor
+shape arguments
+shape changed
+shape components
+shape constraints
+shape data
+shape depends
+shape dimension
+shape dimensions
+shape equal
+shape format
+shape function
+shape functions
+shape inference
+shape information
+shape invariant
+shape invariants
+shape manipulations
+shape one
+shape samples
+shape shape
+shape stride
+shape tensor
+shape tensors
+shape tuple
+shape value
+shape vector
+shaped Tensor
+shift Tensor
+shift terms
+shift values
+shortcut function
+shrinkage function
+shrinkage parameter
+shrinking variance
+shuffling tensors
+side inputs
+side signal
+sigmoid activation
+sigmoid function
+sigmoid loss
+sigmoid transform
+sign decay
+sign operation
+signal dimension
+signal sequence
+signature function
+significant number
+significant value
+similar operation
+similarity function
+simple function
+simple model
+simple training
+simplest model
+simplest network
+simulated inputs
+simulated quantization
+single Example
+single GPU
+single Gradient
+single Multinomial
+single OS
+single Tensor
+single allocation
+single array
+single batch
+single bin
+single binary
+single box
+single branch
+single checkpoint
+single column
+single computer
+single conditions
+single cycle
+single device
+single dimension
+single distribution
+single draw
+single equation
+single example
+single examples
+single feature
+single features
+single float
+single flow
+single forward
+single functions
+single gpu
+single gradient
+single graph
+single histogram
+single kernel
+single labels
+single layer
+single length
+single library
+single machine
+single matrix
+single minibatch
+single model
+single number
+single person
+single prediction
+single run
+single sample
+single scalar
+single series
+single spatial
+single step
+single tensor
+single tower
+single training
+single transform
+single transformation
+single transition
+single tutorials
+single unsafe
+single vector
+single version
+single way
+single words
+singleton dimensions
+singleton list
+singular dimension
+singular value
+singular value decomposition
+singular values
+singular vectors
+sinh
+slack channel
+slave node
+slave nodes
+slave status
+slice dimensions
+slice value
+sliding blocks
+sliding local
+sliding window
+slight bias
+slogdet
+small batch
+small data
+small deviation
+small distributed
+small effect
+small gradient
+small gradients
+small layer
+small model
+small multiple
+small node
+small operations
+small sample
+smallest power
+snapshot tensor
+snapshot value
+sne
+softmax
+softmin
+softplus
+softsign
+sole metric
+solution matrix
+sorted vector
+space model
+space models
+space operation
+space vector
+spaced vector
+spadd
+sparse Tensors
+sparse arrays
+sparse behavior
+sparse column
+sparse columns
+sparse control
+sparse copy
+sparse data
+sparse feature
+sparse features
+sparse format
+sparse gradient
+sparse gradients
+sparse indices
+sparse input
+sparse inputs
+sparse labels
+sparse matrix
+sparse multiplication
+sparse one
+sparse ones
+sparse representation
+sparse segments
+sparse tensor
+sparse tensors
+sparse type
+sparse updates
+sparse vector
+sparse vectors
+spatial convolution
+spatial data
+spatial dimension
+spatial dimensions
+spatial dropout
+spatial inputs
+spatial problem
+spatial shape
+spatial transformation
+spawn function
+specificity value
+spectral norm
+spectral normalization
+spectrogram data
+spline interpolation
+split data
+split dimension
+split images
+split input
+split line
+splitting value
+square crop
+square function
+square identity
+square image
+square loss
+square matrices
+square matrix
+square mean
+square patch
+square tensor
+square tensors
+square weights
+square window
+squared connectivity
+squared distance
+squared error
+squared loss
+squared sum
+squared values
+squares problem
+squares problems
+squares solution
+squeeze operation
+srcdir
+sru cell
+sspaddmm
+sspmm
+stable gradient
+stable number
+stable operator
+stable order
+stable results
+stable state
+stabler function
+stacked Tensor
+stacked form
+stacked layers
+stackoverflow
+staging inputs
+standalone model
+standard analysis
+standard convolutions
+standard decoder
+standard deviation
+standard deviations
+standard element
+standard gradient
+standard graph
+standard implicit
+standard layers
+standard memory
+standard models
+standard parameter
+standard process
+standard random
+standard score
+standard services
+standard task
+standardized image
+start state
+start training
+started guide
+started process
+starting nodes
+starting threshold
+state Tensor
+state map
+state matrix
+state memory
+state tensors
+stated value
+static Shape
+static batch
+static graph
+static number
+static parameter
+static shape
+static value
+statistic type
+statistic value
+statistical distributions
+statistical models
+statistical strength
+stddev
+stdev
+steepest ascent
+step Step
+step Tensor
+step count
+step counter
+step function
+step functions
+step mean
+step number
+step step
+step time
+step variable
+steps condition
+stft
+stochastic approximation
+stochastic gradient
+stochastic gradient descent
+stochastic neighbor
+stop condition
+stop flag
+stop sign
+stop training
+stopping gradient
+stopping hook
+stopping signal
+stopping training
+storage level
+strange part
+stratified batch
+streaming value
+stride array
+stride integer
+stride value
+strides value
+structural similarity
+structure prediction
+structured loss
+structured noise
+style loss
+sub columns
+sub tensors
+subfolder
+subfolders
+subgraph
+subgraphs
+submatrices
+subnode
+subprojects
+subsamplng value
+subsequent layers
+subsequent loss
+subtraction operation
+success probability
+success rate
+sufficient statistics
+sum matrix
+sum operation
+sum operator
+summand
+summary Tensor
+summary operation
+summary sequence
+summary type
+summary value
+summary values
+summation index
+supervised learning
+supported device
+supported distribution
+surrogate functions
+surrouding state
+surrounding scope
+survival function
+svd
+svg1
+svm
+symbolic function
+symbolic shape
+symmetric cropping
+symmetric matrix
+symmetric padding
+symmetric window
+sync training
+synchronous mode
+synchronous training
+synthetic data
+systemd
+tad element
+tag indices
+tag sequence
+tag sequences
+tail decay
+taking arguments
+taking images
+taking values
+tan function
+tanh
+tapering window
+tarball
+task Networks
+task index
+task indices
+task learning
+task loss
+task networks
+task number
+task type
+tax rate
+tcas
+teacher ratio
+technical data
+teh shape
+temperature tensor
+temperature variable
+templated
+temporal convolution
+temporal data
+temporal dependency
+temporal difference
+temporal dimension
+temporal order
+temporal slice
+temporal step
+tensor along
+tensor argument
+tensor arguments
+tensor arrays
+tensor computation
+tensor constructor
+tensor count
+tensor data
+tensor details
+tensor dimension
+tensor dimensionality
+tensor dimensions
+tensor element
+tensor elements
+tensor filter
+tensor graph
+tensor image
+tensor images
+tensor indexing
+tensor input
+tensor inputs
+tensor label
+tensor left
+tensor length
+tensor list
+tensor matrix
+tensor methods
+tensor name
+tensor names
+tensor operation
+tensor operations
+tensor output
+tensor pool
+tensor processing
+tensor proto
+tensor range
+tensor rank
+tensor reduction
+tensor reference
+tensor result
+tensor results
+tensor shape
+tensor shapes
+tensor state
+tensor type
+tensor types
+tensor value
+tensor values
+tensor variable
+tensordot
+tensorflow
+tensors argument
+tensors condition
+tensors layer
+tensors values
+terminal state
+termination condition
+termination tolerance
+text classification
+text corpora
+text models
+textual order
+tf
+tfb
+tfdbg
+tfe
+tflite function
+tfprof
+tfrecord
+tfrecord format
+th value
+theano
+theoretical number
+theta vector
+third distribution
+third image
+third layer
+threshold array
+threshold decay
+threshold step
+threshold steps
+thresholding
+thresholds array
+time axis
+time column
+time columns
+time difference
+time dimension
+time dimensions
+time distributed
+time domain
+time equal
+time frame
+time gap
+time grid
+time improvement
+time inference
+time ordering
+time reversal
+time sequence
+time sequences
+time series
+time step
+time steps
+time transformations
+time update
+time window
+timeseries
+timestep
+timing data
+timly
+tokenizers
+top elements
+top path
+top prediction
+top queue
+topN
+topic name
+topk
+topological order
+topological ordering
+topological sort
+total binary
+total examples
+total lengths
+total lines
+total loss
+total memory
+total power
+total precision
+total records
+total shift
+total sum
+total system
+total variance
+total variation
+total weight
+tower call
+tower context
+tower device
+tower function
+tower model
+tpu
+tpus
+trace operation
+traced function
+tracking list
+tracking shapes
+trailing dimension
+trailing dimensions
+train batches
+train call
+train data
+train function
+train generator
+train loop
+train mode
+train model
+train models
+train networks
+train phase
+train steps
+trainable
+trained checkpoints
+trained estimator
+trained forever
+trained model
+trained models
+trained network
+trained parameters
+trained values
+trained variable
+trained variables
+trained weights
+trained word
+trainer function
+trainer program
+training Step
+training accuracy
+training algorithm
+training argument
+training batch
+training batches
+training begins
+training binaries
+training binary
+training checkpoint
+training checkpoints
+training cluster
+training code
+training compared
+training condition
+training continues
+training convergence
+training corpus
+training cycles
+training data
+training details
+training easier
+training epochs
+training example
+training examples
+training feature
+training features
+training flag
+training generally
+training graph
+training hook
+training hooks
+training images
+training input
+training inputs
+training iterations
+training job
+training labels
+training libraries
+training logs
+training looks
+training loop
+training loops
+training loss
+training master
+training methods
+training mode
+training model
+training models
+training module
+training network
+training networks
+training objective
+training occurs
+training operation
+training ops
+training pairs
+training parameters
+training percentage
+training performance
+training pipeline
+training pipelines
+training procedure
+training proceeds
+training process
+training processes
+training program
+training programs
+training progress
+training progresses
+training progression
+training records
+training result
+training results
+training round
+training run
+training script
+training services
+training session
+training sessions
+training specification
+training speed
+training started
+training starts
+training statistics
+training step
+training steps
+training stops
+training take
+training time
+training times
+training updates
+training version
+training worker
+training workers
+training works
+transfer learning
+transfer model
+transfer models
+transform data
+transform matrix
+transform process
+transform tensor
+transformation data
+transformation parameters
+transformed data
+transformed tensor
+transition matrix
+transpose operation
+transposed Tensor
+transposed matrix
+treebank
+triangular band
+triangular elements
+triangular factorization
+triangular matrices
+triangular matrix
+triangular part
+triggered step
+tril
+trilinear
+trim operation
+trim values
+triple elements
+triplet loss
+triu
+trivial examples
+trop
+trtrs
+true best
+true body
+true classes
+true elements
+true label
+true labels
+true negatives
+true positions
+true positives
+true rank
+true shuffling
+truncated normal
+truncated normal distribution
+truth data
+truth labels
+truth sequences
+try training
+ts1
+tu
+tune learning
+tuning procedure
+tuple elements
+tuple length
+tuple shape
+tuple structure
+tuple value
+tuple1
+type Tensor
+type dimension
+type distribution
+type tensor
+ubuntu
+uint16
+uint32
+uint8
+unconstrained problem
+unconstrained tensor
+unconstrainted shape
+undefined value
+underlie tensors
+underlying distribution
+underlying tensor
+understanding images
+undirected graph
+unevaluated Tensor
+unfrozen layers
+uniform distribution
+uniform images
+unigram
+uninformed state
+unique graph
+unique identity
+unique step
+unique values
+unit Normal
+unit Tensor
+unit cube
+unit interval
+unit length
+unit norm
+unit simplex
+unit variance
+unitary matrix
+unitary operator
+units parameter
+univariate distributions
+unk
+unknown data
+unknown dimensions
+unknown mean
+unknown rank
+unknown shape
+unknown tensor
+unknown word
+unpartitioned shape
+unprojected
+unraveling indices
+unseen data
+unseen sentence
+unstack
+unstacking
+unstructured noise
+untar
+untrained model
+untyped
+unzipped data
+unzipped distribution
+update equations
+update gradient
+update history
+update mean
+update messages
+update parameters
+update rule
+update state
+update step
+update storage
+update types
+update vector
+updated gradient
+updated list
+updated values
+updated vectors
+updaters
+updates array
+updates state
+uplo
+upper argument
+upper boundary
+upper incomplete
+upper length
+upper part
+upper range
+upper triangle
+upper triangular
+upsample
+upsampled
+upsampling
+upscaling
+usually channel
+usually images
+valid approach
+valid checkpoint
+valid device
+valid dimension
+valid message
+valid one
+valid part
+valid sample
+validate values
+validation accuracies
+validation accuracy
+validation batch
+validation data
+validation images
+validation input
+validation loss
+validation performance
+validation score
+validation set
+validation sets
+validation split
+validation step
+value clipping
+value data
+value feature
+value matrix
+value tensors
+valued distribution
+valued matrix
+values Functions
+values corrupted
+values inputs
+values left
+values tensor
+vanishing gradients
+variable batch
+variable call
+variable creator
+variable depends
+variable indices
+variable map
+variable mode
+variable regularization
+variable resolution
+variable scope
+variable shape
+variable slice
+variable tensor
+variable update
+variable updates
+variable value
+variable window
+variance One
+variance Tensor
+variance estimate
+variant type
+variational
+variational autoencoder
+various dimensions
+various factors
+various inputs
+various values
+varying order
+varying parameter
+varying parameters
+varying probability
+varying time
+vast number
+vec
+vector Tensor
+vector counts
+vector dimension
+vector element
+vector elements
+vector format
+vector length
+vector multiplication
+vector norm
+vector one
+vector operation
+vector operations
+vector pair
+vector product
+vector regardless
+vector relative
+vector representations
+vector shape
+vector space
+vector spaces
+vector tensor
+vector tensors
+vectorization
+vectorized
+vectorizer
+verification steps
+vertex name
+vertex sequence
+vgg11
+vgg13
+vgg16
+vgg19
+via list
+view array
+view layer
+viewing distance
+vin
+virginica
+visible distribution
+visual example
+visualization page
+viterbi
+viz
+vl
+vocabulary list
+vocabulary values
+volumetric inputs
+volumetric sampling
+vraiment
+w1
+w2v
+walk sequence
+wargs
+warning mean
+wave data
+wave length
+wave samples
+wavenet function
+weight argument
+weight associated
+weight column
+weight constraint
+weight constraints
+weight decay
+weight distributions
+weight files
+weight initialisations
+weight lookup
+weight matrices
+weight matrix
+weight noise
+weight normalization
+weight norms
+weight ordering
+weight parameter
+weight parameters
+weight quantization
+weight regularization
+weight rows
+weight shapes
+weight tensor
+weight tensors
+weight update
+weight updates
+weight values
+weight variable
+weight vector
+weighted average
+weighted correlation
+weighted graph
+weighted infinity
+weighted loss
+weighted losses
+weighted matrix
+weighted mean
+weighted random
+weighted sum
+weighted tensor
+weighting function
+weighting moving
+weights Tensors
+weights argument
+weights array
+weights connecting
+weights data
+weights list
+weights matrix
+weights tensor
+weights trained
+weights vector
+weird error
+white list
+white noise
+window function
+window length
+window stride
+word count
+word embedding
+word existence
+word frequencies
+word frequency
+word index
+word indices
+word nodes
+word shape
+word similarity
+word tensor
+word vector
+word vectors
+word2vec
+worker device
+worker job
+worker machine
+worker task
+world data
+wrong rank
+wrong shape
+wrt
+x1
+zero determinant
+zero diagonal
+zero dropout
+zero entries
+zero gradient
+zero gradients
+zero indices
+zero masking
+zero matrices
+zero matrix
+zero mean
+zero one
+zero padding
+zero tensor
+zero tensors
+zero weight
+zeros left
+zeros variable
+zeta function
+zoo model
