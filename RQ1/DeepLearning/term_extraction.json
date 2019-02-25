@@ -1,0 +1,1538 @@
+[
+    {
+        "term": "inner loop",
+        "correct": false
+    },
+    {
+        "term": "precision function",
+        "correct": true
+    },
+    {
+        "term": "feedforward",
+        "correct": true
+    },
+    {
+        "term": "generator inputs",
+        "correct": true
+    },
+    {
+        "term": "attention mechanism",
+        "correct": true
+    },
+    {
+        "term": "Upsampling3D",
+        "correct": true
+    },
+    {
+        "term": "static shape",
+        "correct": true
+    },
+    {
+        "term": "discrete value",
+        "correct": true
+    },
+    {
+        "term": "probability density",
+        "correct": true
+    },
+    {
+        "term": "network storage",
+        "correct": true
+    },
+    {
+        "term": "optimization results",
+        "correct": true
+    },
+    {
+        "term": "probability mass function",
+        "correct": true
+    },
+    {
+        "term": "type tensor",
+        "correct": true
+    },
+    {
+        "term": "linear activation",
+        "correct": true
+    },
+    {
+        "term": "sparse indices",
+        "correct": true
+    },
+    {
+        "term": "Cross Entropy",
+        "correct": true
+    },
+    {
+        "term": "classification error",
+        "correct": true
+    },
+    {
+        "term": "dense Tensors",
+        "correct": true
+    },
+    {
+        "term": "Image Transformation",
+        "correct": true
+    },
+    {
+        "term": "Accuracy Tensor",
+        "correct": true
+    },
+    {
+        "term": "bias parameter",
+        "correct": true
+    },
+    {
+        "term": "Multidimensional indices",
+        "correct": true
+    },
+    {
+        "term": "input pipeline",
+        "correct": true
+    },
+    {
+        "term": "reconstruction probabilities",
+        "correct": true
+    },
+    {
+        "term": "Rectified Linear Unit",
+        "correct": true
+    },
+    {
+        "term": "leakyrelu",
+        "correct": true
+    },
+    {
+        "term": "Autoregressive Flow",
+        "correct": true
+    },
+    {
+        "term": "sum operator",
+        "correct": true
+    },
+    {
+        "term": "conceptual level",
+        "correct": false
+    },
+    {
+        "term": "normalizing flow",
+        "correct": true
+    },
+    {
+        "term": "update parameters",
+        "correct": true
+    },
+    {
+        "term": "num2",
+        "correct": false
+    },
+    {
+        "term": "maximal number",
+        "correct": false
+    },
+    {
+        "term": "loaded graph",
+        "correct": false
+    },
+    {
+        "term": "GPU nodes",
+        "correct": true
+    },
+    {
+        "term": "human intuition",
+        "correct": false
+    },
+    {
+        "term": "second vertex",
+        "correct": false
+    },
+    {
+        "term": "Nesterov",
+        "correct": false
+    },
+    {
+        "term": "linear view",
+        "correct": true
+    },
+    {
+        "term": "dense vectors",
+        "correct": true
+    },
+    {
+        "term": "device field",
+        "correct": true
+    },
+    {
+        "term": "identity matrix",
+        "correct": true
+    },
+    {
+        "term": "input multiple",
+        "correct": false
+    },
+    {
+        "term": "fit function",
+        "correct": true
+    },
+    {
+        "term": "Contiguous inputs",
+        "correct": true
+    },
+    {
+        "term": "momentum rate",
+        "correct": true
+    },
+    {
+        "term": "fast convergence",
+        "correct": true
+    },
+    {
+        "term": "deep networks",
+        "correct": true
+    },
+    {
+        "term": "Post step",
+        "correct": false
+    },
+    {
+        "term": "TBPTT length",
+        "correct": true
+    },
+    {
+        "term": "dropout layers",
+        "correct": true
+    },
+    {
+        "term": "indexed values",
+        "correct": true
+    },
+    {
+        "term": "network learn",
+        "correct": false
+    },
+    {
+        "term": "output activations",
+        "correct": true
+    },
+    {
+        "term": "preprocess",
+        "correct": true
+    },
+    {
+        "term": "reduce index",
+        "correct": true
+    },
+    {
+        "term": "squares problems",
+        "correct": false
+    },
+    {
+        "term": "Various function",
+        "correct": false
+    },
+    {
+        "term": "memcpy",
+        "correct": true
+    },
+    {
+        "term": "merged value",
+        "correct": false
+    },
+    {
+        "term": "Core Layers",
+        "correct": true
+    },
+    {
+        "term": "mat2",
+        "correct": false
+    },
+    {
+        "term": "cropped tensor",
+        "correct": true
+    },
+    {
+        "term": "attention cell",
+        "correct": true
+    },
+    {
+        "term": "training looks",
+        "correct": false
+    },
+    {
+        "term": "initial batch",
+        "correct": true
+    },
+    {
+        "term": "Batch Normalization",
+        "correct": true
+    },
+    {
+        "term": "prediction time",
+        "correct": true
+    },
+    {
+        "term": "random scales",
+        "correct": true
+    },
+    {
+        "term": "BackPropagation",
+        "correct": true
+    },
+    {
+        "term": "Tensor Methods",
+        "correct": true
+    },
+    {
+        "term": "adder function",
+        "correct": true
+    },
+    {
+        "term": "Logistic distribution",
+        "correct": true
+    },
+    {
+        "term": "data loading",
+        "correct": false
+    },
+    {
+        "term": "Bucketized column",
+        "correct": true
+    },
+    {
+        "term": "resulting operation",
+        "correct": true
+    },
+    {
+        "term": "PReLU",
+        "correct": true
+    },
+    {
+        "term": "output columns",
+        "correct": true
+    },
+    {
+        "term": "variable indices",
+        "correct": true
+    },
+    {
+        "term": "axis argument",
+        "correct": true
+    },
+    {
+        "term": "standard memory",
+        "correct": false
+    },
+    {
+        "term": "outcome matrices",
+        "correct": true
+    },
+    {
+        "term": "Premade",
+        "correct": false
+    },
+    {
+        "term": "pretrainable layers",
+        "correct": true
+    },
+    {
+        "term": "Activation parameter",
+        "correct": true
+    },
+    {
+        "term": "Layer Types",
+        "correct": true
+    },
+    {
+        "term": "tracking shapes",
+        "correct": false
+    },
+    {
+        "term": "labels source",
+        "correct": true
+    },
+    {
+        "term": "vocabulary values",
+        "correct": false
+    },
+    {
+        "term": "Dropout layer",
+        "correct": true
+    },
+    {
+        "term": "Boltzmann machines",
+        "correct": true
+    },
+    {
+        "term": "trained word",
+        "correct": false
+    },
+    {
+        "term": "passthrough",
+        "correct": true
+    },
+    {
+        "term": "aeron channel",
+        "correct": true
+    },
+    {
+        "term": "diagonal part",
+        "correct": false
+    },
+    {
+        "term": "network connectivity",
+        "correct": true
+    },
+    {
+        "term": "second tensors",
+        "correct": false
+    },
+    {
+        "term": "bernoulli distribution",
+        "correct": true
+    },
+    {
+        "term": "training specification",
+        "correct": true
+    },
+    {
+        "term": "summation index",
+        "correct": true
+    },
+    {
+        "term": "GAN Training",
+        "correct": true
+    },
+    {
+        "term": "training steps",
+        "correct": true
+    },
+    {
+        "term": "valid one",
+        "correct": false
+    },
+    {
+        "term": "lower rank",
+        "correct": true
+    },
+    {
+        "term": "Google Cloud",
+        "correct": false
+    },
+    {
+        "term": "labels distribution",
+        "correct": true
+    },
+    {
+        "term": "maximum function",
+        "correct": true
+    },
+    {
+        "term": "accuracy statistics",
+        "correct": true
+    },
+    {
+        "term": "BPTT",
+        "correct": true
+    },
+    {
+        "term": "model inputs",
+        "correct": true
+    },
+    {
+        "term": "pca",
+        "correct": true
+    },
+    {
+        "term": "TFGAN",
+        "correct": true
+    },
+    {
+        "term": "gamma weight",
+        "correct": true
+    },
+    {
+        "term": "propagation step",
+        "correct": true
+    },
+    {
+        "term": "good approximation",
+        "correct": true
+    },
+    {
+        "term": "optional bias",
+        "correct": true
+    },
+    {
+        "term": "amsgrad",
+        "correct": true
+    },
+    {
+        "term": "recall array",
+        "correct": true
+    },
+    {
+        "term": "oom",
+        "correct": true
+    },
+    {
+        "term": "tuple structure",
+        "correct": false
+    },
+    {
+        "term": "bias matrices",
+        "correct": true
+    },
+    {
+        "term": "Multiply layer",
+        "correct": true
+    },
+    {
+        "term": "affine parameters",
+        "correct": true
+    },
+    {
+        "term": "mode model",
+        "correct": false
+    },
+    {
+        "term": "input weight",
+        "correct": true
+    },
+    {
+        "term": "second aspect",
+        "correct": false
+    },
+    {
+        "term": "GPU Devices",
+        "correct": true
+    },
+    {
+        "term": "distributed storage",
+        "correct": true
+    },
+    {
+        "term": "triplet loss",
+        "correct": true
+    },
+    {
+        "term": "l2 norm",
+        "correct": true
+    },
+    {
+        "term": "fail training",
+        "correct": true
+    },
+    {
+        "term": "fake batch",
+        "correct": true
+    },
+    {
+        "term": "hyperparameter",
+        "correct": true
+    },
+    {
+        "term": "algorithmic part",
+        "correct": false
+    },
+    {
+        "term": "parent graph",
+        "correct": true
+    },
+    {
+        "term": "normalized text",
+        "correct": true
+    },
+    {
+        "term": "third image",
+        "correct": false
+    },
+    {
+        "term": "training sessions",
+        "correct": true
+    },
+    {
+        "term": "Matrix multiplication",
+        "correct": true
+    },
+    {
+        "term": "Restored model",
+        "correct": true
+    },
+    {
+        "term": "LAPACK",
+        "correct": true
+    },
+    {
+        "term": "PRED",
+        "correct": true
+    },
+    {
+        "term": "Recurrent Network",
+        "correct": true
+    },
+    {
+        "term": "termination condition",
+        "correct": true
+    },
+    {
+        "term": "Input image",
+        "correct": true
+    },
+    {
+        "term": "average loss",
+        "correct": true
+    },
+    {
+        "term": "unit simplex",
+        "correct": true
+    },
+    {
+        "term": "contrib",
+        "correct": false
+    },
+    {
+        "term": "Preprocessing",
+        "correct": true
+    },
+    {
+        "term": "naming inputs",
+        "correct": false
+    },
+    {
+        "term": "full gradient",
+        "correct": true
+    },
+    {
+        "term": "Sequence models",
+        "correct": true
+    },
+    {
+        "term": "Pathwise",
+        "correct": true
+    },
+    {
+        "term": "feed values",
+        "correct": true
+    },
+    {
+        "term": "NN",
+        "correct": true
+    },
+    {
+        "term": "fid",
+        "correct": false
+    },
+    {
+        "term": "RRELU",
+        "correct": true
+    },
+    {
+        "term": "continuing training",
+        "correct": true
+    },
+    {
+        "term": "Recht",
+        "correct": false
+    },
+    {
+        "term": "Binary Classification",
+        "correct": true
+    },
+    {
+        "term": "masking value",
+        "correct": true
+    },
+    {
+        "term": "sspmm",
+        "correct": false
+    },
+    {
+        "term": "convert tensor",
+        "correct": false
+    },
+    {
+        "term": "wave samples",
+        "correct": true
+    },
+    {
+        "term": "minibatch training",
+        "correct": true
+    },
+    {
+        "term": "example number",
+        "correct": false
+    },
+    {
+        "term": "loading embedding",
+        "correct": true
+    },
+    {
+        "term": "activation equal",
+        "correct": false
+    },
+    {
+        "term": "categorical values",
+        "correct": true
+    },
+    {
+        "term": "input signal",
+        "correct": true
+    },
+    {
+        "term": "interpolant",
+        "correct": true
+    },
+    {
+        "term": "distribution parameter",
+        "correct": true
+    },
+    {
+        "term": "opencl",
+        "correct": true
+    },
+    {
+        "term": "Model Function",
+        "correct": true
+    },
+    {
+        "term": "input loss",
+        "correct": true
+    },
+    {
+        "term": "input trying",
+        "correct": false
+    },
+    {
+        "term": "collective function",
+        "correct": true
+    },
+    {
+        "term": "Scalar sum",
+        "correct": true
+    },
+    {
+        "term": "primary distributions",
+        "correct": true
+    },
+    {
+        "term": "Interpolation mode",
+        "correct": true
+    },
+    {
+        "term": "Entropy loss",
+        "correct": true
+    },
+    {
+        "term": "graph model",
+        "correct": true
+    },
+    {
+        "term": "image classifier",
+        "correct": true
+    },
+    {
+        "term": "packt",
+        "correct": false
+    },
+    {
+        "term": "continuous distributions",
+        "correct": true
+    },
+    {
+        "term": "updated gradient",
+        "correct": true
+    },
+    {
+        "term": "mean estimate",
+        "correct": true
+    },
+    {
+        "term": "word frequencies",
+        "correct": true
+    },
+    {
+        "term": "multiple series",
+        "correct": false
+    },
+    {
+        "term": "best model",
+        "correct": true
+    },
+    {
+        "term": "real interval",
+        "correct": false
+    },
+    {
+        "term": "Export classifier",
+        "correct": false
+    },
+    {
+        "term": "Sender rank",
+        "correct": true
+    },
+    {
+        "term": "matching rank",
+        "correct": true
+    },
+    {
+        "term": "recommended number",
+        "correct": false
+    },
+    {
+        "term": "defun",
+        "correct": false
+    },
+    {
+        "term": "Time step",
+        "correct": true
+    },
+    {
+        "term": "batch normalization",
+        "correct": true
+    },
+    {
+        "term": "minimum rank",
+        "correct": true
+    },
+    {
+        "term": "name tensor",
+        "correct": true
+    },
+    {
+        "term": "random sequence",
+        "correct": true
+    },
+    {
+        "term": "weight parameter",
+        "correct": true
+    },
+    {
+        "term": "pre training",
+        "correct": true
+    },
+    {
+        "term": "auc value",
+        "correct": true
+    },
+    {
+        "term": "squared loss",
+        "correct": true
+    },
+    {
+        "term": "Rectified Linear Units",
+        "correct": true
+    },
+    {
+        "term": "pooling layers",
+        "correct": true
+    },
+    {
+        "term": "precompute",
+        "correct": true
+    },
+    {
+        "term": "final parameters",
+        "correct": false
+    },
+    {
+        "term": "output arrays",
+        "correct": true
+    },
+    {
+        "term": "generic data",
+        "correct": true
+    },
+    {
+        "term": "dumped tensor",
+        "correct": true
+    },
+    {
+        "term": "Redmon",
+        "correct": false
+    },
+    {
+        "term": "probability distributions",
+        "correct": true
+    },
+    {
+        "term": "square function",
+        "correct": true
+    },
+    {
+        "term": "encoded labels",
+        "correct": true
+    },
+    {
+        "term": "Count number",
+        "correct": false
+    },
+    {
+        "term": "pairwise",
+        "correct": true
+    },
+    {
+        "term": "Data Loading",
+        "correct": true
+    },
+    {
+        "term": "Pareto distribution",
+        "correct": true
+    },
+    {
+        "term": "Gamma distribution",
+        "correct": true
+    },
+    {
+        "term": "data pipeline",
+        "correct": true
+    },
+    {
+        "term": "weight quantization",
+        "correct": true
+    },
+    {
+        "term": "absolute accuracy",
+        "correct": true
+    },
+    {
+        "term": "feature columns",
+        "correct": true
+    },
+    {
+        "term": "one job",
+        "correct": false
+    },
+    {
+        "term": "dropout value",
+        "correct": true
+    },
+    {
+        "term": "fixed shape",
+        "correct": true
+    },
+    {
+        "term": "optimizers",
+        "correct": true
+    },
+    {
+        "term": "divison",
+        "correct": false
+    },
+    {
+        "term": "input feature",
+        "correct": true
+    },
+    {
+        "term": "round function",
+        "correct": true
+    },
+    {
+        "term": "plot image",
+        "correct": true
+    },
+    {
+        "term": "operation time",
+        "correct": true
+    },
+    {
+        "term": "RF parameters",
+        "correct": true
+    },
+    {
+        "term": "s32",
+        "correct": false
+    },
+    {
+        "term": "evaluation model",
+        "correct": true
+    },
+    {
+        "term": "data manageable",
+        "correct": false
+    },
+    {
+        "term": "convolutional",
+        "correct": true
+    },
+    {
+        "term": "master node",
+        "correct": true
+    },
+    {
+        "term": "CoreML models",
+        "correct": true
+    },
+    {
+        "term": "full graph",
+        "correct": true
+    },
+    {
+        "term": "double column",
+        "correct": false
+    },
+    {
+        "term": "next checkpoint",
+        "correct": true
+    },
+    {
+        "term": "computed gradient",
+        "correct": true
+    },
+    {
+        "term": "allocation point",
+        "correct": true
+    },
+    {
+        "term": "Gradient checking",
+        "correct": true
+    },
+    {
+        "term": "compilation process",
+        "correct": true
+    },
+    {
+        "term": "example model",
+        "correct": false
+    },
+    {
+        "term": "mdp",
+        "correct": false
+    },
+    {
+        "term": "squeeze operation",
+        "correct": true
+    },
+    {
+        "term": "Xmx",
+        "correct": false
+    },
+    {
+        "term": "maximum shape",
+        "correct": true
+    },
+    {
+        "term": "negative trials",
+        "correct": true
+    },
+    {
+        "term": "logistic distribution",
+        "correct": true
+    },
+    {
+        "term": "convolution window",
+        "correct": true
+    },
+    {
+        "term": "ML model",
+        "correct": true
+    },
+    {
+        "term": "adjusting models",
+        "correct": true
+    },
+    {
+        "term": "data sparsity",
+        "correct": true
+    },
+    {
+        "term": "tuple elements",
+        "correct": false
+    },
+    {
+        "term": "Parameter Server",
+        "correct": true
+    },
+    {
+        "term": "pacman",
+        "correct": false
+    },
+    {
+        "term": "SELU",
+        "correct": true
+    },
+    {
+        "term": "UNK",
+        "correct": true
+    },
+    {
+        "term": "corresponding shapes",
+        "correct": true
+    },
+    {
+        "term": "partial runs",
+        "correct": true
+    },
+    {
+        "term": "Bernoulli trials",
+        "correct": true
+    },
+    {
+        "term": "ifft",
+        "correct": false
+    },
+    {
+        "term": "pooling ratio",
+        "correct": true
+    },
+    {
+        "term": "counter variable",
+        "correct": true
+    },
+    {
+        "term": "Optional tensor",
+        "correct": true
+    },
+    {
+        "term": "sampling randomly",
+        "correct": true
+    },
+    {
+        "term": "weighting function",
+        "correct": true
+    },
+    {
+        "term": "dimension length",
+        "correct": true
+    },
+    {
+        "term": "label one",
+        "correct": false
+    },
+    {
+        "term": "optional randomization",
+        "correct": true
+    },
+    {
+        "term": "sparse features",
+        "correct": true
+    },
+    {
+        "term": "dense results",
+        "correct": true
+    },
+    {
+        "term": "Add matrix",
+        "correct": false
+    },
+    {
+        "term": "Importance sampling",
+        "correct": true
+    },
+    {
+        "term": "evaluate function",
+        "correct": true
+    },
+    {
+        "term": "probability densities",
+        "correct": true
+    },
+    {
+        "term": "Random array",
+        "correct": false
+    },
+    {
+        "term": "Keras guide",
+        "correct": true
+    },
+    {
+        "term": "reduced Tensor",
+        "correct": true
+    },
+    {
+        "term": "visual example",
+        "correct": false
+    },
+    {
+        "term": "Probability Mass",
+        "correct": true
+    },
+    {
+        "term": "unigram",
+        "correct": true
+    },
+    {
+        "term": "computation graphs",
+        "correct": true
+    },
+    {
+        "term": "batch elements",
+        "correct": true
+    },
+    {
+        "term": "inconsistent shapes",
+        "correct": true
+    },
+    {
+        "term": "vector element",
+        "correct": true
+    },
+    {
+        "term": "NWC",
+        "correct": true
+    },
+    {
+        "term": "permutation operation",
+        "correct": true
+    },
+    {
+        "term": "supported device",
+        "correct": false
+    },
+    {
+        "term": "deterministic order",
+        "correct": true
+    },
+    {
+        "term": "edge padding",
+        "correct": true
+    },
+    {
+        "term": "TensorRT",
+        "correct": true
+    },
+    {
+        "term": "Run inference",
+        "correct": false
+    },
+    {
+        "term": "identity operator",
+        "correct": true
+    },
+    {
+        "term": "building input",
+        "correct": false
+    },
+    {
+        "term": "geometric distribution",
+        "correct": true
+    },
+    {
+        "term": "input images",
+        "correct": true
+    },
+    {
+        "term": "bin values",
+        "correct": true
+    },
+    {
+        "term": "binary classifier",
+        "correct": true
+    },
+    {
+        "term": "circular padding",
+        "correct": true
+    },
+    {
+        "term": "arbitrary tensors",
+        "correct": false
+    },
+    {
+        "term": "sequential manner",
+        "correct": false
+    },
+    {
+        "term": "Density Modeling",
+        "correct": true
+    },
+    {
+        "term": "GPU scenarios",
+        "correct": false
+    },
+    {
+        "term": "series length",
+        "correct": true
+    },
+    {
+        "term": "canonical ordering",
+        "correct": true
+    },
+    {
+        "term": "sequence length",
+        "correct": true
+    },
+    {
+        "term": "treebank",
+        "correct": true
+    },
+    {
+        "term": "Model Parameters",
+        "correct": true
+    },
+    {
+        "term": "CRF",
+        "correct": true
+    },
+    {
+        "term": "streaming value",
+        "correct": true
+    },
+    {
+        "term": "reduction occurs",
+        "correct": false
+    },
+    {
+        "term": "transfer learning",
+        "correct": true
+    },
+    {
+        "term": "pipeline optimization",
+        "correct": true
+    },
+    {
+        "term": "normalization part",
+        "correct": false
+    },
+    {
+        "term": "Layer normalization",
+        "correct": true
+    },
+    {
+        "term": "Weight parameter",
+        "correct": true
+    },
+    {
+        "term": "Data normalization",
+        "correct": true
+    },
+    {
+        "term": "generalized contraction",
+        "correct": true
+    },
+    {
+        "term": "Real Images",
+        "correct": false
+    },
+    {
+        "term": "sample field",
+        "correct": false
+    },
+    {
+        "term": "global ratio",
+        "correct": true
+    },
+    {
+        "term": "input layers",
+        "correct": true
+    },
+    {
+        "term": "CuDNNGRU",
+        "correct": true
+    },
+    {
+        "term": "update messages",
+        "correct": false
+    },
+    {
+        "term": "STN",
+        "correct": true
+    },
+    {
+        "term": "unitary operator",
+        "correct": false
+    },
+    {
+        "term": "summary Tensor",
+        "correct": true
+    },
+    {
+        "term": "output vertex",
+        "correct": true
+    },
+    {
+        "term": "epsilon values",
+        "correct": true
+    },
+    {
+        "term": "Greff",
+        "correct": false
+    },
+    {
+        "term": "Bias parameter",
+        "correct": true
+    },
+    {
+        "term": "final batch",
+        "correct": true
+    },
+    {
+        "term": "f1 correct",
+        "correct": true
+    },
+    {
+        "term": "reduced values",
+        "correct": false
+    },
+    {
+        "term": "dmax",
+        "correct": false
+    },
+    {
+        "term": "output matrix",
+        "correct": true
+    },
+    {
+        "term": "usually images",
+        "correct": false
+    },
+    {
+        "term": "second loop",
+        "correct": false
+    },
+    {
+        "term": "col2im",
+        "correct": true
+    },
+    {
+        "term": "Keras variable",
+        "correct": true
+    },
+    {
+        "term": "total lines",
+        "correct": false
+    },
+    {
+        "term": "polynomial order",
+        "correct": true
+    },
+    {
+        "term": "variance Tensor",
+        "correct": true
+    },
+    {
+        "term": "next data",
+        "correct": false
+    },
+    {
+        "term": "maximum feature",
+        "correct": true
+    },
+    {
+        "term": "positive weight",
+        "correct": true
+    },
+    {
+        "term": "band matrix",
+        "correct": true
+    },
+    {
+        "term": "dense component",
+        "correct": true
+    },
+    {
+        "term": "regexp",
+        "correct": false
+    },
+    {
+        "term": "erf",
+        "correct": true
+    },
+    {
+        "term": "train batches",
+        "correct": true
+    },
+    {
+        "term": "best path",
+        "correct": false
+    },
+    {
+        "term": "codomain",
+        "correct": false
+    },
+    {
+        "term": "sequential inference",
+        "correct": true
+    },
+    {
+        "term": "unique step",
+        "correct": false
+    },
+    {
+        "term": "small layer",
+        "correct": true
+    },
+    {
+        "term": "max steps",
+        "correct": true
+    },
+    {
+        "term": "restore values",
+        "correct": false
+    },
+    {
+        "term": "collapse dimensions",
+        "correct": true
+    },
+    {
+        "term": "Momentum value",
+        "correct": true
+    },
+    {
+        "term": "differential equations",
+        "correct": true
+    },
+    {
+        "term": "column Keys",
+        "correct": false
+    },
+    {
+        "term": "latent values",
+        "correct": true
+    },
+    {
+        "term": "rotation angle",
+        "correct": false
+    },
+    {
+        "term": "known value",
+        "correct": false
+    },
+    {
+        "term": "training time",
+        "correct": true
+    },
+    {
+        "term": "distributed trainer",
+        "correct": true
+    },
+    {
+        "term": "actual machine",
+        "correct": false
+    },
+    {
+        "term": "total sum",
+        "correct": false
+    },
+    {
+        "term": "label strings",
+        "correct": true
+    },
+    {
+        "term": "improved stability",
+        "correct": true
+    },
+    {
+        "term": "master procedure",
+        "correct": false
+    },
+    {
+        "term": "Xms",
+        "correct": false
+    },
+    {
+        "term": "max number",
+        "correct": false
+    },
+    {
+        "term": "tensor list",
+        "correct": true
+    },
+    {
+        "term": "real values",
+        "correct": true
+    },
+    {
+        "term": "Surrounding scope",
+        "correct": false
+    }
+]

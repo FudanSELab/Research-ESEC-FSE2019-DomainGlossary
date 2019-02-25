@@ -1,0 +1,287 @@
+Accuracy Tensor F
+Activation parameter F
+Autoregressive Flow F
+BPTT T
+BackPropagation T
+Batch Normalization T
+Bernoulli trials T
+Bias parameter F
+Binary Classification T
+Boltzmann machines T
+Bucketized column F
+CRF T
+Contiguous inputs F
+Core Layers F
+CoreML models F
+Cross Entropy T
+CuDNNGRU F
+Data Loading F
+Data normalization F
+Density Modeling F
+Dropout layer F
+Entropy loss F
+GAN Training F
+GPU Devices T
+GPU nodes F
+Gamma distribution T
+Gradient checking F
+Image Transformation F
+Importance sampling T
+Input image F
+Interpolation mode F
+Keras guide F
+Keras variable F
+LAPACK T
+Layer Types F
+Layer normalization F
+Logistic distribution T
+ML model F
+Matrix multiplication T
+Model Function F
+Model Parameters F
+Momentum value F
+Multidimensional indices F
+Multiply layer F
+NN F
+NWC F
+Optional tensor F
+PRED F
+PReLU F
+Parameter Server F
+Pareto distribution T
+Pathwise T
+Preprocessing T
+Probability Mass T
+RF parameters F
+RRELU F
+Rectified Linear Unit T
+Rectified Linear Units T
+Recurrent Network T
+Restored model F
+SELU F
+STN F
+Scalar sum F
+Sender rank F
+Sequence models F
+TBPTT length F
+TFGAN F
+Tensor Methods F
+TensorRT F
+Time step F
+UNK F
+Upsampling3D F
+Weight parameter F
+absolute accuracy F
+accuracy statistics F
+adder function F
+adjusting models F
+aeron channel F
+affine parameters F
+allocation point F
+amsgrad F
+attention cell F
+attention mechanism T 
+auc value T
+average loss F
+axis argument F
+band matrix T
+batch elements F
+batch normalization T
+bernoulli distribution T
+best model F
+bias matrices F
+bias parameter F
+bin values F
+binary classifier T
+canonical ordering F
+categorical values T
+circular padding F
+classification error F
+col2im F
+collapse dimensions F
+collective function T
+compilation process F
+computation graphs F
+computed gradient F
+continuing training F
+continuous distributions F
+convolution window F
+convolutional T
+corresponding shapes F
+counter variable T
+cropped tensor F
+data pipeline F
+data sparsity F
+deep networks F
+dense Tensors F
+dense component F
+dense results F
+dense vectors F
+deterministic order F
+device field F
+differential equations T
+dimension length F
+discrete value T
+distributed storage T
+distributed trainer F
+distribution parameter F
+dropout layers F
+dropout value F
+dumped tensor F
+edge padding F
+encoded labels F
+epsilon values F
+erf T
+evaluate function T
+evaluation model F
+f1 score T
+fail training F
+fake batch F
+fast convergence F
+feature columns F
+feed values F
+feedforward T
+final batch F
+fit function F
+fixed shape F
+full gradient F
+full graph T
+gamma weight F
+generalized contraction F
+generator inputs F
+generic data F
+geometric distribution T
+global ratio F
+good approximation F
+graph model F
+hyperparameter T
+identity matrix T
+identity operator T
+image classifier F
+improved stability F
+inconsistent shapes F
+indexed values F
+initial batch F
+input feature F
+input images F
+input layers F
+input loss F
+input pipeline F
+input signal F
+input weight F
+interpolant T
+l2 norm T
+label strings F
+labels distribution F
+labels source F
+latent values F
+leakyrelu F
+linear activation F
+linear view F
+loading embedding F
+logistic distribution T
+lower rank F
+masking value F
+master node F
+matching rank F
+max steps F
+maximum feature F
+maximum function F
+maximum shape F
+mean estimate F
+memcpy F
+minibatch training F
+minimum rank F
+model inputs F
+momentum rate F
+name tensor F
+negative trials F
+network connectivity F
+network storage F
+next checkpoint F
+normalized text F
+normalizing flow F
+oom T
+opencl T
+operation time T
+optimization results F
+optimizers F
+optional bias F
+optional randomization F
+outcome matrices F
+output activations F
+output arrays F
+output columns F
+output matrix F
+output vertex F
+pairwise T
+parent graph F
+partial runs F
+passthrough T
+pca T
+permutation operation F
+pipeline optimization F
+plot image F
+polynomial order F
+pooling layers F
+pooling ratio F
+positive weight F
+pre training F
+precision function F
+precompute F
+prediction time F
+preprocess T
+pretrainable layers F
+primary distributions F
+probability densities T
+probability density T
+probability distributions T
+probability mass function T
+propagation step F
+random scales F
+random sequence F
+real values F
+recall array F
+reconstruction probabilities F
+reduce index F
+reduced Tensor F
+resulting operation F
+round function T
+sampling randomly F
+sequence length F
+sequential inference F
+series length F
+small layer F
+sparse features F
+sparse indices F
+square function T
+squared loss F
+squeeze operation F
+static shape F
+streaming value F
+sum operator F
+summary Tensor F
+summation index F
+tensor list F
+termination condition F
+train batches F
+training sessions F
+training specification F
+training steps F
+training time F
+transfer learning T
+treebank T
+triplet loss T
+type tensor F
+unigram T
+unit simplex T
+update parameters F
+updated gradient F
+variable indices F
+variance Tensor F
+vector element F
+wave samples F
+weight parameter F
+weight quantization F
+weighting function T
+word frequencies T

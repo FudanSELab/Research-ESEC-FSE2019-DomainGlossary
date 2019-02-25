@@ -1,0 +1,1922 @@
+[
+    {
+        "term1": "jira",
+        "term2": "Jira",
+        "correct": true
+    },
+    {
+        "term1": "ACL",
+        "term2": "ACLs",
+        "correct": true
+    },
+    {
+        "term1": "split size",
+        "term2": "Split size",
+        "correct": true
+    },
+    {
+        "term1": "JIRAs",
+        "term2": "JIRA",
+        "correct": true
+    },
+    {
+        "term1": "ACL",
+        "term2": "Acls",
+        "correct": true
+    },
+    {
+        "term1": "rr",
+        "term2": "RR",
+        "correct": true
+    },
+    {
+        "term1": "dfs",
+        "term2": "DFS",
+        "correct": true
+    },
+    {
+        "term1": "time range",
+        "term2": "time ranges",
+        "correct": true
+    },
+    {
+        "term1": "conf",
+        "term2": "Conf",
+        "correct": true
+    },
+    {
+        "term1": "Coprocessors",
+        "term2": "Coprocessor",
+        "correct": true
+    },
+    {
+        "term1": "coprocessors",
+        "term2": "Coprocessor",
+        "correct": true
+    },
+    {
+        "term1": "column prefix",
+        "term2": "column prefixes",
+        "correct": true
+    },
+    {
+        "term1": "ssh",
+        "term2": "SSH",
+        "correct": true
+    },
+    {
+        "term1": "table permissions",
+        "term2": "table permission",
+        "correct": true
+    },
+    {
+        "term1": "system table",
+        "term2": "System table",
+        "correct": true
+    },
+    {
+        "term1": "Bloom filter",
+        "term2": "Bloom Filters",
+        "correct": true
+    },
+    {
+        "term1": "acl",
+        "term2": "ACLs",
+        "correct": true
+    },
+    {
+        "term1": "CONF",
+        "term2": "Conf",
+        "correct": true
+    },
+    {
+        "term1": "rpc call",
+        "term2": "RPC call",
+        "correct": true
+    },
+    {
+        "term1": "table names",
+        "term2": "table named",
+        "correct": true
+    },
+    {
+        "term1": "metrics2",
+        "term2": "Metrics2",
+        "correct": true
+    },
+    {
+        "term1": "creating Table",
+        "term2": "Create Table",
+        "correct": true
+    },
+    {
+        "term1": "committer",
+        "term2": "committers",
+        "correct": true
+    },
+    {
+        "term1": "SSD",
+        "term2": "ssd",
+        "correct": true
+    },
+    {
+        "term1": "store files",
+        "term2": "Store file",
+        "correct": true
+    },
+    {
+        "term1": "encryption key",
+        "term2": "encryption keys",
+        "correct": true
+    },
+    {
+        "term1": "table descriptors",
+        "term2": "table descriptor",
+        "correct": true
+    },
+    {
+        "term1": "storage policy",
+        "term2": "storage policies",
+        "correct": true
+    },
+    {
+        "term1": "Configs",
+        "term2": "conf",
+        "correct": true
+    },
+    {
+        "term1": "Protobuf",
+        "term2": "protobuf",
+        "correct": true
+    },
+    {
+        "term1": "jdo",
+        "term2": "JDO",
+        "correct": true
+    },
+    {
+        "term1": "coprocessors",
+        "term2": "coprocessor",
+        "correct": true
+    },
+    {
+        "term1": "rr",
+        "term2": "RRs",
+        "correct": true
+    },
+    {
+        "term1": "UGI",
+        "term2": "ugi",
+        "correct": true
+    },
+    {
+        "term1": "column statistics",
+        "term2": "Column Statistics",
+        "correct": true
+    },
+    {
+        "term1": "Mapreduce",
+        "term2": "mapred",
+        "correct": false
+    },
+    {
+        "term1": "Object Store",
+        "term2": "object store",
+        "correct": true
+    },
+    {
+        "term1": "Timeline store",
+        "term2": "timeline store",
+        "correct": true
+    },
+    {
+        "term1": "metrics system",
+        "term2": "Metrics system",
+        "correct": true
+    },
+    {
+        "term1": "retry policy",
+        "term2": "Retry policy",
+        "correct": true
+    },
+    {
+        "term1": "storage policy",
+        "term2": "Storage Policy",
+        "correct": true
+    },
+    {
+        "term1": "Block size",
+        "term2": "block size",
+        "correct": true
+    },
+    {
+        "term1": "Bloom filters",
+        "term2": "Bloom Filters",
+        "correct": true
+    },
+    {
+        "term1": "column names",
+        "term2": "columns names",
+        "correct": true
+    },
+    {
+        "term1": "Column Statistics",
+        "term2": "Column statistics",
+        "correct": true
+    },
+    {
+        "term1": "acls",
+        "term2": "Acls",
+        "correct": true
+    },
+    {
+        "term1": "HBASE",
+        "term2": "hbase",
+        "correct": true
+    },
+    {
+        "term1": "Bloom filter",
+        "term2": "Bloom Filter",
+        "correct": true
+    },
+    {
+        "term1": "RPC",
+        "term2": "RPCs",
+        "correct": true
+    },
+    {
+        "term1": "bloom filters",
+        "term2": "Bloom Filter",
+        "correct": true
+    },
+    {
+        "term1": "appender",
+        "term2": "Appender",
+        "correct": true
+    },
+    {
+        "term1": "Hadoop",
+        "term2": "hadoop",
+        "correct": true
+    },
+    {
+        "term1": "jobid",
+        "term2": "JobID",
+        "correct": true
+    },
+    {
+        "term1": "RDBMS",
+        "term2": "rdbms",
+        "correct": true
+    },
+    {
+        "term1": "UDF",
+        "term2": "udf",
+        "correct": true
+    },
+    {
+        "term1": "data node",
+        "term2": "data nodes",
+        "correct": true
+    },
+    {
+        "term1": "table scan",
+        "term2": "Table Scan",
+        "correct": true
+    },
+    {
+        "term1": "Bloom filters",
+        "term2": "Bloom filter",
+        "correct": true
+    },
+    {
+        "term1": "storage formats",
+        "term2": "storage format",
+        "correct": true
+    },
+    {
+        "term1": "table integrity",
+        "term2": "Table integrity",
+        "correct": true
+    },
+    {
+        "term1": "memory state",
+        "term2": "memory states",
+        "correct": true
+    },
+    {
+        "term1": "NNs",
+        "term2": "NN",
+        "correct": true
+    },
+    {
+        "term1": "bloom filter",
+        "term2": "bloom filters",
+        "correct": true
+    },
+    {
+        "term1": "S3",
+        "term2": "s3",
+        "correct": true
+    },
+    {
+        "term1": "SVN",
+        "term2": "svn",
+        "correct": true
+    },
+    {
+        "term1": "CONF",
+        "term2": "configs",
+        "correct": true
+    },
+    {
+        "term1": "UDFs",
+        "term2": "udf",
+        "correct": true
+    },
+    {
+        "term1": "metric names",
+        "term2": "metrics names",
+        "correct": true
+    },
+    {
+        "term1": "Output table",
+        "term2": "output table",
+        "correct": true
+    },
+    {
+        "term1": "output paths",
+        "term2": "output path",
+        "correct": true
+    },
+    {
+        "term1": "Amazon Web Services",
+        "term2": "AWS",
+        "correct": true
+    },
+    {
+        "term1": "storage type",
+        "term2": "storage types",
+        "correct": true
+    },
+    {
+        "term1": "Data Size",
+        "term2": "Data size",
+        "correct": true
+    },
+    {
+        "term1": "table properties",
+        "term2": "table property",
+        "correct": true
+    },
+    {
+        "term1": "Avro",
+        "term2": "avro",
+        "correct": true
+    },
+    {
+        "term1": "jira",
+        "term2": "JIRA",
+        "correct": true
+    },
+    {
+        "term1": "Compactor",
+        "term2": "compactor",
+        "correct": true
+    },
+    {
+        "term1": "partition names",
+        "term2": "partition name",
+        "correct": true
+    },
+    {
+        "term1": "Committer",
+        "term2": "committer",
+        "correct": true
+    },
+    {
+        "term1": "Accumulo",
+        "term2": "accumulo",
+        "correct": true
+    },
+    {
+        "term1": "Coprocessors",
+        "term2": "coprocessor",
+        "correct": true
+    },
+    {
+        "term1": "acls",
+        "term2": "ACLs",
+        "correct": true
+    },
+    {
+        "term1": "mapreduce",
+        "term2": "mapred",
+        "correct": true
+    },
+    {
+        "term1": "output directory",
+        "term2": "output directories",
+        "correct": true
+    },
+    {
+        "term1": "metadata store",
+        "term2": "Metadata Store",
+        "correct": true
+    },
+    {
+        "term1": "storage policies",
+        "term2": "Storage Policy",
+        "correct": true
+    },
+    {
+        "term1": "container request",
+        "term2": "Container request",
+        "correct": true
+    },
+    {
+        "term1": "selected files",
+        "term2": "select files",
+        "correct": true
+    },
+    {
+        "term1": "Record reader",
+        "term2": "record reader",
+        "correct": true
+    },
+    {
+        "term1": "zookeeper",
+        "term2": "Zookeeper",
+        "correct": true
+    },
+    {
+        "term1": "SLF4J",
+        "term2": "slf4j",
+        "correct": true
+    },
+    {
+        "term1": "memory state",
+        "term2": "Memory state",
+        "correct": true
+    },
+    {
+        "term1": "acls",
+        "term2": "acl",
+        "correct": true
+    },
+    {
+        "term1": "writables",
+        "term2": "Writables",
+        "correct": true
+    },
+    {
+        "term1": "Input format",
+        "term2": "input format",
+        "correct": true
+    },
+    {
+        "term1": "Column Family",
+        "term2": "column family",
+        "correct": true
+    },
+    {
+        "term1": "column reference",
+        "term2": "column references",
+        "correct": true
+    },
+    {
+        "term1": "input split",
+        "term2": "input splits",
+        "correct": true
+    },
+    {
+        "term1": "Table descriptor",
+        "term2": "table descriptor",
+        "correct": true
+    },
+    {
+        "term1": "column statistics",
+        "term2": "Column statistics",
+        "correct": true
+    },
+    {
+        "term1": "Bloom Filters",
+        "term2": "Bloom Filter",
+        "correct": true
+    },
+    {
+        "term1": "Token cache",
+        "term2": "token cache",
+        "correct": true
+    },
+    {
+        "term1": "Structs",
+        "term2": "structs",
+        "correct": true
+    },
+    {
+        "term1": "acls",
+        "term2": "ACL",
+        "correct": true
+    },
+    {
+        "term1": "Put request",
+        "term2": "PUT request",
+        "correct": true
+    },
+    {
+        "term1": "Composite service",
+        "term2": "composite service",
+        "correct": true
+    },
+    {
+        "term1": "Hadoop Distributed File System",
+        "term2": "HDFS",
+        "correct": true
+    },
+    {
+        "term1": "hive metastore",
+        "term2": "Hive metastore",
+        "correct": true
+    },
+    {
+        "term1": "coprocessors",
+        "term2": "Coprocessors",
+        "correct": true
+    },
+    {
+        "term1": "Column names",
+        "term2": "columns names",
+        "correct": true
+    },
+    {
+        "term1": "Hadoop Distributed File System",
+        "term2": "hdfs",
+        "correct": true
+    },
+    {
+        "term1": "Admin",
+        "term2": "ADMIN",
+        "correct": true
+    },
+    {
+        "term1": "bloom filters",
+        "term2": "Bloom Filters",
+        "correct": true
+    },
+    {
+        "term1": "retry caller",
+        "term2": "Retry caller",
+        "correct": true
+    },
+    {
+        "term1": "UDFs",
+        "term2": "UDF",
+        "correct": true
+    },
+    {
+        "term1": "column qualifier",
+        "term2": "column qualifiers",
+        "correct": true
+    },
+    {
+        "term1": "Partition values",
+        "term2": "partition values",
+        "correct": true
+    },
+    {
+        "term1": "HBASE",
+        "term2": "Hbase",
+        "correct": true
+    },
+    {
+        "term1": "Configs",
+        "term2": "CONF",
+        "correct": true
+    },
+    {
+        "term1": "request size",
+        "term2": "Request size",
+        "correct": true
+    },
+    {
+        "term1": "Decimal type",
+        "term2": "decimal type",
+        "correct": true
+    },
+    {
+        "term1": "Memory state",
+        "term2": "memory states",
+        "correct": true
+    },
+    {
+        "term1": "table quotas",
+        "term2": "table quota",
+        "correct": true
+    },
+    {
+        "term1": "counter name",
+        "term2": "counter names",
+        "correct": true
+    },
+    {
+        "term1": "Hive Metastore",
+        "term2": "Hive metastore",
+        "correct": true
+    },
+    {
+        "term1": "column names",
+        "term2": "Column names",
+        "correct": true
+    },
+    {
+        "term1": "output keys",
+        "term2": "output key",
+        "correct": true
+    },
+    {
+        "term1": "metric info",
+        "term2": "metrics info",
+        "correct": true
+    },
+    {
+        "term1": "store file",
+        "term2": "Store file",
+        "correct": true
+    },
+    {
+        "term1": "plugin",
+        "term2": "Plugin",
+        "correct": true
+    },
+    {
+        "term1": "cgroups",
+        "term2": "cgroup",
+        "correct": true
+    },
+    {
+        "term1": "create table",
+        "term2": "Create Table",
+        "correct": true
+    },
+    {
+        "term1": "ACL",
+        "term2": "acl",
+        "correct": true
+    },
+    {
+        "term1": "Cache pool",
+        "term2": "cache pool",
+        "correct": true
+    },
+    {
+        "term1": "RR",
+        "term2": "RRs",
+        "correct": true
+    },
+    {
+        "term1": "conf",
+        "term2": "CONF",
+        "correct": true
+    },
+    {
+        "term1": "ql",
+        "term2": "query level",
+        "correct": false
+    },
+    {
+        "term1": "admin",
+        "term2": "ADMIN",
+        "correct": true
+    },
+    {
+        "term1": "client policy",
+        "term2": "Client policy",
+        "correct": true
+    },
+    {
+        "term1": "jira",
+        "term2": "JIRAs",
+        "correct": true
+    },
+    {
+        "term1": "bloom filters",
+        "term2": "Bloom filter",
+        "correct": true
+    },
+    {
+        "term1": "acl",
+        "term2": "Acls",
+        "correct": true
+    },
+    {
+        "term1": "database names",
+        "term2": "database name",
+        "correct": true
+    },
+    {
+        "term1": "configs",
+        "term2": "configration",
+        "correct": true
+    },
+    {
+        "term1": "configs",
+        "term2": "Configs",
+        "correct": true
+    },
+    {
+        "term1": "hfiles",
+        "term2": "hfile",
+        "correct": true
+    },
+    {
+        "term1": "xdoc",
+        "term2": "xdocs",
+        "correct": true
+    },
+    {
+        "term1": "protoc",
+        "term2": "Protos",
+        "correct": false
+    },
+    {
+        "term1": "Metrics Subsystem",
+        "term2": "metrics subsystem",
+        "correct": true
+    },
+    {
+        "term1": "Corrupted Files",
+        "term2": "corrupt files",
+        "correct": true
+    },
+    {
+        "term1": "github",
+        "term2": "Github",
+        "correct": true
+    },
+    {
+        "term1": "failure info",
+        "term2": "Failure info",
+        "correct": true
+    },
+    {
+        "term1": "data size",
+        "term2": "Data Size",
+        "correct": true
+    },
+    {
+        "term1": "Storage account",
+        "term2": "Storage Account",
+        "correct": true
+    },
+    {
+        "term1": "JobID",
+        "term2": "JOBID",
+        "correct": true
+    },
+    {
+        "term1": "dist",
+        "term2": "Dist",
+        "correct": true
+    },
+    {
+        "term1": "Appender",
+        "term2": "appenders",
+        "correct": true
+    },
+    {
+        "term1": "backported",
+        "term2": "backport",
+        "correct": true
+    },
+    {
+        "term1": "s3a",
+        "term2": "S3a",
+        "correct": true
+    },
+    {
+        "term1": "Data Encryption",
+        "term2": "Data encryption",
+        "correct": true
+    },
+    {
+        "term1": "input directories",
+        "term2": "input directory",
+        "correct": true
+    },
+    {
+        "term1": "add value",
+        "term2": "Add value",
+        "correct": true
+    },
+    {
+        "term1": "bloom filter",
+        "term2": "Bloom filters",
+        "correct": true
+    },
+    {
+        "term1": "ADL",
+        "term2": "adl",
+        "correct": true
+    },
+    {
+        "term1": "customer number",
+        "term2": "Customer number",
+        "correct": true
+    },
+    {
+        "term1": "tarball",
+        "term2": "Tarball",
+        "correct": true
+    },
+    {
+        "term1": "High availability",
+        "term2": "high availability",
+        "correct": true
+    },
+    {
+        "term1": "reserved memory",
+        "term2": "RMs",
+        "correct": false
+    },
+    {
+        "term1": "TEZ",
+        "term2": "tez",
+        "correct": true
+    },
+    {
+        "term1": "ADMIN",
+        "term2": "admins",
+        "correct": true
+    },
+    {
+        "term1": "metrics source",
+        "term2": "Metrics Sources",
+        "correct": true
+    },
+    {
+        "term1": "confs",
+        "term2": "configuraiton",
+        "correct": true
+    },
+    {
+        "term1": "Configs",
+        "term2": "Conf",
+        "correct": true
+    },
+    {
+        "term1": "log directories",
+        "term2": "Log directory",
+        "correct": true
+    },
+    {
+        "term1": "aws",
+        "term2": "Amazon Web Services",
+        "correct": true
+    },
+    {
+        "term1": "Table alias",
+        "term2": "table alias",
+        "correct": true
+    },
+    {
+        "term1": "backport",
+        "term2": "backports",
+        "correct": true
+    },
+    {
+        "term1": "Admins",
+        "term2": "Admin",
+        "correct": true
+    },
+    {
+        "term1": "RR",
+        "term2": "random row",
+        "correct": false
+    },
+    {
+        "term1": "given token",
+        "term2": "given Token",
+        "correct": true
+    },
+    {
+        "term1": "Backports",
+        "term2": "backports",
+        "correct": true
+    },
+    {
+        "term1": "Ugi",
+        "term2": "ugi",
+        "correct": true
+    },
+    {
+        "term1": "log directories",
+        "term2": "log directory",
+        "correct": true
+    },
+    {
+        "term1": "webapp",
+        "term2": "Webapp",
+        "correct": true
+    },
+    {
+        "term1": "Log4j",
+        "term2": "log4j",
+        "correct": true
+    },
+    {
+        "term1": "PUT request",
+        "term2": "puts request",
+        "correct": true
+    },
+    {
+        "term1": "Table alias",
+        "term2": "table aliases",
+        "correct": true
+    },
+    {
+        "term1": "Log4J",
+        "term2": "Log4j",
+        "correct": true
+    },
+    {
+        "term1": "compressed blocks",
+        "term2": "Compressed blocks",
+        "correct": true
+    },
+    {
+        "term1": "table links",
+        "term2": "table link",
+        "correct": true
+    },
+    {
+        "term1": "fetch table",
+        "term2": "Fetch table",
+        "correct": true
+    },
+    {
+        "term1": "Expert level",
+        "term2": "expert level",
+        "correct": true
+    },
+    {
+        "term1": "Typed bytes",
+        "term2": "typed bytes",
+        "correct": true
+    },
+    {
+        "term1": "full table",
+        "term2": "Full table",
+        "correct": true
+    },
+    {
+        "term1": "lzop",
+        "term2": "Lzop",
+        "correct": true
+    },
+    {
+        "term1": "Column Names",
+        "term2": "Column names",
+        "correct": true
+    },
+    {
+        "term1": "Column Qualifier",
+        "term2": "CQ",
+        "correct": true
+    },
+    {
+        "term1": "yarn registry",
+        "term2": "Yarn Registry",
+        "correct": true
+    },
+    {
+        "term1": "Backports",
+        "term2": "Backport",
+        "correct": true
+    },
+    {
+        "term1": "Predicate Pushdown",
+        "term2": "predicate pushdown",
+        "correct": true
+    },
+    {
+        "term1": "existing table",
+        "term2": "existing Table",
+        "correct": true
+    },
+    {
+        "term1": "Jiras",
+        "term2": "JIRAs",
+        "correct": true
+    },
+    {
+        "term1": "row key",
+        "term2": "Row Keys",
+        "correct": true
+    },
+    {
+        "term1": "znode",
+        "term2": "Znode",
+        "correct": true
+    },
+    {
+        "term1": "Primary Filter",
+        "term2": "Primary filter",
+        "correct": true
+    },
+    {
+        "term1": "error rate",
+        "term2": "Error rate",
+        "correct": true
+    },
+    {
+        "term1": "Group information",
+        "term2": "group information",
+        "correct": true
+    },
+    {
+        "term1": "JIRA",
+        "term2": "Jiras",
+        "correct": true
+    },
+    {
+        "term1": "specified table",
+        "term2": "Specify table",
+        "correct": true
+    },
+    {
+        "term1": "corrupted files",
+        "term2": "corrupt files",
+        "correct": true
+    },
+    {
+        "term1": "bucket size",
+        "term2": "Bucket size",
+        "correct": true
+    },
+    {
+        "term1": "table t1",
+        "term2": "TABLE T1",
+        "correct": true
+    },
+    {
+        "term1": "apps",
+        "term2": "appID",
+        "correct": false
+    },
+    {
+        "term1": "cache value",
+        "term2": "caching values",
+        "correct": true
+    },
+    {
+        "term1": "JDOQL",
+        "term2": "jdo",
+        "correct": false
+    },
+    {
+        "term1": "large clusters",
+        "term2": "large cluster",
+        "correct": true
+    },
+    {
+        "term1": "Data Blocks",
+        "term2": "DATA blocks",
+        "correct": true
+    },
+    {
+        "term1": "large cluster",
+        "term2": "Large Clusters",
+        "correct": true
+    },
+    {
+        "term1": "Master Key",
+        "term2": "master key",
+        "correct": true
+    },
+    {
+        "term1": "Data locality",
+        "term2": "data locality",
+        "correct": true
+    },
+    {
+        "term1": "primary filters",
+        "term2": "primary filter",
+        "correct": true
+    },
+    {
+        "term1": "input rows",
+        "term2": "input row",
+        "correct": true
+    },
+    {
+        "term1": "odbc",
+        "term2": "ODBC",
+        "correct": true
+    },
+    {
+        "term1": "given list",
+        "term2": "given List",
+        "correct": true
+    },
+    {
+        "term1": "Bloom filters",
+        "term2": "Bloom Filter",
+        "correct": true
+    },
+    {
+        "term1": "libtool",
+        "term2": "libs",
+        "correct": false
+    },
+    {
+        "term1": "entry size",
+        "term2": "Entry size",
+        "correct": true
+    },
+    {
+        "term1": "Encrypted Key",
+        "term2": "encrypted key",
+        "correct": true
+    },
+    {
+        "term1": "Log directory",
+        "term2": "log directory",
+        "correct": true
+    },
+    {
+        "term1": "LZO",
+        "term2": "Lzo",
+        "correct": true
+    },
+    {
+        "term1": "Time ranges",
+        "term2": "time ranges",
+        "correct": true
+    },
+    {
+        "term1": "table directories",
+        "term2": "table directory",
+        "correct": true
+    },
+    {
+        "term1": "Side Encryption",
+        "term2": "side encryption",
+        "correct": true
+    },
+    {
+        "term1": "table basis",
+        "term2": "Table basis",
+        "correct": true
+    },
+    {
+        "term1": "Bloom block",
+        "term2": "Bloom Block",
+        "correct": true
+    },
+    {
+        "term1": "larger table",
+        "term2": "largest table",
+        "correct": true
+    },
+    {
+        "term1": "Tablename",
+        "term2": "tablename",
+        "correct": true
+    },
+    {
+        "term1": "RM",
+        "term2": "RMs",
+        "correct": true
+    },
+    {
+        "term1": "Input key",
+        "term2": "Input keys",
+        "correct": true
+    },
+    {
+        "term1": "data lake",
+        "term2": "Data Lake",
+        "correct": true
+    },
+    {
+        "term1": "retry interval",
+        "term2": "Retry interval",
+        "correct": true
+    },
+    {
+        "term1": "column family",
+        "term2": "Column family",
+        "correct": true
+    },
+    {
+        "term1": "output key",
+        "term2": "output Key",
+        "correct": true
+    },
+    {
+        "term1": "metrics instance",
+        "term2": "Metrics instance",
+        "correct": true
+    },
+    {
+        "term1": "Index table",
+        "term2": "index table",
+        "correct": true
+    },
+    {
+        "term1": "ORC",
+        "term2": "Orc",
+        "correct": true
+    },
+    {
+        "term1": "Drops table",
+        "term2": "Drop Table",
+        "correct": true
+    },
+    {
+        "term1": "large table",
+        "term2": "larger table",
+        "correct": true
+    },
+    {
+        "term1": "Ugi",
+        "term2": "UGI",
+        "correct": true
+    },
+    {
+        "term1": "short order",
+        "term2": "sorting order",
+        "correct": false
+    },
+    {
+        "term1": "IRB",
+        "term2": "irbrc",
+        "correct": false
+    },
+    {
+        "term1": "Primary filters",
+        "term2": "Primary Filter",
+        "correct": true
+    },
+    {
+        "term1": "Cluster topology",
+        "term2": "cluster topology",
+        "correct": true
+    },
+    {
+        "term1": "rr",
+        "term2": "Random row",
+        "correct": false
+    },
+    {
+        "term1": "Input splits",
+        "term2": "input splits",
+        "correct": true
+    },
+    {
+        "term1": "Store files",
+        "term2": "store files",
+        "correct": true
+    },
+    {
+        "term1": "Rm",
+        "term2": "reserved memory",
+        "correct": false
+    },
+    {
+        "term1": "load files",
+        "term2": "loads files",
+        "correct": true
+    },
+    {
+        "term1": "irc",
+        "term2": "IRC",
+        "correct": true
+    },
+    {
+        "term1": "QL",
+        "term2": "query level",
+        "correct": false
+    },
+    {
+        "term1": "cluster nodes",
+        "term2": "Cluster Node",
+        "correct": true
+    },
+    {
+        "term1": "Column qualifiers",
+        "term2": "cq",
+        "correct": true
+    },
+    {
+        "term1": "Capacity Unit",
+        "term2": "capacity unit",
+        "correct": true
+    },
+    {
+        "term1": "Data Locality",
+        "term2": "data locality",
+        "correct": true
+    },
+    {
+        "term1": "table created",
+        "term2": "TABLE creates",
+        "correct": true
+    },
+    {
+        "term1": "data size",
+        "term2": "data sizes",
+        "correct": true
+    },
+    {
+        "term1": "partition value",
+        "term2": "Partition values",
+        "correct": true
+    },
+    {
+        "term1": "Column Family",
+        "term2": "column families",
+        "correct": true
+    },
+    {
+        "term1": "zk",
+        "term2": "Zk",
+        "correct": true
+    },
+    {
+        "term1": "slave node",
+        "term2": "Slave nodes",
+        "correct": true
+    },
+    {
+        "term1": "master keys",
+        "term2": "Master Key",
+        "correct": true
+    },
+    {
+        "term1": "Heartbeat messages",
+        "term2": "heartbeat messages",
+        "correct": true
+    },
+    {
+        "term1": "Backported",
+        "term2": "backported",
+        "correct": true
+    },
+    {
+        "term1": "Backport",
+        "term2": "backports",
+        "correct": true
+    },
+    {
+        "term1": "metrics names",
+        "term2": "metric name",
+        "correct": true
+    },
+    {
+        "term1": "local directories",
+        "term2": "local directory",
+        "correct": true
+    },
+    {
+        "term1": "Scala",
+        "term2": "scala",
+        "correct": true
+    },
+    {
+        "term1": "start time",
+        "term2": "Start time",
+        "correct": true
+    },
+    {
+        "term1": "Retry Count",
+        "term2": "retry count",
+        "correct": true
+    },
+    {
+        "term1": "gpg",
+        "term2": "GPG",
+        "correct": true
+    },
+    {
+        "term1": "Conf",
+        "term2": "confs",
+        "correct": true
+    },
+    {
+        "term1": "RM",
+        "term2": "rm",
+        "correct": true
+    },
+    {
+        "term1": "Storage Policies",
+        "term2": "storage policy",
+        "correct": true
+    },
+    {
+        "term1": "jiras",
+        "term2": "jira",
+        "correct": true
+    },
+    {
+        "term1": "Table read",
+        "term2": "table read",
+        "correct": true
+    },
+    {
+        "term1": "export table",
+        "term2": "Export table",
+        "correct": true
+    },
+    {
+        "term1": "checksum verification",
+        "term2": "Checksum verification",
+        "correct": true
+    },
+    {
+        "term1": "PUT Request",
+        "term2": "puts request",
+        "correct": true
+    },
+    {
+        "term1": "Cluster Replication",
+        "term2": "Cluster replication",
+        "correct": true
+    },
+    {
+        "term1": "JNs",
+        "term2": "Job names",
+        "correct": false
+    },
+    {
+        "term1": "CONF",
+        "term2": "confs",
+        "correct": true
+    },
+    {
+        "term1": "Replication System",
+        "term2": "replication system",
+        "correct": true
+    },
+    {
+        "term1": "metric info",
+        "term2": "Metrics information",
+        "correct": true
+    },
+    {
+        "term1": "tsv",
+        "term2": "TSV",
+        "correct": true
+    },
+    {
+        "term1": "active state",
+        "term2": "Active state",
+        "correct": true
+    },
+    {
+        "term1": "Put request",
+        "term2": "put request",
+        "correct": true
+    },
+    {
+        "term1": "META table",
+        "term2": "meta table",
+        "correct": true
+    },
+    {
+        "term1": "DN",
+        "term2": "database names",
+        "correct": true
+    },
+    {
+        "term1": "rm",
+        "term2": "RMs",
+        "correct": true
+    },
+    {
+        "term1": "Existing Table",
+        "term2": "existing Table",
+        "correct": true
+    },
+    {
+        "term1": "configs",
+        "term2": "configuraiton",
+        "correct": true
+    },
+    {
+        "term1": "repo",
+        "term2": "Repos",
+        "correct": true
+    },
+    {
+        "term1": "znode",
+        "term2": "znodes",
+        "correct": true
+    },
+    {
+        "term1": "storage descriptors",
+        "term2": "storage descriptor",
+        "correct": true
+    },
+    {
+        "term1": "open call",
+        "term2": "Open call",
+        "correct": true
+    },
+    {
+        "term1": "data local",
+        "term2": "Data Locality",
+        "correct": true
+    },
+    {
+        "term1": "High Availability",
+        "term2": "high availability",
+        "correct": true
+    },
+    {
+        "term1": "appender",
+        "term2": "appenders",
+        "correct": true
+    },
+    {
+        "term1": "output key",
+        "term2": "Output Key",
+        "correct": true
+    },
+    {
+        "term1": "Storage type",
+        "term2": "Storage Types",
+        "correct": true
+    },
+    {
+        "term1": "column families",
+        "term2": "Column family",
+        "correct": true
+    },
+    {
+        "term1": "Mapreduce",
+        "term2": "mapreduce",
+        "correct": true
+    },
+    {
+        "term1": "Memory store",
+        "term2": "memory store",
+        "correct": true
+    },
+    {
+        "term1": "max number",
+        "term2": "Max number",
+        "correct": true
+    },
+    {
+        "term1": "asf",
+        "term2": "ASF",
+        "correct": true
+    },
+    {
+        "term1": "slave nodes",
+        "term2": "Slave nodes",
+        "correct": true
+    },
+    {
+        "term1": "blocks size",
+        "term2": "block sizes",
+        "correct": true
+    },
+    {
+        "term1": "Metadata store",
+        "term2": "metadata store",
+        "correct": true
+    },
+    {
+        "term1": "group information",
+        "term2": "group info",
+        "correct": true
+    },
+    {
+        "term1": "Session identifier",
+        "term2": "session identifier",
+        "correct": true
+    },
+    {
+        "term1": "input keys",
+        "term2": "Input key",
+        "correct": true
+    },
+    {
+        "term1": "Protobufs",
+        "term2": "Protobuf",
+        "correct": true
+    },
+    {
+        "term1": "data generator",
+        "term2": "Data generated",
+        "correct": true
+    },
+    {
+        "term1": "data generator",
+        "term2": "data generated",
+        "correct": true
+    },
+    {
+        "term1": "Input key",
+        "term2": "input key",
+        "correct": true
+    },
+    {
+        "term1": "Column Qualifier",
+        "term2": "column qualifiers",
+        "correct": true
+    },
+    {
+        "term1": "Retry times",
+        "term2": "retry times",
+        "correct": true
+    },
+    {
+        "term1": "Rm",
+        "term2": "RM",
+        "correct": true
+    },
+    {
+        "term1": "data block",
+        "term2": "Data Block",
+        "correct": true
+    },
+    {
+        "term1": "jvms",
+        "term2": "JVM",
+        "correct": true
+    },
+    {
+        "term1": "Tablename",
+        "term2": "TABLE",
+        "correct": false
+    },
+    {
+        "term1": "column family",
+        "term2": "column families",
+        "correct": true
+    },
+    {
+        "term1": "Httpclient",
+        "term2": "httpclient",
+        "correct": true
+    },
+    {
+        "term1": "mockito",
+        "term2": "Mockito",
+        "correct": true
+    },
+    {
+        "term1": "node cluster",
+        "term2": "Node Cluster",
+        "correct": true
+    },
+    {
+        "term1": "QA",
+        "term2": "qa",
+        "correct": true
+    },
+    {
+        "term1": "configuraiton",
+        "term2": "configration",
+        "correct": true
+    },
+    {
+        "term1": "Store files",
+        "term2": "store file",
+        "correct": true
+    },
+    {
+        "term1": "deleted files",
+        "term2": "Deleted files",
+        "correct": true
+    },
+    {
+        "term1": "Plugins",
+        "term2": "plugins",
+        "correct": true
+    },
+    {
+        "term1": "Column Families",
+        "term2": "column families",
+        "correct": true
+    },
+    {
+        "term1": "column level",
+        "term2": "Column level",
+        "correct": true
+    },
+    {
+        "term1": "jira",
+        "term2": "Jiras",
+        "correct": true
+    },
+    {
+        "term1": "Uploader",
+        "term2": "uploader",
+        "correct": true
+    },
+    {
+        "term1": "asf",
+        "term2": "Apache Software Foundation",
+        "correct": true
+    },
+    {
+        "term1": "Partition size",
+        "term2": "partition size",
+        "correct": true
+    },
+    {
+        "term1": "access keys",
+        "term2": "access key",
+        "correct": true
+    },
+    {
+        "term1": "output results",
+        "term2": "output result",
+        "correct": true
+    },
+    {
+        "term1": "maximum resource",
+        "term2": "maximum resources",
+        "correct": true
+    },
+    {
+        "term1": "Alter Table",
+        "term2": "ALTER TABLE",
+        "correct": true
+    },
+    {
+        "term1": "TaskID",
+        "term2": "taskid",
+        "correct": true
+    },
+    {
+        "term1": "oozie",
+        "term2": "Oozie",
+        "correct": true
+    },
+    {
+        "term1": "Max time",
+        "term2": "max time",
+        "correct": true
+    },
+    {
+        "term1": "retry attempt",
+        "term2": "retry attempts",
+        "correct": true
+    },
+    {
+        "term1": "Column Level",
+        "term2": "column level",
+        "correct": true
+    },
+    {
+        "term1": "MySQL",
+        "term2": "MYSQL",
+        "correct": true
+    },
+    {
+        "term1": "slave nodes",
+        "term2": "slave node",
+        "correct": true
+    },
+    {
+        "term1": "Heap usage",
+        "term2": "heap usage",
+        "correct": true
+    },
+    {
+        "term1": "random row",
+        "term2": "RRs",
+        "correct": false
+    },
+    {
+        "term1": "storage systems",
+        "term2": "storage system",
+        "correct": true
+    },
+    {
+        "term1": "Column qualifiers",
+        "term2": "column qualifier",
+        "correct": true
+    },
+    {
+        "term1": "resource requests",
+        "term2": "Resource Request",
+        "correct": true
+    },
+    {
+        "term1": "creating table",
+        "term2": "Create table",
+        "correct": true
+    },
+    {
+        "term1": "puts request",
+        "term2": "put request",
+        "correct": true
+    },
+    {
+        "term1": "Cache pool",
+        "term2": "Cache pools",
+        "correct": true
+    },
+    {
+        "term1": "task counters",
+        "term2": "Task counters",
+        "correct": true
+    },
+    {
+        "term1": "Compare key",
+        "term2": "compare keys",
+        "correct": true
+    },
+    {
+        "term1": "partition key",
+        "term2": "partition keys",
+        "correct": true
+    },
+    {
+        "term1": "cluster ID",
+        "term2": "cluster identifier",
+        "correct": true
+    },
+    {
+        "term1": "master info",
+        "term2": "Master Info",
+        "correct": true
+    },
+    {
+        "term1": "Webapp",
+        "term2": "webapps",
+        "correct": true
+    },
+    {
+        "term1": "conf",
+        "term2": "configs",
+        "correct": true
+    },
+    {
+        "term1": "cluster replication",
+        "term2": "Cluster replication",
+        "correct": true
+    },
+    {
+        "term1": "data local",
+        "term2": "DATA LOCAL",
+        "correct": true
+    },
+    {
+        "term1": "metrics source",
+        "term2": "metrics sources",
+        "correct": true
+    },
+    {
+        "term1": "largest table",
+        "term2": "large table",
+        "correct": true
+    },
+    {
+        "term1": "Local directory",
+        "term2": "local directories",
+        "correct": true
+    },
+    {
+        "term1": "Storage Types",
+        "term2": "storage types",
+        "correct": true
+    },
+    {
+        "term1": "data block",
+        "term2": "DATA blocks",
+        "correct": true
+    },
+    {
+        "term1": "remote blocks",
+        "term2": "remote block",
+        "correct": true
+    },
+    {
+        "term1": "Data block",
+        "term2": "Data Block",
+        "correct": true
+    },
+    {
+        "term1": "JIRAs",
+        "term2": "Jira",
+        "correct": true
+    },
+    {
+        "term1": "partition keys",
+        "term2": "Partition keys",
+        "correct": true
+    },
+    {
+        "term1": "dfs",
+        "term2": "dfsadmin",
+        "correct": false
+    }
+]

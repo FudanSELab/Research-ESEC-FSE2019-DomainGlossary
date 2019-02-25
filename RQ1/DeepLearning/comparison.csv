@@ -1,0 +1,385 @@
+sentence,our approach,Arora's approach,human annotation
+A dataset pipeline that works well when reading data locally might become bottlenecked on I/O when reading data remotely because of the Time-to-first-byte: Reading the first byte of a file from remote storage can take orders of magnitude longer than from local storage.,"<Dataset, Datasets, dataset, datasets, data set, Data set>","Dataset pipeline, local storage, dataset pipeline, Time - to - first - byte, remote storage, first byte, FILE",dataset pipeline
+Negative slope coefficient.,"<negative slope, Negative slope>",Negative slope coefficient,Negative slope coefficient
+It is the number of elements you skip in the buffer to get to the next channel or row or column.,<next channel>,"OR, SKIP, IT, next channel",
+get_walks_intersection_ops(...): Return the intersection of a forward and a backward walk.,,"AND, backward walk",backward walk
+Defaults to tf.uint8.,,,
+"Once you have finished preprocessing your dataset, you have a couple options to serialize your dataset before feeding it to your autoencoder network via an iterator.","<Autoencoders, autoencoder, Autoencoder, autoencoders>, <preprocessing, Preprocessed, Preprocess, Preprocessing, preproces, preprocessor, preprocessed, preprocessors, preprocess>, <Dataset, Datasets, dataset, datasets, data set, Data set>","autoencoder network, preprocessing, dataset, iterator, IT","dataset,autoencoder network,preprocessing"
+When false any unknown operation is an error.,,"FALSE, ERROR, unknown operation",
+"For classification problems, you generally want to use the softmax activation function, combined with the negative log likelihood / MCXENT (multi-class cross entropy).","<softmax, Softmax>, <Cross Entropy, cross entropy>, <activation function, Activation functions, activation functions, Activation function, Activation Functions>, <log likelihood>,<classification problem, classification problems>","USE, negative log likelihood, MCXENT, multi - class cross entropy, CLASSIFICATION, Negative Log likelihood, softmax activation function, Softmax activation function","classification problem,negative log likelihood,MCXENT,multi-class cross entropy,softmax, activation function"
+class DNNLinearCombinedClassifier: An estimator for TensorFlow Linear and DNN joined classification models.,"<Tensorflow, tensorflow>, <deep neural network, DNN, Deep Neural Networks, deep neural networks, dnn>, <classification models, classification model>","class dnnlinearcombinedclassifier, DNN, TensorFlow linear, dnn, CLASSIFICATION","TensorFlow,DNN,classification model"
+"Internationalization support is bulit into Play framework, but this doesn't seem to function with a Java + Maven Basic idea: UI messages are available by specifying 2 values: (a) The ISO 639-1 language code, as a String (""en"", ""fr"", ""ja"" etc) See https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes.",,"etc, BY, VALUES, UI, Play framework, Internationalization support, FUNCTION, basic idea, Basic idea, THIS, ui, STRING, ISO 639 - 1 language code",
+"When a graph is run, this op name is looked up in a registry to REGISTER_OP() macro, like those in tensorflow/core/ops/nn_ops.cc.","<Tensorflow, tensorflow>, <op, one prediction, Op>","GRAPH, NAME, tensorflow, THIS, TENSORFLOW",op
+"The following is an example of an efficient sharding strategy within a complete pipeline: Args: num_shards: A tf.int64 scalar tf.Tensor, representing the number of shards operating in parallel.","<tensor filter, Tf, tf, TF>","args, scalar tf, complete pipeline, efficient sharding strategy","sharding strategy,"
+"If you have a Tensor :attr:`data` and just want to change its ``requires_grad`` flag, use :meth:`~torch.Tensor.requires_grad_` or :meth:`~torch.Tensor.detach` to avoid a copy.",,"OR, AND, USE",tensor
+"Since each forward pass builds a dynamic computation graph, we can use normal Python control-flow operators like loops or conditional statements when defining the forward pass of the model.","<Computation Graphs, Computation Graph, computational graph, computational graphs, computation graph, computation graphs>","Control - flow, USE, OR, dynamic computation graph, control - flow, forward pass","forward pass,computation graph,"
+can you explain it in detail ?,,IT,
+Created by Alex on 23/07/2017.,,BY,
+"Args: inputs: 3-D float Tensor, size [max_time x batch_size x num_classes].","<float tensors, float Tensor, float tensor, float Tensors>","args, INPUTS, 3-D float",float tensor
+"Output shape: 5D tensor with shape: (samples, filters, new_conv_dim1, new_conv_dim2, new_conv_dim3) if data_format='channels_first' or 5D tensor with shape: (samples, new_conv_dim1, new_conv_dim2, new_conv_dim3, filters) if data_format='channels_last'.","<output shapes, output shape, Output Shape, Output shape>","SHAPE, 5D tensor, Output shape, OR, 5d tensor, output shape","output shape,tensor"
+depthwise_conv2d(...): Depthwise 2-D convolution.,"<depthwise, Depthwise>",Depthwise 2 - D convolution,depthwise 2-D convolution
+Create a SharedTrainingMaster instance by deserializing a YAML string that has been serialized with toYaml().,,"SharedTrainingMaster instance, YAML string, toyaml",
+"By building a sense of one word's proximity to other similar words, which do not necessarily contain the same letters, we have moved beyond hard tokens to a smoother and more general sense of meaning.","<oW, one word, ow>","SAME, BY, other, NOT, smoother and more general sense, one word 's proximity",
+The restored node reconnects to the master node.,"<master node, Master node>","master node, Master node, restored node",master node
+"In the future, there will be backends for other frameworks as well.","<backend, backends, Backend, Backends>","other, FUTURE",
+If set to 0: use exact calculation.,<exact calculation>,USE,exact calculation
+note:: Methods which mutate a tensor are marked with an underscore suffix.,,"NOTE, underscore suffix",tensor
+You can check this based on the JavaCPP options specified above.,,"THIS, javacpp",
+Tensor data is shared.,"<tensor data, Tensor data>",Tensor data,tensor data
+we re not your parents .,,NOT,
+Note that the AsyncTask requires that we override two more methods (the onProgressUpdate and onPostExecute methods) which we will get to later in the demo.,,"NOTE, AND, asynctask, TWO",
+Please see the definition of these values in TPUConfig.,,"VALUES, tpuconfig, PLEASE",
+"In the case where the total number of elements in value is less than the number of elements required by the tensor shape, the last element in value will be used to fill the remaining entries.","<tensor shape, Tensor shapes, tensor shapes, Tensor Shapes>","BY, Total number, tensor shape, Tensor shape, last element, VALUE, total number",tensor shape
+"ND4J and DL4J can use these libraries (MKL, CuDNN) when they are available - but are not always available by default.","<MKL, mkl>, <CUDNN, Cudnn, cuDNN, CuDNN, CuDNNGRU, cudnn, cudnngru>","BY, USE, CUDNN, NOT, MKL, cudnn, mkl, nd4j, dl4j","ND4J,DL4J,MKL,CuDNN"
+"TfRuntimeError: if any OpError originates in the converted code, it will be wrapped into a TfRuntimeError.",,"tfruntimeerror, IT, converted code, operror",
+Get Keras major version of this layer.,,"MAJOR version, THIS, major version",Keras
+When the code was unclear,,CODE,
+"Generate memory/system report as a String, for the specified network.",,"STRING, specified network","network,"
+MaxNormConstraint - (Source) - Constrain the maximum L2 norm of the incoming weights for each unit to be less than or equal to the specified value.,"<incoming weight, incoming weights>, <L2 norm, l2 norm>","WEIGHTS, specified value, OR, SOURCE, maximum L2 norm",L2 norm
+disable_resource_variables(...): Opts out of resource variables.,,VARIABLES,
+This is one forward pass.,<one forward>,"THIS, one forward pass",forward pass
+"I print the compute time, I think it may compute them sequentially, but it causes the low(20%) gpu load.","<compute time>, <GPUS, Gpu, GPUs, gpus, gpu, GPU>","gpu, GPU, IT, compute time","compute time,gpu load,"
+Finally we can print out the area under the curve (AUC) metric!,"<AUC, auc>",AUC,AUC
+"Spark KryoRegistrator for using Nd4j with Spark + Kryo Use via: sparkConf.set(""spark.serializer"", ""org.apache.spark.serializer.KryoSerializer""); sparkConf.set(""spark.kryo.registrator"", ""org.nd4j.Nd4jRegistrator"");.","<kryo, Kryo>","Spark kryoregistrator, SPARK, kryo, nd4j","Nd4j,Spark,Kryo"
+Normal distribution with variance 2.0/nIn.,"<Normal distributions, normal distribution, Normal distribution, normal distributions>","normal distribution, Normal distribution",normal distribution
+Perform efficient (but unsafe) duplication.,,UNSAFE,
+Arbiter currently only supports two kinds of termination conditions - MaxTimeCondition and MaxCandidatesCondition.,,"termination conditions - maxtimecondition, maxcandidatescondition, TWO",
+Adjust the contrast of an image by a random factor.,<random factor>,"BY, random factor",
+"Default: 0 dilation (int or tuple, optional): a parameter that controls the stride of elements within the neighborhood.",,"INT, tuple, DEFAULT, int",
+Vector of coordinatewise probabilities.,,PROBABILITIES,coordinatewise probability
+torch.cat() can be best understood via examples.,,,
+"That means you can point DL4J at raw photos, and it will load the image, run the transforms and put it into an NDArray to generate a dataset on the fly.","<ndarrays, ndarray>;<Dataset, Datasets, dataset, datasets, data set, Data set>","AND, dataset, dl4j, IT, ndarray","DL4J,NDArray,dataset"
+Statistics collected by ParameterAveragingTrainingWorker instances.,,BY,
+Report the standard memory.,"<standard memory, Standard memory>","Standard memory, standard memory",
+Create an Async iterator with the default queue size of 8.,,"Async iterator, default queue size",
+"Every Sampler subclass has to provide an __iter__ method, providing a way to iterate over indices of dataset elements, and a __len__ method that returns the length of the returned iterators.","<iters, iter>","iter, METHOD, WAY, AND, dataset, len, Every Sampler subclass",
+Evaluate the (single output layer only) network for regression performance.,"<regression performance>, <Output Layers, output layer, Output layer, Output Layer, Output layers, output layers>","regression performance, single output layer","output layer,regression performance"
+Can be single scalar or has the same rank as labels and must be broadcastable to labels.,<single scalar>,"SAME, AND, single scalar",single scalar
+"A simple utility method to convert a Iterator<String> to an Iterator<URI>, where each String in the original iterator is a Path.",,"URI, original iterator, simple utility method, PATH, uri, iterator, STRING",
+This method returns CUDA deviceId for current thread.,"<cuda, Cuda, CUDA>","THIS, current thread, CUDA deviceid",CUDA
+Exec a backwards operation and return the end result.,,"AND, end result",
+Classifier distance for evaluating a generative model from activations.,"<classifier distance>, <generative model, Generative Model, generative models>","Classifier distance, classifier distance, generative model, ACTIVATIONS, Generative model","classifier distance,generative model,activation"
+"If True, do a runtime shape check on the scores and labels.",<runtime shape>,"runtime shape check, SCORES",
+autoclass:: torch.FloatStorage :members: :undoc-members: :inherited-members:,,"floatstorage, autoclass",
+Returns: A Tensor of type float32 or float64.,"<Float32, float32>","float64, tensor of type float32",tensor
+"If you are not using other Scala libraries, either _2.10 or _2.11 is OK.","<scala, Scala>","OR, other, NOT",Scala
+int64 device_temp_memory_size = 2;.,,int64,
+"shift: A Tensor containing the value by which to shift the data for numerical stability, or None if no shift is to be performed.",<numerical stability>,"OR, VALUE, numerical stability","numerical stability,tensor"
+Example: Args: graph: the tf.Graph to watch the gradients on.,"<tensor filter, Tf, tf, TF>","args, tf, TF, GRAPH",
+The string ends with GPU:<N> if the tensor is placed on the N-th GPU on the host.,"<GPUS, Gpu, GPUs, gpus, gpu, GPU>","N - th gpu, STRING, HOST","GPU,tensor"
+Each element in the list has the following properties: - name: A string with the full name of the device.,"<full, FULL>","full name, DEVICE, STRING, NAME",
+"Please use streaming_sparse_recall_at_k, and reshape labels from [batch_size] to [batch_size, 1].",,"AND, PLEASE",
+Runs CTC loss algorithm on each batch element.,"<batch elements, Batch elements, batch element>","batch element, Batch element, Runs CTC loss","CTC loss algorithm,batch element"
+Args: Yields: The index of the closest cluster center for each input point.,"<input point, Input points, input points>, <cluster centers, cluster center>, <closest cluster>","args, INDEX, closest cluster center, input point",cluster center
+message: The message string describing the failure.,,message string,
+"__TABLE__ than or equal to the size of the : : : dimension to avoid wrapping modulo : The effective slice indices are computed by applying the following transformation for each index i in [1, N) before performing the slice: This ensures that the extracted slice is always in-bounds with respect to the operand array.",,"modulo, INDEX, operand array, BY, TABLE, following transformation, OR, THIS, extracted slice",
+Ops for image manipulation.,,image manipulation,
+L is length of the sequence.,,,
+Returns an optimizer class.,"<Optimizer, optimizer, optimiser, Optimizers, optimizers, optim>","Optimizer class, optimizer class",optimizer
+Their missing THP symbols will be # automatically filled by the dynamic loader.,"<thp, THP>","thp, THP, BY, dynamic loader","dynamic loader,THP"
+This method returns number of current Tack sessions.,,"THIS, Returns number",
+"you should register a third most-specific implementation, e.g.:: register_kl(DerivedP, DerivedQ)(kl_version1) # Break the tie.",,third most - specific implementation,
+"Get the total number of values for the specified column, accounting for any masking.",,"specified column, VALUES, Total number, total number",
+SVD decomposiiton of a matrix The decomposition is such that: A = U x S x VT L will be the same dimensions as A.,"<singular value decomposition, svd, SVD>","SAME, x s, SVD decomposiiton",SVD
+"core_assignment: A logical to physical core mapping, represented as a rank 3 numpy array.","<Numpy, numpy>","physical core mapping, rank 3 numpy array",numpy
+"We do this by deriving the gradient of the loss with respect to the embedding parameters \(\theta\), i.e.","<embedding parameter, embedding parameters>","embedding, THIS","gradient,loss,embedding parameter"
+"math:: out(N_i, C_j, k) = \max_{m=0, \ldots, \text{kernel\_size} - 1} input(N_i, C_j, stride \times k + m) If :attr:`padding` is non-zero, then the input is implicitly zero-padded on both sides for :attr:`padding` number of points.",,"INPUT, ZERO",
+"Both of them use Python as the ""driver"" or ""interface"" to the compilation process.","<compilation proces, compilation process>","OR, USE, compilation process",compilation proces
+Compute generalized eigenvalues of the problem A x = L B x.,"<generalized eigenvalue, generalized eigenvalues>",,generalized eigenvalue
+"If the shape is not specified, you can feed a sparse tensor of any shape.","<Sparse Tensor, sparse Tensors, sparse tensor, sparse tensors, Sparse tensors>","NOT, SHAPE, Sparse tensor, sparse tensor",sparse tensor
+param maxAllowedValue Maximum allowed value (inclusive).,"<Parametrized, parametrized, param>","VALUE, param maxAllowedValue maximum",
+"The probability mass function (pmf) is, __CODE__ where: * total_count = f, * probs = p, * Z is the normalizaing constant, and, * n!","<probability mass function, PMF, pmf>","CODE, Probability Mass function, AND, PMF, probability mass function, normalizaing constant, probs, pmf",probability mass function
+Example: Args: x: Tensor representing lower (or upper) triangular elements.,"<triangular elements, triangular element>","OR, args","tensor,triangular elements"
+"Note that the ComputationGraph may have an arbitrary number of inputs (multiple independent inputs, possibly of different types), and an arbitrary number of outputs (for example, multiple OutputLayer instances.",<multiple independent>,"computationgraph, arbitrary number, NOTE, AND, outputlayer, INPUTS",
+"In the future we will have support for TensorFlow's partitioned variables, where a single variable is split across multiple We have then a few approaches we want to support: Code written (as if) with no knowledge of class DistributionStrategy.","<Tensorflow, tensorflow>","CODE, partitioned variables, knowledge of class distributionstrategy, tensorflow, FUTURE, single variable, TENSORFLOW",TensorFlow
+all operations will be executed sequentially.,,,
+"By default, they will be inserted after the source column.",,"BY, source column",
+See the guide: Inputs and Readers > Queues.,,"INPUTS, GUIDE",
+Convert the TransformProcess to a JSON string.,,"json string, JSON string, transformprocess",
+The test code for that example is here.,,test code,
+max_queue_size: maximum size for the generator queue.,<generator queue>,"Maximum size, maximum size, generator queue",generator queue
+"stop_grace_secs: Grace period, in seconds, given to running threads to stop when stop() is called.",,"Grace period, grace period",
+RelaxedBernoulli distribution with temperature and logits parameters.,,"AND, RelaxedBernoulli distribution",
+Args: sess: A Session object.,,"session object, args, Session object",session
+list (and lists of tensor-like objects).,,AND,
+matrix_set_diag(...): Returns a batched matrix tensor with new batched diagonal values.,"<batched diagonal>, <matrix tensor, matrix Tensor>","NEW, batched matrix tensor, VALUES","matrix tensor,"
+class Conv2D: 2D convolution layer (e.g.,"<Conv2D, conv2d, Conv2d, conv2>, <Convolution layers, convolution layers, convolutional layer, Convolution layer, Convolutional layers, convolutional layers, convolution layer>","2D Convolution layer, class conv2d, 2D convolution layer, 2d convolution layer","Conv2D,convolution layer,"
+"Note that the weights cache is initialized through worker_init, and the row/col factors cache is initialized through initialize_{col/row}_update_op.",,"NOTE, weights cache, AND",
+aggregation_method: as in tf.train.Optimizer's minimize method.,,minimize method,
+These are used internally in BaseSerializer and should not be used elsewhere.,,"baseserializer, NOT",
+This value is only used when the padding_mode is constant padding_mode: Type of padding.,,"type of padding, THIS",
+return value: tensor with product of values according to indices sets.,,"PRODUCT, Return value, VALUES, return value",tensor
+The elements are sorted into equal width bins between min and max.,"<MIN, min, minimax>","MAX, MIN",
+It also supports all point-to-point and collective functions on CPU.,"<CPU, cpu>, <collective function, Collective functions>","AND, IT, CPU",CPU
+Now we'll define a function to actually display the image once we have iteration counts.,,FUNCTION,
+If neither the graph-level nor the operation seed is set: A random seed is used for this op.,"<random seeds, Random seed, Random Seed, random seed>, <op, one prediction, Op>","operation seed, random seed, THIS, Random seed, neither the graph - level","random seed,op"
+A simple interface for loading objects from a Source object.,,"Source object, Simple interface, simple interface",
+"The code runs OpenAI's Lunar Lander but I have several errors that I have not been able to fix, the biggest one being that the algorithm quickly converges to doing the same action regardless of the state.",,"SAME, NOT, OpenAI 's Lunar lander, CODE","OpenAI,"
+rho: A Tensor or a floating point value.,,"OR, floating point value",tensor
+autoclass:: LayerNorm :members: :hidden:`LocalResponseNorm` ..,,"layernorm, autoclass",
+"note:: Unlike Batch Normalization and Instance Normalization, which applies scalar scale and bias for each entire channel/plane with the :attr:`affine` option, Layer Normalization applies per-element scale and bias with :attr:`elementwise_affine`.","<Layer normalization, layer normalization, Layer Normalization>, <instance normalization, Instance Normalization>, <Batch normalization, batch norm, batch normalizations, Batch norm, batch normalization, Batch Normalization, batch norms>","scalar scale, batch normalization, Batch normalization, NOTE, layer normalization, per - element scale, entire channel, Layer normalization, Instance normalization","Batch Normalization,Instance Normalization,Layer Normalization,"
+"Furthermore, tf.data has simple powerful methods for applying a wide variety of standard and custom transformations.",,"AND, wide variety",
+"Derivative of Rectified linear unit 6, i.e.","<Rectified Linear Unit, Relu, Rectified linear units, Rectified Linear Units, RRELU, RELU, relu, rectified linear unit, RReLU, rrelu, ReLU, Rectified linear unit>",derivative of rectified linear unit,Rectified linear unit
+"The values are assumed to be in the range of [-1.0, 1.0] with a sample rate of sample_rate.",,"VALUES, sample rate, Sample rate",
+"It is used to execute many reduction operations in parallel on the same column, datavec#238.",,"SAME, IT",
+ValueError: If the grads_and_vars is malformed.,,valueerror,
+Binary logistic loss.,"<logistic loss, logistic los>",Binary logistic loss,binary logistic loss
+"Unlike a standard .repartition() call (which assigns partitions like [2,3,4,1,2,3,4,1,2,...] for 4 partitions], this function attempts to keep contiguous elements (i.e., those elements originally in the same partition) together much more frequently.",,"SAME, THIS",
+ValueError: if dimension is not a positive integer.,,"valueerror, NOT, Positive integer, positive integer",
+"In particular, all Variables in the container will become undefined: they lose their values and shapes.",,"UNDEFINED, VALUES, VARIABLES",
+Continue through the wizard's options.,,,
+autofunction:: flip ..,,autofunction,
+It just starts threads for all queue runners collected in the graph.,,"IT, GRAPH",
+Bot: i m trying to help you !,,,
+Convert the given sequence data set to a DataFrame.,"<dataframe, Dataframe>","given sequence, dataframe",DataFrame
+Explicitly setting to None implies a linear activation.,"<linear activations, linear activation>","linear activation, NONE",linear activation
+"For example, user can select profiler nodes placed on gpu:0 with: account_type_regexes=['.*gpu:0.*'].",,profiler,profiler node
+Create a local debugger command-line interface (CLI) hook.,,"CLI, local debugger command - line interface",
+If applied to a layer vertex it will treat the parameters of the layer within it as constant.,,"Layer vertex, IT, layer vertex",
+warning:: CUDA API requires that the allocation exported to other processes remains valid as long as it's used by them.,"<cuda, Cuda, CUDA>","BY, CUDA api, other, WARNING, IT, VALID",CUDA
+ValueError: If the number or type of inputs don't match the staging area.,,"Staging area, staging area, OR, valueerror, INPUTS",
+Returns predicted scores for given features.,,SCORES,predicted score
+"If \(m < n\), gels() solves the least-norm problem: \[\begin{array}{ll} \min_X & \|X\|_2 & \text{subject to} & AX = B.",<norm problem>,"AX, least - norm problem",least-norm problem
+"# # NOTE: This has to be after (b) because it may leave corrupted data # in `worker_result_queue`, which `pin_memory_thread` reads # from.",<corrupted data>,"NOTE, THIS, IT",
+Returns: PIL Image: Grayscale version of the input image with probability p and unchanged with probability (1-p).,"<grayscale, grayscaled, Grayscale>, <Input image, input images, input image, Input images>","probability p, PIL image, Input image, Grayscale version, grayscale version, input image","PIL Image,Grayscale"
+By convention,,BY,
+Defined in tensorflow/contrib/linear_optimizer/python/ops/sparse_feature_column.py.,"<Tensorflow, tensorflow>, <Contrib, contrib>","TENSORFLOW, tensorflow, contrib",
+Binary crossentropy between an output tensor and a target tensor.,"<Output Tensor, outputs Tensors, output Tensor, output Tensors, output tensor, outputs tensor, Output tensor, output tensors>","Output tensor, Binary crossentropy, target tensor, output tensor","binary crossentropy,output tensor,target tensor"
+"update_op: Operation that increments false_positives and true_negatives variables appropriately and whose value matches Raises: ValueError: If predictions and labels have mismatched shapes, or if weights is not None and its shape doesn't match predictions, or if either metrics_collections or updates_collections are not a list or tuple.",,"SHAPE, WEIGHTS, NOT, AND, VARIABLES, OR, valueerror, VALUE",
+"You never use this GradientDescentOptimizer, AdagradOptimizer, or MomentumOptimizer.",,"OR, gradientdescentoptimizer, USE, adagradoptimizer",
+(For example: test set loss or test set accuracy) (d) How frequently (ever N epochs) should scores be calculated?,,"OR, SCORES, test set","loss,accuracy,test set"
+"For variables, the ops that they are inputs to - or outputs of - are also reported.",,"OR, INPUTS, VARIABLES",ops
+Default value is 0.025.,,"default value, Default value",
+Discuss PyTorch on the Forums.,"<pytorch, Pytorch>",Discuss pytorch,PyTorch
+"We expect that the loss will have decreased and accuracy to have increased, and they have.",,AND,"loss,accuracy"
+ValueError: If the deprecated split_dim and axis are both non None.,,"valueerror, non none, AND, DEPRECATED",
+A tuple of all strides is returned when no argument is passed in.,,"PASSED, tuple",
+class Embedding: Turns positive integers (indexes) into dense vectors of fixed size.,"<Embeddings, embeddings, embedding>, <dense vector, dense vectors>","Fixed size, fixed size, class embedding","Embedding,dense vector,"
+"* Each process contains an independent Python interpreter, eliminating the extra interpreter overhead and ""GIL-thrashing"" that comes from driving several execution threads, model replicas, or GPUs from a single Python process.","<GPUS, Gpu, GPUs, gpus, gpu, GPU>, <model replicas, model replication, model replica>","extra interpreter, gil, AND, GIL, OR, independent Python interpreter, single Python process","GPU,model replica"
+DL4J examples: Is there an application or network architecture that we don't have examples for?,"<network architectures, Network Architectures, network architecture>","application or network architecture, DL4J examples","DL4J,network architecture"
+Computation is automatically offloaded to GPUs during eager execution.,"<GPUS, Gpu, GPUs, gpus, gpu, GPU>","GPUS, Eager execution, gpus, eager execution",GPU
+The transpose of a matrix is its mirror image.,,mirror image,"transpose,matrix"
+This method builds new LabelSource instance from labels.,,"new LabelSource instance, THIS",
+"WARNING: This op expects unscaled logits, since it performs a softmax on logits internally for efficiency.","<softmax, Softmax>, <op, one prediction, Op>","softmax, logits, THIS, WARNING, IT","softmax,op"
+"Includes multiple different splits (letters only, digits only, letters + digits, etc).",,"LETTERS, etc",
+"If I stack 2 linear layers with sigmoid activation, wouldn't it make it non-linear?","<sigmoid activation, Sigmoid activation>, <linear layers, Linear layer, linear layer, Linear layers>","sigmoid activation, Sigmoid activation, IT","linear layer,sigmoid activation"
+Only one of logits or probs should be specified.,"<Probs, probs, prob>","logits, probs","logits,probs"
+Set a single feature mask array by index.,"<single feature, single features>, <mask array, mask arrays>","INDEX, single feature mask array","single feature, mask array"
+"The encoder reads an input sequence and outputs a single vector, and the decoder reads that vector to produce an output sequence.","<input sequence, input sequences, Input Sequences>, <output sequence>, <single vector>","output sequence, AND, input sequence, encoder, single vector","encoder,decoder,input sequence,output sequence"
+Only sequence learning is affected.,"<sequence learning, Sequence learning, Sequence Learning>",sequence learning,sequence learning
+Calculate the mean and variance of x.,,MEAN,"mean,variance"
+Performance speeds up and scales research while also providing end users with near instant predictions.,,"USERS, AND",
+Must contain only positive values.,,VALUES,
+Name of the op.,"<op, one prediction, Op>","op, NAME, OP",
+Must be > 1.,,,
+The example indices represented as a dense tensor.,"<Dense Tensor, dense tensors, dense tensor, dense Tensor, dense Tensors, Dense tensor>","dense tensor, Dense tensor",dense tensor
+A list of the column factors of the model.,"<column factor, column factors>",,column factors
+"Convolutional Neural Networks are mainly used for image recognition, although they apply to sound and text as well.","<Cnn, cnn, convolutional neural network, convolutional neural networks, CNNs, CNN>, <image recognition, Image Recognition>,","AND, Convolutional Neural networks, image recognition, Image recognition","Convolutional Neural Network,image recognition"
+Determine the key from the file path.,,file path,
+"Backpropagation involves the multiplication of very small gradients, due to limited precision when representing real numbers values very close to zero can not be represented.","<Backprop, backpropagation, Backpropagation, backprop>, <real numbers, real number>, <small gradients, Small gradients, small gradient>","limited precision, VALUES, ZERO, NOT, backpropagation","Backpropagation,gradient,"
+Follow the Linux getting started instructions in order to install it.,,IT,
+"For calculating the gradient, see Model.computeGradientAndScore(LayerWorkspaceMgr).",,,"gradient,"
+"In the simplest case, the output value of the layer with input size :math:`(N, C, L)` and output :math:`(N, C, L_{out})` can be precisely described as: ..",<output value>,"simplest case, Output value, AND, Input size, input size, output value",
+FIXME: the docs say that persistent_id should only return a string # but torch store returns tuples.,,"STRING, torch store",
+A process won't hang when getting from a queue.,,,
+Finishes saving data.,<saving data>,,
+Two copies of cluster centers are maintained: one that is updated at the end of each iteration,"<cluster centers, cluster center>",TWO,cluster center
+"PaddingConfig is a repeated field of PaddingConfigDimension, which contains three fields for each dimension: edge_padding_low, edge_padding_high, and interior_padding.",,"AND, paddingconfigdimension, repeated field, paddingconfig",
+record_summaries_every_n_global_steps(...): Sets the should_record_summaries Tensor to true if global_step % n == 0.,,,tensor
+This class assumes between-graph replication will be used and works on a graph for a particular worker.,<particular worker>,"AND, THIS, particular worker, GRAPH",particular worker
+Your own application might operate in its own environment with different background noise patterns than these defaults,"<noise patterns, noise pattern>",different background,noise pattern
+class CycleGANModel: An CycleGANModel contains all the pieces needed for CycleGAN training.,"<cyclegan training, CycleGAN training>","class cycleganmodel, CycleGAN training, cycleganmodel",CycleGAN traning
+"devices (Iterable[int]): iterable of ints, specifying among which devices the tensor should be scattered.",,"INTS, iterable",
+We expect precision to decrease as k increases.,,,precision
+"build_parsing_serving_input_fn(...): Build an input_fn appropriate for serving, expecting fed tf.Examples.","<tensor filter, Tf, tf, TF>","tf, BUILD, TF",
+This op parses a serialized sequence example into a tuple of dictionaries mapping keys to Tensor and SparseTensor objects respectively.,"<op, one prediction, Op>, <sequence examples, sequence example>","AND, tuple, serialized sequence example, THIS","op,Tensor,sequence examples"
+param lossFunction Loss function to use.,"<loss function, Loss functions, loss functions, Loss function, Loss Function, Loss Functions>, <Parametrized, parametrized, param>","param lossFunction Loss function, USE",loss function
+The features are contained in a single csv file with the columns representing the features and the rows representing different time steps.,"<time step, time steps, Time step>","single csv file, AND, different time","feature,time step"
+Args: model: A GANModel tuple.,,"GANModel tuple, args",
+Custom C++ and CUDA Extensions.,"<cuda, Cuda, CUDA>","AND, CUSTOM",CUDA
+For example: Sharing variables.,,VARIABLES,
+"If the user provided argument equals this value, the warning is suppressed.",,"WARNING, THIS, provided argument",
+autofunction:: lt ..,"<lt, LTS>","lt, autofunction",
+"Args: inplace (bool, optional): can optionally do the operation in-place.","<bool, bools, Bool>, <inp, inplace>","args, bool, INPLACE, BOOL, inplace",
+"element_dtype: tf.DType, optional dtypedtype for the elements in the list.","<dtypes, dtype>, <tensor filter, Tf, tf, TF>","optional dtypedtype, tf, dtype, TF",
+Get DL4J Cropping3D layer.,"<Cropping3D, cropping3d>",DL4J Cropping3D layer,"Cropping3D layer,"
+Native audio file loader using FFmpeg.,<ffmpeg>,"ffmpeg, Native audio file loader, FFMPEG",Ffmpeg
+"Merge the properties of ""dev"" into this DeviceSpec.",,"MERGE, THIS, dev",
+"When layers are stacked together, they represent a deep neural network.","<deep neural network, DNN, Deep Neural Networks, deep neural networks, dnn>","Deep Neural network, deep neural network",deep neural network
+"Create a matrix from the given PLEASE NOTE: This method is special for GPU backend, it works on HOST side only.","<GPUS, Gpu, GPUs, gpus, gpu, GPU>, <backend, backends, Backend, Backends>","SPECIAL, HOST side, host side, GPU backend, PLEASE note, THIS, IT","matrix,GPU"
+May skip attributes with defaults if you don't want to override the default value.,,"SKIP, default value, Default value",
+NOTE Please see the initializer documentation for details of how BeamSearchDecoder.,,"NOTE, initializer documentation, beamsearchdecoder",
+"Sum of the values in a tensor, alongside the specified axis.","<sum, SUM, summand>","SUM, VALUES, specified axis",tensor
+Represent a lookup table that persists across different steps.,,"Lookup table, lookup table",lookup table
+"Specifically, both the keys (number/names of stats) The interface here operates essentially as a Map<String,Object>.",,"STRING, stats",
+syr2 performs a rank-2 update of an n-by-n symmetric matrix a: a := alpha*x*y' + alpha*y*x' + a.,"<rank-2>, <symmetric matrix>","rank-2 update, syr2, n - by - n symmetric matrix",symmetric matrix
+rates: A tensor of shape [batch_size] containing the resampling rates for each input.,"<resampling, Resampling>","resampling, INPUT, tensor of shape","resampling,tensor,"
+return Number of classes excluded from the average recall.,"<Average recall, average recall>","Average recall, CLASSES, average recall",average recall
+Math is: _x > _y ?,,,
+Defined in tensorflow/python/ops/check_ops.py.,"<Tensorflow, tensorflow>","TENSORFLOW, tensorflow",
+Args: sess: A Session to use to save the variables.,,"VARIABLES, args, USE",session
+Simple helper class to redirect legacy JSON format to LegacyGraphVertexDeserializer via annotation on GraphVertex.,,"Simple helper class, graphvertex, legacy JSON format",
+Let's use a Classification Cross-Entropy loss and SGD with momentum.,"<Entropy loss, entropy los, entropy loss>, <stochastic gradient descent, SGD, sgd, Stochastic Gradient Descent>","Classification Cross - Entropy loss, SGD, sgd, USE","Cross-Entropy loss,SGD,momentum"
+"In contrast, ``biject_to(constraints.simplex)`` returns a :class:`~torch.distributions.transforms.StickBreakingTransform` that bijects its input down to a one-fewer-dimensional space; this a more expensive less numerically stable transform but is needed for algorithms The ``biject_to`` and ``transform_to`` objects can be extended by user-defined constraints and transforms using their ``.register()`` method either as a function on singleton constraints:: transform_to.register(my_constraint, my_transform) or as a decorator on parameterized constraints:: @transform_to.register(MyConstraintClass) def my_factory(constraint): assert isinstance(constraint, MyConstraintClass) You can create your own registry by creating a new :class:`ConstraintRegistry` object.","<def, defs, defun>, <dimensional space>","METHOD, BY, EXTENDED, expensive less numerically stable transform, NEW, AND, FUNCTION, def, OR, one - fewer - dimensional space, THIS, DECORATOR, stickbreakingtransform, INPUT",
+"The op_def_pb2.OpDef proto that describes the Raises: TypeError: if control inputs are not Operations or Tensors, or if node_def is not a NodeDef, or if g is not a Graph, or if inputs are not tensors, or if inputs and input_types are incompatible.","<proto, protos>, <control input, control inputs>","typeerror, GRAPH, NOT, INPUTS, OR, nodedef",tensor
+"As Dot, but allows contracting and batch dimension numbers to be specified for both the 'lhs' and 'rhs'.","<batch dimensions, batch dimension>, <DOT, dot>","AND, RHS, DOT",batch dimension
+"__CODE__ will return a different output everytime it is invoked, the compiled function compiled = tf.contrib.eager.defun(add_noise) will return the same value every time it is called, since a particular random offset generated by NumPy will be inserted into the graph as a TensorFlow constant.","<Tensorflow, tensorflow>, <Numpy, numpy>","SAME, CODE, every time, BY, GRAPH, different output, TensorFlow constant, random offset, compiled function, IT","NumPy,Tensorflow"
+In Colab: Runtime > Change runtime type > Hardware acclerator > GPU.,"<colab, Colab>, <GPUS, Gpu, GPUs, gpus, gpu, GPU>","gpu, runtime type, runtime, colab, GPU","hardware acclerator,GPU"
+"ptrblck 2018-03-25 21:22:44 UTC #6 Maybe it hangs, because of the blocking statement and using data parallel.","<ptrblck>, <data parallel, Data Parallel, Data parallel>","Data parallel, blocking statement, ptrblck, UTC, IT",data parallel
+"Basic implementation for ModelUtils interface, suited for standalone use.",,"basic implementation, standalone use, Basic implementation, ModelUtils interface",
+Raises: ValueError: if FeatureColumn cannot be used for linear predictions.,"<linear predictions, linear prediction>","valueerror, featurecolumn, NOT",linear prediction
+"The following example uses the functional API to build a simple, fully-connected network: Model subclassing.","<connected Network, connected network>","Model subclassing, BUILD, following example, Functional api, functional api, model subclassing",fully-connected network
+"If one, the latest single value is cached.",,latest single value,
+Defined in tensorflow/contrib/model_pruning/python/pruning.py.,"<Tensorflow, tensorflow>, <Contrib, contrib>","TENSORFLOW, tensorflow, contrib",
+Is a feature relevant to the problem you want to solve or will it introduce bias?,,"OR, IT","bias,feature"
+Example: Note that only tensors with real or complex dtypes are differentiable.,"<dtypes, dtype>","OR, NOTE, TENSORS","tensor,dtype"
+"The total unpartitioned shape should be [e_0, e_1, ..., e_m], where e_0 represents the vocab size and e_1, ..., e_m are the embedding dimensions.","<embedding dimension, embedding dimensions>, <unpartitioned shape>","embedding, vocab size, total unpartitioned shape","unpartitioned shape,embedding dimension,"
+*args: The args to be substituted into the msg.,,args,
+"The maximum number of minibatches in the top queue, and also the maximum number of elements within each bucket.",<top queue>,"minibatches, AND, top queue, maximum number, Maximum number","minibatch,top queue"
+"A simple class for storing configurations, parameters and updaters in one class (so they can be broadcast together).","<updater, updaters>","simple class, AND, BROADCAST, Simple class, One class, one class",
+"(With asynchronous execution, such an error isn't reported until after the operation is actually executed, so the stack trace does not show where it was As an exception, several functions such as :meth:`~torch.Tensor.to` and :meth:`~torch.Tensor.copy_` admit an explicit :attr:`non_blocking` argument, Another exception is CUDA streams, explained below.","<cuda, Cuda, CUDA>","EXCEPTION, NOT, AND, CUDA, cuda, asynchronous execution, Another exception, stack trace, another exception, IT, ERROR",CUDA
+assert_less_equal(...): Assert the condition x <= y holds element-wise.,,,
+potrf = LU factorization of a positive definite matrix (PO) into a lower L ( or upper U ) triangular matrix.,"<triangular matrices, triangular matrice, Triangular matrix, triangular matrix>, <positive definite>, <potrf, potr, potrs, pstrf>","potrf, LU factorization, OR, positive definite matrix, triangular matrix, PO","LU factorization,triangular matrix,positive definite matrix, PO,potrf,"
+"(Note that in some cases, like basic RNN cell or GRU cell, outputs and states can be the same.","<rnn cell, RNN cell>,<GRU cell, gru cell>","SAME, gru cell, NOTE, AND, GRU cell, basic RNN cell","RNN cell,GRU cell,"
+The dividend and divisor may contain both for integer and floating point numbers.,,AND,
+contrib module: contrib module containing volatile or experimental code.,"<Contrib, contrib>","contrib module, volatile or experimental code",
+Early stopping is one mechanism used to manually set the number of epochs to prevent underfitting and overfitting.,"<Early stopping, Early Stopping, early stopping>, <Overfitting, overfitting, overfit>","Early stopping, one mechanism, number of epochs, overfitting, early stopping, underfitting","early stopping,underfitting,overfitting"
+Neda (Neda) 2019-01-15 14:52:26 UTC #3 thank you for the comment.,,"UTC, neda",
+serialize_tensor(...): Transforms a Tensor into a serialized TensorProto proto.,"<proto, protos>",serialized TensorProto proto,"tensor,proto,"
+"Once eager execution is enabled, it cannot be disabled within the same program.",,"SAME, eager execution, NOT, IT, Eager execution",
+Creates a Bijector from callables.,,bijector,
+shiretzet (shir gur) 2018-04-23 15:20:58 UTC #17 Works fine with 0.5.0a0+3b63be0.,,"UTC, shiretzet",
+"If you just want to get a DL4J app running on your device, you can jump ahead to a simple demo application which trains a neural network for Iris flower classification available here.","<Neural network, Neural net, Neural networks, NN, neural network, neural networks, neural nets, Neural Network, neural net, Neural Networks, nn, Neural Net>","Iris flower classification, simple demo application, Neural network, DL4J app, neural network, DEVICE","neural network,DL4J"
+This method may be used to iterate over the constants as follows: for (Join.JoinType c : Join.JoinType.values()) System.out.println(c);.,,"JoinType c, THIS",
+Check out the printed model to see how the generator object is structured.,,"generator object, printed model",
+Protobuf type tensorflow.GraphTransferInfo.GraphInputNodeInfo.,"<Tensorflow, tensorflow>, <protobuf>","graphinputnodeinfo, Protobuf type tensorflow, graphtransferinfo",protobuf
+Sets a token pre processor to be used with every tokenizer.,"<tokenizer, tokenizers>, <pre proces, pre processor, pre process>","token pre processor, every tokenizer","tokenizer,pre processor,"
+class RMSPropOptimizer: Optimizer that implements the RMSProp algorithm.,"<Optimizer, optimizer, optimiser, Optimizers, optimizers, optim>, <rmsprop, RMS, rm>","rmsprop, optimizer, class rmspropoptimizer","Optimizer,RMSProp"
+Setup and Dependencies.,,AND,
+Returns an Op that asserts this operator is positive definite.,"<positive definite>, <op, one prediction, Op>","THIS, op, OP","Op,positive definite"
+"The load operation requires the session in which to restore the graph definition and variables, the tags used to identify the meta graph def to load and the location of the SavedModel.","<def, defs, defun>, <load operation>","meta graph def, load operation, AND, savedmodel, VARIABLES, graph definition",load operation
+"DrerD 2018-05-16 17:15:05 UTC #3 sorry, I should say I am trying to find the actor gradient.",<actor gradient>,"UTC, drerd, actor gradient",actor gradient
+"Now, in order to make the content loss layer transparent we must define a forward method that computes the content loss and then returns the layer's input.","<Content Loss, content los>","layer 's input, content loss, forward method","content loss,"
+Get the convolution singleton.,,convolution singleton,convolution singleton
+"Finally, predict some housing prices using data in the testing set: __CODE__ Conclusion.",,"CODE, PREDICT, testing set",
+No effect when executing eagerly (restore operations are run eagerly).,,,
+A source/target misclassification means the adversary wants to alter an image that is originally of a specific source class so that it is classified as a specific target class.,,"misclassification, specific source class, IT, SOURCE, specific target class",source/target misclassification
+Any help is appreciated.,,,
+"For this tutorial, since we are only using the STL-10 dataset, this is plenty of storage.","<Dataset, Datasets, dataset, datasets, data set, Data set>","STL-10 dataset, THIS, plenty of storage",STL-10 dataset
+"Now that you know how to build a basic (and somewhat restricted) op and implementation, we'll look at some of the more complicated things you will Conditional checks and validation.","<op, one prediction, Op>","conditional, AND, BUILD, op, OP, IMPLEMENTATION",
+"For this tutorial, we will classify digits in EMNIST, the ""next generation"" of MNIST and a larger dataset.","<mnist, MNIST>, <Dataset, Datasets, dataset, datasets, data set, Data set>","emnist, Larger dataset, mnist, THIS, larger dataset, EMNIST, MNIST","EMNIST,MNIST,dataset,"
+"In particular, the RecordReaderMultiDataSetIterator provides the following functionality: Multiple DataVec RecordReaders may be used simultaneously.",,"Multiple DataVec recordreaders, following functionality, recordreadermultidatasetiterator",
+Loss function and optimizer.,"<Optimizer, optimizer, optimiser, Optimizers, optimizers, optim>, <loss function, Loss functions, loss functions, Loss function, Loss Function, Loss Functions>","Loss function, optimizer, loss function","loss function,optimizer,"
+"Expecting parameter: {} "" ""to be a torch.Tensor type"".format(param_name)) def _check_tensor_list(param, param_name): """""" Helper that check the parameter: param_name is a Tensor list """""" wrong_type = False if isinstance(param, list): for p in param: if not isinstance(p, torch.Tensor): wrong_type = True break else: wrong_type = True if wrong_type: raise RuntimeError(""Invalid function argument.","<tensor list>, <def, defs, defun>, <Parametrized, parametrized, param>","param, tensor list, NOT, FALSE, def, True break, Tensor list, function argument",
+The depth index containing the 1 is that of the maximum logit value.,<logit>,"maximum logit value, depth index","depth index,logit"
+Please let us know if you hit any issues or want to give feedback.,,"PLEASE, ISSUES",
+The maximum scalar values for each of the input tensors.,"<Input tensors, input tensors, inputs tensors, input tensor, inputs tensor, inputs Tensors, input Tensor, Input tensor, input Tensors, Input Tensor>, <scalar value, Scalar Value, scalar values, scalar valued, Scalar value>","VALUES, MAXIMUM, INPUT","scalar value,input tensor"
+"For configuring dependencies for Spark jobs, see the uber-jar section above.",,"SPARK, uber - jar section",Spark
+">>> from setuptools import setup >>> from torch.utils.cpp_extension import BuildExtension, CppExtension >>> setup( name='extension', ext_modules=[ CppExtension( name='extension', sources=['extension.cpp'], extra_compile_args=['-g'])), ], cmdclass={ 'build_ext': BuildExtension }) Creates a setuptools.Extension for CUDA/C++.","<cuda, Cuda, CUDA>","setuptools, setuptools import setup, buildextension, CUDA, import buildextension, cuda, cppextension",CUDA
+Description copied from interface: StatusListener.,,statuslistener,
+SimonW (Simon Wang) 2018-02-11 03:06:58 UTC #7 @pytorcher You are probably using an older version of pytorch then.,"<pytorch, Pytorch>","Simon wang, pytorch, older version, simonw, UTC",pytorch
+Workspace for working memory for a single layer: forward pass and backward pass Use output(INDArray).,"<Single Layer, single layer>","Working memory, single layer, backward pass, forward pass, working memory","single layer,forward pass,backward pass,"
+tf.train.Saver.save) could potentially raise this exception if an explicit filename for an existing file was passed.,,"explicit filename, PASSED, THIS, existing file",
+state: RNNCell state (possibly nested tuple of) tensor[s] from previous time step.,"<nested tuple>, <time step, time steps, Time step>","nested tuple, previous time step, Nested tuple, RNNCell state","tensor,time step"
+Returns a labeled point of the writables where the final item is the point and the rest of the items are features.,<labeled point>,"final item, AND, REST, labeled point, writables",labeled point
+Bot: no .,,,
+Shortcuts Source code for torch.optim.optimizer.,,Shortcuts Source code,
+"taiky (taiky) 2018-03-12 03:06:54 UTC #18 Finally, I finished the training procedure successfully!",<training procedure>,"UTC, taiky, training procedure",training procedure
+set_floatx(...): Sets the default float type.,"<float types, floating type, float type>",default float type,
+Note that multiple different modes are supported - these specify how the activations should be combined from READ THIS FIRST Bdirectional LSTM layer implementation.,"<lstm, LSTM, LSTMs>","NOTE, ACTIVATIONS, READ THIS FIRST Bdirectional LSTM layer implementation","LSTM,activation,"
+Add function used for undertaking quality analysis of a data set via Spark.,,"SPARK, FUNCTION, data set, quality analysis",Spark
+It has a slightly higher overhead (need to count the number of values in each partition) but should be less prone to random sampling variance than the SparkDefault strategy.,"<random sampling, Random sampling, random sample>","Random sampling, VALUES, random sampling, SparkDefault strategy, IT, slightly higher overhead",random sampling
+"CIFAR-10 weights for this model are available and have been converted using ""approach 2"" from __URL__.",,"AND, THIS, cifar-10",CIFAR-10 weights
+CifarDataSetIterator is an iterator for Cifar10 dataset explicitly There is a special preProcessor used to normalize the dataset based on Sergey Zagoruyko example https://github.com/szagoruyko/cifar.torch.,"<cifar10>, <preprocessing, Preprocessed, Preprocess, Preprocessing, preproces, preprocessor, preprocessed, preprocessors, preprocess>","special preprocessor, cifardatasetiterator, Sergey Zagoruyko example, Cifar10 dataset, dataset, iterator, CIFAR10 dataset","Cifar10,preProcessor"
+Appropriate for embeddings or as efficient storage before being expanded StringMapTransform.,"<Embeddings, embeddings, embedding>","embeddings, efficient storage",embeddings
+"A CUDA stream is a linear sequence of execution that belongs to a specific device, independent from other streams.","<cuda, Cuda, CUDA>","other, linear sequence of execution, specific device, CUDA stream",CUDA
+PyTorch Forums How to customize activation function of torchvision model(resnet18)?,"<activation function, Activation functions, activation functions, Activation function, Activation Functions>, <pytorch, Pytorch>","torchvision, PyTorch forums, customize activation function","activation function,PyTorch,resnet18"
+"This method should be called from Iterator's reset() method, to keep labels in sync with iterator.",,"Iterator 's reset, THIS, METHOD, iterator",
+Main class for training MultiLayerNetwork networks using Spark.,,"Main class, main class, SPARK, multilayernetwork",Spark
+"Weight updates (for instance, the updates of the moving mean and variance in a BatchNormalization layer) may be dependent on the inputs passed when calling a layer.","<moving mean>, <weight updates, weight update, Weight updates>","INPUTS, BatchNormalization layer, moving mean",Weight update
+MetricSpec connects a model to metric functions.,"<metric function, metric functions>",metricspec,metric functions
+"If more than one such registered method exists, the method whose registered classes have the shortest sum MRO paths to the input types is used.","<sum, SUM, summand>","METHOD, one such registered method, CLASSES, SUM, INPUT",
+This method may be used to iterate over the constants as follows: for (VersionCheck.Detail c : VersionCheck.Detail.values()) System.out.println(c);.,,"THIS, versioncheck",
+images is a tensor of at least 3 dimensions.,,,
+"Specifically, it contains names f or each column, as well as details of types (Integer, String, Long, Double, etc).",,"etc, OR, DOUBLE, STRING, IT",
+The probability function is.,"<probability function, probability functions>","Probability function, probability function",probability function
+Close the database.,"<Dataset, Datasets, dataset, datasets, data set, Data set>",,
+One could use it to add a bias or as part of some other calculation.,,"OR, other, USE",
+string device = 4;.,,string device,
+"N-dimensional (where N > 2), then a batched matrix multiply is returned.","<Matrix multiply, matrix multiply, matrix multiplies, matrix multiplie>",batched matrix multiply,matrix multiply
+autoclass:: torch.optim.lr_scheduler.ExponentialLR :members: ..,,autoclass,
+"The variables to restore do not have to have been initialized, as restoring is itself a way to initialize variables.",,"WAY, NOT, VARIABLES",
+verbose: 0 or 1.,,OR,
+"Then, I use the gdb to attach the hanged process.","<hanged proces, hanged process>","hanged process, USE, gdb",hanged process
+Pytorch's LSTM expects all of its inputs to be 3D tensors.,"<pytorch, Pytorch>, <lstm, LSTM, LSTMs>","3d, INPUTS, Pytorch 's lstm","Pytorch,LSTM"
+random_shuffle(...): Randomly shuffles a tensor along its first dimension.,"<Tensor along, Tensor Along, tensor along>","first dimension, First dimension",
+This means that any changes you may have made to the Dataset graph will be discarded as well!,,"Dataset graph, THIS, MADE",
+automethod:: cos_ ..,,,
+"This method frees specific chunk of memory, described by AllocationPoint passed in.",,"PASSED, THIS, BY, specific chunk of memory",
+"Values are merged in order, so if an index appears in both indices[m][i] and indices[n][j] for (m,i) < (n,j) the slice data[n][j] will appear in the merged result.",<merged result>,"INDEX, AND, VALUES, merged result",
+align_corners: An optional bool.,"<bool, bools, Bool>","optional bool, Optional bool",
+This method returns registered Op by name.,"<op, one prediction, Op>","THIS, op, NAME, OP",Op
+Returns the number of rows in this matrix (throws exception if not 2d).,,"NOT, THIS, EXCEPTION",
+real_label: The value that the generator is trying to get the discriminator to output on generated data.,,VALUE,
+"Input arrays: 0: n - define derivative order (n+1), type integer (however currently is implemented as float casted to integer) Output array: Two input and one output arrays have the same shape.","<output array, output arrays, Output array, Output arrays, outputs array>, <input array, input arrays, inputs array, Input arrays>","SAME, derivative order, FLOAT, output array, Two input, type integer, two input, one output, INPUT, Output array","Input array,Output array"
+"show_dataflow: bool, if True, add flow events to the trace connecting producers and consumers of tensors.","<bool, bools, Bool>","BOOL, bool, AND, TENSORS",
+"This method marks given DataBuffer as actual in specific location (either host, device, or both).",,"OR, THIS, specific location, DEVICE, given databuffer, either host",
+uniform_candidate_sampler(...): Samples a set of classes using a uniform base distribution.,"<base distribution, Base distribution>","uniform base distribution, CLASSES",
+Parameter values leading to undefined statistics or distributions.,,"OR, UNDEFINED, VALUES",
+autofunction:: checkpoint ..,,autofunction,
+"Output: \((N, C_{out}, L_{out})\) where \[L_{out} = \left\lfloor\frac{L_{in} + 2 \times \text{padding} - \text{dilation} \times (\text{kernel\_size} - 1) - 1}{\text{stride}} + 1\right\rfloor \].",,,
+Does not properly trigger the incrementing of epoch counts in MultiLayerNetwork/ComputationGraph.,,"computationgraph, incrementing, multilayernetwork, NOT",
+"Wide (aka linear) models (LinearClassifier, LinearRegressor).",<aka linear>,"aka, linearclassifier, linearregressor, AKA",
+"Each torch.Tensor has a torch.dtype, torch.device, and torch.layout.",,AND,
+__TABLE__ See torch.cos().,,TABLE,
+Parses a number of serialized Example protos given in serialized.,"<proto, protos>",Example protos,
+PLEASE NOTE: Order synchro between labels and input documents delegated to end-user.,,"AND, Order synchro, end - user, PLEASE note",
+"Without this call, the dequeue op associated with the SQSS will not run.","<sqs, SQSS>, <op, one prediction, Op>, <Dequeue, dequeue>","SQSS, NOT, THIS, dequeue op, sqss","SQSS,depueue,op"
+This option means you'll provide own Transport interface implementation via VoidParameterServer.init() method.,,"THIS, METHOD, Transport interface implementation",
+Only used Properties.,,,
+"After predicting the next word, the modified hidden states are again fed back into the model, which is how it learns as it gets more context from the previously predicted words.","<hidden states, hidden state>","IT, next word",hidden states
+Computes the QR decompositions of one or more matrices.,"<QR, qr>","OR, QR, qr",QR
+We will ultimately use a ComputationGraph since we will have multiple inputs to the network.,"<multiple inputs, multiple input, Multiple inputs, Multiple Inputs>","computationgraph, Multiple inputs, multiple inputs, USE",
+Graves et al.: Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks: __URL__ ..,"<Recurrent Neural Networks, recurrent neural network, recurrent neural networks, rnn, Rnn, RNN, RNNs, Recurrent neural networks>, <Connectionist Temporal Classification, connectionist temporal classification>","Labelling Unsegmented Sequence data, et al, Recurrent Neural networks, URL, Connectionist Temporal classification","Connectionist Temporal Classification,Recurrent Neural Networks"
+config: an instance of tf.ConfigProto proto used to configure the session.,"<proto, protos>, <configs, configuraiton, config>, <tensor filter, Tf, tf, TF>","config, tf, TF, ConfigProto proto",
+Maybe not just yet.,,NOT,
+"You need to call this to getFromOrigin a new dataset, otherwise DataSetFetcher.next() just returns the last data applyTransformToDestination fetch.",,"last data applyTransformToDestination fetch, THIS, new dataset",
+"audio andreiliphd (Andrei Li) 2018-11-05 13:04:30 UTC #1 LSTM is expecting (seq_len, batch, input_size) but when I do that PyTorch throws an error: __CODE__ 20 is seq_len and 27 is batch_size.","<pytorch, Pytorch>, <lstm, LSTM, LSTMs>","CODE, AND, pytorch, Andrei li, lstm, LSTM, audio andreiliphd, UTC, ERROR","LSTM,PyTorch"
+Initializes a DNNLinearCombinedClassifier instance.,,DNNLinearCombinedClassifier instance,
+"last_hidden: final hidden layer of GRU; shape=(n_layers x num_directions, batch_size, hidden_size).","<Hidden Layers, hidden layer, Hidden layers, hidden layers>, <Gated Recurrent Unit, gated recurrent unit, gated Recurrent Unit, gru, GRU>","GRU, gru, final hidden layer","hidden layer,GRU"
+As with other types of neural networks,"<Neural network, Neural net, Neural networks, NN, neural network, neural networks, neural nets, Neural Network, neural net, Neural Networks, nn, Neural Net>","other, Neural networks",neural networks
+"An nn.Module contains layers, and a method forward(input)that returns the output.","<Neural network, Neural net, Neural networks, NN, neural network, neural networks, neural nets, Neural Network, neural net, Neural Networks, nn, Neural Net>","NN, AND, METHOD, nn",
+decode_video(...): Create an op that decodes the contents of a video file.,"<op, one prediction, Op>","op, OP, video file",
+What is a DCGAN?,<DCGAN>,,DCGAN
+Takes in just a classification matrix and initializes the labels to just be indices.,<classification matrix>,classification matrix,classification matrix
+This allows for flexibility as you seek a combination of optimizer and updater that works best for your data and problem.,"<updater, updaters>, <Optimizer, optimizer, optimiser, Optimizers, optimizers, optim>","AND, updater, THIS, combination of optimizer",optimizer
+"D, H and W can be either a ``int``, or ``None`` which means the size will be the same as that of the input.",,"SAME, INT, NONE, AND, OR, int, INPUT",
+Broadcast not equal to op.,"<op, one prediction, Op>","BROADCAST, op, OP",op
+class ResourceExhaustedError: Some resource has been exhausted.,,class resourceexhaustederror,
+Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow).,,"OR, Web browser, computer 's hard drive, web browser",
+"Finally, if activation_fn is not None, it is applied to the activations as well.",,"NOT, ACTIVATIONS, IT",activations
+The first argument is the label for the layer,,"first argument, LABEL",
+"# Grab a batch of real images from the dataloader real_batch = next(iter(dataloader)) # Plot the real images plt.figure(figsize=(15,15)) plt.subplot(1,2,1) plt.axis(""off"") plt.title(""Real Images"") plt.imshow(np.transpose(vutils.make_grid(real_batch[0].to(device)[:64], padding=5, normalize=True).cpu(),(1,2,0))) # Plot the fake images from the last epoch plt.subplot(1,2,2) plt.axis(""off"") plt.title(""Fake Images"") plt.imshow(np.transpose(img_list[-1],(1,2,0))) plt.show() ../_images/sphx_glr_dcgan_faces_tutorial_004.png Where to Go Next.","<fake images, Fake images, fake image>, <real images, Real images, real image, Real Images>","last epoch, dataloader","real images,fake images,epoch"
+"check_shapes: If True, check that generator produces Tensors that are the Returns: A ACGANModel namedtuple.",,"acganmodel, TENSORS",
+"If you want to just use the environment variable, don't define the system property.",,"system property, environment variable, USE, System property",
+"As a general rule, you should use DataSet/DataSetIterator, unless you are dealing with multiple inputs and/or multiple outputs.","<multiple inputs, multiple input, Multiple inputs, Multiple Inputs>, <multiple output, multiple outputs, Multiple outputs>, <Dataset, Datasets, dataset, datasets, data set, Data set>","multiple inputs, USE, UNLESS, datasetiterator, general rule, Multiple inputs","multiple outputs,multiple input,Dataset"
+The latter may be supplied to tf.image.draw_bounding_boxes to visualize what the bounding box looks like.,"<Bounding Boxes, bounding boxes, Bounding boxes, bounding box, bounding boxe>","Bounding box, bounding box",bounding box
+This method may be used to iterate over the constants as follows: for (ArrayType c : ArrayType.values()) System.out.println(c);.,,"ArrayType c, THIS",
+grad_fn is a function with the signature g(*grad_ys) which returns a list of Tensors - the derivatives of Tensors in y with respect Tensors the same size as y holding the initial value gradients for each Tensor in y.,,"SAME, FUNCTION, Initial value, TENSORS, list of tensors, initial value",Tensor
+Arbiter Layer Spaces.,,Arbiter Layer spaces,
+"vmirly1 (Vahid Mirjalili) 2019-01-21 19:52:44 UTC #2 If you want to do it randomly, then why not using the Dropout?",,"NOT, Vahid mirjalili, UTC, IT, vmirly1",Dropout
+This method returns maximal allowed number of threads for Nd4j.,,"THIS, nd4j",Nd4j
+"If false, treats double quotation marks as regular Bullet 5).",,"FALSE, regular bullet, DOUBLE",
+"__TABLE__ Randomly change the brightness, contrast and saturation of an image.",,"TABLE, AND",
+Tuning & Training Troubleshooting Visualization Evaluation Transfer Learning Early Stopping t-SNE Visualization.,"<Early stopping, Early Stopping, early stopping>, <transfer learning, Transfer Learning, Transfer learning>, <SNE, sne>","SNE visualization, Troubleshooting Visualization Evaluation Transfer learning","Early Stopping,Transfer Learning,t-SNE"
+This is useful during the {- link org.datavec.api.transform.TransformProcess} to identify what a process will do to a given {- link Schema}.,,"THIS, LINK",
+sometimes they are not very helpful but in this case it is.,,"NOT, THIS, IT",
+I don't have 4GPU machine.,,4GPU machine,
+Create a custom layer by subclassing tf.keras.layers.Layer and implementing the following methods: build: Create the weights of the layer.,<custom layer>,"custom layer, WEIGHTS, AND, BUILD, subclassing, Custom layer",custom layer
+- :meth:`~Module.forward` - instantiates a :class:`~torch.autograd.Function` and uses it to perform the operation.,,"AND, IT, FUNCTION",
+autofunction:: zeros ..,,autofunction,
+"Typically only used in very limited circumstances, to signify that a value is missing.",,VALUE,
+An or between 2 conditions.,,"OR, CONDITIONS",
+Returns Huffman tree points.,,Returns huffman,Huffman tree
+A CUDA stream is a linear sequence of execution that belongs to a specific device.,"<cuda, Cuda, CUDA>","linear sequence of execution, specific device, CUDA stream",CUDA
+new_axis_mask: An int32 mask.,"<INT32, int32>",int32 mask,

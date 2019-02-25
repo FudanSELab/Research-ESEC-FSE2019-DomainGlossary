@@ -1,0 +1,1922 @@
+[
+    {
+        "term1": "Discrete Fourier Transform",
+        "term2": "DFT",
+        "correct": true
+    },
+    {
+        "term1": "False Positive",
+        "term2": "false positive",
+        "correct": true
+    },
+    {
+        "term1": "DET",
+        "term2": "Deterministically",
+        "correct": false
+    },
+    {
+        "term1": "tensor dimension",
+        "term2": "tensor dimensionality",
+        "correct": true
+    },
+    {
+        "term1": "Small gradients",
+        "term2": "small gradients",
+        "correct": true
+    },
+    {
+        "term1": "LRN",
+        "term2": "local response normalization",
+        "correct": true
+    },
+    {
+        "term1": "Embeddings",
+        "term2": "embeddings",
+        "correct": true
+    },
+    {
+        "term1": "Predictive models",
+        "term2": "prediction model",
+        "correct": true
+    },
+    {
+        "term1": "Numeric Tensor",
+        "term2": "numeric Tensor",
+        "correct": true
+    },
+    {
+        "term1": "output array",
+        "term2": "outputs array",
+        "correct": true
+    },
+    {
+        "term1": "stdev",
+        "term2": "stddev",
+        "correct": true
+    },
+    {
+        "term1": "Scale Transforms",
+        "term2": "scale transformation",
+        "correct": true
+    },
+    {
+        "term1": "Keras Models",
+        "term2": "Keras models",
+        "correct": true
+    },
+    {
+        "term1": "Denoising",
+        "term2": "denoising",
+        "correct": true
+    },
+    {
+        "term1": "cuDNN",
+        "term2": "CuDNN",
+        "correct": true
+    },
+    {
+        "term1": "Conv2d",
+        "term2": "Conv2D",
+        "correct": true
+    },
+    {
+        "term1": "elems",
+        "term2": "elementwise",
+        "correct": false
+    },
+    {
+        "term1": "discrete Fourier transform",
+        "term2": "DFT",
+        "correct": true
+    },
+    {
+        "term1": "elems",
+        "term2": "Elementwise",
+        "correct": false
+    },
+    {
+        "term1": "OpenCV",
+        "term2": "opencl",
+        "correct": false
+    },
+    {
+        "term1": "Neural networks",
+        "term2": "Neural Net",
+        "correct": true
+    },
+    {
+        "term1": "convolutional layers",
+        "term2": "Convolution layer",
+        "correct": true
+    },
+    {
+        "term1": "location parameter",
+        "term2": "Location parameter",
+        "correct": true
+    },
+    {
+        "term1": "Piecewise",
+        "term2": "piecewise",
+        "correct": true
+    },
+    {
+        "term1": "negative log",
+        "term2": "Negative Log",
+        "correct": true
+    },
+    {
+        "term1": "weight update",
+        "term2": "weight updates",
+        "correct": true
+    },
+    {
+        "term1": "Network Architectures",
+        "term2": "network architecture",
+        "correct": true
+    },
+    {
+        "term1": "preprocessing",
+        "term2": "preprocessed",
+        "correct": true
+    },
+    {
+        "term1": "Dense tensor",
+        "term2": "dense Tensor",
+        "correct": true
+    },
+    {
+        "term1": "Scalar value",
+        "term2": "scalar values",
+        "correct": true
+    },
+    {
+        "term1": "preprocessors",
+        "term2": "preprocessing",
+        "correct": false
+    },
+    {
+        "term1": "Linear Regression",
+        "term2": "Linear regression",
+        "correct": true
+    },
+    {
+        "term1": "Logistic distributions",
+        "term2": "Logistic distribution",
+        "correct": true
+    },
+    {
+        "term1": "Distribution parameter",
+        "term2": "distribution parameter",
+        "correct": true
+    },
+    {
+        "term1": "nvidia",
+        "term2": "NVIDIA",
+        "correct": true
+    },
+    {
+        "term1": "dense Tensors",
+        "term2": "Dense Tensor",
+        "correct": true
+    },
+    {
+        "term1": "dimensional Tensor",
+        "term2": "dimensional Tensors",
+        "correct": true
+    },
+    {
+        "term1": "GPU memory",
+        "term2": "GPU Memory",
+        "correct": true
+    },
+    {
+        "term1": "base distribution",
+        "term2": "Base distribution",
+        "correct": true
+    },
+    {
+        "term1": "Conda",
+        "term2": "conda",
+        "correct": true
+    },
+    {
+        "term1": "sparse Tensors",
+        "term2": "Sparse Tensor",
+        "correct": true
+    },
+    {
+        "term1": "linear index",
+        "term2": "Linear indices",
+        "correct": true
+    },
+    {
+        "term1": "squares problems",
+        "term2": "squares problem",
+        "correct": true
+    },
+    {
+        "term1": "point communication",
+        "term2": "point communcation",
+        "correct": true
+    },
+    {
+        "term1": "label tensors",
+        "term2": "labels Tensor",
+        "correct": true
+    },
+    {
+        "term1": "Sequence Learning",
+        "term2": "Sequence learning",
+        "correct": true
+    },
+    {
+        "term1": "Network Training",
+        "term2": "network training",
+        "correct": true
+    },
+    {
+        "term1": "parameter ratio",
+        "term2": "Parameter Ratio",
+        "correct": true
+    },
+    {
+        "term1": "perform evaluation",
+        "term2": "Perform evaluation",
+        "correct": true
+    },
+    {
+        "term1": "gradient square",
+        "term2": "gradient squared",
+        "correct": true
+    },
+    {
+        "term1": "stochastic gradient",
+        "term2": "Stochastic gradient",
+        "correct": true
+    },
+    {
+        "term1": "matrix product",
+        "term2": "Matrix product",
+        "correct": true
+    },
+    {
+        "term1": "Gamma function",
+        "term2": "gamma function",
+        "correct": true
+    },
+    {
+        "term1": "Input columns",
+        "term2": "input columns",
+        "correct": true
+    },
+    {
+        "term1": "input multiple",
+        "term2": "input multiples",
+        "correct": true
+    },
+    {
+        "term1": "Integer columns",
+        "term2": "integer columns",
+        "correct": true
+    },
+    {
+        "term1": "Regularizers",
+        "term2": "Regularizer",
+        "correct": true
+    },
+    {
+        "term1": "model variable",
+        "term2": "model variables",
+        "correct": true
+    },
+    {
+        "term1": "resulting tensor",
+        "term2": "result Tensor",
+        "correct": true
+    },
+    {
+        "term1": "Bidirectional layer",
+        "term2": "Bidirectional Layer",
+        "correct": true
+    },
+    {
+        "term1": "hyperparameters",
+        "term2": "Hyperparameter",
+        "correct": true
+    },
+    {
+        "term1": "Cudnn",
+        "term2": "CUDNN",
+        "correct": true
+    },
+    {
+        "term1": "Restart training",
+        "term2": "Restarting training",
+        "correct": true
+    },
+    {
+        "term1": "resume training",
+        "term2": "resuming training",
+        "correct": true
+    },
+    {
+        "term1": "sequence labels",
+        "term2": "sequence label",
+        "correct": true
+    },
+    {
+        "term1": "DNN",
+        "term2": "deep neural network",
+        "correct": true
+    },
+    {
+        "term1": "Exponential distributions",
+        "term2": "exponential distribution",
+        "correct": true
+    },
+    {
+        "term1": "overfit",
+        "term2": "Overfitting",
+        "correct": true
+    },
+    {
+        "term1": "lstm",
+        "term2": "LSTMs",
+        "correct": true
+    },
+    {
+        "term1": "Network outputs",
+        "term2": "network output",
+        "correct": true
+    },
+    {
+        "term1": "mini batches",
+        "term2": "mini batch",
+        "correct": true
+    },
+    {
+        "term1": "preprocessing",
+        "term2": "preprocess",
+        "correct": true
+    },
+    {
+        "term1": "tf",
+        "term2": "Tf",
+        "correct": true
+    },
+    {
+        "term1": "network learn",
+        "term2": "network learnt",
+        "correct": true
+    },
+    {
+        "term1": "Dk",
+        "term2": "dK",
+        "correct": true
+    },
+    {
+        "term1": "model training",
+        "term2": "Model training",
+        "correct": true
+    },
+    {
+        "term1": "Input pre",
+        "term2": "input pre",
+        "correct": true
+    },
+    {
+        "term1": "applies dropout",
+        "term2": "Applies Dropout",
+        "correct": true
+    },
+    {
+        "term1": "batch tensor",
+        "term2": "batch Tensor",
+        "correct": true
+    },
+    {
+        "term1": "dimension tensor",
+        "term2": "dimensional Tensors",
+        "correct": true
+    },
+    {
+        "term1": "Machine Learning",
+        "term2": "machine learning",
+        "correct": true
+    },
+    {
+        "term1": "moving averages",
+        "term2": "moving average",
+        "correct": true
+    },
+    {
+        "term1": "save model",
+        "term2": "saved model",
+        "correct": true
+    },
+    {
+        "term1": "inputs Tensors",
+        "term2": "Input tensors",
+        "correct": true
+    },
+    {
+        "term1": "convolution2d",
+        "term2": "Convolution2D",
+        "correct": true
+    },
+    {
+        "term1": "Scalar value",
+        "term2": "Scalar Value",
+        "correct": true
+    },
+    {
+        "term1": "multiple models",
+        "term2": "multiple modes",
+        "correct": false
+    },
+    {
+        "term1": "stochastic gradient descent",
+        "term2": "SGD",
+        "correct": true
+    },
+    {
+        "term1": "RMSE",
+        "term2": "root mean squared error",
+        "correct": true
+    },
+    {
+        "term1": "Model Parameters",
+        "term2": "model parameters",
+        "correct": true
+    },
+    {
+        "term1": "clip value",
+        "term2": "clipping value",
+        "correct": true
+    },
+    {
+        "term1": "Sequential model",
+        "term2": "sequential model",
+        "correct": true
+    },
+    {
+        "term1": "cell types",
+        "term2": "cell type",
+        "correct": true
+    },
+    {
+        "term1": "global steps",
+        "term2": "global step",
+        "correct": true
+    },
+    {
+        "term1": "gradient tensors",
+        "term2": "gradient tensor",
+        "correct": true
+    },
+    {
+        "term1": "label tensor",
+        "term2": "labels tensors",
+        "correct": true
+    },
+    {
+        "term1": "training mode",
+        "term2": "Training models",
+        "correct": true
+    },
+    {
+        "term1": "openmp",
+        "term2": "openMPI",
+        "correct": false
+    },
+    {
+        "term1": "RRELU",
+        "term2": "Rectified linear units",
+        "correct": false
+    },
+    {
+        "term1": "conv2d",
+        "term2": "Conv2D",
+        "correct": true
+    },
+    {
+        "term1": "categorical distribution",
+        "term2": "Categorical distributions",
+        "correct": true
+    },
+    {
+        "term1": "bias tensors",
+        "term2": "Bias tensor",
+        "correct": true
+    },
+    {
+        "term1": "Boltzmann Machine",
+        "term2": "Boltzmann machines",
+        "correct": true
+    },
+    {
+        "term1": "gradient update",
+        "term2": "gradient updates",
+        "correct": true
+    },
+    {
+        "term1": "features arrays",
+        "term2": "features array",
+        "correct": true
+    },
+    {
+        "term1": "momentum value",
+        "term2": "Momentum value",
+        "correct": true
+    },
+    {
+        "term1": "Distributed communication",
+        "term2": "distributed communication",
+        "correct": true
+    },
+    {
+        "term1": "computed gradient",
+        "term2": "computing gradients",
+        "correct": true
+    },
+    {
+        "term1": "log probabilities",
+        "term2": "log probability",
+        "correct": true
+    },
+    {
+        "term1": "Categorical distributions",
+        "term2": "Categorical distribution",
+        "correct": true
+    },
+    {
+        "term1": "dynamic Shape",
+        "term2": "dynamic shape",
+        "correct": true
+    },
+    {
+        "term1": "bias tensor",
+        "term2": "bias tensors",
+        "correct": true
+    },
+    {
+        "term1": "runs training",
+        "term2": "Run training",
+        "correct": true
+    },
+    {
+        "term1": "preprocessed",
+        "term2": "preprocess",
+        "correct": true
+    },
+    {
+        "term1": "outcome matrices",
+        "term2": "outcome matrix",
+        "correct": true
+    },
+    {
+        "term1": "gradient tensors",
+        "term2": "gradients tensor",
+        "correct": true
+    },
+    {
+        "term1": "model output",
+        "term2": "model outputs",
+        "correct": true
+    },
+    {
+        "term1": "categorical column",
+        "term2": "categorical columns",
+        "correct": true
+    },
+    {
+        "term1": "Sparse Tensor",
+        "term2": "Sparse tensors",
+        "correct": true
+    },
+    {
+        "term1": "matrix ops",
+        "term2": "matrix operations",
+        "correct": true
+    },
+    {
+        "term1": "reinforcement learning",
+        "term2": "RL",
+        "correct": true
+    },
+    {
+        "term1": "negative sampling",
+        "term2": "Negative Sampling",
+        "correct": true
+    },
+    {
+        "term1": "inputs Tensors",
+        "term2": "inputs tensor",
+        "correct": true
+    },
+    {
+        "term1": "optional randomization",
+        "term2": "optional randomisation",
+        "correct": true
+    },
+    {
+        "term1": "Theano",
+        "term2": "theano",
+        "correct": true
+    },
+    {
+        "term1": "Scalar tensor",
+        "term2": "Scalar Tensor",
+        "correct": true
+    },
+    {
+        "term1": "maxpool2d",
+        "term2": "MaxPool2d",
+        "correct": true
+    },
+    {
+        "term1": "sequence steps",
+        "term2": "sequence step",
+        "correct": true
+    },
+    {
+        "term1": "Android devices",
+        "term2": "Android device",
+        "correct": true
+    },
+    {
+        "term1": "Weight normalization",
+        "term2": "weight norms",
+        "correct": true
+    },
+    {
+        "term1": "SVM",
+        "term2": "svm",
+        "correct": true
+    },
+    {
+        "term1": "optim",
+        "term2": "Optimizer",
+        "correct": true
+    },
+    {
+        "term1": "integer labels",
+        "term2": "integer label",
+        "correct": true
+    },
+    {
+        "term1": "Anton",
+        "term2": "anton",
+        "correct": true
+    },
+    {
+        "term1": "model scores",
+        "term2": "model score",
+        "correct": true
+    },
+    {
+        "term1": "Tensor operations",
+        "term2": "tensor operation",
+        "correct": true
+    },
+    {
+        "term1": "score function",
+        "term2": "score functions",
+        "correct": true
+    },
+    {
+        "term1": "score functions",
+        "term2": "Score function",
+        "correct": true
+    },
+    {
+        "term1": "random Shard",
+        "term2": "random shard",
+        "correct": true
+    },
+    {
+        "term1": "Tensor arguments",
+        "term2": "tensor arguments",
+        "correct": true
+    },
+    {
+        "term1": "ow",
+        "term2": "oW",
+        "correct": true
+    },
+    {
+        "term1": "Euclidean distance",
+        "term2": "euclidean distance",
+        "correct": true
+    },
+    {
+        "term1": "Keras model",
+        "term2": "Keras Models",
+        "correct": true
+    },
+    {
+        "term1": "confusion matrix",
+        "term2": "confusion Matrix",
+        "correct": true
+    },
+    {
+        "term1": "Random Seed",
+        "term2": "random seeds",
+        "correct": true
+    },
+    {
+        "term1": "fake images",
+        "term2": "Fake images",
+        "correct": true
+    },
+    {
+        "term1": "computational process",
+        "term2": "Computational processes",
+        "correct": true
+    },
+    {
+        "term1": "input Input",
+        "term2": "input input",
+        "correct": true
+    },
+    {
+        "term1": "diagonal matrix",
+        "term2": "diagonal matrices",
+        "correct": true
+    },
+    {
+        "term1": "Objective function",
+        "term2": "objective function",
+        "correct": true
+    },
+    {
+        "term1": "training pipelines",
+        "term2": "training pipeline",
+        "correct": true
+    },
+    {
+        "term1": "Rotated image",
+        "term2": "rotated image",
+        "correct": true
+    },
+    {
+        "term1": "Training parameters",
+        "term2": "training parameters",
+        "correct": true
+    },
+    {
+        "term1": "attention vectors",
+        "term2": "attention vector",
+        "correct": true
+    },
+    {
+        "term1": "resulting tensor",
+        "term2": "result tensor",
+        "correct": true
+    },
+    {
+        "term1": "Cuda",
+        "term2": "cuda",
+        "correct": true
+    },
+    {
+        "term1": "image classification",
+        "term2": "Image Classification",
+        "correct": true
+    },
+    {
+        "term1": "Parameter Spaces",
+        "term2": "parameter space",
+        "correct": true
+    },
+    {
+        "term1": "GPU Memory",
+        "term2": "gpu memory",
+        "correct": true
+    },
+    {
+        "term1": "int16",
+        "term2": "INT16",
+        "correct": true
+    },
+    {
+        "term1": "attention mechanism",
+        "term2": "Attention Mechanism",
+        "correct": true
+    },
+    {
+        "term1": "Exponential distributions",
+        "term2": "Exponential distribution",
+        "correct": true
+    },
+    {
+        "term1": "SimpleRNN",
+        "term2": "SimpleCNN",
+        "correct": false
+    },
+    {
+        "term1": "Global step",
+        "term2": "global step",
+        "correct": true
+    },
+    {
+        "term1": "Average precision",
+        "term2": "average precision",
+        "correct": true
+    },
+    {
+        "term1": "updated vectors",
+        "term2": "update vector",
+        "correct": true
+    },
+    {
+        "term1": "loss function",
+        "term2": "Loss Function",
+        "correct": true
+    },
+    {
+        "term1": "model training",
+        "term2": "models trained",
+        "correct": true
+    },
+    {
+        "term1": "proguard",
+        "term2": "Proguard",
+        "correct": true
+    },
+    {
+        "term1": "Nested structure",
+        "term2": "nested structures",
+        "correct": true
+    },
+    {
+        "term1": "Linear Models",
+        "term2": "Linear model",
+        "correct": true
+    },
+    {
+        "term1": "Mnist model",
+        "term2": "MNIST model",
+        "correct": true
+    },
+    {
+        "term1": "training loop",
+        "term2": "Training loop",
+        "correct": true
+    },
+    {
+        "term1": "gaussian noise",
+        "term2": "Gaussian noise",
+        "correct": true
+    },
+    {
+        "term1": "convolution operations",
+        "term2": "convolution operation",
+        "correct": true
+    },
+    {
+        "term1": "mode loss",
+        "term2": "model loss",
+        "correct": true
+    },
+    {
+        "term1": "Huber loss",
+        "term2": "huber loss",
+        "correct": true
+    },
+    {
+        "term1": "triangular matrix",
+        "term2": "triangular matrices",
+        "correct": true
+    },
+    {
+        "term1": "Input tensors",
+        "term2": "input Tensor",
+        "correct": true
+    },
+    {
+        "term1": "unstacking",
+        "term2": "unstack",
+        "correct": true
+    },
+    {
+        "term1": "output Tensor",
+        "term2": "output tensor",
+        "correct": true
+    },
+    {
+        "term1": "mean values",
+        "term2": "mean value",
+        "correct": true
+    },
+    {
+        "term1": "reliability diagram",
+        "term2": "Reliability diagram",
+        "correct": true
+    },
+    {
+        "term1": "image classifier",
+        "term2": "Image Classifier",
+        "correct": true
+    },
+    {
+        "term1": "eps",
+        "term2": "evaluation process",
+        "correct": false
+    },
+    {
+        "term1": "ELUs",
+        "term2": "Exponential Linear Units",
+        "correct": true
+    },
+    {
+        "term1": "output layer",
+        "term2": "Output Layer",
+        "correct": true
+    },
+    {
+        "term1": "input features",
+        "term2": "Input features",
+        "correct": true
+    },
+    {
+        "term1": "random variable",
+        "term2": "random variables",
+        "correct": true
+    },
+    {
+        "term1": "cumulative sum",
+        "term2": "Cumulative sum",
+        "correct": true
+    },
+    {
+        "term1": "Model Function",
+        "term2": "model function",
+        "correct": true
+    },
+    {
+        "term1": "subfolder",
+        "term2": "subfolders",
+        "correct": true
+    },
+    {
+        "term1": "Geometric distribution",
+        "term2": "geometric distribution",
+        "correct": true
+    },
+    {
+        "term1": "Pearson correlation coefficient",
+        "term2": "pearson correlation coefficient",
+        "correct": true
+    },
+    {
+        "term1": "continuous vector",
+        "term2": "continuous vectors",
+        "correct": true
+    },
+    {
+        "term1": "inputs tensor",
+        "term2": "input tensors",
+        "correct": true
+    },
+    {
+        "term1": "distribution parameters",
+        "term2": "Distribution parameter",
+        "correct": true
+    },
+    {
+        "term1": "float numbers",
+        "term2": "float number",
+        "correct": true
+    },
+    {
+        "term1": "inputs shape",
+        "term2": "input shapes",
+        "correct": true
+    },
+    {
+        "term1": "batch norm",
+        "term2": "Batch normalization",
+        "correct": true
+    },
+    {
+        "term1": "sigmoid activation",
+        "term2": "Sigmoid activation",
+        "correct": true
+    },
+    {
+        "term1": "mask arrays",
+        "term2": "mask array",
+        "correct": true
+    },
+    {
+        "term1": "run training",
+        "term2": "Run Training",
+        "correct": true
+    },
+    {
+        "term1": "multiple GPU",
+        "term2": "Multiple GPU",
+        "correct": true
+    },
+    {
+        "term1": "reduced dimensions",
+        "term2": "reducing dimensions",
+        "correct": true
+    },
+    {
+        "term1": "pca",
+        "term2": "PCA",
+        "correct": true
+    },
+    {
+        "term1": "VGG19",
+        "term2": "VGG",
+        "correct": false
+    },
+    {
+        "term1": "float types",
+        "term2": "floating type",
+        "correct": true
+    },
+    {
+        "term1": "normal distributions",
+        "term2": "Normal distributions",
+        "correct": true
+    },
+    {
+        "term1": "training loops",
+        "term2": "Training loop",
+        "correct": true
+    },
+    {
+        "term1": "true labels",
+        "term2": "true label",
+        "correct": true
+    },
+    {
+        "term1": "Gradient normalization",
+        "term2": "gradient normalization",
+        "correct": true
+    },
+    {
+        "term1": "Gaussian kernel",
+        "term2": "gaussian kernel",
+        "correct": true
+    },
+    {
+        "term1": "log probabilities",
+        "term2": "Log probability",
+        "correct": true
+    },
+    {
+        "term1": "Cudnn",
+        "term2": "CuDNN",
+        "correct": true
+    },
+    {
+        "term1": "Model Trained",
+        "term2": "model trains",
+        "correct": true
+    },
+    {
+        "term1": "evaluation mode",
+        "term2": "evaluation model",
+        "correct": true
+    },
+    {
+        "term1": "trained model",
+        "term2": "train models",
+        "correct": true
+    },
+    {
+        "term1": "hidden state",
+        "term2": "hidden states",
+        "correct": true
+    },
+    {
+        "term1": "output activations",
+        "term2": "output activation",
+        "correct": true
+    },
+    {
+        "term1": "integer Tensor",
+        "term2": "integer tensor",
+        "correct": true
+    },
+    {
+        "term1": "Sequential Model",
+        "term2": "sequential models",
+        "correct": true
+    },
+    {
+        "term1": "conv1",
+        "term2": "Conv1d",
+        "correct": false
+    },
+    {
+        "term1": "model evaluation",
+        "term2": "Model evaluation",
+        "correct": true
+    },
+    {
+        "term1": "Batch Normalization",
+        "term2": "batch normalization",
+        "correct": true
+    },
+    {
+        "term1": "ELU",
+        "term2": "Exponential Linear Unit",
+        "correct": true
+    },
+    {
+        "term1": "matrix norms",
+        "term2": "matrix norm",
+        "correct": true
+    },
+    {
+        "term1": "continuous feature",
+        "term2": "Continuous features",
+        "correct": true
+    },
+    {
+        "term1": "model checkpoint",
+        "term2": "model checkpoints",
+        "correct": true
+    },
+    {
+        "term1": "compute log",
+        "term2": "Compute log",
+        "correct": true
+    },
+    {
+        "term1": "Long columns",
+        "term2": "Long column",
+        "correct": true
+    },
+    {
+        "term1": "Input Sequences",
+        "term2": "input sequences",
+        "correct": true
+    },
+    {
+        "term1": "Shape functions",
+        "term2": "shape function",
+        "correct": true
+    },
+    {
+        "term1": "CuDNNGRU",
+        "term2": "CuDNN",
+        "correct": false
+    },
+    {
+        "term1": "F1 Score",
+        "term2": "F1 score",
+        "correct": true
+    },
+    {
+        "term1": "logits Tensor",
+        "term2": "logits tensor",
+        "correct": true
+    },
+    {
+        "term1": "weight update",
+        "term2": "Weight updates",
+        "correct": true
+    },
+    {
+        "term1": "weights matrix",
+        "term2": "Weight matrix",
+        "correct": true
+    },
+    {
+        "term1": "learning algorithms",
+        "term2": "Learning Algorithm",
+        "correct": true
+    },
+    {
+        "term1": "input key",
+        "term2": "input keys",
+        "correct": true
+    },
+    {
+        "term1": "dense tensors",
+        "term2": "dense Tensor",
+        "correct": true
+    },
+    {
+        "term1": "neural networks",
+        "term2": "Neural network",
+        "correct": true
+    },
+    {
+        "term1": "convolutional layers",
+        "term2": "Convolutional layers",
+        "correct": true
+    },
+    {
+        "term1": "generative models",
+        "term2": "Generative Model",
+        "correct": true
+    },
+    {
+        "term1": "Tensor types",
+        "term2": "tensor types",
+        "correct": true
+    },
+    {
+        "term1": "model training",
+        "term2": "Model Trained",
+        "correct": true
+    },
+    {
+        "term1": "tensor result",
+        "term2": "Tensor result",
+        "correct": true
+    },
+    {
+        "term1": "Loading Models",
+        "term2": "loading model",
+        "correct": true
+    },
+    {
+        "term1": "binary classifier",
+        "term2": "Binary Classifiers",
+        "correct": true
+    },
+    {
+        "term1": "convolution operations",
+        "term2": "Convolution operation",
+        "correct": true
+    },
+    {
+        "term1": "calculating gradients",
+        "term2": "calculate gradients",
+        "correct": true
+    },
+    {
+        "term1": "float tensors",
+        "term2": "float tensor",
+        "correct": true
+    },
+    {
+        "term1": "False Negative",
+        "term2": "Fn",
+        "correct": true
+    },
+    {
+        "term1": "variable updates",
+        "term2": "variable update",
+        "correct": true
+    },
+    {
+        "term1": "input mask",
+        "term2": "Input mask",
+        "correct": true
+    },
+    {
+        "term1": "multiclass",
+        "term2": "Multiclass",
+        "correct": true
+    },
+    {
+        "term1": "Optimization algorithm",
+        "term2": "optimization algorithms",
+        "correct": true
+    },
+    {
+        "term1": "single layer",
+        "term2": "Single Layer",
+        "correct": true
+    },
+    {
+        "term1": "ROC curves",
+        "term2": "ROC curve",
+        "correct": true
+    },
+    {
+        "term1": "autoencoder",
+        "term2": "Autoencoders",
+        "correct": true
+    },
+    {
+        "term1": "recurrent Network",
+        "term2": "recurrent network",
+        "correct": true
+    },
+    {
+        "term1": "long column",
+        "term2": "Long columns",
+        "correct": true
+    },
+    {
+        "term1": "plz",
+        "term2": "Plz",
+        "correct": true
+    },
+    {
+        "term1": "labels tensor",
+        "term2": "label tensor",
+        "correct": true
+    },
+    {
+        "term1": "Compute gradients",
+        "term2": "computes gradients",
+        "correct": true
+    },
+    {
+        "term1": "convolutional neural networks",
+        "term2": "CNN",
+        "correct": true
+    },
+    {
+        "term1": "network learn",
+        "term2": "Network Learning",
+        "correct": true
+    },
+    {
+        "term1": "Model saved",
+        "term2": "model saver",
+        "correct": true
+    },
+    {
+        "term1": "calculating loss",
+        "term2": "calculate loss",
+        "correct": true
+    },
+    {
+        "term1": "Language modeling",
+        "term2": "language modeling",
+        "correct": true
+    },
+    {
+        "term1": "dropout layers",
+        "term2": "Dropout layers",
+        "correct": true
+    },
+    {
+        "term1": "BackPropagation",
+        "term2": "backpropagation",
+        "correct": true
+    },
+    {
+        "term1": "Sequence models",
+        "term2": "sequence models",
+        "correct": true
+    },
+    {
+        "term1": "gated Recurrent Unit",
+        "term2": "gated recurrent unit",
+        "correct": true
+    },
+    {
+        "term1": "output tensors",
+        "term2": "Output Tensor",
+        "correct": true
+    },
+    {
+        "term1": "reduced sum",
+        "term2": "reduce sum",
+        "correct": true
+    },
+    {
+        "term1": "layer input",
+        "term2": "layer Input",
+        "correct": true
+    },
+    {
+        "term1": "temporal convolution",
+        "term2": "Temporal convolution",
+        "correct": true
+    },
+    {
+        "term1": "distributed model",
+        "term2": "distributed mode",
+        "correct": true
+    },
+    {
+        "term1": "resample",
+        "term2": "Resample",
+        "correct": true
+    },
+    {
+        "term1": "features dimension",
+        "term2": "feature dimension",
+        "correct": true
+    },
+    {
+        "term1": "higher rank",
+        "term2": "Higher ranks",
+        "correct": true
+    },
+    {
+        "term1": "gpus",
+        "term2": "GPUs",
+        "correct": true
+    },
+    {
+        "term1": "gradient norm",
+        "term2": "Gradient normalization",
+        "correct": true
+    },
+    {
+        "term1": "Uniform distribution",
+        "term2": "Uniform distributions",
+        "correct": true
+    },
+    {
+        "term1": "Controls behavior",
+        "term2": "controls behavior",
+        "correct": true
+    },
+    {
+        "term1": "native operation",
+        "term2": "Native operation",
+        "correct": true
+    },
+    {
+        "term1": "Multiple Layers",
+        "term2": "Multiply layer",
+        "correct": true
+    },
+    {
+        "term1": "Build models",
+        "term2": "build models",
+        "correct": true
+    },
+    {
+        "term1": "dense Tensors",
+        "term2": "dense tensor",
+        "correct": true
+    },
+    {
+        "term1": "Pytorch",
+        "term2": "pytorch",
+        "correct": true
+    },
+    {
+        "term1": "hyperparameters",
+        "term2": "Hyperparameters",
+        "correct": true
+    },
+    {
+        "term1": "evaluation results",
+        "term2": "evaluation result",
+        "correct": true
+    },
+    {
+        "term1": "pooling layers",
+        "term2": "pooling layer",
+        "correct": true
+    },
+    {
+        "term1": "float Tensors",
+        "term2": "float tensor",
+        "correct": true
+    },
+    {
+        "term1": "Sequence classification",
+        "term2": "sequence classification",
+        "correct": true
+    },
+    {
+        "term1": "minibatch tensors",
+        "term2": "minibatch tensor",
+        "correct": true
+    },
+    {
+        "term1": "multivariate normal",
+        "term2": "multivariate Normal",
+        "correct": true
+    },
+    {
+        "term1": "inputs tensor",
+        "term2": "input Tensor",
+        "correct": true
+    },
+    {
+        "term1": "Sequence Models",
+        "term2": "sequence models",
+        "correct": true
+    },
+    {
+        "term1": "time steps",
+        "term2": "time step",
+        "correct": true
+    },
+    {
+        "term1": "ger",
+        "term2": "GER",
+        "correct": true
+    },
+    {
+        "term1": "resulting shape",
+        "term2": "result shape",
+        "correct": true
+    },
+    {
+        "term1": "l1",
+        "term2": "L1",
+        "correct": true
+    },
+    {
+        "term1": "bias variable",
+        "term2": "biases variable",
+        "correct": true
+    },
+    {
+        "term1": "CPU kernel",
+        "term2": "CPU kernels",
+        "correct": true
+    },
+    {
+        "term1": "alignment mode",
+        "term2": "Alignment modes",
+        "correct": true
+    },
+    {
+        "term1": "output tensor",
+        "term2": "Output tensor",
+        "correct": true
+    },
+    {
+        "term1": "blas",
+        "term2": "Blas",
+        "correct": true
+    },
+    {
+        "term1": "mean square",
+        "term2": "mean squared",
+        "correct": true
+    },
+    {
+        "term1": "RReLU",
+        "term2": "Rectified linear units",
+        "correct": false
+    },
+    {
+        "term1": "training hook",
+        "term2": "training hooks",
+        "correct": true
+    },
+    {
+        "term1": "linear stack",
+        "term2": "Linear stack",
+        "correct": true
+    },
+    {
+        "term1": "learnable parameter",
+        "term2": "Learnable Parameters",
+        "correct": true
+    },
+    {
+        "term1": "Wishart distributions",
+        "term2": "Wishart distribution",
+        "correct": true
+    },
+    {
+        "term1": "transfer models",
+        "term2": "transfer model",
+        "correct": true
+    },
+    {
+        "term1": "Dropout layer",
+        "term2": "dropout layer",
+        "correct": true
+    },
+    {
+        "term1": "Loading Networks",
+        "term2": "loading network",
+        "correct": true
+    },
+    {
+        "term1": "model training",
+        "term2": "models training",
+        "correct": true
+    },
+    {
+        "term1": "Batch Normalization",
+        "term2": "Batch normalization",
+        "correct": true
+    },
+    {
+        "term1": "relu",
+        "term2": "ReLU",
+        "correct": true
+    },
+    {
+        "term1": "Regularizers",
+        "term2": "regularizer",
+        "correct": true
+    },
+    {
+        "term1": "GRU",
+        "term2": "Gated Recurrent Unit",
+        "correct": true
+    },
+    {
+        "term1": "tensor matrix",
+        "term2": "Tensor matrix",
+        "correct": true
+    },
+    {
+        "term1": "output Tensor",
+        "term2": "Output tensor",
+        "correct": true
+    },
+    {
+        "term1": "Training model",
+        "term2": "training models",
+        "correct": true
+    },
+    {
+        "term1": "tensor arguments",
+        "term2": "tensor argument",
+        "correct": true
+    },
+    {
+        "term1": "Perceptrons",
+        "term2": "perceptron",
+        "correct": true
+    },
+    {
+        "term1": "sequential model",
+        "term2": "sequential models",
+        "correct": true
+    },
+    {
+        "term1": "batch normalization",
+        "term2": "batch norms",
+        "correct": true
+    },
+    {
+        "term1": "Implementation Model",
+        "term2": "Implementation mode",
+        "correct": true
+    },
+    {
+        "term1": "beta1",
+        "term2": "Beta1",
+        "correct": true
+    },
+    {
+        "term1": "Recurrent Neural Networks",
+        "term2": "Recurrent Neural Network",
+        "correct": true
+    },
+    {
+        "term1": "Contrib",
+        "term2": "contrib",
+        "correct": true
+    },
+    {
+        "term1": "Final state",
+        "term2": "final state",
+        "correct": true
+    },
+    {
+        "term1": "Mean absolute error",
+        "term2": "MAE",
+        "correct": true
+    },
+    {
+        "term1": "Regressor",
+        "term2": "regressors",
+        "correct": true
+    },
+    {
+        "term1": "log probability",
+        "term2": "Log probability",
+        "correct": true
+    },
+    {
+        "term1": "Deep Neural Network",
+        "term2": "deep neural network",
+        "correct": true
+    },
+    {
+        "term1": "shaped Tensor",
+        "term2": "shape Tensor",
+        "correct": true
+    },
+    {
+        "term1": "aeron channel",
+        "term2": "Aeron channel",
+        "correct": true
+    },
+    {
+        "term1": "value Tensor",
+        "term2": "values tensor",
+        "correct": true
+    },
+    {
+        "term1": "Lapack",
+        "term2": "lapack",
+        "correct": true
+    },
+    {
+        "term1": "data sample",
+        "term2": "data samples",
+        "correct": true
+    },
+    {
+        "term1": "oW",
+        "term2": "ow",
+        "correct": true
+    },
+    {
+        "term1": "input function",
+        "term2": "input functions",
+        "correct": true
+    },
+    {
+        "term1": "MNIST data",
+        "term2": "Mnist data",
+        "correct": true
+    },
+    {
+        "term1": "Input Node",
+        "term2": "input nodes",
+        "correct": true
+    },
+    {
+        "term1": "Embedding",
+        "term2": "embedding",
+        "correct": true
+    },
+    {
+        "term1": "device strings",
+        "term2": "device string",
+        "correct": true
+    },
+    {
+        "term1": "scalar tensor",
+        "term2": "scalar tensors",
+        "correct": true
+    },
+    {
+        "term1": "inputs Tensor",
+        "term2": "Input Tensor",
+        "correct": true
+    },
+    {
+        "term1": "Model function",
+        "term2": "Model Function",
+        "correct": true
+    },
+    {
+        "term1": "standard deviations",
+        "term2": "standard deviation",
+        "correct": true
+    },
+    {
+        "term1": "building model",
+        "term2": "Building model",
+        "correct": true
+    },
+    {
+        "term1": "Spatial dropout",
+        "term2": "spatial dropout",
+        "correct": true
+    },
+    {
+        "term1": "Multiply layer",
+        "term2": "Multiple Layers",
+        "correct": true
+    },
+    {
+        "term1": "count Number",
+        "term2": "Count number",
+        "correct": true
+    },
+    {
+        "term1": "output dimensionality",
+        "term2": "output dimensions",
+        "correct": true
+    },
+    {
+        "term1": "one Tensor",
+        "term2": "one tensor",
+        "correct": true
+    },
+    {
+        "term1": "model replicas",
+        "term2": "model replication",
+        "correct": true
+    },
+    {
+        "term1": "NDim",
+        "term2": "ndim",
+        "correct": true
+    },
+    {
+        "term1": "network learned",
+        "term2": "network learning",
+        "correct": true
+    },
+    {
+        "term1": "computation graph",
+        "term2": "Computation Graphs",
+        "correct": true
+    },
+    {
+        "term1": "col2im",
+        "term2": "Col2Im",
+        "correct": true
+    },
+    {
+        "term1": "attention mechanisms",
+        "term2": "attention mechanism",
+        "correct": true
+    },
+    {
+        "term1": "Distributed Evaluation",
+        "term2": "distributed evaluation",
+        "correct": true
+    },
+    {
+        "term1": "Rectified linear unit",
+        "term2": "Rectified linear units",
+        "correct": true
+    },
+    {
+        "term1": "pooling layer",
+        "term2": "pooling layers",
+        "correct": true
+    },
+    {
+        "term1": "dimensional tensor",
+        "term2": "dimensional Tensors",
+        "correct": true
+    },
+    {
+        "term1": "softmax",
+        "term2": "SoftMax",
+        "correct": true
+    },
+    {
+        "term1": "lapack",
+        "term2": "LAPACK",
+        "correct": true
+    },
+    {
+        "term1": "reconstruction probability",
+        "term2": "Reconstruction Probability",
+        "correct": true
+    },
+    {
+        "term1": "true label",
+        "term2": "True labels",
+        "correct": true
+    },
+    {
+        "term1": "Linear layer",
+        "term2": "Linear layers",
+        "correct": true
+    },
+    {
+        "term1": "Graph Visualization",
+        "term2": "graph visualization",
+        "correct": true
+    },
+    {
+        "term1": "Recurrent neural networks",
+        "term2": "recurrent neural networks",
+        "correct": true
+    },
+    {
+        "term1": "RDDs",
+        "term2": "RDD",
+        "correct": true
+    },
+    {
+        "term1": "Activation Layer",
+        "term2": "activation layer",
+        "correct": true
+    },
+    {
+        "term1": "Rectified linear units",
+        "term2": "rrelu",
+        "correct": false
+    },
+    {
+        "term1": "Model inputs",
+        "term2": "Model Inputs",
+        "correct": true
+    },
+    {
+        "term1": "padding value",
+        "term2": "padding values",
+        "correct": true
+    },
+    {
+        "term1": "pretrained models",
+        "term2": "pretrained model",
+        "correct": true
+    },
+    {
+        "term1": "ProGuard",
+        "term2": "proguard",
+        "correct": true
+    }
+]

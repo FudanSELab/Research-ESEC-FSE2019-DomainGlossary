@@ -1,0 +1,2306 @@
+[
+    {
+        "start_concept": "Scalability ratio",
+        "end_concept": "multiplying scale",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "logdir",
+        "end_concept": "filepath",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "truth sequences",
+        "end_concept": "multiple sequences",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "hundred steps",
+        "end_concept": "gradient step",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "dmax",
+        "end_concept": "x1",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "checkpointing",
+        "end_concept": "Multilayer",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "final parameter",
+        "end_concept": "RF parameters",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Jozefowicz",
+        "end_concept": "Goodfellow",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "improved stability",
+        "end_concept": "distributed communication",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "final model",
+        "end_concept": "GPU mode",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "product name",
+        "end_concept": "reasonable name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "clustering loss",
+        "end_concept": "logistic loss",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Random array",
+        "end_concept": "random shape",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "described tensor",
+        "end_concept": "tensor name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "feedForward",
+        "end_concept": "Convolutional Neural Network",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data scientists",
+        "end_concept": "Data pipeline",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "wave length",
+        "end_concept": "Total length",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "models progress",
+        "end_concept": "model stops",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Validated type",
+        "end_concept": "Instance type",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "logcosh",
+        "end_concept": "RMSProp",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "temporal slice",
+        "end_concept": "input slice",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "highest frequency",
+        "end_concept": "high padding",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Tensor division",
+        "end_concept": "scalar Tensors",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Levenshtein distance",
+        "end_concept": "manhattan distance",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "affine matrices",
+        "end_concept": "square matrices",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Estimation Algorithm",
+        "end_concept": "Sampling Algorithms",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "device function",
+        "end_concept": "device name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "device memory",
+        "end_concept": "gpu memory",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "spectral normalization",
+        "end_concept": "Batch normalization",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Evaluated values",
+        "end_concept": "unique values",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "log sigmoid",
+        "end_concept": "Compute log",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "scale scale",
+        "end_concept": "scale matrix",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "backward process",
+        "end_concept": "learning process",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "previous image",
+        "end_concept": "next image",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "natural left",
+        "end_concept": "natural log",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "HDF5 format",
+        "end_concept": "label format",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "randomly sample",
+        "end_concept": "Input samples",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Input Pipeline",
+        "end_concept": "validation input",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "recognition network",
+        "end_concept": "scalable models",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "classification evaluation",
+        "end_concept": "classification performance",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "auxiliary name",
+        "end_concept": "reasonable name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "original device",
+        "end_concept": "Load tensor",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "core part",
+        "end_concept": "algorithmic part",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Negative Binomial",
+        "end_concept": "Total loss",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Euclidean norm",
+        "end_concept": "l1 norm",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "NAS",
+        "end_concept": "NAS cell",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Cublas",
+        "end_concept": "Blas",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "one gate",
+        "end_concept": "sample one",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "matrix factorization",
+        "end_concept": "matrix rank",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "concurrent action",
+        "end_concept": "collective operation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "random variable",
+        "end_concept": "variable slice",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compute diagonal",
+        "end_concept": "compute norms",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Linear views",
+        "end_concept": "linear prediction",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Clips values",
+        "end_concept": "dimension value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "URDF",
+        "end_concept": "Grt",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "parallel threads",
+        "end_concept": "equal results",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "increment values",
+        "end_concept": "maximum scoring",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "norm degree",
+        "end_concept": "L2 norm",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compute time",
+        "end_concept": "compute input",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "variable value",
+        "end_concept": "metric value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Maximum function",
+        "end_concept": "indicator function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "GLU",
+        "end_concept": "frac",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Absolute Difference loss",
+        "end_concept": "distance loss",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "rate signal",
+        "end_concept": "continuous signal",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "numerical stability",
+        "end_concept": "numerical gradient",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Mathematical Society",
+        "end_concept": "detection model",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Distribution sample",
+        "end_concept": "Basic sampling",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "rotated image",
+        "end_concept": "output image",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "adversarial training",
+        "end_concept": "training loop",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Partitioner",
+        "end_concept": "Preprocess",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "curve values",
+        "end_concept": "maximal values",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "previous image",
+        "end_concept": "rotated image",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "segmentation task",
+        "end_concept": "network processing",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Distribution sample",
+        "end_concept": "mixture distribution",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "mean weight",
+        "end_concept": "computes mean",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Load model",
+        "end_concept": "untrained model",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Autograd",
+        "end_concept": "Create input",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "absolute scope",
+        "end_concept": "scope name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "sync training",
+        "end_concept": "stop training",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "initial one",
+        "end_concept": "vector one",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "time gap",
+        "end_concept": "average time",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "NDim",
+        "end_concept": "factor matrix",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Neural net",
+        "end_concept": "Activation layer",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "increasing elements",
+        "end_concept": "true elements",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Tensor denominator",
+        "end_concept": "Tensor numerator",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Negative Binomial",
+        "end_concept": "Tensor Shapes",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "one probability",
+        "end_concept": "probability densities",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Pooling2D",
+        "end_concept": "trace operation",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "cosine part",
+        "end_concept": "GAN step",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "sample outputs",
+        "end_concept": "second output",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "mathematical components",
+        "end_concept": "SGDW",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "op",
+        "end_concept": "one value",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "loop condition",
+        "end_concept": "pool2d",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Keras function",
+        "end_concept": "step function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "dependency graph",
+        "end_concept": "control dependency",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "CBOW",
+        "end_concept": "Linear model",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Monte Carlo",
+        "end_concept": "exponential linear",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "CPU devices",
+        "end_concept": "CPU tensors",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "point division",
+        "end_concept": "point comparison",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "noisy example",
+        "end_concept": "particular example",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Pareto distribution",
+        "end_concept": "Concrete Distribution",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "batch message",
+        "end_concept": "large batches",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "good start",
+        "end_concept": "bad behavior",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "basic training",
+        "end_concept": "handling training",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "atan",
+        "end_concept": "atan2",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "classifier trained",
+        "end_concept": "parameter search",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "model copy",
+        "end_concept": "final model",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "segfaults",
+        "end_concept": "Jacq",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "padded elements",
+        "end_concept": "output element",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "precision function",
+        "end_concept": "single functions",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "initial bias",
+        "end_concept": "bias parameters",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "random projection",
+        "end_concept": "eigen decomposition",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "inversion process",
+        "end_concept": "learning process",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "point communication",
+        "end_concept": "global list",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "negative factor",
+        "end_concept": "maximum factor",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "reduction mode",
+        "end_concept": "reduction results",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Sequence layer",
+        "end_concept": "KL",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "connected layer",
+        "end_concept": "Dense layers",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "computations involving",
+        "end_concept": "Loss computation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "single conditions",
+        "end_concept": "single machine",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "tokenizer",
+        "end_concept": "DataFrame",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "device device",
+        "end_concept": "TPU device",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "dependent values",
+        "end_concept": "padding value",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "map structure",
+        "end_concept": "map function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Beta1",
+        "end_concept": "parameter group",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Repartition data",
+        "end_concept": "constructing data",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "controls behavior",
+        "end_concept": "Attention Mechanism",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "cube function",
+        "end_concept": "round function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Plain Mode",
+        "end_concept": "mesh mode",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "model inferences",
+        "end_concept": "Model definition",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data output",
+        "end_concept": "left data",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "random operations",
+        "end_concept": "place operation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Network Latency",
+        "end_concept": "sequence network",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Root value",
+        "end_concept": "optimal value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "word count",
+        "end_concept": "zero padding",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "arbitrary list",
+        "end_concept": "tracking list",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "beam search",
+        "end_concept": "parameter search",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "transition matrix",
+        "end_concept": "Matrix determinant",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "single examples",
+        "end_concept": "single scalar",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "evaluation mode",
+        "end_concept": "multiple modes",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "unique values",
+        "end_concept": "increment values",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "master branch",
+        "end_concept": "master GPU",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "polynomial factors",
+        "end_concept": "dilation factor",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "textual order",
+        "end_concept": "sequence order",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "irregular intervals",
+        "end_concept": "wave data",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "embedding vectors",
+        "end_concept": "weight vector",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "ptrblck",
+        "end_concept": "Grt",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "single feature",
+        "end_concept": "single examples",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "gradient computated",
+        "end_concept": "gradient equal",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "input trying",
+        "end_concept": "network Input",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "random vector",
+        "end_concept": "random inputs",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "individual graph",
+        "end_concept": "fixed graph",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "generic regression",
+        "end_concept": "variable scope",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "processing step",
+        "end_concept": "learning process",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "NLP models",
+        "end_concept": "ML model",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "gradient norm",
+        "end_concept": "gradient clipping",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data exploration",
+        "end_concept": "data copy",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "single model",
+        "end_concept": "model state",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data distribution",
+        "end_concept": "beta distribution",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "training op",
+        "end_concept": "continuing training",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compat",
+        "end_concept": "tensor list",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "HardTanh",
+        "end_concept": "RELU6",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "mixture distribution",
+        "end_concept": "Poisson distribution",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Cumulative sum",
+        "end_concept": "reduced sum",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "weighted average",
+        "end_concept": "Weighted mean",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "adjustable dimensions",
+        "end_concept": "remaining dimensions",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "saved checkpoint",
+        "end_concept": "recent checkpoint",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "zero padding",
+        "end_concept": "behind padding",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "mean squared",
+        "end_concept": "Mean Squared Error",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "prediction probabilities",
+        "end_concept": "predictions dictionary",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "eigen decomposition",
+        "end_concept": "global list",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "scalar numeric",
+        "end_concept": "constant scalar",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "multiple evaluation",
+        "end_concept": "multiple heads",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "generalized eigenvalues",
+        "end_concept": "capacitance matrix",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "input multiples",
+        "end_concept": "input range",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "output strategies",
+        "end_concept": "output vector",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "FTRL",
+        "end_concept": "nesterov",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "generator queue",
+        "end_concept": "generator output",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "cost function",
+        "end_concept": "step function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Deep Learning",
+        "end_concept": "Transfer Learning",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "persistent state",
+        "end_concept": "hidden state",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "worker machine",
+        "end_concept": "single machine",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "pre train",
+        "end_concept": "TRAIN",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "SNE",
+        "end_concept": "Stochastic Neighbor",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compute capabilities",
+        "end_concept": "Compute gradients",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "classification performance",
+        "end_concept": "training performance",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "right node",
+        "end_concept": "bit index",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "sigmoid activation",
+        "end_concept": "linear activation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "train steps",
+        "end_concept": "steps condition",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "squared values",
+        "end_concept": "List values",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "master branch",
+        "end_concept": "Github",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "bptt",
+        "end_concept": "Preprocess",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "master procedure",
+        "end_concept": "training loop",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "hot columns",
+        "end_concept": "Categorical column",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "displaying data",
+        "end_concept": "building data",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "aspect ratio",
+        "end_concept": "Pooling ratio",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "sparse behavior",
+        "end_concept": "sparse update",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "actual lengths",
+        "end_concept": "tuple length",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "shrinking variance",
+        "end_concept": "level normalization",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "confidence value",
+        "end_concept": "weight value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Main evaluation",
+        "end_concept": "evaluation metrics",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "fundamental flag",
+        "end_concept": "data quickly",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Net model",
+        "end_concept": "resolution model",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "max element",
+        "end_concept": "max value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "variable regularization",
+        "end_concept": "control variable",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "parameter vector",
+        "end_concept": "constant vector",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "binary classifiers",
+        "end_concept": "linear classifier",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "flat array",
+        "end_concept": "mask array",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "df1",
+        "end_concept": "df",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "training performance",
+        "end_concept": "training loop",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "binary vector",
+        "end_concept": "output vector",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "come vector",
+        "end_concept": "ragged vector",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "input layer",
+        "end_concept": "next layer",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "parameter update",
+        "end_concept": "weight update",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Input samples",
+        "end_concept": "Input image",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Premade",
+        "end_concept": "Word2vec",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "continuous parameters",
+        "end_concept": "continuous function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "cropping dimension",
+        "end_concept": "dimension length",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "sequential models",
+        "end_concept": "functional model",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "parameter tensor",
+        "end_concept": "single tensor",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "negative edge",
+        "end_concept": "edge padding",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Numeric threshold",
+        "end_concept": "fixed threshold",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "optimizers",
+        "end_concept": "dtype",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Cloud Partners",
+        "end_concept": "loading network",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "regression score",
+        "end_concept": "label regression",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "CUDNN",
+        "end_concept": "Word2vec",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "full loss",
+        "end_concept": "loss summaries",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Multi Layer",
+        "end_concept": "Dense layers",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Convolution dimensionality",
+        "end_concept": "tensor dimensionality",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "tower call",
+        "end_concept": "prediction call",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "model fails",
+        "end_concept": "performing model",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "prior probability",
+        "end_concept": "probability densities",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "model replicas",
+        "end_concept": "model parallelism",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data sparsity",
+        "end_concept": "small data",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "integer interval",
+        "end_concept": "codomain",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "units parameter",
+        "end_concept": "bias parameters",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "minimize loss",
+        "end_concept": "loss Tensor",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "total power",
+        "end_concept": "total variance",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "TOCO",
+        "end_concept": "Save Model",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "dense behavior",
+        "end_concept": "variable slice",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "GPU executions",
+        "end_concept": "GPU optimized",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Dirichlet",
+        "end_concept": "Chi2",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "topological ordering",
+        "end_concept": "fixed order",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "KL",
+        "end_concept": "kl divergence",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "empty Tensor",
+        "end_concept": "Tensor input",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "external list",
+        "end_concept": "common shape",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "concrete terms",
+        "end_concept": "entropy term",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "sparse format",
+        "end_concept": "N1",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "scatter occurs",
+        "end_concept": "variable scope",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "associated step",
+        "end_concept": "final step",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Style algorithm",
+        "end_concept": "ML algorithms",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "next channel",
+        "end_concept": "next cell",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "previous batch",
+        "end_concept": "large batches",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "facial recognition",
+        "end_concept": "image recognition",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "dimension number",
+        "end_concept": "minibatch dimension",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "network security",
+        "end_concept": "network layer",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "dimensional feature",
+        "end_concept": "Feature tensors",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "weight variable",
+        "end_concept": "variable slice",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "continuous training",
+        "end_concept": "training loop",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "One feature",
+        "end_concept": "single feature",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "optimizers",
+        "end_concept": "SGD",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Random methods",
+        "end_concept": "Random seed",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "hinge loss",
+        "end_concept": "logistic loss",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "prediction time",
+        "end_concept": "time step",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Momentum value",
+        "end_concept": "epsilon value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Tensor reference",
+        "end_concept": "self tensor",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "TBPTT length",
+        "end_concept": "length sequences",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "discrete input",
+        "end_concept": "automatic input",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "log factorial",
+        "end_concept": "Negative Log",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "unit variance",
+        "end_concept": "initial variance",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "text model",
+        "end_concept": "model works",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "verification steps",
+        "end_concept": "running graphs",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "transposed Tensor",
+        "end_concept": "clipped Tensor",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "PMF",
+        "end_concept": "beta function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "training checkpoints",
+        "end_concept": "executing training",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "dense flow",
+        "end_concept": "dense output",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "result nodes",
+        "end_concept": "input node",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Pearson Correlation Coefficient",
+        "end_concept": "correlation coefficient",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "OpenBLAS",
+        "end_concept": "mvn",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "temporal convolution",
+        "end_concept": "Convolution dimensionality",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "axis argument",
+        "end_concept": "tensor argument",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Normalization function",
+        "end_concept": "gradient norm",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "temporal difference",
+        "end_concept": "classification difference",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Total length",
+        "end_concept": "total records",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Neural net",
+        "end_concept": "gaussian distribution",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "libjpeg",
+        "end_concept": "OpenBLAS",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "triple elements",
+        "end_concept": "quad elements",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compute predicted",
+        "end_concept": "Compute log",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "network architectures",
+        "end_concept": "Network Configuration",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Gaussians",
+        "end_concept": "gaussian functions",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "training condition",
+        "end_concept": "training run",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "calculated mean",
+        "end_concept": "mean operation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "highest probability",
+        "end_concept": "Probs",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Optional name",
+        "end_concept": "Removes name",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Operating Characteristic",
+        "end_concept": "recall curve",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "resulting variable",
+        "end_concept": "embedding variable",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "True Model",
+        "end_concept": "false models",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "tag sequence",
+        "end_concept": "flattened sequence",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Autograd",
+        "end_concept": "OpenCL",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "parameterized graph",
+        "end_concept": "model locally",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "vector format",
+        "end_concept": "dense vectors",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "minimum bounds",
+        "end_concept": "minimum length",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "output result",
+        "end_concept": "output vertices",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "jit",
+        "end_concept": "Passthrough",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Gaussian patterns",
+        "end_concept": "gaussian mixture",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "cumulative probability",
+        "end_concept": "reconstruction probability",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "max index",
+        "end_concept": "max number",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "random Tensors",
+        "end_concept": "random inputs",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "CS321n",
+        "end_concept": "real usage",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "dense columns",
+        "end_concept": "Dense layers",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "th value",
+        "end_concept": "scalar values",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "scalar multiplication",
+        "end_concept": "scalar addition",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Separable convolution",
+        "end_concept": "convolution mode",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Multiclass",
+        "end_concept": "Data parallel",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Bayesian computation",
+        "end_concept": "decay computation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "GPU",
+        "end_concept": "GPU Acceleration",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Frobenius norm",
+        "end_concept": "vector norm",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "integration result",
+        "end_concept": "training result",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "scalar shape",
+        "end_concept": "random shape",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Param",
+        "end_concept": "Regex",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "tensor count",
+        "end_concept": "lengths tensor",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Run Multiple",
+        "end_concept": "multiple machines",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "op",
+        "end_concept": "op type",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Feature matrix",
+        "end_concept": "Confusion Matrix",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "encoder model",
+        "end_concept": "Model definition",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "valid approach",
+        "end_concept": "valid sample",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "natural number",
+        "end_concept": "square window",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "large graphs",
+        "end_concept": "training graph",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "variable scope",
+        "end_concept": "dtype",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "NHWC",
+        "end_concept": "NDHWC",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "one epoch",
+        "end_concept": "sequence one",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "one run",
+        "end_concept": "one batch",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "varying time",
+        "end_concept": "time series",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "checkpoint directory",
+        "end_concept": "dump directory",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "level abstraction",
+        "end_concept": "level intuitive",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "one inbound",
+        "end_concept": "one GPU",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "validation step",
+        "end_concept": "final step",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "initial startup",
+        "end_concept": "predictive performance",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "error free",
+        "end_concept": "immediate error",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "zero padding",
+        "end_concept": "common shape",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "single length",
+        "end_concept": "sentence length",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "GPU optimized",
+        "end_concept": "computing machines",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "success probability",
+        "end_concept": "probability density function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "maximum factor",
+        "end_concept": "polynomial factors",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "input filled",
+        "end_concept": "input Input",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "bias term",
+        "end_concept": "initial bias",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "update rule",
+        "end_concept": "chain rule",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "structural similarity",
+        "end_concept": "LSH",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "single minibatch",
+        "end_concept": "single computer",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "vector one",
+        "end_concept": "one vector",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compound distribution",
+        "end_concept": "approximate distribution",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "static batch",
+        "end_concept": "incomplete batch",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "dk",
+        "end_concept": "Tensor diagonal",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "sampling decoder",
+        "end_concept": "Attention Decoder",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "linear scaling",
+        "end_concept": "piecewise linear",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Neural net",
+        "end_concept": "Tensorflow",
+        "relation": "HAS_A",
+        "correct": false
+    },
+    {
+        "start_concept": "overall model",
+        "end_concept": "original model",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "viz",
+        "end_concept": "evaluation labels",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "update mean",
+        "end_concept": "post update",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "GAN",
+        "end_concept": "VBN",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "final divide",
+        "end_concept": "final evaluation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "one Graph",
+        "end_concept": "model graph",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Replicated training",
+        "end_concept": "Distributed Training",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Weighted random",
+        "end_concept": "random walk",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hamming window",
+        "end_concept": "final window",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "state matrix",
+        "end_concept": "Confusion Matrix",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "img1",
+        "end_concept": "image batch",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "averaged false",
+        "end_concept": "False values",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "model1",
+        "end_concept": "model2",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Visual Programming",
+        "end_concept": "Deep Belief",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "normalization methods",
+        "end_concept": "Normalization function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Estimator model",
+        "end_concept": "classification model",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "tpu",
+        "end_concept": "TPU distribution",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "caffe2",
+        "end_concept": "OpenCL",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "inputs tuple",
+        "end_concept": "input window",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "task loss",
+        "end_concept": "loss score",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "variable updates",
+        "end_concept": "model variables",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Maddison",
+        "end_concept": "Jang",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "FULL",
+        "end_concept": "full grid",
+        "relation": "HAS_A",
+        "correct": false
+    },
+    {
+        "start_concept": "CRFs",
+        "end_concept": "Tensor Shapes",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Stochastic Neighbor",
+        "end_concept": "point communication",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "shortcut function",
+        "end_concept": "cost function",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "model faster",
+        "end_concept": "simple model",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Shard function",
+        "end_concept": "map function",
+        "relation": "RELATED_TO",
+        "correct": true
+    }
+]

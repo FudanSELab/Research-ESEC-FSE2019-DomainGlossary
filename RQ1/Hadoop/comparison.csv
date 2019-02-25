@@ -1,0 +1,385 @@
+sentence,our approach,Arora's approach,human annotation
+Hadoop NextGen is capable of scheduling multiple resource types.,"<Hadooop, Hadoop, hadoop, hadooop>",Hadoop nextgen,
+Set HBase environment variables in this file.,"<HBASE, Hbase, hbase>","FILE, SET, Environment variables",Hbase
+Base class loader that defines couple shared constants used by sub-classes.,,"Base class loader, CLASSES, BY",
+Exception for the given snapshot due to another exception.,,"TO, given snapshot, EXCEPTION",
+"This might have a minor lag due to the event propagation, but that should be much shorter than the cache eviction.Maintain a unique id for every object in SQL database (eg, modified timestamp, version id, or md5 signature), which is different every time we change the object in SQL database.",,"eg, OR, TIME, minor lag, TO, TIMESTAMP, UNIQUE, timestamp, event propagation, every object, SQL database, cache eviction, OBJECT, CHANGE, VERSION","event propagation,cache eviction,SQL database,md5 signature,"
+"Use dev-support/submit-patch.py to create patches and optionally, upload to jira and update reviews on Review Board.","<and, ANDs>, <Jira, JIRAs, JIRAS, jiras, Jiras, jira, JIRA>, <dev>","ON, USE, AND, TO, SUPPORT, and",jira
+The benchmark measures the number of operations performed by the name-node per second.,,"NUMBER, BY, name - node","name-node,"
+Emits sorted Puts.,,,
+Get the timelineEntityGroupId.,,"GET, timelineentitygroupid",
+the number of partitions when performing a Spark shuffle.,,"Spark shuffle, NUMBER, PARTITIONS",Spark shuffle
+The persistence format of the decimal type supports both scientific and non-scientific notation.,"<and, ANDs>, <Decimal type, decimal type>","persistence format, DECIMAL type, Decimal type, scientific and non - scientific notation, decimal type","persistence format,decimal type"
+View names and table names share the same namespace with respect to uniqueness.,"<table named, Table names, table name, table names>, <view name, view names>","AND, TO, namespace, and, VIEW","view name,table name"
+"This is because we assume well-known range start offsets are used (rg/stripe offsets), so a request from the middle of the start doesn't make sense.",,"REQUEST, RG, RANGE",
+"This input split wraps the FileSplit generated from TextInputFormat.getSplits(), while setting the original link file path as job input path.","<input splits, Input Split, input split, Input splits>, <input path, input paths, input Paths>","job input path, input split, original link file path, filesplit, Input split",
+"The list of partitions are computed at query time - think of it like a view, where each partition has its own definition limited to 'select * from T where partial/full partition spec'.","<list, LIST>, <query time>","LIST, PARTITION, full partition, TO, SELECT, PARTIAL, query time, VIEW, IT, PARTITIONS","view,query time,partition"
+The caller will block until all the hbase:meta log files of the given region server have been processed - successfully split or an error is encountered - by an available worker region server.,"<HBASE, Hbase, hbase>, <META, meta, metainfo>","hbase, HBASE, given Region server, BY, given region server, ALL, ERROR, SPLIT, BLOCK, meta log, available worker region server","region server,"
+uild-native=false should work now.,,FALSE,
+A class declaration is like a Java class declaration.,,"class declaration, LIKE, Java class declaration",
+Queries of the form: select x.c1 from (subq1 union all subq2 ...)x where filter(x.c2); can be transformed to: select * from (subq1 where filter union all subq2 where filter ...)x; and then optimized.,"<and, ANDs>","filter union, subq1, AND, TO, SELECT, FILTER, and, subq2, subq1 union",
+Builder for SQLForeignKey.,,sqlforeignkey,
+The pre-built 32-bit i386-Linux native hadoop library is available as part of the hadoop distribution and is located in the lib/native directory.,"<and, ANDs>, <libs, libtool, lib>, <Hadooop, Hadoop, hadoop, hadooop>","hadoop distribution, lib, pre - built 32-bit i386-Linux native hadoop library, AS, DIRECTORY, Hadoop distribution",native hadoop library
+Go to start of metadata Out of date.,,"DATE, TO, METADATA",
+"This class encapsulates the triplet together since they are closely related to each other The triplet: hashmap (either in memory or on disk), small table container, big table container.","<big table, Big Table>, <small table>","ON, big table, MEMORY, TO, small table container, hashmap, other, Big table","small table container,big table container"
+Implement the FileSystem API for the checksumed local filesystem.,"<local, LOCAL>, <filesystem, Filesystem>","FileSystem api, checksumed local filesystem","FileSystem API,checksumed local filesystem,"
+This class is the interface between the application logic and the database store that contains the objects.,"<and, ANDs>, <database store>","INTERFACE, application logic, database store",database store
+MAPREDUCE-676 | Major | Existing diagnostic rules fail for MAP ONLY jobs.,,"MAJOR, MAP",
+This replication process is currently waiting for the edits to be applied before the method can return.,,"TO, WAITING, replication process","replication process,"
+You can ask questions related to Hive on Elastic MapReduce on Elastic MapReduce forums at: __URL__.,"<mapreduce, mapred, Mapreduce>","ON, TO, mapreduce, MAPREDUCE, Elastic mapreduce","Hive,Elastic MapReduce"
+Introducing a random factor to the wait time before another retry.,,"another retry, wait time, random factor",
+setSymlink(Path) - Method in class org.apache.hadoop.fs.FileStatus Deprecated.,,,
+Consider a query like: select * from (subq1 --> has a filter) join (subq2 --> has a filter) on some key Let us assume that subq1 is the small table (either specified by the user or inferred automatically).,<small table>,"QUERY, ON, small table, US, BY, subq1, SELECT, FILTER, KEY, JOIN, subq2, USER","small table,key,query,"
+List of directories to store localized files in.,"<list, LIST>, <localized file, localized files>","LIST, FILES, STORE, DIRECTORIES","localized file,directories"
+A statictical sample of histogram values.,,"VALUES, statictical sample","statictical sample, histogram,"
+Reads a zero-compressed encoded long from a stream and return it.,"<and, ANDs>","STREAM, LONG, IT","zero-compressed,stream,"
+The Union family of DataTypes encode one of a fixed collection of Objects.,,"fixed collection, union family of datatypes, ONE",
+Add a Path with a custom InputFormat to the list of inputs for the map-reduce job.,"<list, LIST>","LIST, ADD, PATH, TO, Map - Reduce job, CUSTOM, map - reduce job",map-reduce job
+Hadoop should be capable of generating serialization code in multiple target languages and should be C++ and Java.,"<and, ANDs>, <Hadooop, Hadoop, hadoop, hadooop>","hadoop, AND, Serialization code, HADOOP, serialization code, and","Hadoop,"
+Apache HiveApache HiveChild pages.Pages.Howl.Browse pagesConfigureSpace tools Skip to end of banner Jira links.,"<Jira, JIRAs, JIRAS, jiras, Jiras, jira, JIRA>","Apache HiveApache hivechild, jira, JIRA, pagesConfigureSpace tools skip, END","Hive,Jira,"
+"If the PURGE option is not specified, the data is moved to a trash folder for a defined duration.Use managed tables when Hive should manage the lifecycle of the table, or when generating temporary tables.External tables.An external table describes the metadata / schema on external files.","<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <Tablename, TABLE, table, tablename>, <external table>","PURGE option, defined duration, EXTERNAL table, IF, OR, HIVE, Temporary tables, TO, trash folder, SCHEMA, purge option, External tables, USE, lifecycle, TABLE, DATA, External table, METADATA, TABLES, EXTERNAL, external table","PURGE option,table,Hive,lifecycle,temporary table,external table,metadata,schema,"
+It helps to improve quality of service when the service is under heavy load.,,"TO, IT, heavy load, quality of service",heavy load
+Description copied from class: UDFMath.,,DESCRIPTION,
+This property is optional and useful only in case of Active Directory server.,"<and, ANDs>, <Active Directory, active directory>","ONLY, case of active directory server, and, AND",Active Directory
+ValueAggregatorMapper() - Constructor for class org.apache.hadoop.mapreduce.lib.aggregate.ValueAggregatorMapper This class implements the generic reducer of Aggregate.,,generic reducer of aggregate,"reducer,"
+"Build a job client with the given JobConf, and connect to the default cluster.","<and, ANDs>","job client, given jobconf, default cluster, AND, TO, and","job client,cluster,"
+TextInputFormat is the default InputFormat.,,"textinputformat, DEFAULT",
+Fixed failing JUnit tests in Gridmix.,"<junit, Junit>","junit, gridmix",
+This offset is only within a particular row/CF combination.,,"ONLY, particular row, OFFSET, CF","row/CF combination,"
+This expression represents a list that will be available at runtime.,"<list, LIST>","runtime, LIST",
+"TS%FIL%RS -> means TableScan Node followed by Filter followed by ReduceSink in the tree, or, in terms of the stack, ReduceSink on top followed by Filter followed by TableScan.",,"OR, TableScan node, reducesink, BY",
+Introduced directory quota as hard limits on the number of names in the tree rooted at that directory.,<directory quota>,"ON, NUMBER, DIRECTORY, Introduced directory quota",directory quota
+"Get the value of the name property as a trimmed String, null if no such property exists.","<null, NULL>","name property, GET, trimmed string, EXISTS, VALUE, NULL",
+Do conditional execution of a NULL THEN and a ELSE vector expression of a SQL IF statement.,"<and, ANDs>, <null, NULL>","ELSE vector expression, AND, conditional execution, and, SQL IF statement, NULL",conditional execution
+This federation layer comprises multiple components.,,federation layer,federation layer
+Uses default separator of the LazySimpleSerde.,,"default separator, lazysimpleserde",default separator
+May be null if no comment provided.,"<null, NULL>","COMMENT, NULL",
+You cannot rename/move a directory atop any existing file other than the source file itself.,,"RENAME, DIRECTORY, Existing file, source file, existing file",
+Creates a IS NOT NULL.,"<null, NULL>",NULL,
+Hadoop example code.,"<Hadooop, Hadoop, hadoop, hadooop>",Hadoop example code,"Hadoop,"
+The YarnConfiguration.AUTO_FAILOVER_EMBEDDED property is deprecated.,,yarnconfiguration,
+Enter a parse tree produced by HplsqlParser.create_table_options_mssql_item().,,"parse tree, BY","parse tree,"
+"These instructions may require you to take steps before you start the upgrade process, so be sure to read through this section beforehand.",,"TO, Upgrade process, upgrade process",
+"The split log manager is responsible for the following ongoing tasks: Once the split log manager publishes all the tasks to the splitWAL znode, it monitors these task nodes and waits for them to be processed.","<and, ANDs>, <Znode, znodes, znode>","TASKS, AND, TASK, TO, ALL, FOLLOWING, splitWAL znode, and, IT, split log manager","split log manager,znode,task node,"
+This could either go to the web browser or use the web service REST API's.,"<REST, rest>","web browser, TO, USE, web service REST api",REST
+Only the common types for the same type group will resolve to a common type.,,"common type, COMMON, ONLY, TO, type group",
+"Accessing HDFS with any ip, hostname, or proxy should work as long as it points to the interface NameNode is listening on.","<namenode, Namenode>, <hdf, HDFS, hdfs, hadoop distributed file system, Hadoop Distributed File System>","ON, OR, hostname, hdfs, TO, INTERFACE, HDFS, AS, IP, HOSTNAME","HDFS,"
+Choose the Database 2.,,,
+"lots of general code cleanup, including attempts to remove any local state files to reduce potential race conditions.","<local, LOCAL>","TO, local state, CONDITIONS, general code cleanup","local state file,race condition,"
+Click Choose File to select the diff and optionally a parent diff.,"<and, ANDs>","diff, Click Choose file, SELECT, optionally a parent diff, DIFF",
+Hive root pom.xml's <spark.version> defines what version of Spark it was built/tested with.,,"Hive root, version of spark","Hive,Spark"
+"In addition Syncable.hsync() should be called after each write, if true synchronous behavior is required.",,"BEHAVIOR, IF, WRITE",
+Behavior the same as Hive.Create/Drop/Alter View.Note: Pig and MapReduce cannot read from or write to views.CREATE VIEW.Supported.,"<and, ANDs>, <ALTER, alter>, <DROP, drop>","OR, Alter view, NOTE, AND, DROP, ALTER view, TO, READ, AS, BEHAVIOR, and, CREATE","MapReduce,"
+This is used from division.,,,
+hadoop fs -count -q -h -v hdfs://nn1.example.com/file1.,"<Hadooop, Hadoop, hadoop, hadooop>","hadoop fs, Hadoop fs",
+Any other exception: a new ServiceLaunchException is created with the exit code LauncherExitCodes.EXIT_EXCEPTION_THROWN and the message of the original exception (which becomes the cause).,"<and, ANDs>, <exit code, exit codes, Exit codes>","new servicelaunchexception, exit code, AND, other, original exception, and, Exit code",
+In addition YARN can deploy ong-lived services instances such a pool of Apache Tomcat web servers or an Apache HBase cluster.,"<HBASE, Hbase, hbase>, <yarn, YARN>","Apache tomcat, OR, YARN, Apache HBase cluster","YARN,Apache HBase cluster,"
+Put an int value as short out to the specified byte array position.,"<BYTES, byte>, <put, PUT>","specified byte array position, PUT, TO, SHORT, int value",
+Apache HiveApache HiveChild pages.Pages.User FAQ.Browse pagesConfigureSpace tools Skip to end of banner Jira links.,"<Jira, JIRAs, JIRAS, jiras, Jiras, jira, JIRA>","Apache HiveApache hivechild, jira, JIRA, pagesConfigureSpace tools skip, END, USER",
+"See ORC Files for details.Besides the configuration properties listed in this section, some properties in other sections are also related to ORC:hive.default.fileformat.hive.stats.gather.num.threads.hive.exec.orc.memory.pool.Default Value: 0.5.Added In: Hive 0.11.0 with HIVE-4248.Maximum fraction of heap that can be used by ORC file writers.hive.exec.orc.write.format.Default Value: (empty).Added In: Hive 0.12.0 with HIVE-4123; default changed from 0.11 to null with HIVE-5091 (also in Hive 0.12.0).Define the version of the file to write.","<ORC, Orc, orc>, <null, NULL>","BY, HIVE, FILE, Configuration properties, TO, Default value, DEFAULT, other, hive-4123, ORC files, default value, hive-5091, VALUE, WRITE, VERSION","ORC file,Hive,"
+"Added label1 to node1, label2 to node2.",,"label1, label2, node1",
+"Subclasses should implement this to return true if the cluster has nodes that hosts multiple replicas for the same region, or, if there are multiple racks and the same rack hosts replicas of the same region.","<and, ANDs>","OR, AND, TO, HOSTS, and, CLUSTER, IF, REGION, TRUE","cluster,node,rack hosts,"
+"NOTE: Do not use this to calculate a duration of expire or interval to sleep, because it will be broken by settimeofday.",,"INTERVAL, BY, NOTE, USE, TO, IT, duration of expire",
+Allow creating archives with relative paths with a -p option on the command line.,"<relative paths, relative path, Relative paths>","command line, OPTION, Command line",relative paths
+"Hive, and other execution engines, use this data at runtime to determine how to parse, authorize, and efficiently execute user queries.The Metastore persists the object definitions to a relational database (RDBMS) via DataNucleus, a Java JDO based Object Relational Mapping (ORM) layer.","<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <rdbms, rdbm, RDBMSs, RDBMS>, <datanucleus, datanucleu>, <orm, ORM>, <and, ANDs>, <jdoql, JDOQL, JDO, jdo>","rdbms, relational database, ORM, USE, HIVE, orm, TO, AND, JAVA, datanucleus, RDBMS, EXECUTION, runtime, DATA, and, EXECUTE, OBJECT, metastore","Hive,execution engine,Metastore,relational database,RDBMS,Object Relational Mapping,ORM,JDO"
+Utility Classes IrqHandler: registers interrupt handlers using sun.misc APIs.,,"USING, Utility Classes irqhandler",
+"Changing this to an otherwise unused identity allows web clients to see only those things visible using ""other"" permissions.",,"otherwise unused identity, ONLY, TO, other, USING",
+SHOW CONF returns a description of the specified configuration property.default value.required type.description.Note that SHOW CONF does not show the current value of a configuration property.,"<SHOW, show>","Configuration property, Show conf, specified configuration, configuration property, DESCRIPTION, SHOW conf, current value, SHOW",
+"For operations simply reading through a file: copying, distCp, reading Gzipped or other compressed formats, parsing .csv files, etc, the sequential policy is appropriate.","<Distcp, DistCP, distcp>","OR, FILE, sequential policy, FILES, distcp",
+Returns the merge regions by reading the corresponding columns of the catalog table Result.,<catalog table>,"COLUMNS, MERGE, BY, catalog table result",catalog table
+Returns the event that this ReplicationTask is attempting to replicate.,,"TO, replicationtask",
+"principal_specification : USER user | ROLE role priv_type If a user is granted a privilege WITH GRANT OPTION on a table or view, then the user can also grant/revoke privileges of other users and roles on those objects.","<and, ANDs>, <Tablename, TABLE, table, tablename>","ON, AND, TABLE, ROLE, USER user, other, GRANT, and, GRANT option, REVOKE, grant option, VIEW, IF, USER","privilege,table,view"
+Implementation of AbstractFileSystem based on the existing implementation of FileSystem.,"<filesystem, Filesystem>","filesystem, existing implementation, ON, implementation of abstractfilesystem",
+The first mechanism is store file refresher which is introduced in HBase-1.0+.,"<store file, stores file, Store files, store files, stores files, Store file>","store file refresher, first mechanism","store file refresher,"
+A RegionSizeStore implementation that stores nothing.,,RegionSizeStore implementation,
+"The superuser can still read and modify file metadata, such as the owner, permissions, etc.","<and, ANDs>","superuser, READ, AS, OWNER, file metadata","superuser,file metadata,owner,permission,"
+Get the application's progress ( range 0.0 to 1.0 ).,,"GET, RANGE, application 's progress, TO",
+"Remember, toString() is only for debugging.",,"tostring, ONLY",
+Returns the MurmurHash3_x86_32 hash.,,HASH,
+"A RegionServer running on low memory will trigger its JVM's garbage collector to run more frequently up to a point where GC pauses become noticeable (the reason being that all the memory used to keep all the requests' payloads cannot be trashed, no matter how hard the garbage collector tries).","<regionservers, regionserver>, <jvm, JVMs, JVM, jvms>","GC, Garbage collector, ON, TRIGGER, MEMORY, TO, ALL, regionserver, garbage collector, JVM 's garbage collector",RegionServer
+"The trade-off is that if some queues contain long-running tasks, a handler may need to wait to execute from that queue rather than stealing from another queue which has waiting tasks.",,"RUNNING, another queue, TO, LONG, WAITING, HANDLER, trade - off, IF",handler
+Dummy desc only for populating TOK_ALLCOLREF and should not be used outside of TypeCheckProcFactory.,"<and, ANDs>","typecheckprocfactory, AND, DESC, desc, and",
+"Returns whether the exprNodeDesc is a node of ""or"".",,"OR, exprnodedesc",
+Many pieces of Calcite are derived from Eigenbase Project.,,Eigenbase project,
+http address:port>/ws/v1/cluster/apps/{appid}/timeout HTTP Operations Supported.,"<http addres, http address, Http address>, <HTTP Operations, http operation>","http address, HTTP operations",
+Visit a parse tree produced by HplsqlParser.begin_transaction_stmt().,,"parse tree, BY","parse tree,"
+org.apache.hadoop.hdfs.server.blockmanagement.HostFileManager is used by default which loads files specified by dfs.hosts and dfs.hosts.exclude.,"<and, ANDs>, <loads file, loads files, load file, load files>","AND, and, FILES, BY",
+Get a list of events related to the entity.,"<list, LIST>","GET, LIST, TO, EVENTS","event,"
+It cannot use delegation tokens for this feature.,,"USE, IT","delegation token,"
+Built by Maven Apache Hadoop 1.0.0 Release Notes.,"<Hadooop, Hadoop, hadoop, hadooop>","Release notes, BY, Apache hadoop",
+hadoop-auth.test.kerberos.keytab.file: default value $HOME/$USER.keytab.,,"Default value, default value",
+"Copying a file from snapshot s0: Note that this example uses the preserve option to preserve timestamps, ownership, permission, ACLs and XAttrs.","<xattr, xattrs>, <acls, Acl, Acls, ACL, ACLS, ACLs, acl>","timestamps, acls, FILE, NOTE, SNAPSHOT, xattrs, ACLS, preserve option","snapshot,ownership,permission,ACL,Xattr,"
+This is the same setting used by the Centralized Cache Management feature.,,"Centralized Cache Management feature, BY","Centralized Cache Management,"
+We used to think that 0.92 and 0.94 were interface compatible and that you can do a rolling upgrade between these versions but then we figured that HBASE-5357 Use builder pattern in HColumnDescriptor changed method signatures so rather than return void they instead return HColumnDescriptor.,"<and, ANDs>","Rolling upgrade, rolling upgrade, AND, TO, VERSIONS, INTERFACE, hcolumndescriptor, and, HBASE-5357 Use builder pattern",
+Can write data back that is readable by S3N.,"<datum, Datanode, DATA, datanode, Datanodes, datanodes>","WRITE, BY","S3N,"
+Apache HiveApache HiveChild pages.Pages.LanguageManual.Browse pagesConfigureSpace tools Skip to end of banner Jira links.,"<Jira, JIRAs, JIRAS, jiras, Jiras, jira, JIRA>","Apache HiveApache hivechild, jira, JIRA, pagesConfigureSpace tools skip, END, languagemanual","Hive,Jira,"
+Improved TaskTracker blacklisting strategy to better exclude faulty tracker from executing tasks.,<tasktracker>,"TO, TASKS, faulty tracker, Improved tasktracker",TaskTracker
+See Import checkpoint.,,Import checkpoint,
+"Note: This auth method is suitable for running interactive tools, but will not work for jobs submitted to a cluster.",<auth method>,"RUNNING, NOTE, TO, auth method, CLUSTER","job,cluster,"
+Adds a Mapper class to the chain job's JobConf.,,"mapper class, Mapper class, chain job 's jobconf",chain job
+Underlying stream to write compressed bytes to.,"<BYTES, byte>","BYTES, underlying stream, Underlying stream, WRITE",
+"When the space usage is exceeded by the table, the provided SpaceViolationPolicy is enacted on the table.","<Tablename, TABLE, table, tablename>, <space usage>","ON, BY, WHEN, TABLE, space usage, provided spaceviolationpolicy","space usage,table,"
+Percentage of maximum heap (-Xmx setting) to allocate to block cache used by a StoreFile.,"<block cache, Block Cache, Block cache>, <maximum heap>","BY, storefile, TO, CACHE, maximum heap","maximum heap,block cache,"
+"If you set the hbase.hlog.split.skip.errors option to true, errors are treated as follows: Any error encountered during splitting will be logged.",,"OPTION, SET, ERROR, SPLITTING, AS, IF, TRUE",
+hdfs dfsadmin -report.,"<hdf, HDFS, hdfs, hadoop distributed file system, Hadoop Distributed File System>",hdfs dfsadmin,
+"In the case of SSE-C, the value of this property should be the Base64 encoded key.",,"SSE - c, CASE, KEY, VALUE, base64","SSE-C,Base64 encoded key,"
+Get versions of columns with the specified timestamp.,,"GET, specified timestamp, COLUMNS","timestamp,"
+Calls sync with the given transaction ID.,,given transaction id,"transaction ID,"
+NOTE: This record writer is NOT thread-safe.,"<record writer, Record writer>","NOTE, record writer, Record writer","record writer,"
+It uses a service loader interface to find the available CredentialProviders and create them based on the list of URIs.,"<and, ANDs>, <list, LIST>","LIST, ON, service loader interface, available credentialproviders, uris, CREATE, IT","service loader,"
+The default implementations provided by Hadoop can be used as references: org.apache.hadoop.mapred.ShuffleHandler.,"<Hadooop, Hadoop, hadoop, hadooop>","AS, BY, DEFAULT","Hadoop,"
+"An upgrade of HBase will not require an incompatible upgrade of a dependent project, except for Apache Hadoop.","<HBASE, Hbase, hbase>, <Hadooop, Hadoop, hadoop, hadooop>","incompatible upgrade, upgrade of hbase, dependent project, Apache hadoop","Hbase,Hadoop,"
+I've just committed this to 0.21.,,TO,
+"Key selection spec and value selection spec are separated by "":"".","<and, ANDs>","Key selection spec and value selection spec, BY","key selection spec,value selection spec,"
+All options have been discussed separately in the sections above.,,ALL,
+Sql UNIX_TIMESTAMP calcite operator.,,"SQL, OPERATOR, sql","Sql,calcite operator,"
+See On the number of column families.,"<Column families, column family, column familie, column families, Column family, Column Families, Column Family>","ON, number of column","column family,"
+Hadoop Wiki: The home page (FrontPage) for the Hadoop Wiki.,"<Hadooop, Hadoop, hadoop, hadooop>","frontpage, Hadoop wiki, home page","Hadoop,"
+The registry manager cannot rely on clients consistently setting ZK permissions.,"<ZK, zk, Zk>","ZK, zk, registry manager, RELY","registry manager,ZK"
+$ hbase org.apache.hadoop.hbase.snapshot.SnapshotInfo \ -remote-dir s3a://<bucket>/<namespace>/hbase \ -list-snapshots 137.,"<HBASE, Hbase, hbase>","hbase, HBASE, SNAPSHOTS, dir, DIR",
+Maintains the cache for visibility labels and also uses the zookeeper to update the labels in the system.,"<and, ANDs>, <zookeeper, Zookeeper>","zookeeper, SYSTEM, Visibility labels, UPDATE, CACHE","zookeeper,"
+Matches a single character that is not from character set or range {a}.,,"single character, SET, RANGE",
+The creation process of a DBF is iterative.,,"DBF, creation process, dbf","DBF,"
+</description> </property> No labels.,,,
+The end of line string for this machine.,,end of line string,
+Family Filter This filter takes a compare operator and a comparator.,"<and, ANDs>","comparator, FILTER, COMPARATOR, Family filter, compare operator","family filter,"
+Converts from a bucket-mapjoin created from hints to SMB mapjoin.,"<smb, SMB>","MAPJOIN, bucket - mapjoin, TO, mapjoin","bucket-mapjoin,SMB"
+"When interacting with read-only object stores, the permissions found in list"" and ""stat"" commands may indicate that the user has write access","<and, ANDs>, <list, LIST>","LIST, WHEN, ONLY, AND, write access, READ, and, stat, USER","read-only object store,permission,write access,"
+"They are configured with the aclSubmitApps and aclAdministerApps properties, which can be set per queue.","<and, ANDs>","aclsubmitapps, SET",
+Be sure to include these in any new unit test files you generate.,,"NEW, TO, FILES",
+"To diagnose YARN application problems, set this property's value large enough (for example, to 600 = 10 minutes) to permit examination of these directories.","<YARN Application, yarn application, YARN application>","SET, yarn application, TO, DIRECTORIES, YARN application, MINUTES, property 's value",YARN application
+Implementation Notes 172.,,NOTES,
+Get CoordinatedStateManager instance for this server.,,GET,
+"Modifies LineRecordReader to report an approximate progress, instead of just returning 0, when using compressed streams.",,"linerecordreader, approximate progress, WHEN",
+HBase does not do any kind of validation of expressions beyond basic well-formedness.,"<HBASE, Hbase, hbase>","hbase, kind of validation, basic well - formedness, HBASE","Hbase,"
+Parses all the HRegionInfo instances from the passed in stream until EOF.,,"hregioninfo, eof, ALL, STREAM, EOF","stream,"
+Table Admins - A table admin can perform administrative operations only on that table.,"<Tablename, TABLE, table, tablename>","ONLY, TABLE, Table Admins - A table admin","table,"
+Commands of limited value.,,limited value,
+Get the ExecutionType of container to allocate.,,"GET, ALLOCATE, executiontype of container",
+"In this case, it means that Hive will call this method to convert an object with appropriate objectinspectors that it knows about, to write out a HCatRecord.",,"hcatrecord, HIVE, TO, CALL, CASE, OBJECT, IT, objectinspectors","Hive,"
+Invoked after a query compilation.,,query compilation,"query compilation,"
+"When no DataBlockEncoding is been used, this is having no effect.",,WHEN,
+"Due to non-standard behavior in Postgres, if a direct SQL select query has incorrect syntax or something similar inside a transaction, the entire transaction will fail and fall-back to DataNucleus will not be possible.","<and, ANDs>, <datanucleus, datanucleu>","entire transaction, OR, standard behavior, AND, TO, TRANSACTION, postgres, direct SQL select query, and, IF, POSTGRES","Postgres,transaction,DataNucleus,SQL,"
+The reason it is included in this equation is that it would be unrealistic to say that it is possible to use 100% of the available memory since this would make the process blocking from the point where it loads new blocks.,,"NEW, TO, IT, available memory","process blocking,block,"
+See HBASE-7351 Periodic health check script for configurations and detail.,"<and, ANDs>","AND, health check script, and, hbase-7351",
+"By default, it is not supported.",,"IT, BY",
+This is an advanced option that should only be used by server applications requiring a more carefully orchestrated shutdown sequence.,,"advanced option, ONLY, BY, carefully orchestrated shutdown sequence","orchestrated shutdown sequence,"
+Distributed mode can be subdivided into distributed but all daemons run on a single node - a.k.a.,,"ON, Single node, Distributed mode, ALL, INTO, single node, distributed mode","Distributed mode,daemon"
+todo: This need review re: thread safety.,"<TODO, todo>","thread safety, TODO, Thread safety, todo",
+The parse Context is not changed.,,"Parse context, parse context",
+"// Original version still works Admin admin = connection.getAdmin(); ClusterMetrics metrics = admin.getClusterStatus(); // or below, a new version which has the same effects ClusterMetrics metrics = admin.getClusterStatus(EnumSet.allOf(Option.class)); If information about live servers is the only wanted.","<admins, admin, Admins, ADMIN, Admin>","OR, new version, ONLY, original version, Admin admin, Original version, clustermetrics, IF","admin,live server,"
+Collect a set of hosts from all child InputSplits.,,"HOSTS, ALL, SET",host
+"Clearly, logical splits based on input-size is insufficient for many applications since record boundaries are to respected.",,"TO, RECORD, ON, SIZE","logical split,record boundary,"
+"For id:pass the client must have the relevant id and password, SASL is not used even if the client has credentials.","<and, ANDs>","ID, sasl, AND, and, SASL, CLIENT, IF","client,SASL,credential,"
+Note that setting the value too low or too high could have detrimental effects on your system.,,"ON, OR, SYSTEM, NOTE, VALUE",
+"Instead, a tombstone marker is written.",,tombstone marker,
+"If there are are more than -maxEligibleApps applications found, the newest applications are dropped.",,IF,
+Take some time crafting your question.,,TIME,
+Description copied from interface: IMetaStoreClient.,,"INTERFACE, DESCRIPTION, imetastoreclient",
+new files added: A hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-site/src/site/apt/WebServicesIntro.apt.vm A hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-site/src/site/apt/NodeManagerRest.apt.vm A hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-site/src/site/apt/ResourceManagerRest.apt.vm A hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-site/src/site/apt/MapredAppMasterRest.apt.vm A hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-site/src/site/apt/HistoryServerRest.apt.vm.,"<mapreduce, mapred, Mapreduce>, <Hadooop, Hadoop, hadoop, hadooop>, <yarn, YARN>","hadoop, YARN, src, NEW, mapreduce, HADOOP, MAPREDUCE",
+This call isn't needed any more: please remove uses of it.,,"CALL, IT",
+"Please note that if the script cannot be executed due to permissions or an incorrect path, etc, then it counts as a failure and the node will be reported as unhealthy.","<and, ANDs>","OR, NOTE, TO, FAILURE, AS, incorrect path, IT, IF","permission,node,"
+"If a directory has a default ACL, then getfacl also displays the default ACL.","<acls, Acl, Acls, ACL, ACLS, ACLs, acl>","default acl, getfacl, IF, DIRECTORY","ACL,"
+The following example limits the above example to 200 MB/sec.,,"TO, following example, MB",
+Add an InputSplit to this collection.,,"COLLECTION, inputsplit, ADD",","
+Use getConf() instead.,,USE,
+"fs.swift.impl The implementation class of the OpenStack Swift Filesystem fs.automatic.close By default, FileSystem instances are automatically closed at program exit using a JVM shutdown hook.","<jvm, JVMs, JVM, jvms>, <filesystem, Filesystem>","implementation class, BY, CLOSED, program exit, filesystem, OpenStack swift, Implementation class, JVM shutdown hook","OpenStack Swift Filesystem,JVM shutdown hook"
+Set the value to a given byte range.,<byte range>,"VALUE, SET, given byte range",byte range
+called after the regions merge.,,REGIONS,
+"P0 Native Support for types of numbers, datetime, and IP addresses Currently most numbers, datetimes, and IP addresses are treated as strings.","<and, ANDs>","P0 Native support, AND, AS, and, datetime",
+There are basically 3 cases here: 1.,,,
+The keytab for the resource manager.,,"keytab, resource manager, Resource manager","resource manager,"
+Examples: hadoop fs -getmerge -nl /src /opt/output.txt.,"<Hadooop, Hadoop, hadoop, hadooop>","hadoop fs, Hadoop fs",
+Folder : A utility to scale the input trace.,<input trace>,"TO, input trace",input trace
+"Effectively, this means previously we would not use a chunk pool when our memstore is onheap and now we will.","<and, ANDs>, <memstore>","USE, onheap, chunk pool, memstore","chunk pool,memstore,"
+"After locating a service record, the client can enumerate the external bindings and locate the entry with the desired API.","<and, ANDs>","Service record, AND, EXTERNAL, and, desired api, service record, CLIENT","service record,client,external binding,"
+Map (Associative Arrays) Operations.,,"MAP, Associative arrays",
+"Called each period after all records have been emitted, this method does nothing.",,ALL,
+"This can be a ""regular"" exception generated locally or a ProxyThrowable that is a representation of the original exception created on original 'remote' source.",,"SOURCE, ON, OR, proxythrowable, original exception, EXCEPTION",
+"Even if an application is renewing tokens regularly, if an AM fails and is restarted, it gets restarted from that original ApplicationSubmissionContext.","<and, ANDs>","AND, original applicationsubmissioncontext, and, IT, IF, AM, APPLICATION","AM,"
+"By default, the prefix of a line up to the first tab character is the key and the rest of the line (excluding the tab character) is the value.","<and, ANDs>, <REST, rest>","PREFIX, BY, first tab character, TO, REST, KEY, tab character, VALUE",
+Configure ioengine as mmap:PATH_TO_FILE for this.,,"Configure ioengine, mmap",
+Each task attempt is one particular instance of a Map or Reduce Task identified by its TaskID.,"<taskid, TaskID>","Reduce task, reduce task, BY, task attempt, Task attempt, taskid, one particular instance, MAP","Reduce Task,TaskID,"
+The maximum number of threads any replication source will use for shipping edits to the sinks in parallel.,"<Replication source, replication sources, replication source>","USE, TO, maximum number, Maximum number, replication source, Replication source","replication source,"
+"Skip to end of metadata Created by Lars Francke, last modified on Apr 12, 2016.",,"ON, METADATA, BY, SKIP, END",
+Show the table partitions.,"<SHOW, show>, <Tablename, TABLE, table, tablename>","SHOW, TABLE",table partitions
+Exit a parse tree produced by HplsqlParser.return_stmt().,,"parse tree, EXIT, BY","parse tree,"
+Visit a parse tree produced by HplsqlParser.index_mssql_storage_clause().,,"parse tree, BY","parse tree,"
+"The token cache is the only user of the canonical service name, and uses it to lookup this FileSystem's service tokens.","<Token cache, token cache>, <and, ANDs>, <filesystem, Filesystem>","ONLY, filesystem, AND, and, token cache, canonical service name, IT","token cache,FileSystem's service token,"
+"Credentials are also needed to run any of those tests, they can be copied from auth-keys.xml or through direct XInclude inclusion.",,"direct XInclude inclusion, TO, TESTS, OR","credential,"
+Any other pruner can reuse it by creating a class extending from PrunerOperatorFactory.,,"other, IT, pruneroperatorfactory","pruner,"
+"""Source"" is a little loose term here in the sense it can range from being an HDFS url location pointing to the schema or it can be even as simple as a properties file with a simple key-value mapping to the schema.","<hdf, HDFS, hdfs, hadoop distributed file system, Hadoop Distributed File System>","SOURCE, SCHEMA, TO, simple key - value mapping, RANGE, AS, HDFS url location, little loose term, IT, properties file","schema,HDFS,"
+External tables will be created with format specified by hive.default.fileformat.,,"FORMAT, BY, External tables","external table,"
+"You can configure a different ratio for use in off-peak hours, using the parameter hbase.hstore.compaction.ratio.offpeak, if you also configure hbase.offpeak.start.hour and hbase.offpeak.end.hour.","<and, ANDs>","USE, AND, different ratio, and, USING, IF",
+The file name & location needs to be finalized.,,"TO, LOCATION, file name",
+The thread pool always has at least these number of threads so the REST server is ready to serve incoming requests.,"<REST server, rest server>","least these number, Thread pool, Rest server, REST server, READY, thread pool","thread pool,REST server"
+Built by Maven Dapper-like Tracing in Hadoop SpanReceivers Starting tracing spans by HTrace API Starting tracing spans by FileSystem Shell Dapper-like Tracing in Hadoop.,"<filesystem, Filesystem>, <Hadooop, Hadoop, hadoop, hadooop>","Hadoop spanreceivers, hadoop, BY, api, API, HADOOP, LIKE","Maven Dapper-like Tracing,HTrace API,FileSystem Shell,Hadoop."
+"The CREATE part of the CTAS takes the resulting schema from the SELECT part and creates the target table with other table properties such as the SerDe and storage format.Starting with Hive 3.2.0, CTAS statements can define a partitioning specification for the target table (HIVE-20241).CTAS has these restrictions:The target table cannot be an external table.The target table cannot be a list bucketing table.Example: CREATE TABLE new_key_value_store ROW FORMAT SERDE ""org.apache.hadoop.hive.serde2.columnar.ColumnarSerDe"" STORED AS RCFile SELECT (key % 1024) new_key, concat(key, value) key_value_pair SORT BY new_key, key_value_pair; The above CTAS statement creates the target table new_key_value_store with the schema (new_key DOUBLE, key_value_pair STRING) derived from the results of the SELECT statement.","<create table, creating Table, creating table, Create table, Create Table>, <Tablename, TABLE, table, tablename>, <list, LIST>, <CTAS, cta>, <row format, Row Format>, <Serde, SERDE, serde>, <and, ANDs>, <storage formats, Storage Formats, Storage formats, storage format>, <table property, table propertie, table properties, Table Properties, table Properties>, <external table>","resulting schema, CREATE table, List Bucketing table, AS, SORT, EXTERNAL table, create table, HIVE, CREATE part, SELECT, ctas, KEY, STRING, VALUE, partitioning specification, SCHEMA, CTAS, DOUBLE, STORED as, CTAS statement, select statement, ROW FORMAT serde, SELECT statement, Select statement, list bucketing table, External table, SerDe and storage format, Create table, other, target table, external table, SELECT part","CTAS,table,SerDe,storage format,Hive,CTAS statement,external table,target table,list bucketing table"
+Row 8 to Row 14 They were computed by a 7600-task-capacity cluster.,<capacity cluster>,"TO, 7600-task - capacity cluster, ROW, BY","cluster,"
+Error: S3Guard table lacks version marker.,"<Tablename, TABLE, table, tablename>","s3guard table, version marker, S3Guard table, ERROR","table,version marker,"
+Move the region r to dest.,,"TO, REGION",
+"For the purposes of unit tests, we want to test login from keytab and don't want to wait until the renew window (controlled by TICKET_RENEW_WINDOW).","<and, ANDs>, <login, logins>","renew window, Unit tests, keytab, BY, TO, login",
+Return the name of the trigger.,,"NAME, TRIGGER","trigger,"
+Third party tools can use this interface to integrate Hive metadata into other business metadata repositories.Hive Query Language.HiveQL is an SQL-like query language for Hive.,,"METADATA, SQL - like query language, HIVE, Hive query language, USE, third party, hiveql, INTERFACE, other, Hive metadata, Hive Query language","Hive metadata,Hive Query Language,HiveQL,Hive,"
+JSON implementation of AddPartitionMessage.,,json implementation of addpartitionmessage,
+Deploying a New MapReduce Version via the Distributed Cache.,"<mapreduce, mapred, Mapreduce>","Distributed cache, distributed cache, New MapReduce version, new MapReduce version","MapReduce,Distributed Cache."
+dfs.client.test.drop.namenode.response.number 0 The number of Namenode responses dropped by DFSClient for each RPC call.,"<RPC call, rpc call>, <namenode, Namenode>","BY, namenode, rpc call, NUMBER, RPC call, Rpc call","namenode,RPC call,"
+"The ParquetStringInspector inspects a BytesWritable, TimestampWritableV2, HiveDecimalWritable, DoubleWritable, FloatWritable, LongWritable, IntWritable, and BooleanWritable to give a Text or String.","<and, ANDs>","parquetstringinspector, AND, TO, floatwritable, timestampwritablev2, STRING, and, intwritable, longwritable, TEXT, byteswritable, doublewritable",
+"Resets internal state to same as given tracker, and change the deleted flag according to the modified flag if resetDelete is true.","<and, ANDs>","AND, TO, deleted flag, Resets internal state, AS, and, modified flag, TRUE",
+across point versions: e.g.,,VERSIONS,
+"To do this, the framework relies on the processed record counter.",,"TO, ON, processed record counter",
+Container terminated because of exceeding allocated virtual memory.,<virtual memory>,"allocated virtual memory, TERMINATED","virtual memory,"
+Provides functionality for reading typed bytes.,"<Typed bytes, typed byte, typed bytes>",BYTES,typed bytes
+"Get the capacity, which is the maximum count that could handled without resizing the backing storage.",<maximum count>,"GET, backing storage, maximum count","backing storage,"
+dfs.client.socketcache.capacity 16 Socket cache capacity (in entries) for short-circuit reads.,<cache capacity>,"short - circuit, Short - circuit, socket cache","Socket cache capacity,short-circuit read,"
+Backup System table name for bulk loaded files.,"<System table, system table>","Backup System table name, FILES",system table
+"In the absence of histograms, we can use the following general case 2 Relations, 1 attribute T(RXS) = (T(R)*T(S))/max(V(R,Y), V(S,Y)) where Y is the join attribute 2 Relations, 2 attributes T(RXS) = T(R)*T(S)/max(V(R,y1), V(S,y1)) * max(V(R,y2), V(S,y2)), where y1 and y2 are the join attributes 3 Relations, 1 attributes T(RXSXQ) = T(R)*T(S)*T(Q)/top2largest(V(R,y), V(S,y), V(Q,y)), where y is the join attribute 3 Relations, 2 attributes T(RXSXQ) = T(R)*T(S)*T(Q)/top2largest(V(R,y1), V(S,y1), V(Q,y1)) * top2largest(V(R,y2), V(S,y2), V(Q,y2)), where y1 and y2 are the join attributes Worst case: If no column statistics are available, then T(RXS) = joinFactor * max(T(R), T(S)) * (numParents - 1) will be used as heuristics.","<and, ANDs>, <column statistic, column statistics, Column Statistics, Column statistics>","Column statistics, USE, worst case, Worst case, AS, y2, y1, JOIN, joinfactor, following general case, IF",column statistics
+The reader who reads from the underlying boolean value value.,,underlying boolean value value,
+The Metastore connects to an external RDBMS via JDBC.,"<rdbms, rdbm, RDBMSs, RDBMS>","TO, JDBC, jdbc, external rdbms, metastore","metastore,RDBMS,JDBC"
+Allocating an extra of 1 - 2 GB for the max direct memory size has worked in tests.,"<memory sizes, memory size, memory siz>","GB, TESTS, max direct memory size","direct memory,"
+Specify the number of backup sessions to display with the optional -n argument.,,"TO, NUMBER, optional -n argument","backup session,"
+Hive will use the first one from the list by default but will pick a random one on connection failure and will try to reconnect.Additional Configuration Parameters.The following metastore configuration parameters were carried over from old documentation without a guarantee that they all still exist.,"<and, ANDs>, <list, LIST>","LIST, HIVE, USE, TO, first one, ALL, FOLLOWING, DEFAULT, Additional Configuration parameters, Configuration parameters, connection failure, old documentation, random one","Hive,metastore,"
+Return the value of this IntWritable.,,"intwritable, VALUE",
+It is used with the GROUP BY only.,,"IT, Group by",
+You will need to pass 3 parameters to this application.,,"TO, APPLICATION",
+....can do other initializations here since lock is 'asynchronous'...,,"other, LOCK",
+The start of the checkpoint process on the Checkpoint node is controlled by two configuration parameters.,,"checkpoint process, BY, checkpoint node, Configuration parameters, Checkpoint node","checkpoint node,"
+Writes a vector header.,<vector header>,vector header,
+"If not set, the Configuration setting HConstants.HBASE_CLIENT_SCANNER_CACHING will apply.",,"SET, IF, configuration setting",
+"Skip to end of metadata Created by Confluence Administrator, last modified by Lefty Leverenz on Sep 19, 2017.",,"ON, METADATA, BY, SKIP, END","metadata,"
+"Check if the entire procedure has globally completed, or has been aborted.",,"ABORTED, OR, COMPLETED, CHECK, entire procedure",
+To set an environment variable in a streaming command use: -cmdenv EXAMPLE_DIR=/home/example/dictionaries/ Generic Command Options.,,"TO, environment variable, streaming command use, OPTIONS",
+Note that sometimes tests fail for reasons unrelated to the patch.Patches with nonconforming names are ignored by Hive QA.,"<QA, qa>","PATCH, QA, BY, TESTS, NOTE, TO","Hive,"
+"On the export end, it tags the replication export dump with an id that is monotonically increasing on the source warehouse (incrementing each time there is a source warehouse metastore modification).",,"ON, TIME, export end, source warehouse, source warehouse metastore modification, IT, replication export dump",source warehouse
+"Usage in Reducer: <K, V> String generateFileName(K k, V v) { return k.toString() + ""_"" + v.toString(); } public class MOReduce extends Reducer<WritableComparable, Writable,WritableComparable, Writable> { private MultipleOutputs mos; public void setup(Context context) { ...","<writable, writables, Writables>","public class, writable, public void, REDUCER, PRIVATE, WRITABLE, STRING, Public class, writablecomparable",
+Sorting within each partition for the reducer(all 4 fields used for sorting).,,PARTITION,"partition,reducer,"
+Relative to write speed of HDFS.,"<hdf, HDFS, hdfs, hadoop distributed file system, Hadoop Distributed File System>","TO, speed of hdfs","HDFS,write speed,"
+Should speculative execution be used for this job?,,"speculative execution, Speculative execution","job,cluster,"
+container SUCCEEDED 1 1 0 0 0 0 Map 2 ..........,,"SUCCEEDED, MAP",
+"CPU is saved because the first time the StorageDescriptor column names are accessed, JDO needs to execute a SQL query to retrieve the data.","<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <jdoql, JDOQL, JDO, jdo>, <cpu, CPU>, <columns names, column name, column names, Column names, columns name, Column Names>","CPU, TO, SQL query, DATA, first time, storagedescriptor, sql query, JDO, jdo","CPU,JDO,SQL query,"
+Do conditional execution of the THEN/ vector expression and regular execution of the ELSE vector expression (a column or scalar) of a SQL IF statement.,"<and, ANDs>","ELSE vector expression, conditional execution, COLUMN, vector expression, SQL IF statement, regular execution","conditional execution,"
+"delimited strings, // binary encoded, etc.",,"BINARY, DELIMITED",
+"Once done, update the Hive website as described in the Documentation section below.Review.Hive committers should, as often as possible, attempt to review patches submitted by others.","<Committer, committers, Committers, committer>","BY, documentation section, TO, Hive committers, DONE, UPDATE, Documentation section, AS, Hive website",Hive
+ACL to administer the queue.,"<acls, Acl, Acls, ACL, ACLS, ACLs, acl>","acl, ACL","ACL,"
+Column Metadata 32.,"<Column Metadata, column metadata>","column metadata, Column metadata","Column Metadata,"
+"In this case, since HCatRecord is directly already the Writable object, there's no extra work to be done here.","<writable, writables, Writables>","hcatrecord, extra work, CASE, Writable object, DIRECTLY, DONE, writable object",
+yarn.nodemanager.default-container-executor.log-dirs.permissions 710 Whether to enable log aggregation.,,"Log aggregation, TO, log aggregation",
+Adding partitions more often leads quickly to an overwhelming number of partitions in the table.,"<Tablename, TABLE, table, tablename>, <overwhelming number>","TO, TABLE, overwhelming number, PARTITIONS","partition,table,"
+Last chance to veto row based on previous Filter.filterCell(Cell) calls.,,"Last chance, ON, ROW",
+"The inner query could also have been written as such: Schema-less map/reduce: If there is no ""AS"" clause after ""USING map_script"", Hive assumes the output of the script contains 2 parts: key which is before the first tab, and value which is the rest after the first tab.","<and, ANDs>, <REST, rest>","USING, SCHEMA, HIVE, inner query, REST, AND, AS, KEY, and, REDUCE, OUTPUT, MAP, IF, first tab","Hive,"
+Would there be any significant performance advantages to be able to paginate via gets vs paginating with scans?,,"PERFORMANCE, TO",
+Makes the retries and time between retries getting the length of the last block on file configurable.,"<and, ANDs>","FILE, last block, and, AND",
+Most filters always return true here.,,"FILTERS, TRUE",
+For subclasses in case they want to do fixup post hbase:meta.,"<HBASE, Hbase, hbase>, <META, meta, metainfo>","TO, CASE, META, meta, fixup post hbase",
+Called after a snapshot restore operation has been requested.,,snapshot restore operation,"snapshot restore operation,"
+In order to provide these features on top of HDFS we have followed the standard approach used in other data warehousing tools.,"<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <ORDER, order>, <hdf, HDFS, hdfs, hadoop distributed file system, Hadoop Distributed File System>","ORDER, FEATURES, top of hdfs, other, standard approach","HDFS,data warehousing tool,"
+Misc utilities used in this package.,,PACKAGE,
+{0} is a special string used to denote where the username fits into the filter.,,"special string, TO, FILTER, username, INTO",
+"Similarly, protobuf definitions for internal use are located in the hbase-protocol-shaded module.","<HBASE, Hbase, hbase>, <protobuf, protobufs, Protobuf, Protobufs>","protobuf, hbase - protocol - shaded module, internal use, Internal use","protobuf,"
+Storing Snapshots in Microsoft Azure Blob Storage 138.,,"Storing snapshots, Microsoft Azure Blob storage","Microsoft Azure Blob Storage,"
+"The resulting TTransportFactory can be passed as both the input and output transport factory when instantiating a TThreadPoolServer, for example.","<and, ANDs>","resulting ttransportfactory, AS, input and output transport factory, tthreadpoolserver",
+yarn.scheduler.minimum-allocation-mb 1024 The maximum allocation for every container request at the RM in MBs.,"<rm, reserved memory, RMs, RM, Rm>, <Container request, container request>","RM, rm, maximum allocation, every container request","container request,RM,MB,"
+"The tool operates on files only, it does not need Hadoop cluster to be running.","<Hadooop, Hadoop, hadoop, hadooop>","RUNNING, ON, ONLY, Hadoop cluster, IT, hadoop cluster","Hadoop cluster,"
+Change this to the absolute path to kinit if this is not the case.,<kinit>,"kinit, TO, CASE, absolute path, Absolute path, CHANGE",kinit
+ACID tables that have data inserted into them can still be queried using vectorization.Inserting values into tables from SQL.The INSERT...VALUES statement can be used to insert data into tables directly from SQL.Version Information.,"<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <acid, ACID>","VALUES, ACID, TABLES, TO, VALUES statement, INFORMATION, INTO, DATA, USING, INSERT","SQL,ACID,"
+This method needs to be called before any public call that reads or modifies stores in bulk.,,"TO, OR, public call",
+Get the Finish time of the container.,"<Finish time, finish time>","GET, Finish time, finish time","container,Finish time"
+"The data files are shared between the primary region and the other replicas, so that there is no extra storage overhead.","<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <storage overhead>, <and, ANDs>","extra storage, other, DATA, primary region","primary region, storage overhead"
+Returns the scope of the ACL entry.,"<acls, Acl, Acls, ACL, ACLS, ACLs, acl>","ACL entry, SCOPE","ACL,"
+"Generally, use ""lzo"" as the starting point for experimenting.","<Lzo, LZO, lzo>","LZO, USE, lzo, starting point, AS",
+A number of internal dependencies for HBase were updated or removed from the runtime classpath.,"<HBASE, Hbase, hbase>, <classpaths, classpath>","hbase, internal, HBASE, OR, INTERNAL, runtime classpath, NUMBER","Hbase,runtime classpath"
+Apache HiveApache HiveChild pages.LanguageManual.Configuration Properties.Browse pagesConfigureSpace tools Skip to end of banner Jira links.,"<Jira, JIRAs, JIRAS, jiras, Jiras, jira, JIRA>","Apache HiveApache hivechild, Configuration properties, jira, JIRA, pagesConfigureSpace tools skip, END, languagemanual","Jira,"
+Fix multiple assignment by doing silent closes on each RS hosting the region and then force ZK unassigned node to OFFLINE to trigger assignment by master.,"<and, ANDs>, <ZK, zk, Zk>","ON, BY, ZK unassigned node, multiple assignment, TRIGGER, offline, RS, OFFLINE, REGION","RS,ZK,"
+The later is refered as a multi named output.,,"OUTPUT, AS, multi",
+"HFile is a low-level file format by design, and it should not deal with application-specific details such as Bloom filters, which are handled at StoreFile level.","<and, ANDs>, <hfiles, hfile>, <Bloom filters, bloom filters, Bloom Filters, Bloom filter, bloom filter, Bloom Filter>","AND, low - level file format, APPLICATION, AS, and, FILTERS, StoreFile level, hfile","Hfile,low-level file format,Bloom filter"
+Get an existing timer or create a new one if the requested one does not yet exist.,,"existing timer, GET, new one, requested one, CREATE",
+Private interfaces are not always unstable.,,PRIVATE,
+This constructor exists primarily for AccessControlList to be Writable.,"<writable, writables, Writables>","accesscontrollist, writable, WRITABLE, EXISTS",Writable
+"it's more reasonable, because ReturnCode is a concept in store level, not in region level.",<store level>,"IT, store level, returncode, region level","store level,region level,"
+Note that this is a Map/Reduce job that creates the archives.,,"NOTE, Reduce job, MAP",Map/Reduce job£»
+Run yarn cluster --list-node-labels to check added node labels are visible in the cluster.,"<YARN cluster, yarn cluster>","YARN cluster, TO, CLUSTER, Node labels","yarn cluster,node label,cluster,"
+Break up the responsibility of the old AbstractTableFunction class into a Resolver and Evaluator.,"<resolvers, resolver>","resolver, BREAK, old AbstractTableFunction class","Resolver,Evaluator,"
+Compares this split against the given one.,,"given one, SPLIT",
+Whether the current host is a Windows machine.,,"Windows machine, current host",
+In order to not block them during a too long duration we stop releasing lease after this max lock limit.,"<ORDER, order>, <lock limit>","ORDER, BLOCK, long duration, max lock limit","max lock limit,"
+This is needed for credentials that would result in a recursive dependency on accessing HDFS.,"<hdf, HDFS, hdfs, hadoop distributed file system, Hadoop Distributed File System>","recursive dependency, HDFS, hdfs, RESULT","credential,HDFS."
+This parameter controls the generalization of the Linear Programming model.,,Linear Programming model,"Linear Programming model,"
+Changed public class org.apache.hadoop.mapreduce.ID to be an abstract class.,,"abstract class, TO, Changed public class, Abstract class",
+It is expected to be much greater than yarn.nm.liveness-monitor.expiry-interval-ms and yarn.resourcemanager.rm.container-allocation.expiry-interval-ms.,"<and, ANDs>","AND, TO, IT, and",
+String wrapper to support SQL VARCHAR features.,,"SUPPORT, VARCHAR, String wrapper, varchar",
+Get the znodePaths.,,GET,
+modulelist to provide a comma delimited list of module tests to execute in addition to the ones that are automatically detected.,"<list, LIST>","MODULE, TO, comma delimited list",
+Making coarse assertions on the entire contents of a table is brittle and has a high maintenance requirement.,"<Tablename, TABLE, table, tablename>,<and, ANDs>","AND, high maintenance requirement, TABLE",","
+"However, the normative specification of the behavior of this class is actually HDFS: if HDFS does not behave the way these Javadocs or the specification in the Hadoop documentations define, assume that the documentation is incorrect.","<Javadocs, javadocs, javadoc>, <Hadooop, Hadoop, hadoop, hadooop>, <hdf, HDFS, hdfs, hadoop distributed file system, Hadoop Distributed File System>","hadoop, hdfs, javadocs, HDFS, normative specification, BEHAVIOR, HADOOP, IF","HDFS,Hadoop,Javadocs"
+"In that case, mapreduce.application.classpath would be configured to something like the following example, where the archive basename is hadoop-mapreduce-2.9.2.tar.gz and the archive is organized internally similar to the standard Hadoop distribution archive: $HADOOP_CONF_DIR,$PWD/hadoop-mapreduce-2.9.2.tar.gz/hadoop-mapreduce-2.9.2/share/hadoop/mapreduce/*,$PWD/hadoop-mapreduce-2.9.2.tar.gz/hadoop-mapreduce-2.9.2/share/hadoop/mapreduce/lib/*,$PWD/hadoop-mapreduce-2.9.2.tar.gz/hadoop-mapreduce-2.9.2/share/hadoop/common/*,$PWD/hadoop-mapreduce-2.9.2.tar.gz/hadoop-mapreduce-2.9.2/share/hadoop/common/lib/*,$PWD/hadoop-mapreduce-2.9.2.tar.gz/hadoop-mapreduce-2.9.2/share/hadoop/yarn/*,$PWD/hadoop-mapreduce-2.9.2.tar.gz/hadoop-mapreduce-2.9.2/share/hadoop/yarn/lib/*,$PWD/hadoop-mapreduce-2.9.2.tar.gz/hadoop-mapreduce-2.9.2/share/hadoop/hdfs/*,$PWD/hadoop-mapreduce-2.9.2.tar.gz/hadoop-mapreduce-2.9.2/share/hadoop/hdfs/lib/*.","<mapreduce, mapred, Mapreduce>, <yarn, YARN>, <hdf, HDFS, hdfs, hadoop distributed file system, Hadoop Distributed File System>, <and, ANDs>, <Hadooop, Hadoop, hadoop, hadooop>","hadoop, YARN, COMMON, archive basename, hdfs, TO, CASE, following example, AND, ARCHIVE, HDFS, mapreduce, and, HADOOP, MAPREDUCE, standard Hadoop distribution archive, LIKE","standard Hadoop distribution archive,"
+Contains utilities methods used as part of Spark tasks.,,"AS, Spark tasks","Spark,"
+"In order to support some old SSL clients, the default encryption ciphers include a few relatively weaker ciphers.","<ORDER, order>","ORDER, INCLUDE, SUPPORT, DEFAULT, SSL, ssl","encryption cipher,SSL client,"
+"Fixed a bug in the new org.apache.hadoop.mapreduce.Counters.getGroup() method to return an empty group if group name doesn't exist, instead of null, thus making sure that it is in sync with the Javadoc.","<null, NULL>, <Javadocs, javadocs, javadoc>","Fixed a bug, TO, NEW, javadoc, empty group, group name, IT, NULL",
+Add a default resource.,,"default resource, ADD",
+"Directory structure looks like: /user/hive/warehouse/t1/dt=something/data.txt /user/hive/warehouse/t2/dt=something/x=a/data.txt /user/hive/warehouse/t2/dt=something/x=b/data.txt /user/hive/warehouse/t2/dt=something/default/data.txt ""stored as directories"" tells hive to create sub-directories.",,"HIVE, STORED as, something, DEFAULT, DIRECTORIES, directory structure, CREATE, Directory structure, LIKE",
+"On catching a Throwable, Mapper/Reducer tries to inform the TT.",,"ON, TT, TO, REDUCER, throwable","Mapper/Reducer,TT"
+Logger information to be logged at the end.,,"END, Logger information",
+See the Getting Started section on ulimit and nproc configuration and check your network.,"<and, ANDs>, <nproc>, <Ulimit, ulimit>","CHECK, CONFIGURATION, ulimit, Getting Started section","ulimit,nproc"
+Create a snapshot file cache for all snapshots under the specified [root]/.snapshot on the filesystem.,"<snapshot files, snapshot file>, <filesystem, Filesystem>","ON, snapshot file cache, filesystem, ALL, CREATE","snapshot file,filesystem,"
+"CREATE|APPEND - to create a file if it does not exist, else append to an existing file.",,"ELSE, FILE, TO, Existing file, existing file, IT",
+A header bit of '0' indicates this byte contains the last of the payload.,"<BYTES, byte>","BYTE, header bit",payload
+In this example: ?/tmp/backup_incremental is the path to the directory containing the backup image.,,"backup image, Backup image, DIRECTORY, PATH",
+"Calling Table.coprocessorService(Class, byte[], byte[], org.apache.hadoop.hbase.client.coprocessor.Batch.Call) will take care of invoking Batch.Call.call() against our anonymous class with the RowCountService instance for each table region.","<Tablename, TABLE, table, tablename>, <BYTES, byte>","RowCountService instance, table region, BYTE, anonymous class",table region
+Setter for Column schemas.,,COLUMN,"column schema,"
+This can be used to auto-generate account names with the correct realm for the system accounts hence aid having valid constants.,,"SYSTEM, TO, VALID, correct realm, hence aid",
+The collectors (writers) are currently embedded in the node managers as auxiliary services.,,Node managers,"node manager,collector,writer,"
+To help debug this or confirm this is happening GC logging can be turned on in the Java virtual machine.,,"ON, OR, DEBUG, GC logging, TO, Java virtual machine",
+See this blog post for more details.,,blog post,
+"Skip to end of metadata Created by Charles Chen, last modified by Lefty Leverenz on Dec 09, 2013.",,"ON, METADATA, BY, SKIP, END","metadata,"
+"While not unheard of, these kinds of errors are exceedingly rare on modern hardware which is operating as it should: $ /sbin/ifconfig bond0 bond0 Link encap:Ethernet HWaddr 00:00:00:00:00:00 UP BROADCAST RUNNING MASTER MULTICAST MTU:1500 Metric:1 RX packets:2990700159 errors:12 dropped:0 overruns:1 frame:6 <--- Look Here!",,"ON, LINK, MASTER, AS, Ethernet hwaddr, BROADCAST",
+"However, queries with some of the clustering keys specified:select ...",,"SELECT, KEYS",
+Set the value of the name property to a boolean.,,"name property, SET, boolean, BOOLEAN, VALUE",
+Visit a parse tree produced by HplsqlParser.for_range_stmt().,,"parse tree, BY",
+Set the primary filter map to the given map of primary filters.,"<primary filters, Primary filter, primary filter, Primary filters, Primary Filter>","given map, PRIMARY, primary filter map, SET","primary filter,"
+4.5 If partition-pruner-bigtable-candidate set is empty then bail out.,"<bigtable, Bigtable>","EMPTY, IF, bigtable, SET",
+"This is just an example, developers could choose not to use TableOutputFormat and connect to the target table themselves.","<and, ANDs>, <Tablename, TABLE, table, tablename>","TO, tableoutputformat, target table",
+"Typically this is just the hostname, using the port is needed when using minicluster and specific NM are required.","<and, ANDs>","WHEN, hostname, minicluster, PORT, specific nm, HOSTNAME, USING","hostname,NM,"
+"Integration tests SHOULD NOT assume that they are running against a mini cluster, and SHOULD NOT use private API's to access cluster state.","<and, ANDs>, <cluster state>","RUNNING, cluster state, Integration tests, USE, AND, TO, api, API, and, mini cluster","mini cluster,cluster state,"
+Are both teams charged for it?,,IT,
+You do not need to re-create the table or copy data.,"<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <Tablename, TABLE, table, tablename>","TO, TABLE, CREATE, COPY","table,"
+There are a couple of choices on how S3 can be used: Data can be either stored as files within S3 using tools like aws and s3curl as detailed in S3 for n00bs section.,"<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <amazon web service, AWS, aw, Amazon Web Services, aws>, <S3, s3>","ON, STORED as, s3, AND, AS, DATA, and, LIKE, n00bs section","S3,aws,"
+"The behavior of INSERT OVERWRITE is not affected by the ""immutable"" table property.An immutable table is protected against accidental updates due to a script loading data into it being run multiple times by mistake.","<datum, Datanode, DATA, datanode, Datanodes, datanodes>, <table property, table propertie, table properties, Table Properties, table Properties>, <immutable table>","Loading data, BY, Table property, TO, behavior of insert overwrite, immutable table, table property, IT","immutable table,table property"
+Getter for the name of the table being insert into.,"<Tablename, TABLE, table, tablename>","INSERT into, NAME, getter, TABLE","table,"
+The following setting enables this behavior.,,"BEHAVIOR, following setting",
+Defaults to 30 mins.,,TO,
+This method may be used to iterate over the constants as follows: for (ExplainConfiguration.VectorizationDetailLevel c : ExplainConfiguration.VectorizationDetailLevel.values()) System.out.println(c);.,,"TO, AS, explainconfiguration",
+If an insert causes a partition to be added it will cause MetaStoreEventListener.onAddPartition(org.apache.hadoop.hive.metastore.events.AddPartitionEvent) to be called instead.,,"PARTITION, TO, IT, IF, INSERT","partition,"
+"If the app requested a queue name starting or ending with period, i.e.","<Queue name, queue name>, <appID, app, appid, Apps, apps>","APP, OR, Queue name, queue name, app, IF",queue name
+Users can pass {{CreateFlag.APPEND}} and {{CreateFlag.NEW_BLOCK}} to the {{append}} API to indicate this requirement.,"<and, ANDs>","AND, TO, api, API, createflag, and, APPEND",
+This is an EXPENSIVE clone.,,EXPENSIVE clone,
+This should not be used by any clients.,,BY,
+__CODE__ Thrift API and Filter Language.,"<and, ANDs>","CODE, filter language, Thrift api, Filter language","Thrift API,Filter Language,"
+This class is responsible to manage all the replication sources.,"<Replication source, replication sources, replication source>","TO, REPLICATION, ALL","replication source,"
+Below is the elements of a single event object.,,single event object,
+"Moreover, unless fairness or capacity constraints are violated, containers are guaranteed to run to completion without being preempted.",,"TO, GUARANTEED, OR",containers
+See Backup Sets for more information about peforming operations on collections of tables.,,"ON, SETS, INFORMATION, TABLES",
+"By setting this configure, logs can be uploaded periodically when the application is running.",,"APPLICATION, RUNNING, BY, WHEN",
+At the end of the restore operation this snapshot will be deleted.,,"SNAPSHOT, Restore operation, END, restore operation","restore operation,snapshot,"
+Users can specifies a new topology by setting this parameter.,,new topology,
+Create an FSDataOutputStream at the specified path.,,"CREATE, specified path, fsdataoutputstream",
+Action after disabling table.,"<disabled table, disabling table>","ACTION, TABLE","table,"
+"By default, when this property is not set, we use the ACLs from yarn.resourcemanager.zk-acl for shared admin access and rm-address:random-number for username-based exclusive create-delete access.","<and, ANDs>, <admins, admin, Admins, ADMIN, Admin>, <acls, Acl, Acls, ACL, ACLS, ACLs, acl>","acls, BY, username - based exclusive create - delete access, SET, WHEN, random - number, USE, shared admin access, rm - address, ACLS","ACL,shared admin access,"
+Clients should retry upon receiving it.,,IT,"client,"
+An asynchronous implementation of FSWAL.,,asynchronous implementation of fswal,"FSWAL,"
+xpath_string returns a string.,,STRING,
+Parse command line options.,,Command Line options,
+"<property> <name>fs.azure.daemon.userlist</name> <value>user1,user2</value> </property> <property> <name>fs.azure.chmod.allowed.userlist</name> <value>userA,userB</value> Caching of both SAS keys and Authorization responses can be enabled using the following setting: The cache settings are applicable only when fs.azure.authorization is enabled.","<and, ANDs>","USING, ONLY, AND, usera, SAS, CACHE, and, following setting, NAME, VALUE","SAS key,authorization response,"
+"It is also possible to grant multiple permissions against the same resource in a single statement, as in this example.",,"single statement, AS, IT, TO","permission,node,"
+"Given a partition iterator, calculate the function value.",,"function value, partition iterator", partition iterator
+"This is an incompatible change for the 3.0 release line, as 3.0.0-alpha1 and 3.0.0-alpha2 depended on Netty 4.1.0.Beta5.","<and, ANDs>, <netty, Netty>","ON, incompatible change, AND, AS, and, Incompatible change",
+Get outstanding ContainerRequests matching the given parameters.,,"GET, containerrequests",
+Set the optional ID corresponding to this allocation request.,<allocation request>,"optional id, TO, allocation request, SET","allocation request,"
+Describes an ACID table that can receive mutation events.,"<ACID table, acid table>","ACID table, EVENTS, Acid table","ACID table,events"
+This is needed because Oracle JDBC drivers do not support generic LIMIT and OFFSET escape functions.,"<and, ANDs>","SUPPORT, Oracle jdbc, OFFSET, FUNCTIONS, LIMIT","Oracle JDBC drivers,"
+"Instead of removing ReduceSink operators from the plan, they will be tagged, and then the execution plan compiler might take action, e.g., on Tez, ReduceSink operators that just need to forward data will be translated into a ONE-TO-ONE edge.","<tez, Tez, TEZ>, <datum, Datanode, DATA, datanode, Datanodes, datanodes>, <and, ANDs>","ACTION, ON, PLAN, ReduceSink operators, ONE - TO - ONE edge, AND, TO, execution plan compiler, DATA, and, INTO","Tez,ONE-TO-ONE edge,execution plan compiler,ReduceSink operators"
+"Unlike dfs.datanode.drop.cache.behind.writes, this is a client-side setting rather than a setting for the entire datanode.","<datum, Datanode, DATA, datanode, Datanodes, datanodes>","entire datanode, client - side setting","datanode,"
+"There was general consensus that when it works, Arc/Phabricator is an improvement on ReviewBoard.",,"phabricator, ON, WHEN, general consensus",
+Reference Guide when it is rebuilt.,,"Reference guide, IT, reference guide",
+"Go to start of metadata Meeting date: Sept 13, 2010.",,"TO, metadata Meeting date",
+All metrics names start with capitals.,"<metric name, metrics names, metric names, metrics name, Metrics names>",ALL,
+"As seen from the normalization plan, since the larger region is more than twice the average region size it ends being split into two regions ?one with start key as '1' and end key as '154717' and the other region with start key as '154717' and end key as '3'.","<and, ANDs>, <start key, start keys>","twice the average region size, AND, ONE, other, AS, start key, larger region, and, SPLIT, KEY, normalization plan, REGIONS","region,"

@@ -1,0 +1,2306 @@
+[
+    {
+        "start_concept": "cluster directory",
+        "end_concept": "live cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "log replication",
+        "end_concept": "log roll",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "AES",
+        "end_concept": "PAM",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Thrift directory",
+        "end_concept": "shared directory",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "particular prefix",
+        "end_concept": "binary prefix",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "distributed cluster",
+        "end_concept": "actual cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "RDL",
+        "end_concept": "PUT request",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "connection configuration",
+        "end_concept": "connection creation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "given types",
+        "end_concept": "given info",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "service calls",
+        "end_concept": "service invocation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "area directory",
+        "end_concept": "Snapshottable Directory",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "partition filter",
+        "end_concept": "partition value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data world",
+        "end_concept": "data backup",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "storage nodes",
+        "end_concept": "storage systems",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "storage directories",
+        "end_concept": "storage capacity",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "INDEX",
+        "end_concept": "index path",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "schema creation",
+        "end_concept": "row schema",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "QL",
+        "end_concept": "row level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Data capture",
+        "end_concept": "data replication",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Driver code",
+        "end_concept": "common code",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "table refers",
+        "end_concept": "table created",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "source level",
+        "end_concept": "source tables",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "fixed row",
+        "end_concept": "row level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "read type",
+        "end_concept": "read queues",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "index search",
+        "end_concept": "AVG",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "key area",
+        "end_concept": "complete key",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "High availability",
+        "end_concept": "s3a",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Retry caller",
+        "end_concept": "retry attempt",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "JDBM",
+        "end_concept": "ROLLUP",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "service store",
+        "end_concept": "database store",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "column metadata",
+        "end_concept": "ACID",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "real cluster",
+        "end_concept": "actual cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "encryption scheme",
+        "end_concept": "encryption zone",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "transformed row",
+        "end_concept": "row level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "key deletion",
+        "end_concept": "join key",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "metrics record",
+        "end_concept": "record reader",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "DynamoDB",
+        "end_concept": "s3",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "QL",
+        "end_concept": "PTF",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "checksum error",
+        "end_concept": "checksum files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hadoop",
+        "end_concept": "txn",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "web response",
+        "end_concept": "Cluster Web",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "record writer",
+        "end_concept": "input split",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "asf",
+        "end_concept": "dist",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Tablename",
+        "end_concept": "Table instances",
+        "relation": "HAS_A",
+        "correct": false
+    },
+    {
+        "start_concept": "article code",
+        "end_concept": "ngrams",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "single constant",
+        "end_concept": "single compaction",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "service invocation",
+        "end_concept": "RPC",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "write key",
+        "end_concept": "binary key",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "cache entry",
+        "end_concept": "Cache size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "accumulo",
+        "end_concept": "AVRO",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "column order",
+        "end_concept": "input columns",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Task Counters",
+        "end_concept": "delegation token secret manager",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "end keys",
+        "end_concept": "skewed keys",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "specified nodes",
+        "end_concept": "specified metric",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "regular time",
+        "end_concept": "expiry time",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Queue name",
+        "end_concept": "context name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "encryption algorithm",
+        "end_concept": "encryption scheme",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "output table",
+        "end_concept": "table level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data replicated",
+        "end_concept": "data replication",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "vertex name",
+        "end_concept": "snapshot name",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "disk writes",
+        "end_concept": "disk reads",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "read path",
+        "end_concept": "read queues",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Local Reads",
+        "end_concept": "disk reads",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "udf",
+        "end_concept": "PTF",
+        "relation": "HAS_A",
+        "correct": false
+    },
+    {
+        "start_concept": "eviction time",
+        "end_concept": "script time",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hadoop",
+        "end_concept": "REST",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "PUT",
+        "end_concept": "Variable Substitution",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "length Key",
+        "end_concept": "key part",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "fact table",
+        "end_concept": "Small table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "nameservice",
+        "end_concept": "appId",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "ltt",
+        "end_concept": "Eclipse files",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "data local",
+        "end_concept": "LOCAL",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "commit message",
+        "end_concept": "repos",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "cluster specified",
+        "end_concept": "insecure cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hadoop",
+        "end_concept": "table permission",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Group information",
+        "end_concept": "groups list",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "read queues",
+        "end_concept": "call queue",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Truncate Table",
+        "end_concept": "Table table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "creating cells",
+        "end_concept": "given cell",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hftp",
+        "end_concept": "host files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Thrift service",
+        "end_concept": "Thrift metastore",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "flush cache",
+        "end_concept": "local cache",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "denormalized",
+        "end_concept": "Write records",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "statistic entries",
+        "end_concept": "index entries",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "memory restrictions",
+        "end_concept": "AVG",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "threshold level",
+        "end_concept": "operation level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "script time",
+        "end_concept": "time checks",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Resource capability",
+        "end_concept": "maximum resource",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "DML",
+        "end_concept": "ACID",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "dryrun",
+        "end_concept": "Variable Substitution",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "retry accounting",
+        "end_concept": "Retry policy",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "secure clusters",
+        "end_concept": "yarn cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Table Cardinality",
+        "end_concept": "Table Sample",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "accumulo",
+        "end_concept": "column mapping",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "extant files",
+        "end_concept": "sequence file",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "boot time",
+        "end_concept": "quite time",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "short requests",
+        "end_concept": "Short Circuit",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Latency metrics",
+        "end_concept": "Metrics system",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "directory number",
+        "end_concept": "aggregated number",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "bytes apiece",
+        "end_concept": "byte follows",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "given state",
+        "end_concept": "given Table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "columns values",
+        "end_concept": "partition value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "discrete value",
+        "end_concept": "interval value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "row matches",
+        "end_concept": "every row",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Table directory",
+        "end_concept": "table named",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Table Function",
+        "end_concept": "full table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Data consumer",
+        "end_concept": "data lives",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "short version",
+        "end_concept": "service version",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "integer counter",
+        "end_concept": "counter name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "meta store",
+        "end_concept": "Metadata Store",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "tsv",
+        "end_concept": "orc",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "ssh",
+        "end_concept": "kinit",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "error bounds",
+        "end_concept": "error token",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "single computation",
+        "end_concept": "single patch",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Active Directory",
+        "end_concept": "scratch directory",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "key format",
+        "end_concept": "next key",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "maximal number",
+        "end_concept": "bucket number",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "data twice",
+        "end_concept": "data upon",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compacted files",
+        "end_concept": "checks files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "DAO",
+        "end_concept": "key provider",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hadoop",
+        "end_concept": "NDV",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "maximum delay",
+        "end_concept": "maximum resource",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "LOCAL",
+        "end_concept": "Local memory",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "load information",
+        "end_concept": "lock info",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "compressed value",
+        "end_concept": "compressed format",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Tablename",
+        "end_concept": "Table metadata",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "specfied",
+        "end_concept": "vector length",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "External table",
+        "end_concept": "Tablename",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "capacity numbers",
+        "end_concept": "customer number",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "skewed table",
+        "end_concept": "Tablename",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "JPOX",
+        "end_concept": "ORM",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Access restriction",
+        "end_concept": "Data Access",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "confidence level",
+        "end_concept": "global level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "output paths",
+        "end_concept": "output location",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "error rate",
+        "end_concept": "error due",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "discrete value",
+        "end_concept": "Defalt value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "precision number",
+        "end_concept": "threshold number",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "mountd",
+        "end_concept": "nfsd",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "hfiles",
+        "end_concept": "datafile",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "length Key",
+        "end_concept": "key matches",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "source state",
+        "end_concept": "RUNNING state",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "resource size",
+        "end_concept": "Resource capability",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "side properties",
+        "end_concept": "side call",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "hbase",
+        "end_concept": "replication peers",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Key Version",
+        "end_concept": "encryption key",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "approximate count",
+        "end_concept": "counts row",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "jsvc",
+        "end_concept": "ulimit",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "libtool",
+        "end_concept": "desired size",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "master cluster",
+        "end_concept": "peer cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "given permissions",
+        "end_concept": "given database",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compares size",
+        "end_concept": "byte size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "initialize time",
+        "end_concept": "Time ranges",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Maximum bandwidth",
+        "end_concept": "maximum percentage",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "local branch",
+        "end_concept": "dedicated directory",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "QL",
+        "end_concept": "filesink",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Palo",
+        "end_concept": "Lipcon",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "block keys",
+        "end_concept": "key part",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "cluster identifier",
+        "end_concept": "cluster status",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "export table",
+        "end_concept": "External table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data per",
+        "end_concept": "data discovery",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "store sizes",
+        "end_concept": "input size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "rows list",
+        "end_concept": "LIST",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "create call",
+        "end_concept": "table called",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Table Discovery",
+        "end_concept": "Table table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "CREATE TABLE",
+        "end_concept": "whole table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Tablename",
+        "end_concept": "table file",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "system access",
+        "end_concept": "secure access",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "key per",
+        "end_concept": "partition keys",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "large code",
+        "end_concept": "start code",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "snapshot size",
+        "end_concept": "result size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "result size",
+        "end_concept": "Split size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "source tables",
+        "end_concept": "Tablename",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "metastore key",
+        "end_concept": "start key",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "snapshot directory",
+        "end_concept": "Snapshottable Directory",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Adl",
+        "end_concept": "ipc",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Timeframes",
+        "end_concept": "Scan requests",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "binary tree",
+        "end_concept": "binary key",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "jobid",
+        "end_concept": "input scan",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "moving files",
+        "end_concept": "referenced files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "denormalized",
+        "end_concept": "encryption type",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "http address",
+        "end_concept": "ARN",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "TTLs",
+        "end_concept": "max versions",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "cluster state",
+        "end_concept": "slave cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "smaller level",
+        "end_concept": "dependent table",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "serialized key",
+        "end_concept": "key series",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "hbase",
+        "end_concept": "metrics source",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "step number",
+        "end_concept": "max number",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "key format",
+        "end_concept": "key part",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "access call",
+        "end_concept": "access special",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "output descriptor",
+        "end_concept": "output table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "xattr",
+        "end_concept": "trash directory",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "statistic entries",
+        "end_concept": "cache entry",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "BFS",
+        "end_concept": "time dimension",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "reduced table",
+        "end_concept": "dependent table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "exec call",
+        "end_concept": "create call",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "index entries",
+        "end_concept": "entry size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "table regardless",
+        "end_concept": "table integrity",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "threshold time",
+        "end_concept": "Average Time",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Storage information",
+        "end_concept": "table information",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "filter name",
+        "end_concept": "filter list",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "checksum error",
+        "end_concept": "execution error",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "config",
+        "end_concept": "Variable Substitution",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "insecure cluster",
+        "end_concept": "ACTIVE cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "PPID",
+        "end_concept": "yz",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "count threshold",
+        "end_concept": "bytes count",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "memory caching",
+        "end_concept": "memory per",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Request size",
+        "end_concept": "Split size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "storage based",
+        "end_concept": "storage unit",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "shortcircuit",
+        "end_concept": "delta files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "instant name",
+        "end_concept": "flow name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "rootdir",
+        "end_concept": "Table Properties",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Metastore filter",
+        "end_concept": "authentication filter",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "comparer",
+        "end_concept": "common code",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "local disk",
+        "end_concept": "delta files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "RTRIM",
+        "end_concept": "perf",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "failure types",
+        "end_concept": "table types",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "next key",
+        "end_concept": "start key",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Restore table",
+        "end_concept": "Tablename",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "replication rate",
+        "end_concept": "defalt",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "replication number",
+        "end_concept": "max number",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "key element",
+        "end_concept": "key matches",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Split size",
+        "end_concept": "input split",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "maximum download",
+        "end_concept": "maximum versions",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "regular number",
+        "end_concept": "customer number",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "online table",
+        "end_concept": "table exists",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Tablename",
+        "end_concept": "TABLE ARCHIVE",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "delta directory",
+        "end_concept": "storage directories",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Data Nucleus",
+        "end_concept": "Data Encryption",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Heartbeat interval",
+        "end_concept": "interval value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "ulimit",
+        "end_concept": "commandline",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "high code",
+        "end_concept": "Reusable code",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "aggregate length",
+        "end_concept": "vector length",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "metrics tag",
+        "end_concept": "metrics registry",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compaction request",
+        "end_concept": "PUT request",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "STRING column",
+        "end_concept": "input columns",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "gang size",
+        "end_concept": "response size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "table source",
+        "end_concept": "source length",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Data capture",
+        "end_concept": "data backup",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Heartbeat interval",
+        "end_concept": "flush interval",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "metrics related",
+        "end_concept": "Latency metrics",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Tablename",
+        "end_concept": "table integrity",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "heap bytes",
+        "end_concept": "byte size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "catalog table",
+        "end_concept": "Tablename",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "Hive Metastore",
+        "end_concept": "Tablename",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "column vector",
+        "end_concept": "input columns",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "filesink",
+        "end_concept": "SMB",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "partition number",
+        "end_concept": "partition value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "ldd",
+        "end_concept": "isql",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Metrics implementation",
+        "end_concept": "metrics registry",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "CORS",
+        "end_concept": "CSRF",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Maximum byte",
+        "end_concept": "heap bytes",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "range request",
+        "end_concept": "PUT request",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "sorted array",
+        "end_concept": "yz",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "rsgroup",
+        "end_concept": "regionserver",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "flush interval",
+        "end_concept": "interval value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data lives",
+        "end_concept": "row level",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "metric info",
+        "end_concept": "Cluster Information",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Table Sample",
+        "end_concept": "Acid table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "YARN code",
+        "end_concept": "common code",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "input records",
+        "end_concept": "input split",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "compaction state",
+        "end_concept": "snapshot state",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "DECIMAL type",
+        "end_concept": "reporter type",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Web link",
+        "end_concept": "web filters",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "defined name",
+        "end_concept": "internal name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data encryption key",
+        "end_concept": "encryption algorithm",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "metastore key",
+        "end_concept": "master keys",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "slow cluster",
+        "end_concept": "ACTIVE cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "symmetric key",
+        "end_concept": "key prefix",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "enddate",
+        "end_concept": "key part",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "DataNode",
+        "end_concept": "data generator",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "service entry",
+        "end_concept": "binary service",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Type requested",
+        "end_concept": "Execution Types",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Index code",
+        "end_concept": "index entries",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "output trace",
+        "end_concept": "output duration",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "SMB",
+        "end_concept": "vectorized",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "filter list",
+        "end_concept": "rr",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "capacity cluster",
+        "end_concept": "cluster resources",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "MongoDB",
+        "end_concept": "ssd",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "checkpoint files",
+        "end_concept": "time errors",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "warn level",
+        "end_concept": "table level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hash aggregation",
+        "end_concept": "hash key",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Throttle Type",
+        "end_concept": "read type",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "ACID",
+        "end_concept": "row level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "uncompressed format",
+        "end_concept": "compressed format",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "worker node",
+        "end_concept": "remote cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Unspecified values",
+        "end_concept": "dead values",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "trichotomous value",
+        "end_concept": "Defalt value",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "checks size",
+        "end_concept": "index size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "given label",
+        "end_concept": "access cells",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "peer cluster",
+        "end_concept": "ACTIVE cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "snapshot directory",
+        "end_concept": "directory quota",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "input topology",
+        "end_concept": "input split",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "completed order",
+        "end_concept": "deterministic order",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "long constant",
+        "end_concept": "long comparison",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "cell bytes",
+        "end_concept": "given cell",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "max number",
+        "end_concept": "item number",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hadoop",
+        "end_concept": "quota state",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "access cells",
+        "end_concept": "Scan requests",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "LOCAL DIRECTORY",
+        "end_concept": "local disk",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "live cluster",
+        "end_concept": "slave cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "port search",
+        "end_concept": "index search",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "table basis",
+        "end_concept": "Single Table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "SCP",
+        "end_concept": "slave cluster",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "memory requirement",
+        "end_concept": "memory pressure",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "specified master",
+        "end_concept": "master instance",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "secure access",
+        "end_concept": "secure registries",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "BYTES",
+        "end_concept": "byte per",
+        "relation": "HAS_A",
+        "correct": false
+    },
+    {
+        "start_concept": "History file",
+        "end_concept": "delta files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "single transaction",
+        "end_concept": "single split",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Load Generator",
+        "end_concept": "Policy Generator",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "fetch table",
+        "end_concept": "Tablename",
+        "relation": "IS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "data upon",
+        "end_concept": "data backup",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "byte per",
+        "end_concept": "byte size",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "provided bytes",
+        "end_concept": "heap bytes",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "specified root",
+        "end_concept": "root location",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "LOCAL",
+        "end_concept": "local size",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "table snapshot",
+        "end_concept": "Table directory",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Datastore",
+        "end_concept": "ddl",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "vtable",
+        "end_concept": "host2",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Simple time",
+        "end_concept": "acceptance time",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "memory compaction",
+        "end_concept": "memory dedicated",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "reduced table",
+        "end_concept": "table created",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "access levels",
+        "end_concept": "snapshot level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data decompression",
+        "end_concept": "data replication",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data sampled",
+        "end_concept": "data compaction",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "large code",
+        "end_concept": "common code",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "data scanned",
+        "end_concept": "data discovery",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "parametrized",
+        "end_concept": "udf",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "Resource reserved",
+        "end_concept": "Resource Allocation",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "ddl",
+        "end_concept": "Variable Substitution",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "home path",
+        "end_concept": "output paths",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "hbase",
+        "end_concept": "ipc",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "grouping columns",
+        "end_concept": "output column",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "traffic control",
+        "end_concept": "ultimate control",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "ultimate control",
+        "end_concept": "access levels",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Acid table",
+        "end_concept": "Tablename",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "hex format",
+        "end_concept": "format table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Added time",
+        "end_concept": "time dimension",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "elasped time",
+        "end_concept": "earliest time",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "catalog table",
+        "end_concept": "skewed table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Anonymizer",
+        "end_concept": "input files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Hadoop",
+        "end_concept": "call queue",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "encryption information",
+        "end_concept": "table information",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "store counts",
+        "end_concept": "meta store",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "reported values",
+        "end_concept": "dead values",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "queue order",
+        "end_concept": "replication queue",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "JSP",
+        "end_concept": "auth",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "client scanner",
+        "end_concept": "client service",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "counts row",
+        "end_concept": "actual row",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "DataNode",
+        "end_concept": "Data consumer",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "hbase",
+        "end_concept": "cluster status",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "shared directory",
+        "end_concept": "trash directory",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "timedout",
+        "end_concept": "cron",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "maximum count",
+        "end_concept": "maximum resource",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "timer value",
+        "end_concept": "Defalt value",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "jiras",
+        "end_concept": "dev",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "table basis",
+        "end_concept": "per table",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "antlr",
+        "end_concept": "resolvers",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "POM file",
+        "end_concept": "explicit files",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "global level",
+        "end_concept": "expert level",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "good number",
+        "end_concept": "configurable number",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "output compressed",
+        "end_concept": "output recovery",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "total memory",
+        "end_concept": "memory pressure",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "DataNode",
+        "end_concept": "data local",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "table specified",
+        "end_concept": "Table table",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "local copies",
+        "end_concept": "copy file",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "output fields",
+        "end_concept": "output key",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "LOCAL",
+        "end_concept": "local blocks",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "data resiliency",
+        "end_concept": "data discovery",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Minimum period",
+        "end_concept": "flush period",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "parse code",
+        "end_concept": "YARN code",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Common Table",
+        "end_concept": "CREATE TABLE",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "filter cells",
+        "end_concept": "Scan filter",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "classpath",
+        "end_concept": "Log4J",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "data reliability",
+        "end_concept": "data backup",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "HTTP Operations",
+        "end_concept": "http address",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Tablename",
+        "end_concept": "table normalization",
+        "relation": "HAS_A",
+        "correct": true
+    },
+    {
+        "start_concept": "disk writes",
+        "end_concept": "Disk usage",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "Recursive version",
+        "end_concept": "max versions",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "internal name",
+        "end_concept": "counter name",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "max sequence",
+        "end_concept": "max versions",
+        "relation": "RELATED_TO",
+        "correct": false
+    },
+    {
+        "start_concept": "partition filter",
+        "end_concept": "partition keys",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "bytes referred",
+        "end_concept": "underlying byte",
+        "relation": "RELATED_TO",
+        "correct": true
+    },
+    {
+        "start_concept": "machine level",
+        "end_concept": "global level",
+        "relation": "RELATED_TO",
+        "correct": true
+    }
+]

@@ -1,0 +1,2984 @@
+[
+    {
+        "concept": "gloo",
+        "explanation": [
+            "By default, both NCCL and Gloo backends will try to find the network interface to use for communication.",
+            "(Note that Gloo currently runs slower than NCCL for GPUs.).",
+            "Unfortunately Gloo (that uses Infiniband) and NCCL2 are not fork safe, and you will likely experience deadlocks if you don't change this setting.",
+            "gloo is good, but it cannot support gather and scatter in GPU, that 's why I chose cuda-aware MPI."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Keras model",
+        "explanation": [
+            "As user you just have to provide your model Keras models into DL4J.",
+            "Keras models are made by connecting configurable building blocks together, with few restrictions."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "sparse gradient",
+        "explanation": [
+            "A sparse gradient is represented by its indices, values and possibly empty or None shape."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "learning phase",
+        "explanation": [
+            "The learning phase flag is a bool tensor (0 = test, 1 = train) to be passed as input to any Keras function that uses a different behavior at train time and test time."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Bilinear interpolation",
+        "explanation": [
+            "Since only bilinear interpolation is currently supported, the last dimension of the warp tensor must be 2."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "space model",
+        "explanation": [
+            "Vector space models (VSMs) represent (embed) words in a continuous vector space where semantically similar words are mapped to nearby points ('are embedded nearby each other')."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "contracted dimensions",
+        "explanation": [
+            "The contracted dimensions of lhs and rhs must be of the same size."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "lstm",
+        "explanation": [
+            "Get LSTM forget gate bias initialization from Keras layer configuration.",
+            "Then LSTM layers are applied and the sum of the outputs of all LSTM steps is fed into a softmax layer to make a classification decision among the classes of drawings that we know.",
+            "Because of these long and short term dependencies, a LSTM is fitting for this task too.",
+            "Get whether LSTM layer should be unrolled (for truncated BPTT).",
+            "In addition, LSTM networks avoid vanishing and exploding gradients and are able to effectively capture long term dependencies due to its cell state, a feature not present in typical recurrent networks.",
+            "We suspect that a LSTM will be effective for this task, because of the temporal dependencies in the data.",
+            "We can use the hidden state to predict words in a language model, LSTM's in Pytorch\u00b6.",
+            "Although this name sounds scary, all the model is is a CRF but where an LSTM provides the features.",
+            "Does not support CuDNN (thus for GPUs, LSTM should be used in preference).",
+            "A LSTM is well suited for this type of problem due to the sequential nature of the data.",
+            "Note that other architectures (LSTM, etc) are usually more effective, especially for longer time series."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "True positive",
+        "explanation": [
+            "True positives: correctly rejected.",
+            "Get the true positives count for the specified output."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "constant memory",
+        "explanation": [
+            "PLEASE NOTE: CUDA constant memory is limited to 48KB per device."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "temporal dimension",
+        "explanation": [
+            "The input should be at least 3D, and the dimension of index one will be considered to be the temporal dimension."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Exponential distributions",
+        "explanation": [
+            "The Exponential distribution is parameterized by an event rate parameter.",
+            "Construct Vector Exponential distribution supported on a subset of R^k."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "tensor values",
+        "explanation": [
+            "Timestamp of when this tensor value was dumped.",
+            "Output slot index from which the tensor value was dumped."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "loss problem",
+        "explanation": [
+            "The problem I am facing right now is an exploding loss problem.",
+            "However, the exploding loss problem still cannot be alleviated."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "computed loss",
+        "explanation": [
+            "The computed loss is saved as a parameter of the module."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "row vector",
+        "explanation": [
+            "The sum matrix represents that row vector falling down the matrix from top to bottom, adding itself at each level."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "popular model",
+        "explanation": [
+            "And the most popular model used so far is Google News model."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "original shape",
+        "explanation": [
+            "More generally, the number of tensors is given by the product of the remaining dimensions, and the shape of the tensors is given by the size of the specified dimensions in the original shape."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "sigmoid transform",
+        "explanation": [
+            "This transform arises as an iterated sigmoid transform in a stick-breaking construction of the Dirichlet distribution: the first logit is transformed via sigmoid to the first probability and the probability of everything else, and then the process recurses."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training code",
+        "explanation": [
+            "The training workflow usually proceeds as follows: Prepare training code with a few components: a."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "max value",
+        "explanation": [
+            "Example: Max value of index is 150 and chars count is 3."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "partitioning strategy",
+        "explanation": [
+            "You can also specify a partitioner object to partition the primal weights during training (div partitioning strategy will be used)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "bound index",
+        "explanation": [
+            "On GPU, if an out of bound index is found, the index is ignored."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "features dimension",
+        "explanation": [
+            "Each example has 7 (pool2 height) * 7 (pool2 width) * 64 (pool2 channels) features, so we want the features dimension to have a value of 7 * 7 * 64 (3136 in total)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "scatter function",
+        "explanation": [
+            "Therefore, the scatter function should not be overly sensitive to reassociation."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Tensor operation",
+        "explanation": [
+            "Every Tensor operation creates at least a single Function node that connects to functions that created a Tensor and encodes its history."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training script",
+        "explanation": [
+            "The training script automatically separates the data set into these three categories, and the logging line above shows the accuracy of model when run on the validation set."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "update types",
+        "explanation": [
+            "Update types are for instantiating various kinds of update types."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "input section",
+        "explanation": [
+            "Notice, the how the inputs we set in the input section (nz, ngf, and nc) influence the generator architecture in code."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Spark distribution",
+        "explanation": [
+            "Note that Spark submit is a script that comes with a Spark distribution that users submit their job (in the form of a JAR file) to, in order to begin execution of their Spark job."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Deterministic mode",
+        "explanation": [
+            "Deterministic mode can have a performance impact, depending on your model."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "adaptive gradients",
+        "explanation": [
+            "Defines, if adaptive gradients should be created during vocabulary mastering.",
+            "This method defines whether adaptive gradients should be used or not.",
+            "This method defines if Adaptive Gradients should be used in calculations.",
+            "This method specifies, if adaptive gradients should be used during model training."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "resulting shape",
+        "explanation": [
+            "When two compatible arrays are encountered, the result shape has the maximum among the two inputs at every dimension index."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "model parameters",
+        "explanation": [
+            "The model parameters are updated with the gradients averaged across all model replicas.",
+            "The model parameters are learned through the model training process described later."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "similar operation",
+        "explanation": [
+            "A similar operation is defined for columns."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Spark Cluster",
+        "explanation": [
+            "We're using netmasks for cases when Spark cluster is run on top of hadoop, or any other environment which doesn't assume Spark IP addresses announced.",
+            "However, if the Spark cluster is configured such that one or more of the workers cannot access the internet (or specifically, the NTP server), all retries can fail."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "next order",
+        "explanation": [
+            "Our next order of business is to create a vocabulary and load query/response sentence pairs into memory."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Tensor Shapes",
+        "explanation": [
+            "During execution any unknown shape dimensions are determined dynamically, see Tensor Shapes for more details."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "CoOccurrence",
+        "explanation": [
+            "So, you'll have to spend WAY more time building model + cooccurrence statistics will be shifted due to the absense of sentence boundaries."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Pooling Layer",
+        "explanation": [
+            "Global pooling layer can also handle mask arrays when dealing with variable length inputs.",
+            "Pooling layer #2 takes conv2 as input, producing pool2 as output."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "self tensor",
+        "explanation": [
+            "For the purpose of indexing, the self tensor is treated as if it were a 1-D tensor.",
+            "self tensor and the given tensor must be broadcastable.",
+            "If source is a tensor, self tensor will share the same storage and have the same size and strides as source.",
+            "Fills self tensor with numbers sampled from the discrete uniform distribution over [from, to - 1]."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "F32",
+        "explanation": [
+            "A conversion such as T=s32 to U=f32 will perform a normalizing int-to-float Note: The precise float-to-int and visa-versa conversions are currently unspecified, but may become additional arguments to the convert operation in the future."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "kl divergence",
+        "explanation": [
+            "KL divergence is a useful distance measure for continuous distributions and is often useful when performing direct regression over the space of (discretely sampled) continuous output distributions.",
+            "The KL divergence, found in the variational autoencoder loss, is an example."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "reparameterized sample",
+        "explanation": [
+            "The reparameterized sample therefore becomes differentiable."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Poisson distribution",
+        "explanation": [
+            "The poisson distribution is defined over the integers."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "unk",
+        "explanation": [
+            "Specifies, if UNK word should be used instead of words that are absent in vocab.",
+            "This method allows you to specify, if UNK word should be used internally."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "metric functions",
+        "explanation": [
+            "If None, the default metric functions are used; if {}, no metrics are used."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Negative parameters",
+        "explanation": [
+            "Negative parameters will be replaced with 0."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "L2 Loss",
+        "explanation": [
+            "L2 loss function where each the output is (optionally) weighted/scaled by a flags scalar value."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "L1 loss",
+        "explanation": [
+            "L1 loss function where each the output is (optionally) weighted/scaled by a flags scalar value."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "resulting variable",
+        "explanation": [
+            "The resulting variable can be used for example for evaluating functions at all locations on a grid."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "single gpu",
+        "explanation": [
+            "Applicability: nd4j-cuda-xx, when multiple backends are on classpath Usage: A fallback for determining the local IP the parameter server, if other approaches fail to determine the Description: If set, only a single GPU will be used by ND4J, even if multiple GPUs are available in the system."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Android device",
+        "explanation": [
+            "If it does, move all files to one or the other as some Android devices will have problems with both present."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "gradient norm",
+        "explanation": [
+            "Exploding gradients are problematic as they can 'mess up' the parameters of your network In the case of recurrent neural networks, adding some gradient normalization or gradient clipping may help."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "learning behavior",
+        "explanation": [
+            "This would make the learning behavior erratic, slow down the learning, and may not even lead to a usable result."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "nested parameter",
+        "explanation": [
+            "Note that leaf parameters are parameters that do not have any nested parameter spaces."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "output vector",
+        "explanation": [
+            "The hidden state vector is then passed to the next time step, while the output vector is recorded."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Blas",
+        "explanation": [
+            "Blas buffer util for interopping with the underlying buffers and the given ndarrays."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "linear network",
+        "explanation": [
+            "Also they mention why a linear network won't be able to learn the representation."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Categorical column",
+        "explanation": [
+            "Each column is plotted separately; only numerical and categorical columns are plotted.",
+            "Indicator columns and embedding columns never work on features directly, but instead take categorical columns as input."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "step counter",
+        "explanation": [
+            "A step counter might fall into this category."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "shape value",
+        "explanation": [
+            "Its first shape value is N, the minibatch size."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Final batch",
+        "explanation": [
+            "If True, allow the final batch to be smaller if there are insufficient items left in the queue."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "adagrad",
+        "explanation": [
+            "Momentum and Adagrad use variables to accumulate updates.",
+            "Adagrad keeps a history of gradients being passed in."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "static Shape",
+        "explanation": [
+            "If None (default), static shape information for batch sizes is omitted."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "minlength",
+        "explanation": [
+            "If minlength is specified, the number of bins is at least minlength and if input is empty, then the result is tensor of size minlength filled with zeros."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "matrix multiplication",
+        "explanation": [
+            "Loosely speaking, matrix multiplication is equal to the action of a Fourier multiplier: A u = IDFT3[ H DFT3[u] ]."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "True negatives",
+        "explanation": [
+            "Get the true negatives count for the specified output."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "labels arrays",
+        "explanation": [
+            "param labels Each triple in the list specifies the shape, array order and type of values for the labels arrays."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "CBOW",
+        "explanation": [
+            "This is distinct from language modeling, since CBOW is not sequential and does not have to be probabilistic.",
+            "This inversion CBOW smoothes over a lot of the distributional information (by treating an entire context as one observation).",
+            "Typcially, CBOW is used to quickly train word embeddings, and these embeddings are used to initialize the embeddings of some more complicated model.",
+            "CBOW doesn't involve any pretraining.",
+            "The Continuous Bag-of-Words model (CBOW) is frequently used in NLP deep learning."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Shape tuple",
+        "explanation": [
+            "shape: Shape tuple, expected shape of the input (may include None for unchecked axes)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Model definition",
+        "explanation": [
+            "The model definition and a pre-trained model can be found here.",
+            "The model definition is in the pytorch/examples repository we cloned previously, and with a few lines of python we can export it to ONNX."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Created matrix",
+        "explanation": [
+            "Created matrix can be lower- or upper-triangular."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "ellipsis dimensions",
+        "explanation": [
+            "If the right hand side is inferred, the ellipsis dimensions are at the beginning of the output."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "evaluation metrics",
+        "explanation": [
+            "Similarly, evaluation metrics used for regression differ from classification.",
+            "Evaluation metrics are an essential part of training a model."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "triplet loss",
+        "explanation": [
+            "a triplet loss architecture is that a center loss layer stores its own parameters.",
+            "Center loss is similar to triplet loss except that it enforces intraclass consistency and doesn't require feed forward of multiple examples."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "backwards function",
+        "explanation": [
+            "The backward function receives the gradient of the output Tensors with respect to some scalar value, and computes the gradient of the input Tensors with respect to that same scalar value."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "GPU kernel",
+        "explanation": [
+            "One thing to note, even when the GPU kernel version of pad is used, it still needs its \"paddings\" input in CPU memory."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "outputs array",
+        "explanation": [
+            "Output array: Two input and one output arrays must have the same shape."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "model zoo",
+        "explanation": [
+            "The model zoo also includes pretrained weights for different datasets that are downloaded automatically and checked for integrity using a checksum mechanism.",
+            "The model zoo comes with well-known image recognition configurations in the deep learning community."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "laplace distribution",
+        "explanation": [
+            "Note that the Laplace distribution can be thought of two exponential distributions spliced together \"back-to-back.\"."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "inverse function",
+        "explanation": [
+            "From the bijective, nonzero differentiability of g, the inverse function theorem implies g^{-1} is differentiable in the image of g."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Gitter",
+        "explanation": [
+            "Gitter is where you can request help and give feedback, but please do use this guide before asking questions we've answered below."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Dense layers",
+        "explanation": [
+            "The first Dense layer has 128 nodes (or neurons).",
+            "Masks should not be applied in all cases, depending on the network configuration - for example input Dense -> RNN The first dense layer should be masked (using the input mask) whereas the second shouldn't be, as it has valid data coming from the RNN layer below.",
+            "This allows different layers to handle masks differently - for example, bidirectional RNNs and normal RNNs operate differently with masks (the former sets activations to 0 outside of the data present region (and keeps the mask active for future layers like dense layers), whereas normal RNNs don't zero out the activations/errors )instead relying on backpropagated error arrays to handle the variable length case.",
+            "The final dense layer in a CNN contains a single node for each target class in the model (all the possible classes the model may predict), with a softmax activation function to generate a value between 0\u20131 for each node (the sum of all these softmax values is equal to 1)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "mat2",
+        "explanation": [
+            "If mat1 is a \\((n \\times m)\\) tensor, mat2 is a Note."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "model checkpoints",
+        "explanation": [
+            "If None, model checkpoints and summaries will not be written."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "entire matrix",
+        "explanation": [
+            "If less than or equal to 0, the entire matrix will be loaded into memory."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Models built",
+        "explanation": [
+            "Models built and ready to go!"
+        ],
+        "useful": false
+    },
+    {
+        "concept": "model works",
+        "explanation": [
+            "If i dont use this snippet then the model works in multi-gpu.",
+            "By keeping the validation set separate, you can ensure that the model works with data it's never seen before.",
+            "Let's get rid of these two assumptions, so our model works with any 2d single channel image."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "beam search",
+        "explanation": [
+            "For instance the beam search of a sequence to sequence model will typically be written in script but can call an encoder module generated using tracing.",
+            "For instance, a beam search in sequence-to-sequence translation is a loop over the (varying) sequence length of inputs."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "State dropout",
+        "explanation": [
+            "State dropout is performed on the outgoing states of the cell."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "hidden layers",
+        "explanation": [
+            "No hidden layer should be less than a quarter of the input layer's nodes.",
+            "Hidden layers can learn features from the input layer and it can send those features to be analyzed by our output layer to get the corresponding outputs.",
+            "In theory, this context vector (the final hidden layer of the RNN) will contain semantic information about the query sentence that is input to the bot."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "ETL",
+        "explanation": [
+            "This method defines, if ETL time per iteration should be reported together with other data.",
+            "In our dl4j-examples repo, we don't make the ETL asynchronous, because the point of examples is to keep them simple."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "jit",
+        "explanation": [
+            "JIT compilation can be turned on at the session level or manually for select operations.",
+            "JIT compilation for CPU operations must be done via the manual method documented below.",
+            "JIT compilation can also be turned on manually for one or more operators.",
+            "Once JIT has completed, code is likely to execute faster for all subsequent operations.",
+            "Currently JIT at the session level, which is what is used for the tutorial, only supports GPU.",
+            "Note: The name JIT for these components is a bit of a misnomer and comes from historical reasons."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "one weight",
+        "explanation": [
+            "Therefore, the model now can learn four individual weights rather than just one; four weights creates a richer model than one weight."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Layer name",
+        "explanation": [
+            "Layer name assigns layer string name."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "destination graph",
+        "explanation": [
+            "This handler transform a tensor into itself if the source and destination graph are the same."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Model prediction",
+        "explanation": [
+            "Compute model predictions given input data."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "moving average",
+        "explanation": [
+            "This makes moving averages move faster.",
+            "The moving averages are computed using exponential decay."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "TODO",
+        "explanation": [
+            "TODO: handle axes arguments that alter merge behavior (requires changes to DL4J?).",
+            "\"\"\" # TODO allow (loc,scale) parameterization to allow independent constraints."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Bernoulli trials",
+        "explanation": [
+            "A bernoulli trial is a mechanism for detecting the probability of a given event occurring k times in n independent trials."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "factor matrix",
+        "explanation": [
+            "A tensor: The row factor matrix is initialized to this tensor, A numpy constant, \"random\": The rows are initialized using a normal distribution."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "objective functions",
+        "explanation": [
+            "The objective function is the function that your network is being trained to minimize (in which case it is often called a loss function or cost function).",
+            "You'd like to record how the learning rate varies over time, and how the objective function is changing."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "distribution parameter",
+        "explanation": [
+            "Generates n samples or n batches of samples if the distribution parameters are batched.",
+            "When True distribution parameters are checked for validity despite possibly degrading runtime performance.",
+            "Distribution parameters are automatically broadcast in all functions; see examples for details."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Mean Squared Error",
+        "explanation": [
+            "Mean Squared Error loss function where each the output is (optionally) weighted/scaled by a flags scalar value.",
+            "Mean Squared Error (MSE) is a common loss function used for regression problems (different than classification problems)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "sentence labels",
+        "explanation": [
+            "Label template will be used for sentence labels generation."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "single transformation",
+        "explanation": [
+            "Each transform is length 8 (single transform) or shape (N, 8) (batched transforms)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "image mode",
+        "explanation": [
+            "The image is then converted back to original image mode."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "load operation",
+        "explanation": [
+            "The load operation The session in which to restore the graph definition and variables."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "recurrent neural network",
+        "explanation": [
+            "A recurrent neural network is a network that maintains some kind of state.",
+            "Recurrent neural networks (RNN's) are used when the input is sequential in nature.",
+            "A Recurrent Neural Network, or RNN, is a network that operates on a sequence and uses its own output as input for subsequent steps.",
+            "RNN layers in DL4J can be combined with other layer types.",
+            "Typically RNN's are much more effective than regular feed forward neural networks for sequential data because they can keep track of dependencies in the data over multiple time steps.",
+            "Recurrent Neural Networks are useful for processing time series data or other sequentially fed data like video.",
+            "This allows different layers to handle masks differently - for example, bidirectional RNNs and normal RNNs operate differently with masks (the former sets activations to 0 outside of the data present region (and keeps the mask active for future layers like dense layers), whereas normal RNNs don't zero out the activations/errors )instead relying on backpropagated error arrays to handle the variable length case.",
+            "An RNN learns a string of characters.",
+            "RNN's can also be applied to situations where the input is sequential but the output isn't.",
+            "One RNN acts as an encoder, which encodes a variable length input sequence to a fixed-length context vector."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "orange line",
+        "explanation": [
+            "The orange line represents training.",
+            "During training, summaries (the orange line) are recorded periodically as batches are processed, which is why it becomes a graph spanning x-axis range."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "subsequent layers",
+        "explanation": [
+            "If this is True then all subsequent layers in the model need to support masking or an exception will be raised."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "DDPG",
+        "explanation": [
+            "DDPG is a bit complicated to understand regarding the gradient update of the actor.",
+            "DDPG is a case of Deep Actor-Critic algorithm, so you have two gradients: one for the actor (the parameters leading to the action (mu)) and one for the critic (that estimates the value of a state-action (Q) \u2013 this is our case \u2013 , or sometimes the value of a state (V) ).",
+            "But DDPG is using sample batch."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training started",
+        "explanation": [
+            "When training started, the model did not know how to spell an English word, or that words were even a unit of text."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Vectorizer",
+        "explanation": [
+            "If mat is a \\((n \\times m)\\) tensor, vec is a 1-D tensor of size m, then tensor must be broadcastable with a 1-D tensor of size n and out will be 1-D tensor of size n.",
+            "If mat is a \\((n \\times m)\\) tensor, vec is a 1-D tensor of Note.",
+            "A Vectorizer at its essence takes an input source and converts it to a matrix for neural network consumption."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "dqn",
+        "explanation": [
+            "The DQN has several actions like translation and scaling."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "SVHN",
+        "explanation": [
+            "Note: The SVHN dataset assigns the label 10 to the digit 0."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "abs value",
+        "explanation": [
+            "Printing will switch to scientific notation on a per element basis - when abs value is greater than or equal to 10000 If the number of elements in the array is greater than 1000 (by default) only the first and last three elements in a dimension are included."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "True class",
+        "explanation": [
+            "If not provided, the true class distribution is estimated live in a streaming fashion.",
+            "That is, soft classes are not allowed, and the labels vector must provide a single specific index for the true class for each row of logits (each minibatch entry)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "units parameter",
+        "explanation": [
+            "Here's the relevant code: The units parameter defines the number of output neurons in a given layer.",
+            "Therefore, the full set of layers A logit output layer connected to the top hidden layer When defining an output layer, the units parameter specifies the number of outputs."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "network learnt",
+        "explanation": [
+            "Seems like the network learnt something."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "prespecified number",
+        "explanation": [
+            "The prespecified number of workers (in this case 2) will then train its own model using its data."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "shape invariant",
+        "explanation": [
+            "An error will be raised if the shape of a loop variable after an iteration is determined to be more general than or incompatible with its shape invariant."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "MNIST data",
+        "explanation": [
+            "Although the MNIST data isn't time series in nature, we can interpret it as such since there are 784 inputs.",
+            "MNIST data set iterator - 60000 training digits, 10000 test digits, 10 classes."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "cumulative distribution",
+        "explanation": [
+            "The probability mass function (pmf) and cumulative distribution function (cdf) are."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "column reduction",
+        "explanation": [
+            "A column reduction defines how a single column should be reduced."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "device memory",
+        "explanation": [
+            "Device memory will be used for cache (if current backend support such differentiation).",
+            "DEVICE memory will probably have the same size, but won't be accounted in this value."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "mixture probabilities",
+        "explanation": [
+            "A Mixture is defined by a Categorical (cat, representing the mixture probabilities) and a list of Distribution objects all having matching dtype, batch shape, event shape, and continuity properties (the components)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "batch matrix",
+        "explanation": [
+            "Examples: x is a batch matrix with compatible shape for matmul if."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "GPU operations",
+        "explanation": [
+            "GPU operations are called in an asynchronously way, so that they are not blocking your CPU.",
+            "By default, GPU operations are asynchronous."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "optimization results",
+        "explanation": [
+            "An optimization result represents the results of an optimization run, including the canditate configuration, the trained model, the score for that model, and index of the model."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Machine Learning",
+        "explanation": [
+            "While handwriting recognition has been attempted by different machine learning algorithms over the years, deep learning performs MNIST dataset.",
+            "If you are reading this, hopefully you can appreciate how effective some machine learning models are.",
+            "Many machine learning models are represented by composing layers.",
+            "Machine learning provides many algorithms to classify flowers statistically.",
+            "Machine learning techniques have a set of parameters that have to be chosen before any training can begin.",
+            "Some simple models can be described with a few lines of algebra, but complex machine learning models have a large number of parameters that are difficult to summarize.",
+            "When publishing research models and techniques, most machine learning practitioners share: code to create the model, and.",
+            "The reason you can't simply use your training data for evaluation is because machine learning methods are prone to overfitting (getting good at making predictions about the training set, but not performing well on larger datasets).",
+            "Overfitting is when a machine learning model performs worse on new data than on their training data.",
+            "Typical machine learning, of course, has one hidden layer, and those shallow nets are called Perceptrons.",
+            "Machine learning models, however, need to have changing state: as your model trains, the same code to compute predictions should behave differently over time (hopefully with a lower loss!)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Inception networks",
+        "explanation": [
+            "Because Inception networks are large, we will use the Deeplearning4j model zoo to help build our Zeppelin, make sure you add the deeplearning4j-zoo artifact to the Spark interpreter."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "adb",
+        "explanation": [
+            "NOTE: for Android development, adb shell is needed otherwise the following section of tutorial will not run."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "tensor along",
+        "explanation": [
+            "Tensor along dimension is a powerful technique, but can be a little hard to understand at first."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "output dimension",
+        "explanation": [
+            "Another way to think about this is that the output dimension equals the number of weights of the linear model; the larger this dimension, the larger the \"degrees of freedom\" of the model.",
+            "However, after a certain threshold, higher output dimensions increase the accuracy by very little, while making training take more time."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Visual Studio",
+        "explanation": [
+            "Visual Studio doesn't support parallel custom task currently."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "spatial dropout",
+        "explanation": [
+            "Spatial dropout: can only be applied to 4D (convolutional) activations."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "average sentence",
+        "explanation": [
+            "For many corpora, average sentence length is six words.",
+            "A:If average sentence contains 6 words, and window size is 5, maximum theoretical number of 10 skipgram rounds will be achieved on 0 words."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Trajectory clustering",
+        "explanation": [
+            "Trajectory clustering can be a difficult problem to solve when your data isn't quite \"even\"."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "baseline model",
+        "explanation": [
+            "Here's the impact of our L2 regularization penalty: As you can see, the L2 regularized model has become much more resistant to overfitting than the baseline model, even though both models have the same number of parameters."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training speed",
+        "explanation": [
+            "After I trained this model for a few hours, the average training speed for epoch 10 was slow down to 40s.",
+            "However, I noticed that the training speed gets slow down slowly at each batch and memory usage on GPU also increases.",
+            "Currently, the memory usage would not increase but the training speed still gets slower batch-batch."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "cost array",
+        "explanation": [
+            "Consequently, an array of all 1s (or, indeed any array of equal values) will result in the same performance as no cost array; non- Evaluation.",
+            "A cost array can be used to bias the multi class predictions towards or away from certain classes."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "vector operation",
+        "explanation": [
+            "Elementwise scalar multiplication looks like this: And produces this: Subtraction and division follow a similar pattern: If you perform all these operations on your initial 2 x 2 matrix, you should end up with this matrix: Elementwise vector operations."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "top elements",
+        "explanation": [
+            "The top element of the column vector combines with the top elements of each column in the matrix, and so forth.",
+            "The two top elements are then multiplied by each other, as are the bottom two, and the two products are added to consolidate in a single scalar."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "output type",
+        "explanation": [
+            "The op accepts, for example, input types (float, double, float) and in that case the output type would also be (float, double, float).",
+            "If the output type was qint8 ([-128, 127]), the operation will additionally subtract each value by 128 prior to casting, so that the range of values aligns with the range of qint8."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "decay function",
+        "explanation": [
+            "This function applies a cosine decay function to a provided initial learning rate."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "vgg11",
+        "explanation": [
+            "VGG11 performed best set at 1ms."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Korrine",
+        "explanation": [
+            "Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "learning rate",
+        "explanation": [
+            "Cycle schedule Starts at initial learning rate, then linearly increases learning rate until max learning rate is reached, at that point the learning rate is decreased back to initial learning rate.",
+            "If learning rate shrinks too much, the net's learning is no longer efficient.",
+            "There are infinite configurations of the learning rate and hidden layer size, since the learning rate space is continuous.",
+            "For eg, if a learning rate is specified this learning rate will apply to all unfrozen/trainable layers in the model.",
+            "If the score increases consistently, your learning rate is likely set too high.",
+            "Learning configs (like updaters, learning rate etc) specified with the layer here will be honored.",
+            "The learning rate is one of, if not the most important hyperparameter.",
+            "Also, the default learning rate is not optimal for all of the models, so to achieve maximum accuracy it would be necessary to tune for each model separately.",
+            "This callback monitors a quantity and if no improvement is seen for a 'patience' number of epochs, the learning rate is reduced.",
+            "Specify the preprocessor for the added layers Usage example: specify a learning rate will set specified learning rate on all layers The specified layer and the layers preceding it will be \"frozen\" with parameters staying constant.",
+            "Add layers to the net Usage example: specify a learning rate will set specified learning rate on all layers Note this will also affect the layer that follows the layer specified, unless it is the output layer.",
+            "The issues mentioned above (learning rate, normalization, data shuffling) may contribute to this.",
+            "If not set, the loss, the learning rate, and the global norm of the gradients will be reported.",
+            "Learning rate schedules can be specified either based on the number of iterations, or the number of epochs that have elapsed.",
+            "If the score is flat or decreases very slowly (over a few hundred iterations) (a) your learning rate may be too low, or (b) you might be having difficulties with optimization.",
+            "The Learning rate curve Looks something like this: +-----------------------------------------+ | XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XX | | XX XXX | | XXX | | XXX | | | +-----------------------------------------+."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Output Tensor",
+        "explanation": [
+            "The output tensor has shape.",
+            "Other output tensor can be duplicated as well.",
+            "When all the input tensors are finished, the output tensor is passed along in the graph.",
+            "Note that a tensor can be both an inside tensor and an output tensor if it is consumed by operations both outside and inside of ops.",
+            "The output tensor is 1-D of size steps.",
+            "All this output tensor knows is its data and shape.",
+            "For instance, some output tensor can be omitted.",
+            "Output tensor has one more dimension than input tensor, the first dimension indicates the partition.",
+            "Like the input, the resulting output tensors have a batch dimension.",
+            "The output tensors can also be remapped.",
+            "If keepdim is True, the output tensors are of the same size as input except in the dimension dim where they are of size 1.",
+            "Currently, only 4-D output tensors (batched image-like tensors) are supported.",
+            "keepdim (bool): whether the output tensors have :attr:`dim` retained or not.",
+            "If a directory is passed to --outdir option, the outputs will be saved as npy files named after output tensor keys under the given directory."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "distributed variable",
+        "explanation": [
+            "Indicates how a distributed variable will be aggregated."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "shift values",
+        "explanation": [
+            "Negative shift values will shift elements in the opposite direction."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "trailing dimension",
+        "explanation": [
+            "The input tensor must have at least 2 dimensions, and for tensors with more than 2 dimensions the trailing dimensions are flattened."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "output value",
+        "explanation": [
+            "if a decimal output value is required."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Cosine similarity",
+        "explanation": [
+            "Cosine similarity Note that you need to initialize a scaling constant equal to the norm2 of the vector."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "weight decay",
+        "explanation": [
+            "weight decay should not be used when learning \\(a\\) for good performance.",
+            "note:: weight decay should not be used when learning :math:`a` for good performance."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Label data",
+        "explanation": [
+            "The features dictionary maps feature column names to Tensors containing the corresponding feature data, and labels is a Tensor containing the batch's label data.",
+            "Label data will be converted to a one-hot representation automatically."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "total variation",
+        "explanation": [
+            "The total variation is the sum of the absolute differences for neighboring pixel-values in the input images."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "ML model",
+        "explanation": [
+            "So, although raw data can be numerical or categorical, an ML model represents all features as numbers.",
+            "ML models generally represent categorical values as simple vectors in which a 1 represents the presence of a value and a 0 represents the absence of a value."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "input examples",
+        "explanation": [
+            "Suppose our input examples consist of different words from a limited palette of only 81 words."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "TFGAN",
+        "explanation": [
+            "TFGAN is a lightweight library for training and evaluating GANs."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "mixture model",
+        "explanation": [
+            "The mixture model is defined by a Categorical distribution (the mixture) and a python list of Distribution objects."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "model replicas",
+        "explanation": [
+            "Naively employing asynchronous updates of model parameters leads to sub-optimal training performance because an individual model replica might be trained on a stale copy of the model parameters."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "post noise",
+        "explanation": [
+            "Consequently, the parameters (post noise) should be cleared after each training iteration."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "SQSS",
+        "explanation": [
+            "Internally, SQSS has a queue for the input examples."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "VSMs",
+        "explanation": [
+            "VSMs have a long, rich history in NLP, but all methods depend in some way or Distributional Hypothesis, which states that words that appear in the same contexts share semantic meaning.",
+            "Vector space models (VSMs) represent (embed) words in a continuous vector space where semantically similar words are mapped to nearby points ('are embedded nearby each other')."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Tensorflow",
+        "explanation": [
+            "My guess is that tensorflow may not cache the intermediate feature maps in the graphdef mode, but pytorch may do.",
+            "Once setup is completed, Tensorflow can interact with S3 in a variety of ways.",
+            "sets module: Tensorflow set operations.",
+            "You can specify a continuous feature like so: Although, as a single real number, a continuous feature can often be input directly into the model, Tensorflow offers useful transformations for this sort of column as well."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "svd",
+        "explanation": [
+            "SVD decomposiiton of a matrix The decomposition is such that: A = U x S x VT L will be the same dimensions as A.",
+            "Analogously, the SVD on GPU uses the MAGMA routine gesdd as well."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "resulting operation",
+        "explanation": [
+            "The resulting operation takes no inputs."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Prefetching",
+        "explanation": [
+            "The capacity argument controls the how long the prefetching is allowed to grow the queues."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "interval level",
+        "explanation": [
+            "alpha: Confidence interval level desired."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "control outputs",
+        "explanation": [
+            "None, control outputs are enabled."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "network trained",
+        "explanation": [
+            "The network will be trained similarly to the network trained tutorial 15.",
+            "Training statistics may include things like per-epoch run times, These statistics are primarily used for debugging and optimization, in order to gain some insight into what aspects of network training are taking the most time."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "tensor list",
+        "explanation": [
+            "Also, each tensor in the tensor list needs to reside on a different GPU.",
+            "Each Tensor in the passed tensor list needs to be on a separate GPU device of the host where the function is called.",
+            "Append to lists in loops (tensor list ops are automatically created): Nested control flow."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "dimension number",
+        "explanation": [
+            "By convention, dimensions are listed in increasing order of dimension number.",
+            "The lowest dimension number in dimensions is the slowest varying dimension (most major) in the loop nest which collapses these dimension, and the highest dimension number is fastest varying (most minor).",
+            "Example with contracting dimension numbers: Associated batch dimension numbers from the 'lhs' and 'rhs' must have the same dimension number, must be listed in the same order in both arrays, must have the same dimension sizes, and must be ordered before contracting and non-contracting/non-batch dimension numbers."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Input shape",
+        "explanation": [
+            "If input shapes have rank-R, then output shape will have rank-(R+1).",
+            "Note that for convolutional models, input shape information follows the NCHW convention."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "scatter operation",
+        "explanation": [
+            "I is Win + Sin where + is element-wise In summary, the scatter operation can be defined as follows."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "degree node",
+        "explanation": [
+            "A series of nodes can be ungrouped so that the nodes in the series do not Selection can also be helpful in understanding high-degree nodes."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "sequence model",
+        "explanation": [
+            "Sequence models are central to NLP: they are models where there is some sort of dependence through time between your Model for part-of-speech tagging.",
+            "The LSTM tagger above is typically sufficient for part-of-speech tagging, but a sequence model like the CRF is really essential for strong performance on NER."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "optimization algorithms",
+        "explanation": [
+            "The optimization algorithm is how updates are made, given the gradient."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "true rank",
+        "explanation": [
+            "The true rank of an array is the number of dimensions which have a size greater than 1."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "false positives",
+        "explanation": [
+            "Get the false positives count for the specified output."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Keras session",
+        "explanation": [
+            "If no global Keras session exists at this point: we will create a new global session."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "forward transformation",
+        "explanation": [
+            "The forward transformation creates samples, the inverse is useful for computing probabilities.",
+            "If X is a scalar then the forward transformation is: scale * X + shift where * denotes the scalar product."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Max operation",
+        "explanation": [
+            "This operation applies Max operation to specific inputs through given indices Expected arguments: input: array to be updated indices: array containing indexes for first dimension of input updates: array containing elements to be interfered with input."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "AUC",
+        "explanation": [
+            "By comparing these the AUC is generated, with some discretization error."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "feature indices",
+        "explanation": [
+            "The feature indices represented as a dense tensor."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "world data",
+        "explanation": [
+            "This data should have the same distribution as the real-world data you want to make predictions about with your model."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "sgv",
+        "explanation": [
+            "Note that sgv is modified in place."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "headed model",
+        "explanation": [
+            "In a multi-headed model, each head is represented by an entry in this dict.",
+            "Single-headed models only need to specify one entry in this dictionary."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "tensor length",
+        "explanation": [
+            "Suppose tensor length is n, there are d devices and g gather shards."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "layer types",
+        "explanation": [
+            "RNN layers in DL4J can be combined with other layer types."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "model file",
+        "explanation": [
+            "Checkpoint model file must exist."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "weight parameters",
+        "explanation": [
+            "Weight parameter keys given the layer configuration."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "running estimates",
+        "explanation": [
+            "The running estimates are Note."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Gradient Computation",
+        "explanation": [
+            "The gradient computation of this operation will only take advantage of sparsity in the input gradient when that gradient comes from a Relu.",
+            "If gradients are computed in that context, then the gradient computation is recorded as well.",
+            "Note: The gradient computation on GPU is faster for large matrices but not for large batch dimensions when the submatrices are small."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "loss score",
+        "explanation": [
+            "This error or loss score will eventually converge to a value close to zero."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "VL",
+        "explanation": [
+            "On the other hand, the validation loss will be identical whether we shuffle the validation set or not."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "loss reported",
+        "explanation": [
+            "loss: The loss reported."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "sgv1",
+        "explanation": [
+            "Note that sgv1 is modified in place."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Input Pipeline",
+        "explanation": [
+            "Determining if the input pipeline is the bottleneck can be complicated.",
+            "If the input pipeline is shared between training and validation, restoring the checkpoint during validation may override the validation input pipeline.",
+            "To make the image processing pipeline easier to explain, assume that the input pipeline is targeting 8 GPUs with a batch size of 256 (32 per GPU).",
+            "This hook saves the state of the iterators in the Graph so that when training is resumed the input pipeline continues from where it left off.",
+            "Before the model starts running all the stages, the input pipeline stages are warmed up to prime the staging buffers in between with one set of data.",
+            "If the difference in examples per second for the full model and the trivial model is minimal then the input pipeline is likely a bottleneck.",
+            "Example of checkpointing the training pipeline: This hook should be used if the input pipeline state needs to be saved separate from the model checkpoint.",
+            "If GPU utilization is not approaching 80-100%, then the input pipeline may be the bottleneck.",
+            "The input pipeline checkpoint may be large, if there are large shuffle or prefetch buffers for instance, and may bloat the checkpoint size."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Predictive models",
+        "explanation": [
+            "Predictive models directly try to predict a word from its neighbors in terms of learned small, dense embedding vectors (considered parameters of the model)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Passthrough",
+        "explanation": [
+            "Passthrough = feed forward the input mask (if/when necessary) but don't actually apply it."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "LFW",
+        "explanation": [
+            "Loads LFW faces data transform.",
+            "Thus, LFW images are scaled to 28 pixels x 28 pixels."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "GPU version",
+        "explanation": [
+            "The GPU version is still a bit slower than the CPU version, but not by much."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "cluster center",
+        "explanation": [
+            "However, the cluster centers may be retrieved by the latest checkpoint saved during training."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "repeat transformation",
+        "explanation": [
+            "If the repeat transformation is applied before the shuffle transformation, then the epoch boundaries are blurred."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "gradient operation",
+        "explanation": [
+            "A gradient op represents a jacobian operation."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "energies tensor",
+        "explanation": [
+            "This attention energies tensor is the same size as the encoder output, and the two are ultimately multiplied, resulting in a weighted tensor whose largest values represent the most important parts of the query sentence at a particular time-step of decoding."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "resulting dimensions",
+        "explanation": [
+            "The resulting dimensions are: (batch, sequence, embedding)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "autoencoder",
+        "explanation": [
+            "Autoencoders are neural networks for unsupervised learning.",
+            "The autoencoder here has been tuned to converge with an average reconstruction error of approximately 2% when trained for 35+ epochs.",
+            "In deep learning, an autoencoder is a neural network that \"attempts\" to reconstruct its input.",
+            "In practice, autoencoders are often applied to data denoising and dimensionality reduction.",
+            "This is because our seq2seq autoencoder uses multiple inputs/outputs.",
+            "Autoencoders are also useful for data visualization when the raw input data has high dimensionality and cannot easily be plotted.",
+            "MADE: Masked Autoencoder for Distribution Estimation."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training model",
+        "explanation": [
+            "The training argument takes a boolean specifying whether or not the model is currently being run in training mode; dropout will only be performed if training is True.",
+            "Example 3: Training models with weights merge on GPU (recommended for NV-link)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Nested tuple",
+        "explanation": [
+            "Nested tuple shapes are not supported."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Complex128",
+        "explanation": [
+            "Complex128 elements must be written as two consecutive DOUBLE values, real component first."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training workflow",
+        "explanation": [
+            "The training workflow usually proceeds as follows: Prepare training code with a few components: a."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Google model",
+        "explanation": [
+            "The Google model may take as much as 10G of RAM, and the JVM only launches with 256 MB of RAM, so you have to adjust your heap space."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training percentage",
+        "explanation": [
+            "I knew training percentage is correct, but couldn't figure out why it's wrong for validation and test."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "shape functions",
+        "explanation": [
+            "Since shape inference is an optional feature, and the shapes of tensors may vary dynamically, shape functions must be robust to incomplete shape information for any of the inputs.",
+            "Unknown shape: has an unknown number of dimensions, and an unknown If a tensor is produced by an operation of type \"Foo\", its shape may be inferred if there is a registered shape function for \"Foo\"."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "maximum absolute",
+        "explanation": [
+            "The maximum absolute difference allowed."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "unknown word",
+        "explanation": [
+            "One use case is that a special unknown word token is used as ID 0."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Autograd",
+        "explanation": [
+            "Autograd is reverse automatic differentiation system.",
+            "Recall that Function s are what autograd uses to compute the results and gradients, and encode the operation history.",
+            "Computational graphs and autograd are a very powerful paradigm for defining complex operators and automatically taking derivatives; however for large neural networks raw autograd can be a bit too low-level.",
+            "Autograd includes a profiler that lets you inspect the cost of different operators inside your model - both on the CPU and GPU.",
+            "Conceptually, autograd records a graph recording all of the operations that created the data as you execute operations, giving you a directed acyclic graph whose leaves are the input tensors and roots are the output tensors."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "final dimension",
+        "explanation": [
+            "The final dimension contains the indices of top-k labels.",
+            "The final dimension contains the top k predicted class indices.",
+            "The final dimension contains the logit values for each class."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "inplace",
+        "explanation": [
+            "Default: 1e-2 inplace: can optionally do the operation in-place."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "mkl",
+        "explanation": [
+            "The MKL is optimized for NCHW and Intel is working to get near performance parity when using NHWC.",
+            "However, MKL is liked with by default (when available) so setting this option explicitly is not usually required."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "sequence classification",
+        "explanation": [
+            "Sequence classification is one common use of masking."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "input tags",
+        "explanation": [
+            "The input tags and values must have the same shape."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Graph Visualization",
+        "explanation": [
+            "The graph visualization can help you understand and debug them."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "apply activation",
+        "explanation": [
+            "Activation Layer Used to apply activation on input and corresponding derivative on epsilon."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "AIS",
+        "explanation": [
+            "Marine Automatic Identification System (AIS) is an open system for marine broadcasting of positions.",
+            "AIS data, coordinates can be reported at irregular intervals over time.",
+            "Furthermore, AIS data for 1 year is over 100GB compressed."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "covariance type",
+        "explanation": [
+            "Raises: Exception if covariance type is unknown."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "example inputs",
+        "explanation": [
+            "However, if a function with data-dependent if statements and loops is traced, only the operations called along the execution route taken by the example input will be recorded."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "input names",
+        "explanation": [
+            "The input name should be based on a tensorflow type or onnx type, not the nd4j name."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "larger variance",
+        "explanation": [
+            "A larger variance (99%) will result in a higher order feature set."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "map transformation",
+        "explanation": [
+            "If the user-defined function passed into the map transformation changes the size of the elements, then the ordering of the map transformation and the transformations that buffer elements affects the memory usage."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Partitioner",
+        "explanation": [
+            "partitioner: Partitioner to be passed to the Checkpointable API."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "aggregation process",
+        "explanation": [
+            "Vector aggregations are saved only by Shards started aggregation process."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "inferred shape",
+        "explanation": [
+            "The inferred shape of a tensor is used to provide shape information without having to launch the graph in a session.",
+            "These inferred shapes might have known or unknown rank."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "matrix column",
+        "explanation": [
+            "The matrix columns represent the prediction labels and the rows represent the real labels."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "input layer",
+        "explanation": [
+            "Hidden layers can learn features from the input layer and it can send those features to be analyzed by our output layer to get the corresponding outputs.",
+            "The input layer is only a set of inputs values fed into the network."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Dataflow",
+        "explanation": [
+            "Dataflow is a common programming model for parallel computing."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "alias input",
+        "explanation": [
+            "Note that an alias input may itself be an alias."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "regularization losses",
+        "explanation": [
+            "Some losses (for instance, activity regularization losses) may be dependent on the inputs passed when calling a layer."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "logistic regression",
+        "explanation": [
+            "Logistic regression is one in which the dependant variable is categorical rather than continuous - meaning that it can predict only a limited number of classes or categories, like a switch you flip on or off.",
+            "We will train a logistic regression model that, given an individual's information, outputs a number between 0 and 1\u2014this can be interpreted as the probability that the individual has an annual income of over 50,000 dollars."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "mat1",
+        "explanation": [
+            "If mat1 is a \\((n \\times m)\\) tensor, mat2 is a Note."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "feature cross",
+        "explanation": [
+            "This feature cross enables the model to train on pricing conditions related to each individual section, which is a much stronger signal than latitude and longitude alone."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "rnn cell",
+        "explanation": [
+            "A fused RNN cell represents the entire RNN expanded over the time dimension.",
+            "RNN cell composed sequentially of multiple simple cells.",
+            "An RNN cell, in the most abstract setting, is anything that has a state and performs some operation that takes a matrix of inputs."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Distribution strategy",
+        "explanation": [
+            "This parameter is only used when Distribution Strategy is used with estimator or keras."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "output shape",
+        "explanation": [
+            "The output shape is the same as the input shape.",
+            "In terms of this constant, the output shape is.",
+            "If input shapes have rank-R, then output shape will have rank-(R+1).",
+            "If indices is a scalar the output shape will be a vector of length depth.",
+            "The parameters \\(\\mu\\) and \\(\\sigma\\), and output shape have to have a floating point elemental type.",
+            "Output shape is [1, height, width, channels]."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "computation time",
+        "explanation": [
+            "If the computation time takes longer than the copy and aggregation, the copy itself becomes essentially free."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Evaluation Class",
+        "explanation": [
+            "The Evaluation class is used for evaluation.",
+            "In DL4J the Evaluation Class and variants of the Evaluation Class are available to evaluate your model's performance.",
+            "An Evaluation class has more built-in methods if you need to extract a Under Curve (AUC)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "sampled class",
+        "explanation": [
+            "Determines whether all sampled classes in a batch are unique."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Batch normalization",
+        "explanation": [
+            "Fused batch norm combines the multiple operations needed to do batch normalization into a single kernel.",
+            "If present, then the batch normalization uses weighted mean and variance.",
+            "Unlike Batch Normalization and Instance Normalization, which applies scalar scale and bias for each entire channel/plane with the affine option, Layer Normalization applies per-element scale and This layer uses statistics computed from input data in both training and evaluation modes.",
+            "Because the Batch Normalization is done over the `C` dimension, computing statistics on `(N, L)` slices, it's common terminology to call this Temporal Batch Normalization.",
+            "Batch norm is an expensive process that for some models makes up a large percentage of the operation time.",
+            "In many cases, the inference graph will be different from the training graph: for example, techniques like dropout and batch normalization use different operations in each case."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "multiple indices",
+        "explanation": [
+            "So, when multiple indices in updates refer to the same index in operand, the corresponding value in output will be non-deterministic.",
+            "If indices is rank 1 (a vector), then for each position i, out[indices[i], ...] = updates[i, ...] Note that if multiple indices refer to the same location, the output at those locations is undefined - different updates may occur in different orders.",
+            "If indices is rank 1 (a vector), then for each position i, out[indices[i], ...] -= updates[i, ...] Note that if multiple indices refer to the same location, the contributions from each is handled correctly."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "single column",
+        "explanation": [
+            "A column reduction defines how a single column should be reduced."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "CRFs",
+        "explanation": [
+            "Recall that the CRF computes a conditional probability.",
+            "The LSTM tagger above is typically sufficient for part-of-speech tagging, but a sequence model like the CRF is really essential for strong performance on NER."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "single device",
+        "explanation": [
+            "For legacy reasons, a device can be constructed via a single device ordinal, which is treated as a cuda device."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Dense Word",
+        "explanation": [
+            "Getting Dense Word Embeddings An Example: N-Gram Language Modeling Exercise: Computing Word Embeddings: Continuous Bag-of-Words."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "point addition",
+        "explanation": [
+            "However, if the range of the data is limited, floating-point addition is close enough to being associative for most practical uses."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Exploding gradients",
+        "explanation": [
+            "Exploding gradients are problematic as they can 'mess up' the parameters of your network In the case of recurrent neural networks, adding some gradient normalization or gradient clipping may help."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Random Search",
+        "explanation": [
+            "Currently random search and grid search are supported."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "output structure",
+        "explanation": [
+            "If no initializer is provided, the output structure and dtypes of fn are assumed to be the same as its input; and in this case, the first argument of fn must match the structure of elems."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "multiple worker",
+        "explanation": [
+            "While the GPU is busy your multiple workers can load a new batch of images instead of a large file.",
+            "If multiple workers or threads all execute count in parallel, there is no guarantee that access to the variable v is atomic at any point within any thread's calculation of count."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "example sequence",
+        "explanation": [
+            "An example sequence of events, leading to an outdated workspace pointer: Workspace W is opened (iteration 1)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "resulting behavior",
+        "explanation": [
+            "The resulting behavior may be undefined."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "mobile devices",
+        "explanation": [
+            "TF Lite allows mobile developers to do inference efficiently on mobile devices."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "mean operation",
+        "explanation": [
+            "The only difference is that after pooling regions are generated, a mean operation is performed instead of a max operation in each pooling region."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Small gradients",
+        "explanation": [
+            "Small gradients means it is hard to learn.",
+            "During backproping, small gradients might underflow in the reduced numerical range, causing a model to converge at suboptimal level."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Tensor index",
+        "explanation": [
+            "Torch Script currently does not support mutating tensors in place, so any tensor indexing can only appear on the right-hand size of an expression."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "auxiliary nodes",
+        "explanation": [
+            "Separating out the auxiliary nodes typically doesn't remove critical information since these nodes are usually related to bookkeeping functions."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "LARS",
+        "explanation": [
+            "Note, LARS scaling is currently only enabled for dense tensors."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "output column",
+        "explanation": [
+            "Output column name is the same as the input column name.",
+            "Suppose the possible String values were {\"a\",\"b\",\"c\",\"d\"} and the String column value to be converted contained the String \"a,c\", then the 4 output columns would have values [\"true\",\"false\",\"true\",\"false\"]."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "sufficient statistic",
+        "explanation": [
+            "These sufficient statistics are computed using the one pass algorithm on an input that's optionally shifted."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "trained models",
+        "explanation": [
+            "The trained model can then be used as an application resource."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "chief worker",
+        "explanation": [
+            "Gradients are pushed to them and the chief worker will wait until enough gradients are collected and then average them before applying to variables."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "standard deviations",
+        "explanation": [
+            "stddev: The standard deviation of the Gaussian kernel to be approximated.",
+            "The standard deviation is, if you want, the tradeoff between exploration and exploitation: the smaller the std, the less exploration."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "nvprof",
+        "explanation": [
+            "In contrast, Real NVP can compute both forward and inverse computations in parallel."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Google Cloud",
+        "explanation": [
+            "Google Cloud TPU Documentation \u2014Set up and run a Google Cloud TPU.",
+            "Google Cloud provides no setup required, pre-configured virtual machines to help you build your deep learning projects."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Matrix transpose",
+        "explanation": [
+            "Matrix transpose operation: If input has shape [a,b] output has shape [b,a]."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "multiple axes",
+        "explanation": [
+            "Multiple shifts along multiple axes may be specified."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "JavaRDD",
+        "explanation": [
+            "Converts JavaRDD labeled points to JavaRDD datasets."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "average error",
+        "explanation": [
+            "The graph shows the average error is about \\$2,500 dollars."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "probability density function",
+        "explanation": [
+            "The probability density function (pdf) is: Where scale = sigma is the standard deviation of the underlying normal distribution.",
+            "The probability density function (pdf) is, Examples."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Tensordot",
+        "explanation": [
+            "The sizes in these dimensions must match, but tensordot will deal with broadcasted dimensions."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "classes tensor",
+        "explanation": [
+            "The classes Tensor must provide string labels, not integer class IDs."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "input desired",
+        "explanation": [
+            "This class defines input desired for any given node/operation within graph."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "loss component",
+        "explanation": [
+            "However this is not the desired behaviour, since the missing loss component should be treated as unknown rather than zero."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "word similarity",
+        "explanation": [
+            "We include an example in the NLP section since word similarity visualization is a common use."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "MNIST",
+        "explanation": [
+            "MNIST dataset, please resize the images from the dataset to 32x32.",
+            "The images show individual articles of clothing at low resolution (28 by 28 pixels), as seen here: Fashion MNIST is intended as a drop-in replacement for the classic MNIST dataset\u2014often used as the \"Hello, World\" of machine learning programs for computer vision.",
+            "MNIST is the \"Hello World\" of deep learning.",
+            "The MNIST digits are transformed into a flat 1D array of length 784 (MNIST images are 28x28 pixels, which equals 784 when you lay them end to end)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "loss scale",
+        "explanation": [
+            "The loss scale is not updated for the lifetime of the class.",
+            "Loss scale manager uses an exponential update strategy.",
+            "Loss scale managers with a different strategy should subclass this class."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Premade",
+        "explanation": [
+            "Premade Estimators are designed to get results out of the box."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "labels tensors",
+        "explanation": [
+            "Measures the loss given an input tensor x and a labels tensor y containing values (1 or -1).",
+            "labels tensor are directly broadcasted to all the TPU cores since the partition dims is None."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "gradient calculation",
+        "explanation": [
+            "The gradient calculation and application are delegated to an underlying optimizer."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "nearest neighbor",
+        "explanation": [
+            "Run a k nearest neighbors search on a NEW data point.",
+            "To do so, you can select points in multiple After clicking on a point, its nearest neighbors are also selected."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "low padding",
+        "explanation": [
+            "The low padding is applied in the direction of lower indices while the high padding is applied in the direction of higher indices."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "learnable temperature",
+        "explanation": [
+            "If None, a learnable temperature is created."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "convolution operations",
+        "explanation": [
+            "Separable convolutions split a regular convolution operation into two simpler operations, which are usually computationally more efficient.",
+            "Convolution is the code for applying the convolution operator."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "TFRecord format",
+        "explanation": [
+            "I think tfrecord format is good way to save data chunks, and avoids reading lots of small files, which is especially slow on hdfs."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "supported device",
+        "explanation": [
+            "The supported device names are \"/device:CPU:0\" (or \"/cpu:0\") for the CPU device, and \"/device:GPU:i\" (or \"/gpu:i\") for the ith GPU device."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "output element",
+        "explanation": [
+            "The output elements will be resorted to preserve the sort order along increasing dimension number.",
+            "In the figure, the element of value 9 is selected by both of the top windows (blue and red) and the binary addition scatter function produces the output element of value 8 (2 + 6).",
+            "The parameters and output element type have to be a boolean type, an integral type or a floating point types, and the types have to be consistent."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "GPU",
+        "explanation": [
+            "The GPUs have to wait for that CPU to finish.",
+            "GPU operations are called in an asynchronously way, so that they are not blocking your CPU.",
+            "In a workstation with multiple GPU cards, each GPU will have similar speed and contain enough memory to run an entire CIFAR-10 model.",
+            "Note, a GPU with CUDA is not critical for this tutorial as a CPU will not take much time.",
+            "If you have more than one GPU in your system, the GPU with the lowest ID will be selected by default.",
+            "Below are some other Check if a GPU is underutilized by running nvidia-smi -l 2.",
+            "When GPU RAM is less than CPU RAM, you need to monitor how much RAM is being used off-heap.",
+            "On the server there are 8 GPU installed and they are all the same type 1080Ti.",
+            "As GPUs and other hardware accelerators get faster, preprocessing of data can be a bottleneck.",
+            "If no GPUs are available, then the model is going to be placed on the CPU.",
+            "When each GPU completes the computation, gradients are going to be reduced (added) onto the master GPU.",
+            "By default, GPU operations are asynchronous.",
+            "If you do so, your GPU will run out of RAM when trying to run jobs.",
+            "GPUs are run in their default Boost.",
+            "In this design, each GPU on the server has its own copy of each variable.",
+            "GPUs and a single aggregated gradient is sent to the parameter server.",
+            "The GPUs are synchronized in operation.",
+            "While the process is running, the GPU has still 80% memory blocked and pytorch is using this space.",
+            "This setup requires that all GPUs share the model parameters.",
+            "Update model parameters synchronously by waiting for all GPUs to finish Here is a diagram of this model: Note that each GPU computes inference as well as the gradients for a unique batch of data.",
+            "If JavaCPP or your GPU throw an out-of-memory error (OOM), or even if your compute slows down due to GPU memory being limited, then you may want to either decrease batch size or increase the amount of off-heap memory that JavaCPP is allowed to allocate, if that's possible.",
+            "This utilty and multi-process distributed (single-node or multi-node) GPU training currently only achieves the best performance using the NCCL distributed backend.",
+            "Get device (GPU, etc) current bytes - may be null if no compute devices are present in the system.",
+            "While the GPU is busy your multiple workers can load a new batch of images instead of a large file.",
+            "After the GPU finishes it can just get the new batch, which is probably already waiting for it.",
+            "These are used at each layer for doing things like normalization and NONE: cache disabled (default value) DEVICE: GPU memory will be used (on CPU backends effect will be the same as for HOST).",
+            "For modern deep neural networks, GPUs often provide speedups of 50x or greater, so unfortunately numpy won't be enough for modern deep learning.",
+            "If GPU utilization is not approaching 80-100%, then the input pipeline may be the bottleneck.",
+            "Note that values set here on the layer will be applied to all relevant layers - unless the value is overridden Note: values set by this method will be applied to all applicable layers in the network, unless a different Note: values set by this method will be applied to all applicable layers in the network, unless a different NONE: cache disabled (default value) DEVICE: GPU memory will be used (on CPU backends effect will be the same as for HOST)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Root value",
+        "explanation": [
+            "Root value is left -- right is unused."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "perturbed image",
+        "explanation": [
+            "The resulting perturbed image, \\(x'\\), is then misclassified by the target network as a \"gibbon\" when it is still clearly a \"panda\"."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "inits",
+        "explanation": [
+            "Init has been internally called."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Training processes",
+        "explanation": [
+            "The training process will then continue in this way until the model is fully trained.",
+            "This way you can use a trained model without having to retrain it, or pick-up training where you left of\u2014in case the training process was interrupted.",
+            "The training process itself can take several hours, so make sure you have a machine available for that long.",
+            "If True, performs intermediate model checkpoints and exports during the training process, rather than only once model training is complete.",
+            "If your training process uses workspaces, we recommend that you disable (or reduce the frequency of) periodic GC calls.",
+            "This is very convenient as my training process uses standard disposable cloud workers that should not store anything of a value on their local drives!"
+        ],
+        "useful": true
+    },
+    {
+        "concept": "features columns",
+        "explanation": [
+            "A feature column can be either one of the raw inputs in the original features dict (a base feature column), or any new columns created using transformations defined over one or multiple base columns (a derived feature columns).",
+            "Therefore, the code to create the feature column is: Feature columns can be far more sophisticated than those we're showing here.",
+            "The third feature column also specifies a lambda the program will invoke to scale the raw data: # Define three numeric feature columns.",
+            "As long as all feature columns are unweighted sparse columns this computes the prediction of a linear model which stores all weights in a single variable.",
+            "An Estimator expects a vector of numeric inputs, and feature columns describe how the model should convert each feature.",
+            "Each feature column needs a different kind of operation during this conversion.",
+            "A feature column is an object describing how the model should use raw input data from the features dictionary.",
+            "A feature column is an abstract concept of any raw or derived variable that can be used to predict the target label.",
+            "Feature columns are very rich, Estimators can use, allowing easy experimentation.",
+            "Feature Columns, handle a variety of input data types without changes to the model.",
+            "Feature columns can have internal state, like layers, so they often need to be initialized."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "gpu memory",
+        "explanation": [
+            "My GPU memory isn't freed properly\u00b6.",
+            "the cifar10 training example with -opencl, the GPU memory usage grows at a rate of 200MB per second (looking at nvidia-smi) until the lack of memory crashes the program.",
+            "If JavaCPP or your GPU throw an out-of-memory error (OOM), or even if your compute slows down due to GPU memory being limited, then you may want to either decrease batch size or increase the amount of off-heap memory that JavaCPP is allowed to allocate, if that's possible.",
+            "I found that after I passed the output of A to B, the GPU memory increases 4 GB.",
+            "If your GPU memory isn't freed even after Python quits, it is very likely that some Python subprocesses are still alive.",
+            "These are used at each layer for doing things like normalization and NONE: cache disabled (default value) DEVICE: GPU memory will be used (on CPU backends effect will be the same as for HOST).",
+            "Note that values set here on the layer will be applied to all relevant layers - unless the value is overridden Note: values set by this method will be applied to all applicable layers in the network, unless a different Note: values set by this method will be applied to all applicable layers in the network, unless a different NONE: cache disabled (default value) DEVICE: GPU memory will be used (on CPU backends effect will be the same as for HOST)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Sequential module",
+        "explanation": [
+            "A Sequential module simply performs function composition."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "functional model",
+        "explanation": [
+            "Model Requirements: - Model must be a sequential model or functional model."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "scalar multiplication",
+        "explanation": [
+            "Elementwise scalar multiplication can be represented several ways.",
+            "Elementwise scalar multiplication looks like this: And produces this: Subtraction and division follow a similar pattern: If you perform all these operations on your initial 2 x 2 matrix, you should end up with this matrix: Elementwise vector operations."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "recent checkpoint",
+        "explanation": [
+            "If None (the default), the most recent checkpoint found within the model directory is chosen."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "unknown dimension",
+        "explanation": [
+            "An unknown Dimension is compatible with all other Dimensions."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "shape dimension",
+        "explanation": [
+            "Shapes of fixed rank but variable size are allowed by setting any shape dimension to None.",
+            "All shape dimensions must be fully defined."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "model learning",
+        "explanation": [
+            "Training is the stage of machine learning when the model is gradually optimized, or the model learns the dataset.",
+            "The model learns to associate images and labels.",
+            "That is, the model learns the best way to map your input numeric categorical values to the embeddings vector value in order to solve your problem."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "bid value",
+        "explanation": [
+            "The optional bid value for this cluster's spot instances Uses the on-demand market if empty."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "main column",
+        "explanation": [
+            "One main column can have several sub columns."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "NDim",
+        "explanation": [
+            "At least one of {shape, ndim} must be specified."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "single dimension",
+        "explanation": [
+            "A single dimension may be -1, in which case it's inferred from the remaining dimensions and the number of elements in input."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "final activation",
+        "explanation": [
+            "Also, the final activation becomes a Sigmoid, which squashes values into a range between 0 and 1."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "loss element",
+        "explanation": [
+            "By default, the losses are averaged over each loss element in the batch."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Multidimensional indices",
+        "explanation": [
+            "Multidimensional indices include a int64 index for each dimension."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "shortcut function",
+        "explanation": [
+            "The only difference is that the shortcut function versions create and run the layer in a single call."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "lower triangular",
+        "explanation": [
+            "The lower triangular part of the matrix is defined as the elements on and below the diagonal."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "input sentences",
+        "explanation": [
+            "Remember that the input sentences were heavily filtered.",
+            "The input sentence is evaluated Computation Graph: Forward input through encoder model."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "embedding columns",
+        "explanation": [
+            "By permitting a richer palette of numbers for every cell, an embedding column contains far fewer cells than an indicator column.",
+            "Indicator columns and embedding columns never work on features directly, but instead take categorical columns as input.",
+            "Instead of representing the data as a one-hot vector of many dimensions, an embedding column represents that data as a lower-dimensional, ordinary vector in which each cell can contain any number, not just 0 or 1."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "initial input",
+        "explanation": [
+            "The initial input token is the start-of-string <SOS> token, and the first hidden state is the context vector (the encoder's last hidden state)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Vectorization",
+        "explanation": [
+            "Vectorization is the first problem many data scientists will have to solve to start training their algorithms on data."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Convolution kernel",
+        "explanation": [
+            "Intuitively, separable convolutions can be understood as a way to factorize a convolution kernel into two smaller kernels, or as an extreme version of an Inception block."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "larger step",
+        "explanation": [
+            "This is because larger epsilons mean we take a larger step in the direction that will maximize the loss."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Input Sequences",
+        "explanation": [
+            "Note that the resulting sequence may be of length 0, if the input sequence is less than or equal to N.",
+            "In addition, once an input sequence element is attended to at a given output timestep, elements occurring before it cannot be attended to at subsequent output timesteps.",
+            "Monotonic attention implies that the input sequence is processed in an explicitly left-to-right manner when generating the output sequence.",
+            "It is recommended to use truncated BPTT when your input sequences are long (typically, more than a few hundred time steps)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "ccache",
+        "explanation": [
+            "How ccache is used to speed up build times."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "hdf5",
+        "explanation": [
+            "HDF5 is really sensitive about the order its resources are deallocated in."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "sum operation",
+        "explanation": [
+            "The sum operation operates over all the elements.",
+            "The sum operation still operates over all the elements, and divides by n.",
+            "This operator is similar to the unsorted segment sum operator found here."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "scalar operation",
+        "explanation": [
+            "A matrix that ordered its elements by row would look like this: Elementwise scalar operations."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "English word",
+        "explanation": [
+            "When training started, the model did not know how to spell an English word, or that words were even a unit of text."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "convolution mode",
+        "explanation": [
+            "Check that the convolution mode is consistent with the padding specification."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "single tutorials",
+        "explanation": [
+            "Yet Not a single tutorials works as expected : 1."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Multilayer",
+        "explanation": [
+            "Multilayer Network to tweak for transfer learning."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "MNIST model",
+        "explanation": [
+            "As mentioned, the model under attack is the same MNIST model from pytorch/examples/mnist."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Mean absolute error",
+        "explanation": [
+            "Mean Absolute Error loss function where each the output is (optionally) weighted/scaled by a flags scalar value."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "CPU",
+        "explanation": [
+            "CPU backend supports multiple CPU ISAs.",
+            "CPU info will not be logged.",
+            "CPU backend it might be ignored, depending on Aggregate.",
+            "If this cannot be loaded, the CPU (nd4j-native) backend will be loaded second.",
+            "While the accelerator is performing training step N, the CPU is preparing the data for step N+1.",
+            "On the other hand, higher values can increase contention if CPU is scarce.",
+            "This function may be used when CPU time is scarce and inputs are trusted or unimportant."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Expected inputs",
+        "explanation": [
+            "expected inputs are 3-D, 4-D or 5-D in shape.",
+            "Expected inputs are spatial (4 dimensional)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Perform evaluation",
+        "explanation": [
+            "Singleton evaluation hrunner class for performing evaluation on Spark."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Gradient checking",
+        "explanation": [
+            "Check backprop gradients for a pretrain layer NOTE: gradient checking pretrain layers can be difficult...",
+            "See the guide: Testing > Gradient checking."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "network outputs",
+        "explanation": [
+            "Network outputs are for output layers only.",
+            "the network output doesn't have to be in any specific range.",
+            "Each network output is assumed to be a separate/independent binary class, with probability 0 to 1 independent of all other outputs."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Frozen layer",
+        "explanation": [
+            "Frozen layer freezes parameters of the layer it wraps, but allows the backpropagation to continue.",
+            "During the forward pass the frozen layer behaves as the layer within it would during test regardless of the training/test mode the network is in."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "regression metric",
+        "explanation": [
+            "A common regression metric is Mean Absolute Error (MAE)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "select function",
+        "explanation": [
+            "The binary select function is used to select an element from each window by applying it across each window, and it is called with the property that the first parameter's index vector is lexicographically less than the second parameter's index vector."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "threshold steps",
+        "explanation": [
+            "Target sparsity/dense level, when threshold step will happen."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "process termination",
+        "explanation": [
+            "If they don't, and the first process does not terminate, the process termination will go unnoticed."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "final layer",
+        "explanation": [
+            "Recall, the final layer of a CNN model, which is often times an FC layer, has the same number of nodes as the number of output Imagenet, they all have output layers of size 1000, one node for each class."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "gradient tensor",
+        "explanation": [
+            "Get the gradient tensors that this object is aware of."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "inversion process",
+        "explanation": [
+            "Hence, the inversion process can get ambiguous."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "entire layer",
+        "explanation": [
+            "the entire layer graph is retrievable from that layer, recursively."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "individual matrix",
+        "explanation": [
+            "For batch of matrices, each individual matrix is raised to the power n."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Language Modeling",
+        "explanation": [
+            "Language modeling is key to many interesting problems such as speech recognition, machine translation, or image captioning.",
+            "My model is not a language model but it deals with many-to-many interaction.",
+            "Our language model might do OK on this sentence, but wouldn't it be much We have seen mathematician and physicist in the same role in a sentence."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Automatic variable",
+        "explanation": [
+            "Automatic variable lifting makes it possible to compile these APIs without extra effort, at the cost of introducing a discrepancy between the semantics of executing Python functions and their corresponding compiled functions."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "one GPU",
+        "explanation": [
+            "If you have more than one GPU in your system, the GPU with the lowest ID will be selected by default."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "gamma distribution",
+        "explanation": [
+            "The Gamma distribution is defined over positive real numbers using parameters concentration (aka \"alpha\") and rate (aka \"beta\").",
+            "Here's the code we'll use: Gamma Distribution."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "average pooling",
+        "explanation": [
+            "Fractional average pooling is similar to Fractional max pooling in the pooling region generation step."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "numpy",
+        "explanation": [
+            "Numpy equivalent is tensor[mask].",
+            "Numpy is a great framework, but it cannot utilize GPUs to accelerate its numerical computations.",
+            "Numpy provides an n-dimensional array object, and many functions for manipulating these arrays.",
+            "# Numpy uses type 'Object' when the int overflows long, but we don't # have a similar concept.",
+            "Numpy is a generic framework for scientific computing; it does not know anything about computation graphs, or deep learning, or gradients."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Contrib",
+        "explanation": [
+            "See the guide: Graph Editor (contrib) > Module: reroute."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Connection Weight",
+        "explanation": [
+            "The connection weights and biases are managed by the layer object."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Network Configuration",
+        "explanation": [
+            "Now that the network configuration is set up and instantiated along with our MNIST test/train iterators, training takes just a few lines of code.",
+            "Note 1: The network configuration may be incomplete, but the inputs have been added to the layer already."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "condition tensor",
+        "explanation": [
+            "The condition tensor must be a scalar if x and y are scalar.",
+            "The condition tensor acts as a mask that chooses, based on the value at each element, whether the corresponding element / row in the output should be taken from x (if true) or y (if false)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "output activations",
+        "explanation": [
+            "Consequently, the output activations size is equal to the input size.",
+            "In the CONCAT case, the output activations size (dimension 1) is 2x larger than the standard RNN's activations array.",
+            "In all cases except CONCAT, the output activations size is the same size as the standard RNN that is being wrapped by this layer.",
+            "- Per output masking: Where each output activation value is present or not - mask shape [n,c,h,w] (same as output)."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "FFmpeg",
+        "explanation": [
+            "Note that ffmpeg is free to select the \"best\" audio track from an mp4."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training worker",
+        "explanation": [
+            "For a three-training-worker distributed configuration, each training worker is likely to go through the whole epoch independently."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "label classes",
+        "explanation": [
+            "Multi-label classification handles the case where each example may have zero or more associated labels, from a discrete set."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "training continues",
+        "explanation": [
+            "To ensure that training continues without diverging it is necessary that the restored node resumes training with a copy of the model identical to that on the other nodes at the current point."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "queue element",
+        "explanation": [
+            "Each queue element is a tuple of one or more tensors, where each tuple component has a static dtype, and may have a static shape."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "performing feature",
+        "explanation": [
+            "In practice though, performing feature crosses still adds significant value to the learning capability of your models."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "graph structure",
+        "explanation": [
+            "The graph structure is like assembly code: inspecting it can convey some useful information, but it does not contain all of the useful context that source code conveys."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Identity matrix",
+        "explanation": [
+            "May have shape [B1, ..., Bb, r], b >= 0, and characterizes b-batches of r x r None, an identity matrix is used inside the perturbation."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "ROC",
+        "explanation": [
+            "As ROC metrics are only defined for binary classification, this treats the multi-class output as a set of 'one-vs-all' binary classification problems.",
+            "ROC has 2 modes of operation: (a) Thresholded (less memory) Thresholded Is an approximate method, that (for large datasets) may use significantly less memory than exact.."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "argmax",
+        "explanation": [
+            "As argmax is being done here, labels and predictions type can be different."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "Spatial transformer",
+        "explanation": [
+            "Spatial transformer networks are a generalization of differentiable attention to any spatial transformation.",
+            "Spatial transformer networks (STN for short) allow a neural network to learn how to perform spatial transformations on the input image in order to enhance the geometric invariance of the model."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "gradient updates",
+        "explanation": [
+            "Otherwise, gradient updates are applied asynchronous.",
+            "Collect gradients updates to apply them with the last tower.",
+            "If the argument is supplied, gradient updates will be synchronous.",
+            "If left as None, gradient updates will be asynchronous."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "reduction occurs",
+        "explanation": [
+            "Conditional reduction: apply the reduces on a specified column, where the reduction occurs *only* on those Beware, the output will be huge!"
+        ],
+        "useful": true
+    },
+    {
+        "concept": "bptt",
+        "explanation": [
+            "This tradeoff is usually worth it, and (as long as the truncated BPTT lengths are set appropriately), truncated BPTT works well in practice.",
+            "Truncated backpropagation through time (BPTT) was developed in order to reduce the computational complexity of each parameter update in a recurrent neural network."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "Higher ranks",
+        "explanation": [
+            "higher rank input), computes the top k entries in each row (resp."
+        ],
+        "useful": false
+    },
+    {
+        "concept": "computations involving",
+        "explanation": [
+            "By default, computations involving variables that require gradients will keep history."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "complex networks",
+        "explanation": [
+            "Note that more complex networks and problems may never yield an optimal score."
+        ],
+        "useful": true
+    },
+    {
+        "concept": "single machine",
+        "explanation": [
+            "WorkerID: A unique identifier for workers, within a session For example, single machine training (with 1 listener) would have 1 session ID, 1 type ID, 1 worker ID, and multiple timestamps."
+        ],
+        "useful": true
+    }
+]
