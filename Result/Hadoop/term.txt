@@ -1,0 +1,2739 @@
+ACID
+ACID table
+ACKs
+ACL
+ACLS
+ACLs
+ADL
+ADMIN
+AES
+AES encryption
+AES key
+ALTER
+ALTER INDEX
+ALTER TABLE
+AMRM
+ANDs
+ANTLR
+ARN
+ASCII
+ASCII Table
+ASF
+ASM
+AVG
+AVL
+AVRO
+AWS
+Acceptance time
+Access restriction
+Accumulo
+Ack
+Acl
+Acls
+Active Directory
+Active state
+Add value
+Added time
+Admin
+Admins
+Aggr
+Aliyun
+Alter Table
+Alter table
+Amazon Web Services
+Anonymizer
+Apache Software Foundation
+Apache Software License
+Appender
+Apply order
+Apps
+Apriori
+Architecture level
+Arpit
+Attempt State
+Authentication filter
+Automated code
+Average Time
+Avro
+BC size
+BFS
+BYTES
+BYTES code
+Backport
+Backported
+Backports
+Backticked names
+Batch size
+Big Table
+Bigtable
+Binary Type
+Binary type
+Block Cache
+Block Pool
+Block Storage
+Block cache
+Block size
+Bloom Block
+Bloom Filter
+Bloom Filters
+Bloom block
+Bloom filter
+Bloom filters
+Bloom information
+Bucket size
+Bucketized Table
+CFD
+CHOWN
+CIDR
+CNAMEs
+CONF
+CORS
+CPU
+CPU count
+CPU frequency
+CPU limit
+CPU requests
+CQ
+CRCs
+CRLA
+CSRF
+CTAS
+CTR
+Cache Key
+Cache files
+Cache pool
+Cache pools
+Cache size
+Cached bytes
+Cached list
+Capacity Unit
+Check table
+Checkstyle
+Checksum verification
+Chukwa
+Client policy
+Cloudera
+Cluster Application
+Cluster Information
+Cluster Metrics
+Cluster Node
+Cluster Nodes
+Cluster Replication
+Cluster Reservation
+Cluster Web
+Cluster connection
+Cluster registry
+Cluster replication
+Cluster size
+Cluster topology
+Column Families
+Column Family
+Column Level
+Column Metadata
+Column Names
+Column Prefixes
+Column Pruner
+Column Pruning
+Column Qualifier
+Column Specification
+Column Statistics
+Column Type
+Column families
+Column family
+Column level
+Column names
+Column qualifiers
+Column statistics
+Commit Message
+Committer
+Committers
+Common Table
+Compactor
+Compare bytes
+Compare key
+Composite service
+Compress key
+Compressed Value
+Compressed blocks
+Compressed value
+Conf
+Configs
+Container request
+Control List
+Coprocessor
+Coprocessors
+Copy bytes
+Copy files
+Corrupt files
+Corrupted Files
+Create Table
+Create call
+Create table
+Cron
+Crypto
+Customer number
+DAO
+DATA
+DATA LOCAL
+DATA blocks
+DDL
+DDLs
+DDOS
+DFS
+DFW
+DML
+DN
+DPP
+DROP
+DROP TABLE
+Data Access
+Data Block
+Data Blocks
+Data Distribution
+Data Encryption
+Data Ingest
+Data Lake
+Data Locality
+Data Migration
+Data Node
+Data Nodes
+Data Nucleus
+Data Processing
+Data Size
+Data block
+Data capture
+Data consumer
+Data encryption
+Data generated
+Data locality
+Data moved
+Data restatement
+Data size
+Database Service
+Datanode
+Datanodes
+Datastore
+Deafult value
+Decimal type
+Decrease rate
+Defalt value
+Delete Table
+Delete family
+Delete table
+Deleted files
+Deserializer
+Directory specification
+Disk usage
+Dist
+DistCP
+Distcp
+Driver code
+Drop Table
+Drops table
+Duplicate Filters
+DynamoDB
+Earlier code
+Eclipse files
+Encode values
+Encrypted Key
+Encryption Zone
+Entry instance
+Entry size
+Error Response
+Error rate
+Error response
+Estimate size
+Execution Types
+Existing Table
+Exit codes
+Expert level
+Export Table
+Export table
+FLOAT
+FLOAT code
+Failover
+Failure detection
+Failure info
+Fetch block
+Fetch table
+Field numbers
+Filesystem
+FilterPPR filter
+Findbugs
+Finish time
+Flajolet
+Flow name
+Flush interval
+Forrest
+Fsck
+Full table
+GB size
+GPG
+GUID
+Generates name
+Github
+Group Membership
+Group entry
+Group information
+HAR
+HBASE
+HCD
+HDFS
+HDFS Storage
+HDFS storage
+HEAD
+HEAD request
+HFDS
+HLL
+HQL
+HRI
+HTTP
+HTTP Operations
+HTTP Tools
+HTTP access
+HTTP connections
+HTTP endpoint
+HTTP equivalent
+HTTP methods
+HTTP policy
+HTTP verbs
+HWI
+Hadooop
+Hadoop
+Hadoop Archive
+Hadoop Distributed File System
+Hardware access
+Hash aggregation
+Hbase
+Heap usage
+Heartbeat message
+Heartbeat messages
+Hftp
+High Availability
+High availability
+History Files
+Hive Metastore
+Hive directory
+Hive metastore
+Hortonworks
+Http address
+Httpclient
+Huai
+IAM
+INDEX
+IPC
+IRB
+IRC
+Index code
+Index table
+Inodes
+Input Key
+Input Split
+Input Table
+Input format
+Input key
+Input keys
+Input query
+Input records
+Input splits
+Input table
+JAAS
+JAAS configuration
+JCODE
+JDA
+JDBM
+JDO
+JDOQL
+JIRA
+JIRAS
+JIRAs
+JMS
+JNs
+JOBID
+JPOX
+JSONP
+JSP
+JVM
+JVM metrics
+JVMs
+JavaCC
+Javadocs
+Jira
+Jiras
+Job names
+JobID
+Jobtracker
+Joda
+Jodd
+Join keys
+Junit
+KFS
+Kerberized
+LCE
+LIST
+LIST code
+LLAP
+LOCAL
+LQI
+LZ4
+LZO
+LZOP
+Large Clusters
+Latency metrics
+LevelDB
+Libaries
+Lipcon
+Local Reads
+Local directory
+Local memory
+Local metastore
+Lock times
+Log directory
+Log4J
+Log4j
+Lzo
+Lzop
+MB size
+MB value
+META
+META table
+MVCC
+MVN
+MYSQL
+Management Committee
+Map files
+Mapreduce
+Master Info
+Master Key
+Master Node
+Master Service
+Max length
+Max number
+Max precision
+Max time
+Maximum capability
+Maximum capacity
+Maximum lifetime
+Meetup
+Memory load
+Memory needed
+Memory state
+Memory store
+Meta Block
+Meta Store
+Meta block
+Metadata Store
+Metadata store
+Metastore filter
+Metastore key
+Metrics Sources
+Metrics Subsystem
+Metrics implementation
+Metrics information
+Metrics instance
+Metrics names
+Metrics related
+Metrics system
+Metrics2
+Minimum period
+Mockito
+Mount table
+Moves files
+Moving files
+Multi Table
+MySQL
+NDV
+NFS
+NLM
+NN
+NNs
+NPE
+NULL
+NULL entries
+NULL fields
+Namenode
+Namit
+Netty
+Node Cluster
+ODBC
+OI
+OLAP
+OLTP
+OOM
+ORC
+ORDER
+ORDER table
+ORM
+Object Store
+Oozie
+Open call
+Orc
+Output Key
+Output pairs
+Output path
+Output table
+PAM
+PCI
+PDU
+PKI
+PMC
+PMOD
+POJO
+POM
+POM files
+PPID
+PTF
+PTFs
+PUT
+PUT Request
+PUT request
+Palo
+Parameters table
+Partition cluster
+Partition files
+Partition keys
+Partition size
+Partition values
+Patch name
+Physical size
+Plugin
+Plugins
+PoV
+Policy Generator
+Policy Store
+Pradeep
+Prasad
+Predicate Pushdown
+Predicate pushdown
+Primary Filter
+Primary filter
+Primary filters
+Procedure Types
+Procedure code
+Process row
+Processes block
+Protobuf
+Protobufs
+Protos
+Pull Request
+Put request
+Put requests
+Puzzle files
+QA
+QL
+Quantiles
+Queue name
+Quota Type
+RCN
+RCP
+RCX
+RDBMS
+RDBMSs
+RDD
+RDDs
+RDL
+REST
+REST call
+REST requests
+REST server
+RHEL
+RM
+RMs
+RPC
+RPC call
+RPC connection
+RPC server
+RPCs
+RR
+RRs
+RS3
+RSC
+RTP
+RTRIM
+Rack name
+Rackspace
+Random row
+Record reader
+Record writer
+Recursive version
+Reduce number
+Reference files
+Region state
+Registry Security
+Registry Service
+Relative paths
+Remote directory
+Replaces files
+Replicate Table
+Replication Factor
+Replication System
+Replication factor
+Replication source
+Reporter type
+Repos
+Request service
+Request size
+Resource Allocation
+Resource Request
+Resource allocation
+Resource capability
+Resource reserved
+Resource size
+Restore table
+Retired table
+Retrieve block
+Retrieve list
+Retry Count
+Retry caller
+Retry interval
+Retry policy
+Retry times
+Reusable code
+Rm
+Rollup
+Row Format
+Row Keys
+Row keys
+Rowkey
+S3
+S3A
+S3a
+SARG
+SATA
+SATA disks
+SCM
+SCP
+SERDE
+SFTP
+SHOW
+SHOW TABLE
+SLAs
+SLF4J
+SMB
+SNN
+SQM
+SSD
+SSDs
+SSH
+SVN
+Scala
+Scan filter
+Scan requests
+Scheduler state
+Schema Creation
+Script time
+Secure Cluster
+See store
+Serde
+Service Registry
+Service instances
+Session identifier
+SessionID
+Short Circuit
+Show Table
+Side Code
+Side Encryption
+Simple time
+Single Cluster
+Single Table
+Single table
+Skips bytes
+Slave nodes
+Spark cluster
+Specify table
+Split directory
+Split identifier
+Split size
+Splits files
+Sqoop
+Start time
+Started cluster
+State Store
+Storage Account
+Storage Based
+Storage Directory
+Storage Formats
+Storage Handlers
+Storage Policies
+Storage Policy
+Storage Properties
+Storage Type
+Storage Types
+Storage Volumes
+Storage account
+Storage accounts
+Storage documentation
+Storage formats
+Storage information
+Storage requires
+Storage service
+Storage type
+Store file
+Store files
+Store statistics
+Storefile size
+Stripe Compaction
+Structs
+Structural Filters
+System table
+TABLE
+TABLE T1
+TABLE creates
+TEZ
+TLP
+TODO
+TRACE
+TRACE level
+TSV
+TTLs
+Table Creation
+Table Descriptor
+Table Discovery
+Table Properties
+Table Sample
+Table Scan
+Table alias
+Table basis
+Table cardinality
+Table descriptor
+Table directory
+Table instance
+Table instances
+Table integrity
+Table level
+Table metadata
+Table names
+Table procedures
+Table read
+Table replication
+Table table
+Tablename
+Tarball
+Task Counters
+Task counters
+TaskID
+Templeton name
+Temporary space
+Tez
+Thrift directory
+Thrift metastore
+Thrift server
+Thrift service
+Thrift types
+Throttle Type
+Tiered Compaction
+Time Protocol
+Time ranges
+Timeframes
+Timeline store
+Timeseries
+Token Identifier
+Token Service
+Token cache
+Total input
+Trace values
+Trie
+Truncate Table
+Try store
+Type entry
+Type requested
+Typed bytes
+UAM
+UDF
+UDFs
+UGI
+Ugi
+Ulimit
+Undefined state
+Unspecified values
+Update state
+Uploader
+VLANs
+VPN
+Vaibhav
+Vaidya
+Validation code
+Values info
+Vectorized
+WAL
+WALs
+WARN
+WARN level
+WASB
+Web link
+WebUI
+Webapp
+Widom
+Writables
+Write key
+Write number
+Write records
+Write table
+Xuefu
+YARN
+YARN Application
+YARN Registry
+YARN Resource
+YARN Security
+YARN Service
+YARN application
+YARN cluster
+YARN code
+YARN prefix
+YARN registry
+YARN service
+Yarn Registry
+ZK
+Zk
+Znode
+Zoltan
+Zookeeper
+acceptance time
+access call
+access cells
+access key
+access keys
+access levels
+access path
+access priority
+access restriction
+access result
+access special
+access token
+access type
+access types
+accessed files
+accumulator value
+accumulo
+ack
+acl
+acls
+active cluster
+active directory
+active state
+actual cluster
+actual row
+actual time
+add value
+adl
+admin
+admins
+aggregate length
+aggregate size
+aggregate source
+aggregated number
+aggregation request
+alloc
+allocation request
+allocation size
+alter table
+analysis time
+anchor key
+antlr
+apikey
+appID
+appender
+appenders
+appid
+apply ORDER
+approximate count
+approximate key
+apps
+arbitrary name
+arbitrary names
+archive directory
+area directory
+arena size
+arn
+array size
+array slice
+array stores
+article code
+artifact directory
+artifact names
+asf
+associated directory
+associative array
+asynchronous table
+attempt ID
+attempt directory
+attempt number
+attempt times
+attr2
+auth method
+auths
+autoconf
+automake
+autonumber
+autotools
+available size
+average cluster
+average time
+avg
+avro
+awesomesauce
+aws
+backing files
+backoff
+backoff policy
+backport
+backported
+backports
+backticks
+basedir
+batch key
+batch mutation
+batch row
+batch size
+benchmark cluster
+big cluster
+big table
+bigtable
+binary distribution
+binary fields
+binary key
+binary prefix
+binary secret
+binary service
+binary tree
+binary type
+bit key
+bit vector
+bits directory
+block files
+block keys
+block level
+block size
+block sizes
+blocks size
+bloom filter
+bloom filters
+boot time
+bucket name
+bucket number
+bucket size
+bulk directory
+bulkload
+button name
+byte allowed
+byte copy
+byte exists
+byte follows
+byte overhead
+byte per
+byte quotas
+byte range
+byte size
+byte space
+byte split
+bytes apiece
+bytes arrays
+bytes count
+bytes key
+bytes referred
+bytes token
+cache access
+cache blocks
+cache capacity
+cache directory
+cache entry
+cache files
+cache instance
+cache limit
+cache memory
+cache metrics
+cache pool
+cache service
+cache size
+cache usage
+cache value
+cacheable
+cached block
+cached blocks
+cached entries
+cached files
+cached table
+caching blocks
+caching values
+call queue
+capacity cluster
+capacity limits
+capacity numbers
+capacity unit
+capacity usage
+carry table
+catalog table
+cell bytes
+cell key
+cell level
+cell number
+cell value
+certain time
+cgroup
+cgroups
+chain order
+change number
+change request
+changed files
+changing name
+check time
+checkout code
+checkout directory
+checkpoint files
+checkpointed
+checks files
+checks size
+checkstyle
+checksum error
+checksum errors
+checksum files
+checksum information
+checksum name
+checksum type
+checksum verification
+chgrp
+chown
+chunked value
+classnames
+classpaths
+client ID
+client cache
+client call
+client instance
+client name
+client policy
+client scanner
+client service
+client token
+client version
+cloned list
+cluster Federation
+cluster ID
+cluster access
+cluster capacity
+cluster communication
+cluster connection
+cluster cost
+cluster directory
+cluster failure
+cluster free
+cluster identifier
+cluster information
+cluster key
+cluster layout
+cluster level
+cluster manager
+cluster metrics
+cluster name
+cluster node
+cluster nodes
+cluster performance
+cluster replication
+cluster resources
+cluster services
+cluster size
+cluster space
+cluster specified
+cluster state
+cluster status
+cluster topology
+cmdline
+cmds
+col4
+colname
+column alias
+column comparison
+column date
+column descriptor
+column families
+column family
+column key
+column keys
+column level
+column list
+column mapping
+column metadata
+column names
+column node
+column order
+column paths
+column prefix
+column prefixes
+column pruning
+column qualifier
+column qualifiers
+column range
+column reference
+column references
+column schema
+column statistics
+column stored
+column table
+column titles
+column type
+column types
+column vectors
+columns names
+columns values
+combined size
+commandline
+commit message
+committer
+committers
+common code
+compactable
+compacted files
+compaction request
+compaction state
+compactor
+compare key
+compare keys
+comparer
+compares size
+compat
+compatibility level
+complete key
+complete row
+complete size
+completed order
+completion service
+completion time
+complex filter
+composable
+composite key
+composite service
+compress key
+compressed blocks
+compressed format
+compressed value
+compression levels
+compute cost
+concurrent requests
+conf
+confdir
+confidence level
+configration
+configs
+configurable number
+configuraiton
+configured number
+configured size
+confs
+connected cluster
+connection configuration
+connection creation
+consistency level
+constant true
+constuctor
+container name
+container request
+context array
+context name
+context state
+contrib
+control list
+coprocessor
+coprocessors
+copy code
+copy files
+core request
+core size
+correct format
+corrupt blocks
+corrupt files
+corrupted files
+count threshold
+counter format
+counter limit
+counter name
+counter names
+counts row
+cq
+create call
+create node
+create table
+created directories
+created time
+creating Table
+creating cells
+creating table
+credential store
+cron
+crypto
+ctor
+customer number
+customer table
+data access
+data accessed
+data age
+data aggregation
+data analytics
+data applies
+data availability
+data backup
+data block
+data blocks
+data columns
+data compaction
+data copies
+data decompression
+data directory
+data discovery
+data distribution
+data diverges
+data encoded
+data encryption
+data encryption key
+data fails
+data generated
+data generator
+data grows
+data irrespective
+data lake
+data leakage
+data lives
+data loads
+data local
+data locality
+data migration
+data node
+data nodes
+data nucleus
+data paths
+data per
+data private
+data processed
+data producer
+data reads
+data recovery
+data reliability
+data replicated
+data replication
+data resides
+data resiliency
+data root
+data sampled
+data scanned
+data scans
+data schema
+data security
+data size
+data sizes
+data statistics
+data tables
+data tens
+data transferred
+data twice
+data unavailability
+data upon
+data world
+database directory
+database name
+database names
+database service
+database store
+databind
+datablock
+datafiles
+datanode
+datanodes
+datanucleus
+datastore
+daterange
+dbcp
+dbname
+ddl
+dead values
+deallocate
+decent number
+decimal type
+decryptor
+dedicated directory
+defalt
+defined name
+del files
+delegation token identifier
+delegation token secret manager
+delete Table
+delete table
+deleted files
+delta directory
+delta files
+denormalized
+dependent table
+deprecated name
+dequoted name
+deserializer
+desired size
+destination cluster
+destination directories
+destination table
+deterministic order
+dev
+dfs
+dfsadmin
+diagnositic
+diffed
+digest bytes
+directory count
+directory number
+directory quota
+disable time
+disabled table
+disabling table
+discrete value
+disk blocks
+disk bytes
+disk capacity
+disk checks
+disk device
+disk format
+disk location
+disk reads
+disk services
+disk size
+disk statistics
+disk storage
+disk table
+disk usage
+disk writes
+disruptor
+dist
+distant cluster
+distcp
+distributed cluster
+dmesg
+double colon
+double comparison
+double constant
+double cost
+double format
+double literal
+drop table
+dryrun
+dump directory
+duplicate name
+earliest time
+edit files
+edits directory
+edits files
+elasped time
+emps
+empty cells
+empty key
+empty memory
+empty response
+emtpy
+encoded entries
+encoded values
+encoding code
+encoding state
+encoding time
+encrypted Key
+encrypted bytes
+encrypted key
+encrypted zone
+encryption algorithms
+encryption information
+encryption key
+encryption keys
+encryption scheme
+encryption status
+encryption type
+encryption zone
+encryption zones
+end key
+end keys
+end state
+end status
+end store
+enddate
+engine name
+entire cluster
+entire filter
+entire order
+entire row
+entry number
+entry size
+ephemeral node
+equal number
+equi
+error allowed
+error bounds
+error due
+error heuristic
+error indicates
+error property
+error rate
+error response
+error result
+error token
+error tracker
+estimation size
+every row
+eviction time
+exclude pattern
+exec call
+executable directory
+execution error
+existing Table
+existing cluster
+existing table
+exit codes
+expert level
+expired keys
+expiry interval
+expiry time
+explicit files
+export command
+export directory
+export numbers
+export table
+export time
+extant files
+external table
+extract entries
+fact table
+factors number
+fail message
+failed directory
+failed requests
+failover
+failovers
+failure condition
+failure count
+failure detection
+failure info
+failure number
+failure status
+failure types
+family path
+fastpath
+feature requests
+fetch block
+fetch status
+fetch table
+fieldID
+fileID
+filepath
+filesink
+filesize
+filesystem
+filter cells
+filter incompatibility
+filter initialization
+filter list
+filter name
+filter operates
+filter pattern
+filter type
+final name
+findbugs
+finish time
+fixed row
+flow level
+flow name
+flush cache
+flush interval
+flush period
+flush request
+flush time
+forall
+foreign keys
+format table
+forrest
+fsck
+fsimage format
+full table
+gang size
+gen size
+generated format
+generation time
+generic filter
+gids
+github
+given Cell
+given List
+given Mutation
+given Store
+given Table
+given Token
+given block
+given capability
+given cell
+given collation
+given columns
+given credentials
+given database
+given dimension
+given family
+given identifier
+given info
+given label
+given list
+given metastore
+given metric
+given objects
+given peer
+given permissions
+given principal
+given procedure
+given properties
+given quota
+given results
+given rows
+given scan
+given servers
+given split
+given states
+given store
+given stores
+given subject
+given table
+given token
+given types
+global directory
+global filters
+global level
+global number
+good number
+gpg
+group blocks
+group entry
+group hierarchy
+group info
+group information
+group key
+group level
+group mapping
+group membership
+group row
+group type
+group value
+grouping columns
+grouping keys
+groupname
+groups list
+guid
+hadoop
+hardlink
+hash aggregation
+hash key
+hbase
+hcat
+hcatalog
+hdfs
+header byte
+health checker
+heap Block
+heap bytes
+heap size
+heap sizes
+heap usage
+heapsize
+heartbeat code
+heartbeat interval
+heartbeat message
+heartbeat messages
+hex format
+hfile
+hfiles
+hflush
+hierarchy level
+high availability
+high code
+high latency
+high memory
+history directory
+history files
+history format
+history store
+history version
+hive metastore
+hlog
+home node
+home path
+host files
+host2
+host3
+hsync
+http address
+http location
+http methods
+http policy
+http services
+httpclient
+huge size
+iSCSI
+iSQL
+immutable table
+implemenation
+impls
+imply order
+import command
+increased number
+incremental amount
+index block
+index entries
+index information
+index path
+index search
+index size
+index table
+indicated size
+info key
+initialize time
+inline code
+input Paths
+input Scan
+input batch
+input column
+input columns
+input description
+input directories
+input directory
+input files
+input filter
+input folders
+input format
+input key
+input keys
+input paths
+input policies
+input policy
+input query
+input records
+input references
+input request
+input row
+input rows
+input scan
+input signature
+input size
+input split
+input splits
+input statistics
+input strategy
+input table
+input tables
+input topology
+input trace
+input vectors
+insecure cluster
+instance name
+instant name
+int8
+integer counter
+integer identifier
+integer list
+integer metric
+integer size
+intermediate files
+intermediate format
+intermediate key
+internal name
+interval value
+intra row
+ipc
+irbrc
+irc
+isql
+item number
+javadocs
+jdo
+jira
+jiras
+jobID
+jobid
+jobtracker
+joda
+join keys
+join order
+jruby
+jsp
+jstack
+jsvc
+junit
+jvms
+kerberized
+key area
+key boundaries
+key comparison
+key definition
+key deletion
+key duration
+key element
+key fields
+key format
+key matches
+key part
+key per
+key portion
+key prefix
+key provider
+key range
+key request
+key retrieval
+key sent
+key series
+key space
+key storage
+key vector
+key version
+keylist
+keypairs
+keys list
+keyspace
+keyvalue
+kill request
+kinit
+labels table
+large cluster
+large clusters
+large code
+large requests
+large store
+large table
+larger files
+larger table
+largest table
+latency metrics
+ldd
+leaf level
+leaf name
+least number
+length Key
+length block
+length key
+less number
+level filters
+leveldb
+lexical error
+libs
+libtool
+limit count
+limit number
+live cluster
+live node
+load balancer
+load cell
+load files
+load generator
+load information
+loads files
+local aggregation
+local blocks
+local branch
+local cache
+local cluster
+local copies
+local directories
+local directory
+local disk
+local memory
+local node
+local program
+local rate
+local read
+local reads
+local repository
+local resource
+local size
+local source
+local store
+localized files
+location number
+lock info
+lock limit
+lock node
+lock queues
+lock request
+lock table
+lockless
+log directories
+log directory
+log key
+log replication
+log roll
+log status
+log4J
+log4j
+logins
+logs directory
+long amount
+long comparison
+long constant
+long counter
+long identifier
+long keys
+long metric
+long period
+long quantity
+long requests
+longer time
+lookup time
+lsr
+ltt
+lz4
+lzo
+lzop
+machine cluster
+machine level
+mapred
+mapreduce
+master address
+master cluster
+master info
+master instance
+master key
+master keys
+master level
+master node
+master service
+match code
+max count
+max length
+max number
+max period
+max precision
+max sequence
+max time
+max versions
+maximal number
+maximal time
+maximum bandwidth
+maximum bytes
+maximum capability
+maximum capacity
+maximum count
+maximum delay
+maximum download
+maximum heap
+maximum lifetime
+maximum percentage
+maximum periodicity
+maximum put
+maximum resource
+maximum resources
+maximum threshold
+maximum versions
+meetup
+mega bytes
+memory Compaction
+memory attribute
+memory availability
+memory boundary
+memory caching
+memory cluster
+memory compaction
+memory copies
+memory dedicated
+memory errors
+memory estimation
+memory exception
+memory index
+memory info
+memory intensive
+memory limit
+memory limits
+memory load
+memory lock
+memory merge
+memory needed
+memory parameters
+memory per
+memory pressure
+memory replicas
+memory requested
+memory requirement
+memory reserved
+memory restrictions
+memory segment
+memory shuffle
+memory sizes
+memory sorting
+memory state
+memory states
+memory statistics
+memory store
+memory systems
+memory table
+memory token
+memstore
+merge request
+merge table
+merged directory
+meta block
+meta store
+meta table
+metadata Table
+metadata store
+metadata table
+metainfo
+metric info
+metric level
+metric name
+metric names
+metric range
+metric size
+metric value
+metrics cache
+metrics collected
+metrics collector
+metrics context
+metrics filter
+metrics implementation
+metrics info
+metrics instance
+metrics names
+metrics records
+metrics registry
+metrics related
+metrics reporting
+metrics source
+metrics sources
+metrics subsystem
+metrics system
+metrics tag
+metrics2
+millisec
+minimum allocation
+mkdirs
+mlock
+mmaped
+mmapped
+mob files
+mob store
+mockito
+mongodb
+monitor interval
+monitor status
+monitor table
+mountd
+mountpoints
+move files
+moving files
+murmurhash values
+mutable number
+mutation request
+mvcc
+mvn
+mysql
+mytable
+nagios
+namenode
+nameservice
+netgroup
+netty
+network topology
+next cell
+next key
+nfs
+nfsd
+ngrams
+noatime
+node cluster
+nohup
+nolock
+notifier
+nproc
+null entries
+null fields
+null order
+numeric order
+object pool
+object store
+odbc
+old format
+online table
+oozie
+open call
+open instance
+operation handle
+operation level
+operation type
+optimal number
+optimal value
+optimize number
+orc
+output Key
+output Partition
+output batch
+output collector
+output column
+output compressed
+output descriptor
+output directories
+output directory
+output duration
+output fields
+output filter
+output folder
+output key
+output keys
+output locations
+output metadata
+output name
+output pairs
+output path
+output paths
+output privileges
+output processor
+output read
+output recovery
+output resides
+output result
+output results
+output row
+output schema
+output specification
+output storage
+output structure
+output table
+output tables
+output trace
+output vectors
+overwhelming number
+owner name
+parametrized
+paramters
+parent row
+parse code
+part files
+particular block
+particular prefix
+particular table
+partition directory
+partition filter
+partition key
+partition keys
+partition level
+partition list
+partition name
+partition names
+partition number
+partition size
+partition value
+partition values
+partitioned table
+partiton
+passed Table
+passed directory
+passed list
+passed name
+passed table
+past time
+path array
+path property
+pattern filter
+peer cluster
+pending memory
+pentaho
+per table
+per time
+percentile values
+perf
+performance code
+performance evaluation
+periodic key
+permissible size
+permission values
+persistent state
+physical location
+pipelined
+plugin
+plugins
+point key
+pom files
+port search
+portmap
+positive rate
+potential cluster
+potential size
+ppr
+pre order
+pread
+precision number
+precommit
+predicate information
+predicate pushdown
+prefix tree
+pretty format
+primary filter
+primary filters
+primitive field
+primitive keys
+privilege level
+privilege name
+proccesses
+procs
+production cluster
+program names
+progress fields
+project files
+proper name
+proper values
+protection code
+protobuf
+protobufs
+protoc
+protos
+provided bytes
+proxied
+pull request
+purge time
+put files
+put request
+puts request
+puzzle files
+qa
+ql
+quantile
+quantiles
+query level
+query time
+queue name
+queue order
+queue state
+quickstart
+quite time
+quota policy
+quota rules
+quota size
+quota state
+quota table
+quota usage
+rack name
+ramdisk
+random row
+range list
+range request
+raw scan
+rdbms
+rdiff
+read element
+read entity
+read errors
+read path
+read pattern
+read performance
+read queue
+read queues
+read requests
+read time
+read type
+readahead
+reading keys
+reading length
+real cluster
+reasonable time
+rebase
+record reader
+record writer
+recovery time
+reduce directory
+reduced table
+reduction keys
+reference cell
+reference files
+referenced files
+referencing files
+refresh requests
+regionserver
+regionservers
+regular number
+regular row
+regular time
+reinitialization
+relational store
+relative paths
+release time
+remote block
+remote blocks
+remote cluster
+remote context
+remote name
+remote node
+remote nodes
+remote service
+rename files
+repeated key
+repeating values
+replication count
+replication factor
+replication level
+replication number
+replication peer
+replication peers
+replication queues
+replication rate
+replication service
+replication source
+replication sources
+replication state
+replication streams
+replication system
+replication tree
+repo
+reported values
+reporter type
+repos
+request size
+requisite number
+reserved memory
+reserved number
+resolvers
+resource allocation
+resource availability
+resource contention
+resource estimator
+resource request
+resource requests
+resource type
+resource usages
+resource value
+response size
+restore request
+result size
+results list
+resync
+retention size
+retrieved row
+retry accounting
+retry attempt
+retry attempts
+retry cache
+retry caller
+retry count
+retry counter
+retry cycle
+retry forever
+retry interval
+retry logic
+retry period
+retry policy
+retry times
+right level
+right number
+rm
+rmr
+role names
+root block
+root column
+root directory
+root location
+root privileges
+root queue
+root value
+rootdir
+row bytes
+row format
+row group
+row key
+row keys
+row level
+row lock
+row matches
+row prefix
+row range
+row schema
+row size
+rowkey
+rows list
+rpc call
+rpcs
+rr
+rs3
+rsgroup
+running cluster
+running state
+running time
+s3
+s3a
+safemode
+scala
+scan filter
+scan info
+scan range
+scan request
+schema creation
+schema version
+schemaless
+scp
+scratch directory
+script time
+search time
+secret directory
+secret manager
+secure access
+secure cluster
+secure clusters
+secure registries
+secure service
+secure token
+security entity
+security system
+seek key
+select files
+selected directory
+selected files
+separate directory
+separate row
+separate table
+sequence ID
+sequence files
+sequence response
+sequential number
+serde
+serialized bytes
+serialized keys
+serialized size
+serialized value
+serialized values
+serialized vector
+serializers
+serverside
+service ID
+service application
+service calls
+service definition
+service entry
+service failure
+service instances
+service invocation
+service key
+service length
+service registry
+service state
+service store
+service version
+servlet filter
+session identifier
+sessionid
+sftp
+share files
+shared cluster
+shared directory
+shared store
+shm
+short amount
+short circuit
+short order
+short requests
+short size
+short version
+shortcircuit
+shutdown time
+side cache
+side call
+side code
+side encryption
+side error
+side files
+side filter
+side information
+side memory
+side metrics
+side properties
+side table
+signal request
+signal table
+signal value
+simple array
+single Region
+single column
+single compaction
+single computation
+single constant
+single count
+single domain
+single location
+single machine
+single metric
+single patch
+single qualifier
+single queue
+single replication
+single scan
+single split
+single state
+single stripe
+single table
+single transaction
+single word
+site files
+size table
+skewed keys
+skewed table
+skip key
+skippable
+skipped files
+slave cluster
+slave node
+slave nodes
+slf4j
+slow cluster
+small blocks
+small files
+small table
+smaller level
+smb
+sname
+snapshot directory
+snapshot files
+snapshot information
+snapshot level
+snapshot name
+snapshot size
+snapshot state
+snapshottable directory
+snapshotting
+socket level
+sorted array
+sorting files
+sorting keys
+sorting order
+source checksum
+source cluster
+source control
+source length
+source level
+source paths
+source row
+source state
+source table
+source tables
+space image
+space quota
+space usage
+specfied
+specific Table
+specific table
+specified Cell
+specified cell
+specified cells
+specified counter
+specified family
+specified keys
+specified lock
+specified master
+specified metric
+specified nodes
+specified procedure
+specified qualifier
+specified rack
+specified root
+specified table
+split request
+split size
+split table
+splittable
+ssd
+ssh
+stability level
+standy
+start code
+start key
+start keys
+start row
+start time
+start times
+startcode
+startdate
+state name
+statistic entries
+statistics key
+statistics stored
+statistics table
+statistics values
+status description
+status entries
+status filter
+status message
+step number
+stop row
+stopword
+storage account
+storage capacity
+storage cluster
+storage descriptor
+storage descriptors
+storage directories
+storage directory
+storage efficiency
+storage endpoint
+storage fault
+storage format
+storage formats
+storage information
+storage layer
+storage location
+storage locations
+storage mechanisms
+storage media
+storage nodes
+storage overhead
+storage permissions
+storage policies
+storage policy
+storage properties
+storage ratio
+storage service
+storage solution
+storage statistics
+storage system
+storage systems
+storage table
+storage timeline
+storage type
+storage types
+storage unit
+storage volumes
+store blocks
+store compaction
+store counts
+store directory
+store file
+store files
+store level
+store scanner
+store sizes
+store value
+storer
+stores files
+stores table
+string column
+stripe size
+stripe store
+striped files
+structs
+sub directory
+submission code
+submit time
+subprocedure
+subproject
+subprojects
+success status
+summary message
+summing size
+supplied cluster
+svn
+swappiness
+sym
+symmetric key
+syslogs
+system access
+system directory
+system location
+system table
+system variable
+table Properties
+table T1
+table TABLE
+table access
+table alias
+table aliases
+table already
+table archive
+table basis
+table called
+table character
+table compaction
+table coprocessor
+table created
+table creates
+table creation
+table definition
+table descriptor
+table descriptors
+table directories
+table directory
+table discovery
+table exists
+table files
+table filter
+table function
+table group
+table identification
+table indexes
+table information
+table integrity
+table key
+table level
+table link
+table links
+table location
+table lock
+table lookup
+table metadata
+table monitor
+table named
+table names
+table node
+table normalization
+table parameter
+table permission
+table permissions
+table pool
+table properties
+table property
+table quota
+table quotas
+table read
+table referenced
+table refers
+table regardless
+table replication
+table restore
+table scan
+table scope
+table snapshot
+table source
+table specified
+table state
+table status
+table storage
+table t1
+table types
+table write
+tablename
+tag list
+tag names
+tarball
+tarballs
+task counters
+task names
+task number
+taskid
+tasktracker
+tbl
+temp directory
+temp table
+templatized
+temporary table
+text values
+textual format
+tez
+tfile
+tgz
+threshold level
+threshold number
+threshold size
+threshold time
+thrift server
+thrift service
+time Sample
+time checks
+time dimension
+time errors
+time granularity
+time length
+time low
+time ordering
+time range
+time ranges
+time series
+time vector
+timedout
+timeline store
+timer value
+timeseries
+tmpfs
+toJSON
+todo
+token cache
+token identifier
+token service
+token store
+topic name
+total Resource
+total input
+total memory
+total values
+trace level
+tracking files
+traffic control
+transfer size
+transformed row
+trash directory
+trichotomous value
+trie
+true size
+truncate table
+tsv
+txn
+typed bytes
+typed fields
+typed values
+uber
+udf
+ugi
+ulimit
+ultimate control
+umount
+unarchived
+uncompressed format
+unconfigured
+underlying bytes
+underlying table
+unrecognized value
+untar
+update request
+upgradable
+uploader
+ustring
+values array
+variable substitution
+vcore
+vector header
+vector length
+vector result
+vertex name
+view names
+violation message
+violation policy
+virtual memory
+vtable
+vtables
+wait period
+warn level
+web filters
+web link
+web proxy
+web request
+web response
+webUI
+webapp
+webapps
+webui
+whole cluster
+whole row
+whole table
+wire format
+wordcount
+work directory
+worker node
+writables
+write checksum
+write key
+write patterns
+write queue
+write records
+write requests
+writes block
+writes keys
+xattr
+xattr name
+xattrs
+xdoc
+xdocs
+xzvf
+yarn application
+yarn cluster
+yarn registry
+yz
+zero status
+zk
+znode
+znodes
+zookeeper
