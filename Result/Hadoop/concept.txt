@@ -1,2069 +1,2069 @@
-<ACID table>
-<ACID>
-<ACKs, Ack, ack>
-<ACL, ACLS, ACLs, Acl, Acls, acl, acls>
-<ADL, adl>
-<ADMIN, Admin, Admins, admin, admins>
-<AES encryption>
-<AES key>
-<AES>
-<ALTER INDEX>
-<ALTER TABLE, Alter Table, Alter table, alter table>
-<ALTER>
-<AMRM>
-<ANDs>
-<ANTLR, antlr>
-<ARN, arn>
-<ASCII Table>
-<ASCII>
-<ASF, Apache Software Foundation, asf>
-<ASM>
-<AVG, avg>
-<AVL>
-<AVRO, Avro, avro>
-<AWS, Amazon Web Services, aws>
-<Acceptance time, acceptance time>
-<Access restriction, access restriction>
-<Accumulo, accumulo>
-<Active Directory, active directory>
-<Active state, active state>
-<Add value, add value>
-<Added time>
-<Aggr>
-<Aliyun>
-<Anonymizer>
-<Apache Software License>
-<Appender, appender, appenders>
-<Apply order, apply ORDER>
-<Apps, appID, appid, apps>
-<Apriori>
-<Architecture level>
-<Arpit>
-<Attempt State>
-<Authentication filter>
-<Automated code>
-<Average Time, average time>
-<BC size>
-<BFS>
-<BYTES code>
-<BYTES>
-<Backport, Backported, Backports, backport, backported, backports>
-<Backticked names>
-<Batch size, batch size>
-<Big Table, big table>
-<Bigtable, bigtable>
-<Binary Type, Binary type, binary type>
-<Block Cache, Block cache>
-<Block Pool>
-<Block Storage>
-<Block size, block size, block sizes, blocks size>
-<Bloom Block, Bloom block>
-<Bloom Filter, Bloom Filters, Bloom filter, Bloom filters, bloom filter, bloom filters>
-<Bloom information>
-<Bucket size, bucket size>
-<Bucketized Table>
-<CFD>
-<CHOWN, chown>
-<CIDR>
-<CNAMEs>
-<CONF, Conf, Configs, conf, configration, configs, configuraiton, confs>
-<CORS>
-<CPU count>
-<CPU frequency>
-<CPU limit>
-<CPU requests>
-<CPU>
-<CQ, Column Qualifier, Column qualifiers, column qualifier, column qualifiers, cq>
-<CRCs>
-<CRLA>
-<CSRF>
-<CTAS>
-<CTR>
-<Cache Key>
-<Cache files, cache files, cached files>
-<Cache pool, Cache pools, cache pool>
-<Cache size, cache size>
-<Cached bytes>
-<Cached list>
-<Capacity Unit, capacity unit>
-<Check table>
-<Checkstyle, checkstyle>
-<Checksum verification, checksum verification>
-<Chukwa>
-<Client policy, client policy>
-<Cloudera>
-<Cluster Application>
-<Cluster Information, cluster information>
-<Cluster Metrics, cluster metrics>
-<Cluster Node, Cluster Nodes, cluster node, cluster nodes>
-<Cluster Replication, Cluster replication, cluster replication>
-<Cluster Reservation>
-<Cluster Web>
-<Cluster connection, cluster connection>
-<Cluster registry>
-<Cluster size, cluster size>
-<Cluster topology, cluster topology>
-<Column Families, Column Family, Column families, Column family, column families, column family>
-<Column Level, Column level, column level>
-<Column Metadata, column metadata>
-<Column Names, Column names, column names, columns names>
-<Column Prefixes, column prefix, column prefixes>
-<Column Pruner>
-<Column Pruning, column pruning>
-<Column Specification>
-<Column Statistics, Column statistics, column statistics>
-<Column Type, column type, column types>
-<Commit Message, commit message>
-<Committer, Committers, committer, committers>
-<Common Table>
-<Compactor, compactor>
-<Compare bytes>
-<Compare key, compare key, compare keys>
-<Composite service, composite service>
-<Compress key, compress key>
-<Compressed Value, Compressed value, compressed value>
-<Compressed blocks, compressed blocks>
-<Container request, container request>
-<Control List, control list>
-<Coprocessor, Coprocessors, coprocessor, coprocessors>
-<Copy bytes>
-<Copy files, copy files>
-<Corrupt files, Corrupted Files, corrupt files, corrupted files>
-<Create Table, Create table, create table, creating Table, creating table>
-<Create call, create call>
-<Cron, cron>
-<Crypto, crypto>
-<Customer number, customer number>
-<DAO>
-<DATA LOCAL, Data Locality, Data locality, data local, data locality>
-<DATA blocks, Data Block, Data Blocks, Data block, data block, data blocks>
-<DATA, Datanode, Datanodes, datanode, datanodes>
-<DDL, DDLs, ddl>
-<DDOS>
-<DFS, dfs, dfsadmin>
-<DFW>
-<DML>
-<DN, database name, database names>
-<DPP>
-<DROP TABLE, Drop Table, Drops table, drop table>
-<DROP>
-<Data Access, data access>
-<Data Distribution, data distribution>
-<Data Encryption, Data encryption, data encryption>
-<Data Ingest>
-<Data Lake, data lake>
-<Data Migration, data migration>
-<Data Node, Data Nodes, data node, data nodes>
-<Data Nucleus, data nucleus>
-<Data Processing>
-<Data Size, Data size, data size, data sizes>
-<Data capture>
-<Data consumer>
-<Data generated, data generated, data generator>
-<Data moved>
-<Data restatement>
-<Database Service, database service>
-<Datastore, datastore>
-<Deafult value>
-<Decimal type, decimal type>
-<Decrease rate>
-<Defalt value>
-<Delete Table, Delete table, delete Table, delete table>
-<Delete family>
-<Deleted files, deleted files>
-<Deserializer, deserializer>
-<Directory specification>
-<Disk usage, disk usage>
-<Dist, dist>
-<DistCP, Distcp, distcp>
-<Driver code>
-<Duplicate Filters>
-<DynamoDB>
-<Earlier code>
-<Eclipse files>
-<Encode values, encoded values>
-<Encrypted Key, encrypted Key, encrypted key>
-<Encryption Zone, encryption zone, encryption zones>
-<Entry instance>
-<Entry size, entry size>
-<Error Response, Error response, error response>
-<Error rate, error rate>
-<Estimate size>
-<Execution Types>
-<Existing Table, existing Table, existing table>
-<Exit codes, exit codes>
-<Expert level, expert level>
-<Export Table, Export table, export table>
-<FLOAT code>
-<FLOAT>
-<Failover, failover, failovers>
-<Failure detection, failure detection>
-<Failure info, failure info>
-<Fetch block, fetch block>
-<Fetch table, fetch table>
-<Field numbers>
-<Filesystem, filesystem>
-<FilterPPR filter>
-<Findbugs, findbugs>
-<Finish time, finish time>
-<Flajolet>
-<Flow name, flow name>
-<Flush interval, flush interval>
-<Forrest, forrest>
-<Fsck, fsck>
-<Full table, full table>
-<GB size>
-<GPG, gpg>
-<GUID, guid>
-<Generates name>
-<Github, github>
-<Group Membership, group membership>
-<Group entry, group entry>
-<Group information, group info, group information>
-<HAR, hardlink>
-<HBASE, Hbase, hbase>
-<HCD>
-<HDFS Storage, HDFS storage>
-<HDFS, Hadoop Distributed File System, hdfs>
-<HEAD request>
-<HEAD>
-<HFDS>
-<HLL>
-<HQL>
-<HRI>
-<HTTP Operations>
-<HTTP Tools>
-<HTTP access>
-<HTTP connections>
-<HTTP endpoint>
-<HTTP equivalent>
-<HTTP methods, http methods>
-<HTTP policy, http policy>
-<HTTP verbs>
-<HTTP, Httpclient, httpclient>
-<HWI>
-<Hadooop, Hadoop, hadoop>
-<Hadoop Archive>
-<Hardware access>
-<Hash aggregation, hash aggregation>
-<Heap usage, heap usage>
-<Heartbeat message, Heartbeat messages, heartbeat message, heartbeat messages>
-<Hftp>
-<High Availability, High availability, high availability>
-<History Files, history files>
-<Hive Metastore, Hive metastore, hive metastore>
-<Hive directory>
-<Hortonworks>
-<Http address, http address>
-<Huai>
-<IAM>
-<INDEX>
-<IPC, ipc>
-<IRB, irbrc>
-<IRC, irc>
-<Index code>
-<Index table, index table>
-<Inodes>
-<Input Key, Input key, Input keys, input key, input keys>
-<Input Split, Input splits, input split, input splits>
-<Input Table, Input table, input table, input tables>
-<Input format, input format>
-<Input query, input query>
-<Input records, input records>
-<JAAS configuration>
-<JAAS>
-<JCODE>
-<JDA>
-<JDBM>
-<JDO, JDOQL, jdo>
-<JIRA, JIRAS, JIRAs, Jira, Jiras, jira, jiras>
-<JMS>
-<JNs, Job names>
-<JOBID, JobID, jobID, jobid>
-<JPOX>
-<JSONP>
-<JSP, jsp>
-<JVM metrics>
-<JVM, JVMs, jvms>
-<JavaCC>
-<Javadocs, javadocs>
-<Jobtracker, jobtracker>
-<Joda, joda>
-<Jodd>
-<Join keys, join keys>
-<Junit, junit>
-<KFS>
-<Kerberized, kerberized>
-<LCE>
-<LIST code>
-<LIST>
-<LLAP>
-<LOCAL>
-<LQI>
-<LZ4, lz4>
-<LZO, Lzo, lzo>
-<LZOP, Lzop, lzop>
-<Large Clusters, large cluster, large clusters>
-<Latency metrics, latency metrics>
-<LevelDB, leveldb>
-<Libaries>
-<Lipcon>
-<Local Reads, local read, local reads>
-<Local directory, local directories, local directory>
-<Local memory, local memory>
-<Local metastore>
-<Lock times>
-<Log directory, log directories, log directory, logs directory>
-<Log4J, Log4j, log4J, log4j>
-<MB size>
-<MB value>
-<META table, meta table>
-<META, metainfo>
-<MVCC, mvcc>
-<MVN, mvn>
-<MYSQL, MySQL, mysql>
-<Management Committee>
-<Map files>
-<Mapreduce, mapred, mapreduce>
-<Master Info, master info>
-<Master Key, master key, master keys>
-<Master Node, master node>
-<Master Service, master service>
-<Max length, max length>
-<Max number, max number>
-<Max precision, max precision>
-<Max time, max time>
-<Maximum capability, maximum capability>
-<Maximum capacity, maximum capacity>
-<Maximum lifetime, maximum lifetime>
-<Meetup, meetup>
-<Memory load, memory load>
-<Memory needed, memory needed>
-<Memory state, memory state, memory states>
-<Memory store, memory store>
-<Meta Block, Meta block, meta block>
-<Meta Store, meta store>
-<Metadata Store, Metadata store, metadata store>
-<Metastore filter>
-<Metastore key>
-<Metrics Sources, metrics source, metrics sources>
-<Metrics Subsystem, metrics subsystem>
-<Metrics implementation, metrics implementation>
-<Metrics information, metric info, metrics info>
-<Metrics instance, metrics instance>
-<Metrics names, metric name, metric names, metrics names>
-<Metrics related, metrics related>
-<Metrics system, metrics system>
-<Metrics2, metrics2>
-<Minimum period>
-<Mockito, mockito>
-<Mount table>
-<Moves files, Moving files, move files, moving files>
-<Multi Table>
-<NDV>
-<NFS, nfs>
-<NLM>
-<NN, NNs>
-<NPE>
-<NULL entries, null entries>
-<NULL fields, null fields>
-<NULL>
-<Namenode, namenode>
-<Namit>
-<Netty, netty>
-<Node Cluster, node cluster>
-<ODBC, odbc>
-<OI, open instance>
-<OLAP>
-<OLTP>
-<OOM>
-<ORC, Orc, orc>
-<ORDER table>
-<ORDER>
-<ORM>
-<Object Store, object store>
-<Oozie, oozie>
-<Open call, open call>
-<Output Key, output Key, output key, output keys>
-<Output pairs, output pairs>
-<Output path, output path, output paths>
-<Output table, output table, output tables>
-<PAM>
-<PCI>
-<PDU>
-<PKI>
-<PMC>
-<PMOD>
-<POJO>
-<POM files, pom files>
-<POM>
-<PPID>
-<PTF, PTFs>
-<PUT Request, PUT request, Put request, Put requests, put request, puts request>
-<PUT>
-<Palo>
-<Parameters table>
-<Partition cluster>
-<Partition files>
-<Partition keys, partition key, partition keys>
-<Partition size, partition size>
-<Partition values, partition value, partition values>
-<Patch name>
-<Physical size>
-<Plugin, Plugins, plugin, plugins>
-<PoV>
-<Policy Generator>
-<Policy Store>
-<Pradeep>
-<Prasad>
-<Predicate Pushdown, Predicate pushdown, predicate pushdown>
-<Primary Filter, Primary filter, Primary filters, primary filter, primary filters>
-<Procedure Types>
-<Procedure code>
-<Process row>
-<Processes block>
-<Protobuf, Protobufs, protobuf, protobufs>
-<Protos, protoc, protos>
-<Pull Request, pull request>
-<Puzzle files, puzzle files>
-<QA, qa>
-<QL, ql, query level>
-<Quantiles, quantile, quantiles>
-<Queue name, queue name>
-<Quota Type>
-<RCN>
-<RCP>
-<RCX>
-<RDBMS, RDBMSs, rdbms>
-<RDD, RDDs>
-<RDL>
-<REST call>
-<REST requests>
-<REST server>
-<REST>
-<RHEL>
-<RM, RMs, Rm, reserved memory, rm>
-<RPC call, rpc call>
-<RPC connection>
-<RPC server>
-<RPC, RPCs, rpcs>
-<RR, RRs, Random row, random row, rr>
-<RS3, rs3>
-<RSC>
-<RTP>
-<RTRIM>
-<Rack name, rack name>
-<Rackspace>
-<Record reader, record reader>
-<Record writer, record writer>
-<Recursive version>
-<Reduce number>
-<Reference files, reference files, referenced files, referencing files>
-<Region state>
-<Registry Security>
-<Registry Service>
-<Relative paths, relative paths>
-<Remote directory>
-<Replaces files>
-<Replicate Table>
-<Replication Factor, Replication factor, replication factor>
-<Replication System, replication system>
-<Replication source, replication source, replication sources>
-<Reporter type, reporter type>
-<Repos, repo, repos>
-<Request service>
-<Request size, request size>
-<Resource Allocation, Resource allocation, resource allocation>
-<Resource Request, resource request, resource requests>
-<Resource capability>
-<Resource reserved>
-<Resource size>
-<Restore table>
-<Retired table>
-<Retrieve block>
-<Retrieve list>
-<Retry Count, retry count>
-<Retry caller, retry caller>
-<Retry interval, retry interval>
-<Retry policy, retry policy>
-<Retry times, retry times>
-<Reusable code>
-<Rollup>
-<Row Format, row format>
-<Row Keys, Row keys, row key, row keys>
-<Rowkey, rowkey>
-<S3, s3>
-<S3A, S3a, s3a>
-<SARG>
-<SATA disks>
-<SATA>
-<SCM>
-<SCP, scp>
-<SERDE, Serde, serde>
-<SFTP, sftp>
-<SHOW TABLE, Show Table>
-<SHOW>
-<SLAs>
-<SLF4J, slf4j>
-<SMB, smb>
-<SNN>
-<SQM>
-<SSD, SSDs, ssd>
-<SSH, ssh>
-<SVN, svn>
-<Scala, scala>
-<Scan filter, scan filter>
-<Scan requests, scan request>
-<Scheduler state>
-<Schema Creation, schema creation>
-<Script time, script time>
-<Secure Cluster, secure cluster, secure clusters>
-<See store>
-<Service Registry, service registry>
-<Service instances, service instances>
-<Session identifier, session identifier>
-<SessionID, sessionid>
-<Short Circuit, short circuit>
-<Side Code, side code>
-<Side Encryption, side encryption>
-<Simple time>
-<Single Cluster>
-<Single Table, Single table, single table>
-<Skips bytes>
-<Slave nodes, slave node, slave nodes>
-<Spark cluster>
-<Specify table, specified table>
-<Split directory>
-<Split identifier>
-<Split size, split size>
-<Splits files>
-<Sqoop>
-<Start time, start time, start times>
-<Started cluster>
-<State Store>
-<Storage Account, Storage account, Storage accounts, storage account>
-<Storage Based>
-<Storage Directory, storage directories, storage directory>
-<Storage Formats, Storage formats, storage format, storage formats>
-<Storage Handlers>
-<Storage Policies, Storage Policy, storage policies, storage policy>
-<Storage Properties, storage properties>
-<Storage Type, Storage Types, Storage type, storage type, storage types>
-<Storage Volumes, storage volumes>
-<Storage documentation>
-<Storage information, storage information>
-<Storage requires>
-<Storage service, storage service>
-<Store file, Store files, store file, store files, stores files>
-<Store statistics>
-<Storefile size>
-<Stripe Compaction>
-<Structs, structs>
-<Structural Filters>
-<System table, system table>
-<TABLE T1, table T1, table t1>
-<TABLE creates, table created, table creates>
-<TABLE, Tablename, tablename>
-<TEZ, Tez, tez>
-<TLP>
-<TODO, todo>
-<TRACE level, trace level>
-<TRACE>
-<TSV, tsv>
-<TTLs>
-<Table Creation, table creation>
-<Table Descriptor, Table descriptor, table descriptor, table descriptors>
-<Table Discovery, table discovery>
-<Table Properties, table Properties, table properties, table property>
-<Table Sample>
-<Table Scan, table scan>
-<Table alias, table alias, table aliases>
-<Table basis, table basis>
-<Table cardinality>
-<Table directory, table directories, table directory>
-<Table instance, Table instances>
-<Table integrity, table integrity>
-<Table level, table level>
-<Table metadata, table metadata>
-<Table names, table named, table names>
-<Table procedures>
-<Table read, table read>
-<Table replication, table replication>
-<Table table, table TABLE>
-<Tarball, tarball, tarballs>
-<Task Counters, Task counters, task counters>
-<TaskID, taskid>
-<Templeton name>
-<Temporary space>
-<Thrift directory>
-<Thrift metastore>
-<Thrift server, thrift server>
-<Thrift service, thrift service>
-<Thrift types>
-<Throttle Type>
-<Tiered Compaction>
-<Time Protocol>
-<Time ranges, time range, time ranges>
-<Timeframes>
-<Timeline store, timeline store>
-<Timeseries, timeseries>
-<Token Identifier, token identifier>
-<Token Service, token service>
-<Token cache, token cache>
-<Total input, total input>
-<Trace values>
-<Trie, trie>
-<Truncate Table, truncate table>
-<Try store>
-<Type entry>
-<Type requested>
-<Typed bytes, typed bytes>
-<UAM>
-<UDF, UDFs, udf>
-<UGI, Ugi, ugi>
-<Ulimit, ulimit>
-<Undefined state>
-<Unspecified values>
-<Update state>
-<Uploader, uploader>
-<VLANs>
-<VPN>
-<Vaibhav>
-<Vaidya>
-<Validation code>
-<Values info>
-<Vectorized>
-<WAL, WALs>
-<WARN level, warn level>
-<WARN>
-<WASB>
-<Web link, web link>
-<WebUI, webUI, webui>
-<Webapp, webapp, webapps>
-<Widom>
-<Writables, writables>
-<Write key, write key, writes keys>
-<Write number>
-<Write records, write records>
-<Write table>
-<Xuefu>
-<YARN Application, YARN application, yarn application>
-<YARN Registry, YARN registry, Yarn Registry, yarn registry>
-<YARN Resource>
-<YARN Security>
-<YARN Service, YARN service>
-<YARN cluster, yarn cluster>
-<YARN code>
-<YARN prefix>
-<YARN>
-<ZK, Zk, zk>
-<Znode, znode, znodes>
-<Zoltan>
-<Zookeeper, zookeeper>
-<access call>
-<access cells>
-<access key, access keys>
-<access levels>
-<access path>
-<access priority>
-<access result>
-<access special>
-<access token>
-<access type, access types>
-<accessed files>
-<accumulator value>
-<active cluster>
-<actual cluster>
-<actual row>
-<actual time>
-<aggregate length>
-<aggregate size>
-<aggregate source>
-<aggregated number>
-<aggregation request>
-<alloc>
-<allocation request>
-<allocation size>
-<analysis time>
-<anchor key>
-<apikey>
-<approximate count>
-<approximate key>
-<arbitrary name, arbitrary names>
-<archive directory>
-<area directory>
-<arena size>
-<array size>
-<array slice>
-<array stores>
-<article code>
-<artifact directory>
-<artifact names>
-<associated directory>
-<associative array>
-<asynchronous table>
-<attempt ID>
-<attempt directory>
-<attempt number>
-<attempt times>
-<attr2>
-<auth method>
-<auths>
-<autoconf>
-<automake>
-<autonumber>
-<autotools>
-<available size>
-<average cluster>
-<awesomesauce>
-<backing files>
-<backoff policy>
-<backoff>
-<backticks>
-<basedir>
-<batch key>
-<batch mutation>
-<batch row>
-<benchmark cluster>
-<big cluster>
-<binary distribution>
-<binary fields>
-<binary key>
-<binary prefix>
-<binary secret>
-<binary service>
-<binary tree>
-<bit key>
-<bit vector>
-<bits directory>
-<block files>
-<block keys>
-<block level>
-<boot time>
-<bucket name>
-<bucket number>
-<bulk directory>
-<bulkload>
-<button name>
-<byte allowed>
-<byte copy>
-<byte exists>
-<byte follows>
-<byte overhead>
-<byte per>
-<byte quotas>
-<byte range>
-<byte size>
-<byte space>
-<byte split>
-<bytes apiece>
-<bytes arrays>
-<bytes count>
-<bytes key>
-<bytes referred>
-<bytes token>
-<cache access>
-<cache blocks, cached block, cached blocks>
-<cache capacity>
-<cache directory>
-<cache entry, cached entries>
-<cache instance>
-<cache limit>
-<cache memory>
-<cache metrics>
-<cache service>
-<cache usage>
-<cache value, caching values>
-<cacheable>
-<cached table>
-<caching blocks>
-<call queue>
-<capacity cluster>
-<capacity limits>
-<capacity numbers>
-<capacity usage>
-<carry table>
-<catalog table>
-<cell bytes>
-<cell key>
-<cell level>
-<cell number>
-<cell value>
-<certain time>
-<cgroup, cgroups>
-<chain order>
-<change number>
-<change request>
-<changed files>
-<changing name>
-<check time>
-<checkout code>
-<checkout directory>
-<checkpoint files>
-<checkpointed>
-<checks files>
-<checks size>
-<checksum error, checksum errors>
-<checksum files>
-<checksum information>
-<checksum name>
-<checksum type>
-<chgrp>
-<chunked value>
-<classnames>
-<classpaths>
-<client ID>
-<client cache>
-<client call>
-<client instance>
-<client name>
-<client scanner>
-<client service>
-<client token>
-<client version>
-<cloned list>
-<cluster Federation>
-<cluster ID, cluster identifier>
-<cluster access>
-<cluster capacity>
-<cluster communication>
-<cluster cost>
-<cluster directory>
-<cluster failure>
-<cluster free>
-<cluster key>
-<cluster layout>
-<cluster level>
-<cluster manager>
-<cluster name>
-<cluster performance>
-<cluster resources>
-<cluster services>
-<cluster space>
-<cluster specified>
-<cluster state>
-<cluster status>
-<cmdline>
-<cmds>
-<col4>
-<colname>
-<column alias>
-<column comparison>
-<column date>
-<column descriptor>
-<column key, column keys>
-<column list>
-<column mapping>
-<column node>
-<column order>
-<column paths>
-<column range>
-<column reference, column references>
-<column schema>
-<column stored>
-<column table>
-<column titles>
-<column vectors>
-<columns values>
-<combined size>
-<commandline>
-<common code>
-<compactable>
-<compacted files>
-<compaction request>
-<compaction state>
-<comparer>
-<compares size>
-<compat>
-<compatibility level>
-<complete key>
-<complete row>
-<complete size>
-<completed order>
-<completion service>
-<completion time>
-<complex filter>
-<composable>
-<composite key>
-<compressed format>
-<compression levels>
-<compute cost>
-<concurrent requests>
-<confdir>
-<confidence level>
-<configurable number>
-<configured number>
-<configured size>
-<connected cluster>
-<connection configuration>
-<connection creation>
-<consistency level>
-<constant true>
-<constuctor>
-<container name>
-<context array>
-<context name>
-<context state>
-<contrib>
-<copy code>
-<core request>
-<core size>
-<correct format>
-<corrupt blocks>
-<count threshold>
-<counter format>
-<counter limit>
-<counter name, counter names>
-<counts row>
-<create node>
-<created directories>
-<created time>
-<creating cells>
-<credential store>
-<ctor>
-<customer table>
-<data accessed>
-<data age>
-<data aggregation>
-<data analytics>
-<data applies>
-<data availability>
-<data backup>
-<data columns>
-<data compaction>
-<data copies>
-<data decompression>
-<data directory>
-<data discovery>
-<data diverges>
-<data encoded>
-<data encryption key>
-<data fails>
-<data grows>
-<data irrespective>
-<data leakage>
-<data lives>
-<data loads>
-<data paths>
-<data per>
-<data private>
-<data processed>
-<data producer>
-<data reads>
-<data recovery>
-<data reliability>
-<data replicated>
-<data replication>
-<data resides>
-<data resiliency>
-<data root>
-<data sampled>
-<data scanned, data scans>
-<data schema>
-<data security>
-<data statistics>
-<data tables>
-<data tens>
-<data transferred>
-<data twice>
-<data unavailability>
-<data upon>
-<data world>
-<database directory>
-<database store>
-<databind>
-<datablock>
-<datafiles>
-<datanucleus>
-<daterange>
-<dbcp>
-<dbname>
-<dead values>
-<deallocate>
-<decent number>
-<decryptor>
-<dedicated directory>
-<defalt>
-<defined name>
-<del files>
-<delegation token identifier>
-<delegation token secret manager>
-<delta directory>
-<delta files>
-<denormalized>
-<dependent table>
-<deprecated name>
-<dequoted name>
-<desired size>
-<destination cluster>
-<destination directories>
-<destination table>
-<deterministic order>
-<dev>
-<diagnositic>
-<diffed>
-<digest bytes>
-<directory count>
-<directory number>
-<directory quota>
-<disable time>
-<disabled table, disabling table>
-<discrete value>
-<disk blocks>
-<disk bytes>
-<disk capacity>
-<disk checks>
-<disk device>
-<disk format>
-<disk location>
-<disk reads>
-<disk services>
-<disk size>
-<disk statistics>
-<disk storage>
-<disk table>
-<disk writes>
-<disruptor>
-<distant cluster>
-<distributed cluster>
-<dmesg>
-<double colon>
-<double comparison>
-<double constant>
-<double cost>
-<double format>
-<double literal>
-<dryrun>
-<dump directory>
-<duplicate name>
-<earliest time>
-<edit files, edits files>
-<edits directory>
-<elasped time>
-<emps>
-<empty cells>
-<empty key>
-<empty memory>
-<empty response>
-<emtpy>
-<encoded entries>
-<encoding code>
-<encoding state>
-<encoding time>
-<encrypted bytes>
-<encrypted zone>
-<encryption algorithms>
-<encryption information>
-<encryption key, encryption keys>
-<encryption scheme>
-<encryption status>
-<encryption type>
-<end key, end keys>
-<end state>
-<end status>
-<end store>
-<enddate>
-<engine name>
-<entire cluster>
-<entire filter>
-<entire order>
-<entire row>
-<entry number>
-<ephemeral node>
-<equal number>
-<equi>
-<error allowed>
-<error bounds>
-<error due>
-<error heuristic>
-<error indicates>
-<error property>
-<error result>
-<error token>
-<error tracker>
-<estimation size>
-<every row>
-<eviction time>
-<exclude pattern>
-<exec call>
-<executable directory>
-<execution error>
-<existing cluster>
-<expired keys>
-<expiry interval>
-<expiry time>
-<explicit files>
-<export command>
-<export directory>
-<export numbers>
-<export time>
-<extant files>
-<external table>
-<extract entries>
-<fact table>
-<factors number>
-<fail message>
-<failed directory>
-<failed requests>
-<failure condition>
-<failure count>
-<failure number>
-<failure status>
-<failure types>
-<family path>
-<fastpath>
-<feature requests>
-<fetch status>
-<fieldID>
-<fileID>
-<filepath>
-<filesink>
-<filesize>
-<filter cells>
-<filter incompatibility>
-<filter initialization>
-<filter list>
-<filter name>
-<filter operates>
-<filter pattern>
-<filter type>
-<final name>
-<fixed row>
-<flow level>
-<flush cache>
-<flush period>
-<flush request>
-<flush time>
-<forall>
-<foreign keys>
-<format table>
-<fsimage format>
-<gang size>
-<gen size>
-<generated format>
-<generation time>
-<generic filter>
-<gids>
-<given Cell, given cell>
-<given List, given list>
-<given Mutation>
-<given Store, given store, given stores>
-<given Table, given table>
-<given Token, given token>
-<given block>
-<given capability>
-<given collation>
-<given columns>
-<given credentials>
-<given database>
-<given dimension>
-<given family>
-<given identifier>
-<given info>
-<given label>
-<given metastore>
-<given metric>
-<given objects>
-<given peer>
-<given permissions>
-<given principal>
-<given procedure>
-<given properties>
-<given quota>
-<given results>
-<given rows>
-<given scan>
-<given servers>
-<given split>
-<given states>
-<given subject>
-<given types>
-<global directory>
-<global filters>
-<global level>
-<global number>
-<good number>
-<group blocks>
-<group hierarchy>
-<group key, grouping keys>
-<group level>
-<group mapping>
-<group row>
-<group type>
-<group value>
-<grouping columns>
-<groupname>
-<groups list>
-<hash key>
-<hcat, hcatalog>
-<header byte>
-<health checker>
-<heap Block>
-<heap bytes>
-<heap size, heap sizes>
-<heapsize>
-<heartbeat code>
-<heartbeat interval>
-<hex format>
-<hfile, hfiles>
-<hflush>
-<hierarchy level>
-<high code>
-<high latency>
-<high memory>
-<history directory>
-<history format>
-<history store>
-<history version>
-<hlog>
-<home node>
-<home path>
-<host files>
-<host2>
-<host3>
-<hsync>
-<http location>
-<http services>
-<huge size>
-<iSCSI>
-<iSQL, isql>
-<immutable table>
-<implemenation>
-<impls>
-<imply order>
-<import command>
-<increased number>
-<incremental amount>
-<index block>
-<index entries>
-<index information>
-<index path>
-<index search>
-<index size>
-<indicated size>
-<info key>
-<initialize time>
-<inline code>
-<input Paths, input paths>
-<input Scan, input scan>
-<input batch>
-<input column, input columns>
-<input description>
-<input directories, input directory>
-<input files>
-<input filter>
-<input folders>
-<input policies, input policy>
-<input references>
-<input request>
-<input row, input rows>
-<input signature>
-<input size>
-<input statistics>
-<input strategy>
-<input topology>
-<input trace>
-<input vectors>
-<insecure cluster>
-<instance name>
-<instant name>
-<int8>
-<integer counter>
-<integer identifier>
-<integer list>
-<integer metric>
-<integer size>
-<intermediate files>
-<intermediate format>
-<intermediate key>
-<internal name>
-<interval value>
-<intra row>
-<item number>
-<join order>
-<jruby>
-<jstack>
-<jsvc>
-<key area>
-<key boundaries>
-<key comparison>
-<key definition>
-<key deletion>
-<key duration>
-<key element>
-<key fields>
-<key format>
-<key matches>
-<key part>
-<key per>
-<key portion>
-<key prefix>
-<key provider>
-<key range>
-<key request>
-<key retrieval>
-<key sent>
-<key series>
-<key space>
-<key storage>
-<key vector>
-<key version>
-<keylist>
-<keypairs>
-<keys list>
-<keyspace>
-<keyvalue>
-<kill request>
-<kinit>
-<labels table>
-<large code>
-<large requests>
-<large store>
-<large table, larger table, largest table>
-<larger files>
-<ldd>
-<leaf level>
-<leaf name>
-<least number>
-<length Key, length key>
-<length block>
-<less number>
-<level filters>
-<lexical error>
-<libs, libtool>
-<limit count>
-<limit number>
-<live cluster>
-<live node>
-<load balancer>
-<load cell>
-<load files, loads files>
-<load generator>
-<load information>
-<local aggregation>
-<local blocks>
-<local branch>
-<local cache>
-<local cluster>
-<local copies>
-<local disk>
-<local node>
-<local program>
-<local rate>
-<local repository>
-<local resource>
-<local size>
-<local source>
-<local store>
-<localized files>
-<location number>
-<lock info>
-<lock limit>
-<lock node>
-<lock queues>
-<lock request>
-<lock table>
-<lockless>
-<log key>
-<log replication>
-<log roll>
-<log status>
-<logins>
-<long amount>
-<long comparison>
-<long constant>
-<long counter>
-<long identifier>
-<long keys>
-<long metric>
-<long period>
-<long quantity>
-<long requests>
-<longer time>
-<lookup time>
-<lsr>
-<ltt>
-<machine cluster>
-<machine level>
-<master address>
-<master cluster>
-<master instance>
-<master level>
-<match code>
-<max count>
-<max period>
-<max sequence>
-<max versions>
-<maximal number>
-<maximal time>
-<maximum bandwidth>
-<maximum bytes>
-<maximum count>
-<maximum delay>
-<maximum download>
-<maximum heap>
-<maximum percentage>
-<maximum periodicity>
-<maximum put>
-<maximum resource, maximum resources>
-<maximum threshold>
-<maximum versions>
-<mega bytes>
-<memory Compaction, memory compaction>
-<memory attribute>
-<memory availability>
-<memory boundary>
-<memory caching>
-<memory cluster>
-<memory copies>
-<memory dedicated>
-<memory errors>
-<memory estimation>
-<memory exception>
-<memory index>
-<memory info>
-<memory intensive>
-<memory limit, memory limits>
-<memory lock>
-<memory merge>
-<memory parameters>
-<memory per>
-<memory pressure>
-<memory replicas>
-<memory requested>
-<memory requirement>
-<memory reserved>
-<memory restrictions>
-<memory segment>
-<memory shuffle>
-<memory sizes>
-<memory sorting>
-<memory statistics>
-<memory systems>
-<memory table>
-<memory token>
-<memstore>
-<merge request>
-<merge table>
-<merged directory>
-<metadata Table, metadata table>
-<metric level>
-<metric range>
-<metric size>
-<metric value>
-<metrics cache>
-<metrics collected, metrics collector>
-<metrics context>
-<metrics filter>
-<metrics records>
-<metrics registry>
-<metrics reporting>
-<metrics tag>
-<millisec>
-<minimum allocation>
-<mkdirs>
-<mlock>
-<mmaped>
-<mmapped>
-<mob files>
-<mob store>
-<mongodb>
-<monitor interval>
-<monitor status>
-<monitor table>
-<mountd>
-<mountpoints>
-<murmurhash values>
-<mutable number>
-<mutation request>
-<mytable>
-<nagios>
-<nameservice>
-<netgroup>
-<network topology>
-<next cell>
-<next key>
-<nfsd>
-<ngrams>
-<noatime>
-<nohup>
-<nolock>
-<notifier>
-<nproc>
-<null order>
-<numeric order>
-<object pool>
-<old format>
-<online table>
-<operation handle>
-<operation level>
-<operation type>
-<optimal number>
-<optimal value>
-<optimize number>
-<output Partition>
-<output batch>
-<output collector>
-<output column>
-<output compressed>
-<output descriptor>
-<output directories, output directory>
-<output duration>
-<output fields>
-<output filter>
-<output folder>
-<output locations>
-<output metadata>
-<output name>
-<output privileges>
-<output processor>
-<output read>
-<output recovery>
-<output resides>
-<output result, output results>
-<output row>
-<output schema>
-<output specification>
-<output storage>
-<output structure>
-<output trace>
-<output vectors>
-<overwhelming number>
-<owner name>
-<parametrized>
-<paramters>
-<parent row>
-<parse code>
-<part files>
-<particular block>
-<particular prefix>
-<particular table>
-<partition directory>
-<partition filter>
-<partition level>
-<partition list>
-<partition name, partition names>
-<partition number>
-<partitioned table>
-<partiton>
-<passed Table, passed table>
-<passed directory>
-<passed list>
-<passed name>
-<past time>
-<path array>
-<path property>
-<pattern filter>
-<peer cluster>
-<pending memory>
-<pentaho>
-<per table>
-<per time>
-<percentile values>
-<perf>
-<performance code>
-<performance evaluation>
-<periodic key>
-<permissible size>
-<permission values>
-<persistent state>
-<physical location>
-<pipelined>
-<point key>
-<port search>
-<portmap>
-<positive rate>
-<potential cluster>
-<potential size>
-<ppr>
-<pre order>
-<pread>
-<precision number>
-<precommit>
-<predicate information>
-<prefix tree>
-<pretty format>
-<primitive field>
-<primitive keys>
-<privilege level>
-<privilege name>
-<proccesses, procs>
-<production cluster>
-<program names>
-<progress fields>
-<project files>
-<proper name>
-<proper values>
-<protection code>
-<provided bytes>
-<proxied>
-<purge time>
-<put files>
-<query time>
-<queue order>
-<queue state>
-<quickstart>
-<quite time>
-<quota policy>
-<quota rules>
-<quota size>
-<quota state>
-<quota table>
-<quota usage>
-<ramdisk>
-<range list>
-<range request>
-<raw scan>
-<rdiff>
-<read element>
-<read entity>
-<read errors>
-<read path>
-<read pattern>
-<read performance>
-<read queue, read queues>
-<read requests>
-<read time>
-<read type>
-<readahead>
-<reading keys>
-<reading length>
-<real cluster>
-<reasonable time>
-<rebase>
-<recovery time>
-<reduce directory>
-<reduced table>
-<reduction keys>
-<reference cell>
-<refresh requests>
-<regionserver, regionservers>
-<regular number>
-<regular row>
-<regular time>
-<reinitialization>
-<relational store>
-<release time>
-<remote block, remote blocks>
-<remote cluster>
-<remote context>
-<remote name>
-<remote node, remote nodes>
-<remote service>
-<rename files>
-<repeated key>
-<repeating values>
-<replication count>
-<replication level>
-<replication number>
-<replication peer, replication peers>
-<replication queues>
-<replication rate>
-<replication service>
-<replication state>
-<replication streams>
-<replication tree>
-<reported values>
-<requisite number>
-<reserved number>
-<resolvers>
-<resource availability>
-<resource contention>
-<resource estimator>
-<resource type>
-<resource usages>
-<resource value>
-<response size>
-<restore request>
-<result size>
-<results list>
-<resync>
-<retention size>
-<retrieved row>
-<retry accounting>
-<retry attempt, retry attempts>
-<retry cache>
-<retry counter>
-<retry cycle>
-<retry forever>
-<retry logic>
-<retry period>
-<right level>
-<right number>
-<rmr>
-<role names>
-<root block>
-<root column>
-<root directory>
-<root location>
-<root privileges>
-<root queue>
-<root value>
-<rootdir>
-<row bytes>
-<row group>
-<row level>
-<row lock>
-<row matches>
-<row prefix>
-<row range>
-<row schema>
-<row size>
-<rows list>
-<rsgroup>
-<running cluster>
-<running state>
-<running time>
-<safemode>
-<scan info>
-<scan range>
-<schema version>
-<schemaless>
-<scratch directory>
-<search time>
-<secret directory>
-<secret manager>
-<secure access>
-<secure registries>
-<secure service>
-<secure token>
-<security entity>
-<security system>
-<seek key>
-<select files, selected files>
-<selected directory>
-<separate directory>
-<separate row>
-<separate table>
-<sequence ID>
-<sequence files>
-<sequence response>
-<sequential number>
-<serialized bytes>
-<serialized keys>
-<serialized size>
-<serialized value, serialized values>
-<serialized vector>
-<serializers>
-<serverside>
-<service ID>
-<service application>
-<service calls>
-<service definition>
-<service entry>
-<service failure>
-<service invocation>
-<service key>
-<service length>
-<service state>
-<service store>
-<service version>
-<servlet filter>
-<share files>
-<shared cluster>
-<shared directory>
-<shared store>
-<shm>
-<short amount>
-<short order, sorting order>
-<short requests>
-<short size>
-<short version>
-<shortcircuit>
-<shutdown time>
-<side cache>
-<side call>
-<side error>
-<side files>
-<side filter>
-<side information>
-<side memory>
-<side metrics>
-<side properties>
-<side table>
-<signal request>
-<signal table>
-<signal value>
-<simple array>
-<single Region>
-<single column>
-<single compaction>
-<single computation>
-<single constant>
-<single count>
-<single domain>
-<single location>
-<single machine>
-<single metric>
-<single patch>
-<single qualifier>
-<single queue>
-<single replication>
-<single scan>
-<single split>
-<single state>
-<single stripe>
-<single transaction>
-<single word>
-<site files>
-<size table>
-<skewed keys>
-<skewed table>
-<skip key>
-<skippable>
-<skipped files>
-<slave cluster>
-<slow cluster>
-<small blocks>
-<small files>
-<small table>
-<smaller level>
-<sname>
-<snapshot directory>
-<snapshot files>
-<snapshot information>
-<snapshot level>
-<snapshot name>
-<snapshot size>
-<snapshot state>
-<snapshottable directory>
-<snapshotting>
-<socket level>
-<sorted array>
-<sorting files>
-<sorting keys>
-<source checksum>
-<source cluster>
-<source control>
-<source length>
-<source level>
-<source paths>
-<source row>
-<source state>
-<source table, source tables>
-<space image>
-<space quota>
-<space usage>
-<specfied>
-<specific Table, specific table>
-<specified Cell, specified cell, specified cells>
-<specified counter>
-<specified family>
-<specified keys>
-<specified lock>
-<specified master>
-<specified metric>
-<specified nodes>
-<specified procedure>
-<specified qualifier>
-<specified rack>
-<specified root>
-<split request>
-<split table>
-<splittable>
-<stability level>
-<standy>
-<start code>
-<start key, start keys>
-<start row>
-<startcode>
-<startdate>
-<state name>
-<statistic entries>
-<statistics key>
-<statistics stored>
-<statistics table>
-<statistics values>
-<status description>
-<status entries>
-<status filter>
-<status message>
-<step number>
-<stop row>
-<stopword>
-<storage capacity>
-<storage cluster>
-<storage descriptor, storage descriptors>
-<storage efficiency>
-<storage endpoint>
-<storage fault>
-<storage layer>
-<storage location, storage locations>
-<storage mechanisms>
-<storage media>
-<storage nodes>
-<storage overhead>
-<storage permissions>
-<storage ratio>
-<storage solution>
-<storage statistics>
-<storage system, storage systems>
-<storage table>
-<storage timeline>
-<storage unit>
-<store blocks>
-<store compaction>
-<store counts>
-<store directory>
-<store level>
-<store scanner>
-<store sizes>
-<store value>
-<storer>
-<stores table>
-<string column>
-<stripe size>
-<stripe store>
-<striped files>
-<sub directory>
-<submission code>
-<submit time>
-<subprocedure>
-<subproject, subprojects>
-<success status>
-<summary message>
-<summing size>
-<supplied cluster>
-<swappiness>
-<sym>
-<symmetric key>
-<syslogs>
-<system access>
-<system directory>
-<system location>
-<system variable>
-<table access>
-<table already>
-<table archive>
-<table called>
-<table character>
-<table compaction>
-<table coprocessor>
-<table definition>
-<table exists>
-<table files>
-<table filter>
-<table function>
-<table group>
-<table identification>
-<table indexes>
-<table information>
-<table key>
-<table link, table links>
-<table location>
-<table lock>
-<table lookup>
-<table monitor>
-<table node>
-<table normalization>
-<table parameter>
-<table permission, table permissions>
-<table pool>
-<table quota, table quotas>
-<table referenced, table refers>
-<table regardless>
-<table restore>
-<table scope>
-<table snapshot>
-<table source>
-<table specified>
-<table state>
-<table status>
-<table storage>
-<table types>
-<table write>
-<tag list>
-<tag names>
-<task names>
-<task number>
-<tasktracker>
-<tbl>
-<temp directory>
-<temp table>
-<templatized>
-<temporary table>
-<text values>
-<textual format>
-<tfile>
-<tgz>
-<threshold level>
-<threshold number>
-<threshold size>
-<threshold time>
-<time Sample>
-<time checks>
-<time dimension>
-<time errors>
-<time granularity>
-<time length>
-<time low>
-<time ordering>
-<time series>
-<time vector>
-<timedout>
-<timer value>
-<tmpfs>
-<toJSON>
-<token store>
-<topic name>
-<total Resource>
-<total memory>
-<total values>
-<tracking files>
-<traffic control>
-<transfer size>
-<transformed row>
-<trash directory>
-<trichotomous value>
-<true size>
-<txn>
-<typed fields>
-<typed values>
-<uber>
-<ultimate control>
-<umount>
-<unarchived>
-<uncompressed format>
-<unconfigured>
-<underlying bytes>
-<underlying table>
-<unrecognized value>
-<untar>
-<update request>
-<upgradable>
-<ustring>
-<values array>
-<variable substitution>
-<vcore>
-<vector header>
-<vector length>
-<vector result>
-<vertex name>
-<view names>
-<violation message>
-<violation policy>
-<virtual memory>
-<vtable, vtables>
-<wait period>
-<web filters>
-<web proxy>
-<web request>
-<web response>
-<whole cluster>
-<whole row>
-<whole table>
-<wire format>
-<wordcount>
-<work directory>
-<worker node>
-<write checksum>
-<write patterns>
-<write queue>
-<write requests>
-<writes block>
-<xattr name>
-<xattr, xattrs>
-<xdoc, xdocs>
-<xzvf>
-<yz>
-<zero status>
+ACID table
+ACID
+ACKs, Ack, ack
+ACL, ACLS, ACLs, Acl, Acls, acl, acls
+ADL, adl
+ADMIN, Admin, Admins, admin, admins
+AES encryption
+AES key
+AES
+ALTER INDEX
+ALTER TABLE, Alter Table, Alter table, alter table
+ALTER
+AMRM
+ANDs
+ANTLR, antlr
+ARN, arn
+ASCII Table
+ASCII
+ASF, Apache Software Foundation, asf
+ASM
+AVG, avg
+AVL
+AVRO, Avro, avro
+AWS, Amazon Web Services, aws
+Acceptance time, acceptance time
+Access restriction, access restriction
+Accumulo, accumulo
+Active Directory, active directory
+Active state, active state
+Add value, add value
+Added time
+Aggr
+Aliyun
+Anonymizer
+Apache Software License
+Appender, appender, appenders
+Apply order, apply ORDER
+Apps, appID, appid, apps
+Apriori
+Architecture level
+Arpit
+Attempt State
+Authentication filter
+Automated code
+Average Time, average time
+BC size
+BFS
+BYTES code
+BYTES
+Backport, Backported, Backports, backport, backported, backports
+Backticked names
+Batch size, batch size
+Big Table, big table
+Bigtable, bigtable
+Binary Type, Binary type, binary type
+Block Cache, Block cache
+Block Pool
+Block Storage
+Block size, block size, block sizes, blocks size
+Bloom Block, Bloom block
+Bloom Filter, Bloom Filters, Bloom filter, Bloom filters, bloom filter, bloom filters
+Bloom information
+Bucket size, bucket size
+Bucketized Table
+CFD
+CHOWN, chown
+CIDR
+CNAMEs
+CONF, Conf, Configs, conf, configration, configs, configuraiton, confs
+CORS
+CPU count
+CPU frequency
+CPU limit
+CPU requests
+CPU
+CQ, Column Qualifier, Column qualifiers, column qualifier, column qualifiers, cq
+CRCs
+CRLA
+CSRF
+CTAS
+CTR
+Cache Key
+Cache files, cache files, cached files
+Cache pool, Cache pools, cache pool
+Cache size, cache size
+Cached bytes
+Cached list
+Capacity Unit, capacity unit
+Check table
+Checkstyle, checkstyle
+Checksum verification, checksum verification
+Chukwa
+Client policy, client policy
+Cloudera
+Cluster Application
+Cluster Information, cluster information
+Cluster Metrics, cluster metrics
+Cluster Node, Cluster Nodes, cluster node, cluster nodes
+Cluster Replication, Cluster replication, cluster replication
+Cluster Reservation
+Cluster Web
+Cluster connection, cluster connection
+Cluster registry
+Cluster size, cluster size
+Cluster topology, cluster topology
+Column Families, Column Family, Column families, Column family, column families, column family
+Column Level, Column level, column level
+Column Metadata, column metadata
+Column Names, Column names, column names, columns names
+Column Prefixes, column prefix, column prefixes
+Column Pruner
+Column Pruning, column pruning
+Column Specification
+Column Statistics, Column statistics, column statistics
+Column Type, column type, column types
+Commit Message, commit message
+Committer, Committers, committer, committers
+Common Table
+Compactor, compactor
+Compare bytes
+Compare key, compare key, compare keys
+Composite service, composite service
+Compress key, compress key
+Compressed Value, Compressed value, compressed value
+Compressed blocks, compressed blocks
+Container request, container request
+Control List, control list
+Coprocessor, Coprocessors, coprocessor, coprocessors
+Copy bytes
+Copy files, copy files
+Corrupt files, Corrupted Files, corrupt files, corrupted files
+Create Table, Create table, create table, creating Table, creating table
+Create call, create call
+Cron, cron
+Crypto, crypto
+Customer number, customer number
+DAO
+DATA LOCAL, Data Locality, Data locality, data local, data locality
+DATA blocks, Data Block, Data Blocks, Data block, data block, data blocks
+DATA, Datanode, Datanodes, datanode, datanodes
+DDL, DDLs, ddl
+DDOS
+DFS, dfs, dfsadmin
+DFW
+DML
+DN, database name, database names
+DPP
+DROP TABLE, Drop Table, Drops table, drop table
+DROP
+Data Access, data access
+Data Distribution, data distribution
+Data Encryption, Data encryption, data encryption
+Data Ingest
+Data Lake, data lake
+Data Migration, data migration
+Data Node, Data Nodes, data node, data nodes
+Data Nucleus, data nucleus
+Data Processing
+Data Size, Data size, data size, data sizes
+Data capture
+Data consumer
+Data generated, data generated, data generator
+Data moved
+Data restatement
+Database Service, database service
+Datastore, datastore
+Deafult value
+Decimal type, decimal type
+Decrease rate
+Defalt value
+Delete Table, Delete table, delete Table, delete table
+Delete family
+Deleted files, deleted files
+Deserializer, deserializer
+Directory specification
+Disk usage, disk usage
+Dist, dist
+DistCP, Distcp, distcp
+Driver code
+Duplicate Filters
+DynamoDB
+Earlier code
+Eclipse files
+Encode values, encoded values
+Encrypted Key, encrypted Key, encrypted key
+Encryption Zone, encryption zone, encryption zones
+Entry instance
+Entry size, entry size
+Error Response, Error response, error response
+Error rate, error rate
+Estimate size
+Execution Types
+Existing Table, existing Table, existing table
+Exit codes, exit codes
+Expert level, expert level
+Export Table, Export table, export table
+FLOAT code
+FLOAT
+Failover, failover, failovers
+Failure detection, failure detection
+Failure info, failure info
+Fetch block, fetch block
+Fetch table, fetch table
+Field numbers
+Filesystem, filesystem
+FilterPPR filter
+Findbugs, findbugs
+Finish time, finish time
+Flajolet
+Flow name, flow name
+Flush interval, flush interval
+Forrest, forrest
+Fsck, fsck
+Full table, full table
+GB size
+GPG, gpg
+GUID, guid
+Generates name
+Github, github
+Group Membership, group membership
+Group entry, group entry
+Group information, group info, group information
+HAR, hardlink
+HBASE, Hbase, hbase
+HCD
+HDFS Storage, HDFS storage
+HDFS, Hadoop Distributed File System, hdfs
+HEAD request
+HEAD
+HFDS
+HLL
+HQL
+HRI
+HTTP Operations
+HTTP Tools
+HTTP access
+HTTP connections
+HTTP endpoint
+HTTP equivalent
+HTTP methods, http methods
+HTTP policy, http policy
+HTTP verbs
+HTTP, Httpclient, httpclient
+HWI
+Hadooop, Hadoop, hadoop
+Hadoop Archive
+Hardware access
+Hash aggregation, hash aggregation
+Heap usage, heap usage
+Heartbeat message, Heartbeat messages, heartbeat message, heartbeat messages
+Hftp
+High Availability, High availability, high availability
+History Files, history files
+Hive Metastore, Hive metastore, hive metastore
+Hive directory
+Hortonworks
+Http address, http address
+Huai
+IAM
+INDEX
+IPC, ipc
+IRB, irbrc
+IRC, irc
+Index code
+Index table, index table
+Inodes
+Input Key, Input key, Input keys, input key, input keys
+Input Split, Input splits, input split, input splits
+Input Table, Input table, input table, input tables
+Input format, input format
+Input query, input query
+Input records, input records
+JAAS configuration
+JAAS
+JCODE
+JDA
+JDBM
+JDO, JDOQL, jdo
+JIRA, JIRAS, JIRAs, Jira, Jiras, jira, jiras
+JMS
+JNs, Job names
+JOBID, JobID, jobID, jobid
+JPOX
+JSONP
+JSP, jsp
+JVM metrics
+JVM, JVMs, jvms
+JavaCC
+Javadocs, javadocs
+Jobtracker, jobtracker
+Joda, joda
+Jodd
+Join keys, join keys
+Junit, junit
+KFS
+Kerberized, kerberized
+LCE
+LIST code
+LIST
+LLAP
+LOCAL
+LQI
+LZ4, lz4
+LZO, Lzo, lzo
+LZOP, Lzop, lzop
+Large Clusters, large cluster, large clusters
+Latency metrics, latency metrics
+LevelDB, leveldb
+Libaries
+Lipcon
+Local Reads, local read, local reads
+Local directory, local directories, local directory
+Local memory, local memory
+Local metastore
+Lock times
+Log directory, log directories, log directory, logs directory
+Log4J, Log4j, log4J, log4j
+MB size
+MB value
+META table, meta table
+META, metainfo
+MVCC, mvcc
+MVN, mvn
+MYSQL, MySQL, mysql
+Management Committee
+Map files
+Mapreduce, mapred, mapreduce
+Master Info, master info
+Master Key, master key, master keys
+Master Node, master node
+Master Service, master service
+Max length, max length
+Max number, max number
+Max precision, max precision
+Max time, max time
+Maximum capability, maximum capability
+Maximum capacity, maximum capacity
+Maximum lifetime, maximum lifetime
+Meetup, meetup
+Memory load, memory load
+Memory needed, memory needed
+Memory state, memory state, memory states
+Memory store, memory store
+Meta Block, Meta block, meta block
+Meta Store, meta store
+Metadata Store, Metadata store, metadata store
+Metastore filter
+Metastore key
+Metrics Sources, metrics source, metrics sources
+Metrics Subsystem, metrics subsystem
+Metrics implementation, metrics implementation
+Metrics information, metric info, metrics info
+Metrics instance, metrics instance
+Metrics names, metric name, metric names, metrics names
+Metrics related, metrics related
+Metrics system, metrics system
+Metrics2, metrics2
+Minimum period
+Mockito, mockito
+Mount table
+Moves files, Moving files, move files, moving files
+Multi Table
+NDV
+NFS, nfs
+NLM
+NN, NNs
+NPE
+NULL entries, null entries
+NULL fields, null fields
+NULL
+Namenode, namenode
+Namit
+Netty, netty
+Node Cluster, node cluster
+ODBC, odbc
+OI, open instance
+OLAP
+OLTP
+OOM
+ORC, Orc, orc
+ORDER table
+ORDER
+ORM
+Object Store, object store
+Oozie, oozie
+Open call, open call
+Output Key, output Key, output key, output keys
+Output pairs, output pairs
+Output path, output path, output paths
+Output table, output table, output tables
+PAM
+PCI
+PDU
+PKI
+PMC
+PMOD
+POJO
+POM files, pom files
+POM
+PPID
+PTF, PTFs
+PUT Request, PUT request, Put request, Put requests, put request, puts request
+PUT
+Palo
+Parameters table
+Partition cluster
+Partition files
+Partition keys, partition key, partition keys
+Partition size, partition size
+Partition values, partition value, partition values
+Patch name
+Physical size
+Plugin, Plugins, plugin, plugins
+PoV
+Policy Generator
+Policy Store
+Pradeep
+Prasad
+Predicate Pushdown, Predicate pushdown, predicate pushdown
+Primary Filter, Primary filter, Primary filters, primary filter, primary filters
+Procedure Types
+Procedure code
+Process row
+Processes block
+Protobuf, Protobufs, protobuf, protobufs
+Protos, protoc, protos
+Pull Request, pull request
+Puzzle files, puzzle files
+QA, qa
+QL, ql, query level
+Quantiles, quantile, quantiles
+Queue name, queue name
+Quota Type
+RCN
+RCP
+RCX
+RDBMS, RDBMSs, rdbms
+RDD, RDDs
+RDL
+REST call
+REST requests
+REST server
+REST
+RHEL
+RM, RMs, Rm, reserved memory, rm
+RPC call, rpc call
+RPC connection
+RPC server
+RPC, RPCs, rpcs
+RR, RRs, Random row, random row, rr
+RS3, rs3
+RSC
+RTP
+RTRIM
+Rack name, rack name
+Rackspace
+Record reader, record reader
+Record writer, record writer
+Recursive version
+Reduce number
+Reference files, reference files, referenced files, referencing files
+Region state
+Registry Security
+Registry Service
+Relative paths, relative paths
+Remote directory
+Replaces files
+Replicate Table
+Replication Factor, Replication factor, replication factor
+Replication System, replication system
+Replication source, replication source, replication sources
+Reporter type, reporter type
+Repos, repo, repos
+Request service
+Request size, request size
+Resource Allocation, Resource allocation, resource allocation
+Resource Request, resource request, resource requests
+Resource capability
+Resource reserved
+Resource size
+Restore table
+Retired table
+Retrieve block
+Retrieve list
+Retry Count, retry count
+Retry caller, retry caller
+Retry interval, retry interval
+Retry policy, retry policy
+Retry times, retry times
+Reusable code
+Rollup
+Row Format, row format
+Row Keys, Row keys, row key, row keys
+Rowkey, rowkey
+S3, s3
+S3A, S3a, s3a
+SARG
+SATA disks
+SATA
+SCM
+SCP, scp
+SERDE, Serde, serde
+SFTP, sftp
+SHOW TABLE, Show Table
+SHOW
+SLAs
+SLF4J, slf4j
+SMB, smb
+SNN
+SQM
+SSD, SSDs, ssd
+SSH, ssh
+SVN, svn
+Scala, scala
+Scan filter, scan filter
+Scan requests, scan request
+Scheduler state
+Schema Creation, schema creation
+Script time, script time
+Secure Cluster, secure cluster, secure clusters
+See store
+Service Registry, service registry
+Service instances, service instances
+Session identifier, session identifier
+SessionID, sessionid
+Short Circuit, short circuit
+Side Code, side code
+Side Encryption, side encryption
+Simple time
+Single Cluster
+Single Table, Single table, single table
+Skips bytes
+Slave nodes, slave node, slave nodes
+Spark cluster
+Specify table, specified table
+Split directory
+Split identifier
+Split size, split size
+Splits files
+Sqoop
+Start time, start time, start times
+Started cluster
+State Store
+Storage Account, Storage account, Storage accounts, storage account
+Storage Based
+Storage Directory, storage directories, storage directory
+Storage Formats, Storage formats, storage format, storage formats
+Storage Handlers
+Storage Policies, Storage Policy, storage policies, storage policy
+Storage Properties, storage properties
+Storage Type, Storage Types, Storage type, storage type, storage types
+Storage Volumes, storage volumes
+Storage documentation
+Storage information, storage information
+Storage requires
+Storage service, storage service
+Store file, Store files, store file, store files, stores files
+Store statistics
+Storefile size
+Stripe Compaction
+Structs, structs
+Structural Filters
+System table, system table
+TABLE T1, table T1, table t1
+TABLE creates, table created, table creates
+TABLE, Tablename, tablename
+TEZ, Tez, tez
+TLP
+TODO, todo
+TRACE level, trace level
+TRACE
+TSV, tsv
+TTLs
+Table Creation, table creation
+Table Descriptor, Table descriptor, table descriptor, table descriptors
+Table Discovery, table discovery
+Table Properties, table Properties, table properties, table property
+Table Sample
+Table Scan, table scan
+Table alias, table alias, table aliases
+Table basis, table basis
+Table cardinality
+Table directory, table directories, table directory
+Table instance, Table instances
+Table integrity, table integrity
+Table level, table level
+Table metadata, table metadata
+Table names, table named, table names
+Table procedures
+Table read, table read
+Table replication, table replication
+Table table, table TABLE
+Tarball, tarball, tarballs
+Task Counters, Task counters, task counters
+TaskID, taskid
+Templeton name
+Temporary space
+Thrift directory
+Thrift metastore
+Thrift server, thrift server
+Thrift service, thrift service
+Thrift types
+Throttle Type
+Tiered Compaction
+Time Protocol
+Time ranges, time range, time ranges
+Timeframes
+Timeline store, timeline store
+Timeseries, timeseries
+Token Identifier, token identifier
+Token Service, token service
+Token cache, token cache
+Total input, total input
+Trace values
+Trie, trie
+Truncate Table, truncate table
+Try store
+Type entry
+Type requested
+Typed bytes, typed bytes
+UAM
+UDF, UDFs, udf
+UGI, Ugi, ugi
+Ulimit, ulimit
+Undefined state
+Unspecified values
+Update state
+Uploader, uploader
+VLANs
+VPN
+Vaibhav
+Vaidya
+Validation code
+Values info
+Vectorized
+WAL, WALs
+WARN level, warn level
+WARN
+WASB
+Web link, web link
+WebUI, webUI, webui
+Webapp, webapp, webapps
+Widom
+Writables, writables
+Write key, write key, writes keys
+Write number
+Write records, write records
+Write table
+Xuefu
+YARN Application, YARN application, yarn application
+YARN Registry, YARN registry, Yarn Registry, yarn registry
+YARN Resource
+YARN Security
+YARN Service, YARN service
+YARN cluster, yarn cluster
+YARN code
+YARN prefix
+YARN
+ZK, Zk, zk
+Znode, znode, znodes
+Zoltan
+Zookeeper, zookeeper
+access call
+access cells
+access key, access keys
+access levels
+access path
+access priority
+access result
+access special
+access token
+access type, access types
+accessed files
+accumulator value
+active cluster
+actual cluster
+actual row
+actual time
+aggregate length
+aggregate size
+aggregate source
+aggregated number
+aggregation request
+alloc
+allocation request
+allocation size
+analysis time
+anchor key
+apikey
+approximate count
+approximate key
+arbitrary name, arbitrary names
+archive directory
+area directory
+arena size
+array size
+array slice
+array stores
+article code
+artifact directory
+artifact names
+associated directory
+associative array
+asynchronous table
+attempt ID
+attempt directory
+attempt number
+attempt times
+attr2
+auth method
+auths
+autoconf
+automake
+autonumber
+autotools
+available size
+average cluster
+awesomesauce
+backing files
+backoff policy
+backoff
+backticks
+basedir
+batch key
+batch mutation
+batch row
+benchmark cluster
+big cluster
+binary distribution
+binary fields
+binary key
+binary prefix
+binary secret
+binary service
+binary tree
+bit key
+bit vector
+bits directory
+block files
+block keys
+block level
+boot time
+bucket name
+bucket number
+bulk directory
+bulkload
+button name
+byte allowed
+byte copy
+byte exists
+byte follows
+byte overhead
+byte per
+byte quotas
+byte range
+byte size
+byte space
+byte split
+bytes apiece
+bytes arrays
+bytes count
+bytes key
+bytes referred
+bytes token
+cache access
+cache blocks, cached block, cached blocks
+cache capacity
+cache directory
+cache entry, cached entries
+cache instance
+cache limit
+cache memory
+cache metrics
+cache service
+cache usage
+cache value, caching values
+cacheable
+cached table
+caching blocks
+call queue
+capacity cluster
+capacity limits
+capacity numbers
+capacity usage
+carry table
+catalog table
+cell bytes
+cell key
+cell level
+cell number
+cell value
+certain time
+cgroup, cgroups
+chain order
+change number
+change request
+changed files
+changing name
+check time
+checkout code
+checkout directory
+checkpoint files
+checkpointed
+checks files
+checks size
+checksum error, checksum errors
+checksum files
+checksum information
+checksum name
+checksum type
+chgrp
+chunked value
+classnames
+classpaths
+client ID
+client cache
+client call
+client instance
+client name
+client scanner
+client service
+client token
+client version
+cloned list
+cluster Federation
+cluster ID, cluster identifier
+cluster access
+cluster capacity
+cluster communication
+cluster cost
+cluster directory
+cluster failure
+cluster free
+cluster key
+cluster layout
+cluster level
+cluster manager
+cluster name
+cluster performance
+cluster resources
+cluster services
+cluster space
+cluster specified
+cluster state
+cluster status
+cmdline
+cmds
+col4
+colname
+column alias
+column comparison
+column date
+column descriptor
+column key, column keys
+column list
+column mapping
+column node
+column order
+column paths
+column range
+column reference, column references
+column schema
+column stored
+column table
+column titles
+column vectors
+columns values
+combined size
+commandline
+common code
+compactable
+compacted files
+compaction request
+compaction state
+comparer
+compares size
+compat
+compatibility level
+complete key
+complete row
+complete size
+completed order
+completion service
+completion time
+complex filter
+composable
+composite key
+compressed format
+compression levels
+compute cost
+concurrent requests
+confdir
+confidence level
+configurable number
+configured number
+configured size
+connected cluster
+connection configuration
+connection creation
+consistency level
+constant true
+constuctor
+container name
+context array
+context name
+context state
+contrib
+copy code
+core request
+core size
+correct format
+corrupt blocks
+count threshold
+counter format
+counter limit
+counter name, counter names
+counts row
+create node
+created directories
+created time
+creating cells
+credential store
+ctor
+customer table
+data accessed
+data age
+data aggregation
+data analytics
+data applies
+data availability
+data backup
+data columns
+data compaction
+data copies
+data decompression
+data directory
+data discovery
+data diverges
+data encoded
+data encryption key
+data fails
+data grows
+data irrespective
+data leakage
+data lives
+data loads
+data paths
+data per
+data private
+data processed
+data producer
+data reads
+data recovery
+data reliability
+data replicated
+data replication
+data resides
+data resiliency
+data root
+data sampled
+data scanned, data scans
+data schema
+data security
+data statistics
+data tables
+data tens
+data transferred
+data twice
+data unavailability
+data upon
+data world
+database directory
+database store
+databind
+datablock
+datafiles
+datanucleus
+daterange
+dbcp
+dbname
+dead values
+deallocate
+decent number
+decryptor
+dedicated directory
+defalt
+defined name
+del files
+delegation token identifier
+delegation token secret manager
+delta directory
+delta files
+denormalized
+dependent table
+deprecated name
+dequoted name
+desired size
+destination cluster
+destination directories
+destination table
+deterministic order
+dev
+diagnositic
+diffed
+digest bytes
+directory count
+directory number
+directory quota
+disable time
+disabled table, disabling table
+discrete value
+disk blocks
+disk bytes
+disk capacity
+disk checks
+disk device
+disk format
+disk location
+disk reads
+disk services
+disk size
+disk statistics
+disk storage
+disk table
+disk writes
+disruptor
+distant cluster
+distributed cluster
+dmesg
+double colon
+double comparison
+double constant
+double cost
+double format
+double literal
+dryrun
+dump directory
+duplicate name
+earliest time
+edit files, edits files
+edits directory
+elasped time
+emps
+empty cells
+empty key
+empty memory
+empty response
+emtpy
+encoded entries
+encoding code
+encoding state
+encoding time
+encrypted bytes
+encrypted zone
+encryption algorithms
+encryption information
+encryption key, encryption keys
+encryption scheme
+encryption status
+encryption type
+end key, end keys
+end state
+end status
+end store
+enddate
+engine name
+entire cluster
+entire filter
+entire order
+entire row
+entry number
+ephemeral node
+equal number
+equi
+error allowed
+error bounds
+error due
+error heuristic
+error indicates
+error property
+error result
+error token
+error tracker
+estimation size
+every row
+eviction time
+exclude pattern
+exec call
+executable directory
+execution error
+existing cluster
+expired keys
+expiry interval
+expiry time
+explicit files
+export command
+export directory
+export numbers
+export time
+extant files
+external table
+extract entries
+fact table
+factors number
+fail message
+failed directory
+failed requests
+failure condition
+failure count
+failure number
+failure status
+failure types
+family path
+fastpath
+feature requests
+fetch status
+fieldID
+fileID
+filepath
+filesink
+filesize
+filter cells
+filter incompatibility
+filter initialization
+filter list
+filter name
+filter operates
+filter pattern
+filter type
+final name
+fixed row
+flow level
+flush cache
+flush period
+flush request
+flush time
+forall
+foreign keys
+format table
+fsimage format
+gang size
+gen size
+generated format
+generation time
+generic filter
+gids
+given Cell, given cell
+given List, given list
+given Mutation
+given Store, given store, given stores
+given Table, given table
+given Token, given token
+given block
+given capability
+given collation
+given columns
+given credentials
+given database
+given dimension
+given family
+given identifier
+given info
+given label
+given metastore
+given metric
+given objects
+given peer
+given permissions
+given principal
+given procedure
+given properties
+given quota
+given results
+given rows
+given scan
+given servers
+given split
+given states
+given subject
+given types
+global directory
+global filters
+global level
+global number
+good number
+group blocks
+group hierarchy
+group key, grouping keys
+group level
+group mapping
+group row
+group type
+group value
+grouping columns
+groupname
+groups list
+hash key
+hcat, hcatalog
+header byte
+health checker
+heap Block
+heap bytes
+heap size, heap sizes
+heapsize
+heartbeat code
+heartbeat interval
+hex format
+hfile, hfiles
+hflush
+hierarchy level
+high code
+high latency
+high memory
+history directory
+history format
+history store
+history version
+hlog
+home node
+home path
+host files
+host2
+host3
+hsync
+http location
+http services
+huge size
+iSCSI
+iSQL, isql
+immutable table
+implemenation
+impls
+imply order
+import command
+increased number
+incremental amount
+index block
+index entries
+index information
+index path
+index search
+index size
+indicated size
+info key
+initialize time
+inline code
+input Paths, input paths
+input Scan, input scan
+input batch
+input column, input columns
+input description
+input directories, input directory
+input files
+input filter
+input folders
+input policies, input policy
+input references
+input request
+input row, input rows
+input signature
+input size
+input statistics
+input strategy
+input topology
+input trace
+input vectors
+insecure cluster
+instance name
+instant name
+int8
+integer counter
+integer identifier
+integer list
+integer metric
+integer size
+intermediate files
+intermediate format
+intermediate key
+internal name
+interval value
+intra row
+item number
+join order
+jruby
+jstack
+jsvc
+key area
+key boundaries
+key comparison
+key definition
+key deletion
+key duration
+key element
+key fields
+key format
+key matches
+key part
+key per
+key portion
+key prefix
+key provider
+key range
+key request
+key retrieval
+key sent
+key series
+key space
+key storage
+key vector
+key version
+keylist
+keypairs
+keys list
+keyspace
+keyvalue
+kill request
+kinit
+labels table
+large code
+large requests
+large store
+large table, larger table, largest table
+larger files
+ldd
+leaf level
+leaf name
+least number
+length Key, length key
+length block
+less number
+level filters
+lexical error
+libs, libtool
+limit count
+limit number
+live cluster
+live node
+load balancer
+load cell
+load files, loads files
+load generator
+load information
+local aggregation
+local blocks
+local branch
+local cache
+local cluster
+local copies
+local disk
+local node
+local program
+local rate
+local repository
+local resource
+local size
+local source
+local store
+localized files
+location number
+lock info
+lock limit
+lock node
+lock queues
+lock request
+lock table
+lockless
+log key
+log replication
+log roll
+log status
+logins
+long amount
+long comparison
+long constant
+long counter
+long identifier
+long keys
+long metric
+long period
+long quantity
+long requests
+longer time
+lookup time
+lsr
+ltt
+machine cluster
+machine level
+master address
+master cluster
+master instance
+master level
+match code
+max count
+max period
+max sequence
+max versions
+maximal number
+maximal time
+maximum bandwidth
+maximum bytes
+maximum count
+maximum delay
+maximum download
+maximum heap
+maximum percentage
+maximum periodicity
+maximum put
+maximum resource, maximum resources
+maximum threshold
+maximum versions
+mega bytes
+memory Compaction, memory compaction
+memory attribute
+memory availability
+memory boundary
+memory caching
+memory cluster
+memory copies
+memory dedicated
+memory errors
+memory estimation
+memory exception
+memory index
+memory info
+memory intensive
+memory limit, memory limits
+memory lock
+memory merge
+memory parameters
+memory per
+memory pressure
+memory replicas
+memory requested
+memory requirement
+memory reserved
+memory restrictions
+memory segment
+memory shuffle
+memory sizes
+memory sorting
+memory statistics
+memory systems
+memory table
+memory token
+memstore
+merge request
+merge table
+merged directory
+metadata Table, metadata table
+metric level
+metric range
+metric size
+metric value
+metrics cache
+metrics collected, metrics collector
+metrics context
+metrics filter
+metrics records
+metrics registry
+metrics reporting
+metrics tag
+millisec
+minimum allocation
+mkdirs
+mlock
+mmaped
+mmapped
+mob files
+mob store
+mongodb
+monitor interval
+monitor status
+monitor table
+mountd
+mountpoints
+murmurhash values
+mutable number
+mutation request
+mytable
+nagios
+nameservice
+netgroup
+network topology
+next cell
+next key
+nfsd
+ngrams
+noatime
+nohup
+nolock
+notifier
+nproc
+null order
+numeric order
+object pool
+old format
+online table
+operation handle
+operation level
+operation type
+optimal number
+optimal value
+optimize number
+output Partition
+output batch
+output collector
+output column
+output compressed
+output descriptor
+output directories, output directory
+output duration
+output fields
+output filter
+output folder
+output locations
+output metadata
+output name
+output privileges
+output processor
+output read
+output recovery
+output resides
+output result, output results
+output row
+output schema
+output specification
+output storage
+output structure
+output trace
+output vectors
+overwhelming number
+owner name
+parametrized
+paramters
+parent row
+parse code
+part files
+particular block
+particular prefix
+particular table
+partition directory
+partition filter
+partition level
+partition list
+partition name, partition names
+partition number
+partitioned table
+partiton
+passed Table, passed table
+passed directory
+passed list
+passed name
+past time
+path array
+path property
+pattern filter
+peer cluster
+pending memory
+pentaho
+per table
+per time
+percentile values
+perf
+performance code
+performance evaluation
+periodic key
+permissible size
+permission values
+persistent state
+physical location
+pipelined
+point key
+port search
+portmap
+positive rate
+potential cluster
+potential size
+ppr
+pre order
+pread
+precision number
+precommit
+predicate information
+prefix tree
+pretty format
+primitive field
+primitive keys
+privilege level
+privilege name
+proccesses, procs
+production cluster
+program names
+progress fields
+project files
+proper name
+proper values
+protection code
+provided bytes
+proxied
+purge time
+put files
+query time
+queue order
+queue state
+quickstart
+quite time
+quota policy
+quota rules
+quota size
+quota state
+quota table
+quota usage
+ramdisk
+range list
+range request
+raw scan
+rdiff
+read element
+read entity
+read errors
+read path
+read pattern
+read performance
+read queue, read queues
+read requests
+read time
+read type
+readahead
+reading keys
+reading length
+real cluster
+reasonable time
+rebase
+recovery time
+reduce directory
+reduced table
+reduction keys
+reference cell
+refresh requests
+regionserver, regionservers
+regular number
+regular row
+regular time
+reinitialization
+relational store
+release time
+remote block, remote blocks
+remote cluster
+remote context
+remote name
+remote node, remote nodes
+remote service
+rename files
+repeated key
+repeating values
+replication count
+replication level
+replication number
+replication peer, replication peers
+replication queues
+replication rate
+replication service
+replication state
+replication streams
+replication tree
+reported values
+requisite number
+reserved number
+resolvers
+resource availability
+resource contention
+resource estimator
+resource type
+resource usages
+resource value
+response size
+restore request
+result size
+results list
+resync
+retention size
+retrieved row
+retry accounting
+retry attempt, retry attempts
+retry cache
+retry counter
+retry cycle
+retry forever
+retry logic
+retry period
+right level
+right number
+rmr
+role names
+root block
+root column
+root directory
+root location
+root privileges
+root queue
+root value
+rootdir
+row bytes
+row group
+row level
+row lock
+row matches
+row prefix
+row range
+row schema
+row size
+rows list
+rsgroup
+running cluster
+running state
+running time
+safemode
+scan info
+scan range
+schema version
+schemaless
+scratch directory
+search time
+secret directory
+secret manager
+secure access
+secure registries
+secure service
+secure token
+security entity
+security system
+seek key
+select files, selected files
+selected directory
+separate directory
+separate row
+separate table
+sequence ID
+sequence files
+sequence response
+sequential number
+serialized bytes
+serialized keys
+serialized size
+serialized value, serialized values
+serialized vector
+serializers
+serverside
+service ID
+service application
+service calls
+service definition
+service entry
+service failure
+service invocation
+service key
+service length
+service state
+service store
+service version
+servlet filter
+share files
+shared cluster
+shared directory
+shared store
+shm
+short amount
+short order, sorting order
+short requests
+short size
+short version
+shortcircuit
+shutdown time
+side cache
+side call
+side error
+side files
+side filter
+side information
+side memory
+side metrics
+side properties
+side table
+signal request
+signal table
+signal value
+simple array
+single Region
+single column
+single compaction
+single computation
+single constant
+single count
+single domain
+single location
+single machine
+single metric
+single patch
+single qualifier
+single queue
+single replication
+single scan
+single split
+single state
+single stripe
+single transaction
+single word
+site files
+size table
+skewed keys
+skewed table
+skip key
+skippable
+skipped files
+slave cluster
+slow cluster
+small blocks
+small files
+small table
+smaller level
+sname
+snapshot directory
+snapshot files
+snapshot information
+snapshot level
+snapshot name
+snapshot size
+snapshot state
+snapshottable directory
+snapshotting
+socket level
+sorted array
+sorting files
+sorting keys
+source checksum
+source cluster
+source control
+source length
+source level
+source paths
+source row
+source state
+source table, source tables
+space image
+space quota
+space usage
+specfied
+specific Table, specific table
+specified Cell, specified cell, specified cells
+specified counter
+specified family
+specified keys
+specified lock
+specified master
+specified metric
+specified nodes
+specified procedure
+specified qualifier
+specified rack
+specified root
+split request
+split table
+splittable
+stability level
+standy
+start code
+start key, start keys
+start row
+startcode
+startdate
+state name
+statistic entries
+statistics key
+statistics stored
+statistics table
+statistics values
+status description
+status entries
+status filter
+status message
+step number
+stop row
+stopword
+storage capacity
+storage cluster
+storage descriptor, storage descriptors
+storage efficiency
+storage endpoint
+storage fault
+storage layer
+storage location, storage locations
+storage mechanisms
+storage media
+storage nodes
+storage overhead
+storage permissions
+storage ratio
+storage solution
+storage statistics
+storage system, storage systems
+storage table
+storage timeline
+storage unit
+store blocks
+store compaction
+store counts
+store directory
+store level
+store scanner
+store sizes
+store value
+storer
+stores table
+string column
+stripe size
+stripe store
+striped files
+sub directory
+submission code
+submit time
+subprocedure
+subproject, subprojects
+success status
+summary message
+summing size
+supplied cluster
+swappiness
+sym
+symmetric key
+syslogs
+system access
+system directory
+system location
+system variable
+table access
+table already
+table archive
+table called
+table character
+table compaction
+table coprocessor
+table definition
+table exists
+table files
+table filter
+table function
+table group
+table identification
+table indexes
+table information
+table key
+table link, table links
+table location
+table lock
+table lookup
+table monitor
+table node
+table normalization
+table parameter
+table permission, table permissions
+table pool
+table quota, table quotas
+table referenced, table refers
+table regardless
+table restore
+table scope
+table snapshot
+table source
+table specified
+table state
+table status
+table storage
+table types
+table write
+tag list
+tag names
+task names
+task number
+tasktracker
+tbl
+temp directory
+temp table
+templatized
+temporary table
+text values
+textual format
+tfile
+tgz
+threshold level
+threshold number
+threshold size
+threshold time
+time Sample
+time checks
+time dimension
+time errors
+time granularity
+time length
+time low
+time ordering
+time series
+time vector
+timedout
+timer value
+tmpfs
+toJSON
+token store
+topic name
+total Resource
+total memory
+total values
+tracking files
+traffic control
+transfer size
+transformed row
+trash directory
+trichotomous value
+true size
+txn
+typed fields
+typed values
+uber
+ultimate control
+umount
+unarchived
+uncompressed format
+unconfigured
+underlying bytes
+underlying table
+unrecognized value
+untar
+update request
+upgradable
+ustring
+values array
+variable substitution
+vcore
+vector header
+vector length
+vector result
+vertex name
+view names
+violation message
+violation policy
+virtual memory
+vtable, vtables
+wait period
+web filters
+web proxy
+web request
+web response
+whole cluster
+whole row
+whole table
+wire format
+wordcount
+work directory
+worker node
+write checksum
+write patterns
+write queue
+write requests
+writes block
+xattr name
+xattr, xattrs
+xdoc, xdocs
+xzvf
+yz
+zero status
