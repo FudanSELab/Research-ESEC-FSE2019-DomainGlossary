@@ -9,8 +9,8 @@ The two subject domains that we choose for the study represent two kinds of tech
 The subject projects we choose for the deep learning domain are three popular deep learning libraries:
 
 Deeplearning4j 1.0.0-beta3 (https://deeplearning4j.org/, https://github.com/deeplearning4j/deeplearning4j/)<br>
-Tensorflow 1.12 (https://www.tensorflow.org/, https://github.com/tensorflow/tensorflow)
-PyTorch 1.0.0 (https://pytorch.org/, https://github.com/pytorch/pytorch)
+Tensorflow 1.12 (https://www.tensorflow.org/, https://github.com/tensorflow/tensorflow)<br>
+PyTorch 1.0.0 (https://pytorch.org/, https://github.com/pytorch/pytorch)<br>
 
 The subject projects we choose for the Hadoop domain are:
 
@@ -23,23 +23,31 @@ The results of our approach are devided into 4 parts: term extraction, alias mer
 
 #### Deep Learning
 
-Term Extraction: [term.txt](./Result/DeepLearning/term.txt), each line in this file represents a term.
+Term Extraction: [term.txt](./Result/DeepLearning/term.txt)<br>
+Each line in this file represents a term.
 
-Alias Merging: [concept.txt](./Result/DeepLearning/concept.txt), each line in this file represents an alias set of a concept (separated by ",").
+Alias Merging: [concept.txt](./Result/DeepLearning/concept.txt)<br>
+Each line in this file represents an alias set of a concept (separated by ",").
 
-Relation Identification: [relation.json](./Result/DeepLearning/relation.json), in the json file, each element of the list has 4 fields. "start_concept" and "end_concept" represent alias sets of concepts, "type" means relation type. ("start_concept", "type", "end_concept") means the triple of a relation.
+Relation Identification: [relation.json](./Result/DeepLearning/relation.json)<br>
+In the json file, each element of the list has 4 fields. "start_concept" and "end_concept" represent alias sets of concepts, "type" means relation type. ("start_concept", "type", "end_concept") means the triple of a relation.
 
-Explanation Extraction: [explanation.json](./Result/DeepLearning/explanation.json), each element in the list has a key and value mean the concept and its corresponding explanations.
+Explanation Extraction: [explanation.json](./Result/DeepLearning/explanation.json)<br>
+Each element in the list has a key and value mean the concept and its corresponding explanations.
 
 #### Hadoop
 
-Term Extraction: [term.txt](./Result/Hadoop/term.txt), each line in this file represents a term.
+Term Extraction: [term.txt](./Result/Hadoop/term.txt)<br>
+Each line in this file represents a term.
 
-Alias Merging: [concept.txt](./Result/Hadoop/concept.txt), each line in this file represents an alias set of a concept (separated by ",").
+Alias Merging: [concept.txt](./Result/Hadoop/concept.txt)<br>
+Each line in this file represents an alias set of a concept (separated by ",").
 
-Relation Identification: [relation.json](./Result/Hadoop/relation.json), in the json file, each element of the list has 4 fields. The fields "start_concept", "end_concept" and "type" represent an relation like ("start_concept", "type", "end_concept"). Note that the "start_concept" and "end_concept" are alias sets of concepts.
+Relation Identification: [relation.json](./Result/Hadoop/relation.json)<br>
+In the json file, each element of the list has 4 fields. The fields "start_concept", "end_concept" and "type" represent an relation like ("start_concept", "type", "end_concept"). Note that the "start_concept" and "end_concept" are alias sets of concepts.
 
-Explanation Extraction: [explanation.json](./Result/Hadoop/explanation.json), each element in the list has a key and value, which mean a concept and its corresponding explanations respectively.
+Explanation Extraction: [explanation.json](./Result/Hadoop/explanation.json)<br>
+Each element in the list has a key and value, which mean a concept and its corresponding explanations respectively.
 
 ## 3. Evaluation
 There are three rearch questions in our paper.
@@ -53,23 +61,30 @@ The annotation results after arbitration are shown in following files:
 
 ##### Deep Learning
 
-Term Extraction: [term_extraction.json](./RQ1/DeepLearning/term_extraction.json), each element in the list has two fields. The field "term" represents a term. The field "correct" is annotated by experts and means whether the extracted term is correct or not.
+Term Extraction: [term_extraction.json](./RQ1/DeepLearning/term_extraction.json)<br>
+Each element in the list has two fields. The field "term" represents a term. The field "correct" is annotated by experts and means whether the extracted term is correct or not.
 
-Alias Merging: [alias_merging.json](./RQ1/DeepLearning/alias_merging.json), each element in the list has three fields. The fields "term1" and "term2" mean two extracted terms. The field "correct" is annotated by experts and means whether the two terms are merged correctly.
+Alias Merging: [alias_merging.json](./RQ1/DeepLearning/alias_merging.json)<br>Each element in the list has three fields. The fields "term1" and "term2" mean two extracted terms. The field "correct" is annotated by experts and means whether the two terms are merged correctly.
 
-Relation Identification: [relation_identification.json](./RQ1/DeepLearning/relation_identification.json), each element in the list has four fields. The fields "start_concept", "end_concept" and "relation" mean a relation triple like ("start_concept", "relation", "end_concept"). The field "correct" is annotated by experts and means whether the relation is correct.
+Relation Identification: [relation_identification.json](./RQ1/DeepLearning/relation_identification.json)<br>
+Each element in the list has four fields. The fields "start_concept", "end_concept" and "relation" mean a relation triple like ("start_concept", "relation", "end_concept"). The field "correct" is annotated by experts and means whether the relation is correct.
 
-Explanation Extraction: [explanation_extraction.json](./RQ1/DeepLearning/explanation_extraction.json), each element in the list has three fields. The fields "concept" and "explanation" represent an extracted concept and its explanations. The field "useful" is annotated by expert and means whether the explanations are useful to understand the concept.
+Explanation Extraction: [explanation_extraction.json](./RQ1/DeepLearning/explanation_extraction.json)<br>
+Each element in the list has three fields. The fields "concept" and "explanation" represent an extracted concept and its explanations. The field "useful" is annotated by expert and means whether the explanations are useful to understand the concept.
 
 ##### Hadoop
 
-Term Extraction: [term_extraction.json](./RQ1/Hadoop/term_extraction.json), each element in the list has two fields. The field "term" represents a term. The field "correct" is annotated by experts and means whether the extracted term is correct or not.
+Term Extraction: [term_extraction.json](./RQ1/Hadoop/term_extraction.json)<br>
+Each element in the list has two fields. The field "term" represents a term. The field "correct" is annotated by experts and means whether the extracted term is correct or not.
 
-Alias Merging: [alias_merging.json](./RQ1/Hadoop/alias_merging.json), each element in the list has three fields. The fields "term1" and "term2" mean two extracted terms. The field "correct" is annotated by experts and means whether the two terms are merged correctly.
+Alias Merging: [alias_merging.json](./RQ1/Hadoop/alias_merging.json)<br>
+Each element in the list has three fields. The fields "term1" and "term2" mean two extracted terms. The field "correct" is annotated by experts and means whether the two terms are merged correctly.
 
-Relation Identification: [relation_identification.json](./RQ1/Hadoop/relation_identification.json), each element in the list has four fields. The fields "start_concept", "end_concept" and "relation" mean a relation triple like ("start_concept", "relation", "end_concept"). The field "correct" is annotated by experts and means whether the relation is correct.
+Relation Identification: [relation_identification.json](./RQ1/Hadoop/relation_identification.json)<br>
+Each element in the list has four fields. The fields "start_concept", "end_concept" and "relation" mean a relation triple like ("start_concept", "relation", "end_concept"). The field "correct" is annotated by experts and means whether the relation is correct.
 
-Explanation Extraction: [explanation_extraction.json](./RQ1/Hadoop/explanation_extraction.json), each element in the list has three fields. The fields "concept" and "explanation" represent an extracted concept and its explanations. The field "useful" is annotated by expert and means whether the explanations are useful to understand the concept.
+Explanation Extraction: [explanation_extraction.json](./RQ1/Hadoop/explanation_extraction.json)<br>
+Each element in the list has three fields. The fields "concept" and "explanation" represent an extracted concept and its explanations. The field "useful" is annotated by expert and means whether the explanations are useful to understand the concept.
 
 #### 2) Comparison with Arora et al.’s Approach.
 
