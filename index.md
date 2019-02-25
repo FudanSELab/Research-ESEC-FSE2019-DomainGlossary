@@ -104,8 +104,8 @@ Each line in the txt files means a record, each record represent a term labelled
 We design an experiment to investigate whether the extracted domain glossary can help to answer real-world developer queries. We select 12 questions from the top 100 voted Stack Overflow questions with the tag "deep learning" or "Hadoop". These questions are related to domain concepts and can be answered by the documents.
 
 The selected queries, search results before and after query expansion, annotation results are shown in following files:<br>
-Deep Learning: [usefulness.csv](./DeepLearning_usefulness.csv)<br>
-Hadoop: [usefulness.csv](./Hadoop_usefulness.csv)<br>
+Deep Learning: [usefulness.csv](./RQ3/DeepLearning_usefulness.csv)<br>
+Hadoop: [usefulness.csv](./RQ3/Hadoop_usefulness.csv)<br>
 There are four columns in the csv files. The field "query" means the select queries for this evaluatoin. The field "before or after expansion" means whether the corresponding queries are expanded for searching. The field  "sentence" means the sentences of the search result. The field "is related" are annotated by experts and mean whether the sentences are related to the corresponding queries.
 
 
