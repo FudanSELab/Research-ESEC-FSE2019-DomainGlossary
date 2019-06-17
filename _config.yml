@@ -3,5 +3,6 @@ title: [DomainGlossary Replication Package]
 description: [the replication package for DomainGlossary]
 show_downloads: false
 is_user_page: false
-github.is_user_page: "false"
-show_banner: false
+is_project_page: false
+repository_url: ""
+
