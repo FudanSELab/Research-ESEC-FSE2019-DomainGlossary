@@ -1,4 +1,5 @@
-We post the result of our approach and the data used in empirical study of paper in this page.
+
+We post results of our approach and the data used in empirical study section of our paper in this replication package.
 
 
 # 1. Selected Domains
@@ -14,7 +15,7 @@ The subject projects we choose for the Hadoop domain are:
 * HBase 2.1.0 ([website](http://hbase.apache.org/), [source code](https://github.com/apache/hive))
 * Hive 2.3.4 ([website](http://hive.apache.org/), [source code](https://github.com/apache/hbase))
 
-# 2. Results of Approach
+# 2. Results of Our Approach
 The results of our approach are devided into 4 parts: term extraction, alias merging, relation identification and explanation extraction.
 
 ### Deep Learning
