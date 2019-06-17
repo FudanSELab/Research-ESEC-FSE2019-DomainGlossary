@@ -1,8 +1,7 @@
 theme: jekyll-theme-leap-day
 title: [DomainGlossary Replication Package]
 description: [A Learning-based Approach for Automatic Construction of Domain Glossary from Source Code and Documentation (ESEC/FSE'2019)]
-show_downloads: false
-is_user_page: false
-is_project_page: false
-repository_url: ""
+author: Chong Wang, Xin Peng, Mingwei Liu, Zhenchang Xing, Xuefang Bai, Bing Xie, and Tuo Wang
+email: 18212010030@fudan.edu.cn
+
 
