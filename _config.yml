@@ -4,3 +4,4 @@ description: [the replication package for DomainGlossary]
 show_downloads: false
 is_user_page: false
 github.is_user_page: "false"
+show_banner: false
