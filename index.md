@@ -84,18 +84,20 @@ Each element in the list has three fields. The fields "concept" and "explanation
 
 Arora et al.’s approach extracts glossary terms and their related terms (i.e., the terms that belong to the same categories), but does not identify concept aliases or relations. Therefore, we can only compare the accuracy of the extraction of glossary terms with the approach. For each target domain we use the same sampling method to randomly select 384 sentences from the corpus of technical documents and ask the experts to annotate the glossary terms that are included in these sentences. For each sentence two experts independently identify the glossary terms in it and their agreement on each identified term is checked. When there is disagreement on an identified term, the third expert gives an additional judgement. These identified terms are used as the golden set. We implement Arora et al.’s approach and use the implementation to extract glossary terms from the corpus of each domain. We then identify the extracted terms that are included in the sampled sentences and treat these terms as the result set of the approach. The result set of our approach is produced in a similar way. Based on the result sets of the two approaches and the golden set, we calculate the precision, recall, and F1-measure (the harmonic mean of precision and recall) of glossary term extraction for the two approaches.
 
-The annotation results are shown in following files:<br>
-* Deep Learning: [comparison.csv](./RQ1/DeepLearning/comparison.csv)<br>
-* Hadoop: [comparison.csv](./RQ1/Hadoop/comparison.csv)<br>
+The annotation results are shown in following files:
+* Deep Learning: [comparison.csv](./RQ1/DeepLearning/comparison.csv)
+* Hadoop: [comparison.csv](./RQ1/Hadoop/comparison.csv)
+
 There are five columns in the csv files. The field "sentence" means the selected sentences for this evalution. The field "our approach" means the concepts extracted by our approach (each concept is an alias set surrouded by "<" and ">"). The field "Arore's approach" means the concepts extracted by Arore's approach. The field "human annotation" means the concepts labelled by experts.
 
 ### RQ2: How does the extracted domain glossary fuse the knowledge from different projects and documents? How does the extracted concepts complement general knowledge base such as WikiPedia?
 
 We further analyze the complementarity with Wikipedia based on the 384 terms sampled in each domain for the evaluation of term extraction (see Section 4.3). For each term confirmed in RQ1, we manually examine Wikipedia to check whether it is included with the same meaning.
 
-The checking result are shown in following files:<br>
-* Deep Learning: [Wikipedia.txt](./RQ2/DeepLearning_Wikipedia.txt)<br>
-* Hadoop: [Wikipedia.txt](./RQ2/Hadoop_Wikipedia.txt)<br>
+The checking result are shown in following files:
+* Deep Learning: [Wikipedia.txt](./RQ2/DeepLearning_Wikipedia.txt)
+* Hadoop: [Wikipedia.txt](./RQ2/Hadoop_Wikipedia.txt)
+
 Each line in the txt files means a record, each record represent a term labelled "correct" and whether it is included in Wikipedia. If the last word is "T", the term is in Wikipedia, if "F", not in Wikipedia.
 
 
@@ -103,10 +105,8 @@ Each line in the txt files means a record, each record represent a term labelled
 
 We design an experiment to investigate whether the extracted domain glossary can help to answer real-world developer queries. We select 12 questions from the top 100 voted Stack Overflow questions with the tag "deep learning" or "Hadoop". These questions are related to domain concepts and can be answered by the documents.
 
-The selected queries, search results before and after query expansion, annotation results are shown in following files:<br>
-* Deep Learning: [usefulness.csv](./RQ3/DeepLearning_usefulness.csv)<br>
-* Hadoop: [usefulness.csv](./RQ3/Hadoop_usefulness.csv)<br>
+The selected queries, search results before and after query expansion, annotation results are shown in following files:
+* Deep Learning: [usefulness.csv](./RQ3/DeepLearning_usefulness.csv)
+* Hadoop: [usefulness.csv](./RQ3/Hadoop_usefulness.csv)
+
 There are four columns in the csv files. The field "query" means the select queries for this evaluatoin. The field "before or after expansion" means whether the corresponding queries are expanded for searching. The field  "sentence" means the sentences of the search result. The field "is related" are annotated by experts and mean whether the sentences are related to the corresponding queries.
-
-
-
